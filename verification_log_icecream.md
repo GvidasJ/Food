@@ -50,4 +50,14 @@ Verified 2026-08-10. Safe phrasings binding on script_ice_cream.md. (Gap-check a
 - "B.08.062" as current law (repealed). — "Canada banned Breyers from saying ice cream" (false). — Breyers US $8.4M vanilla lawsuit (US case, not re-verified — excluded). — Kirkland CA tub as definite (availability unconfirmed). — Chapman's hand-sanitizer story (no primary cite). — Nestlé "sold to Froneri in Canada" (not yet). — Any carrageenan/health-risk framing (channel rule; CE's health beats replaced with label/money arguments).
 
 ## Gap-check agent findings (appended)
-(pending)
+- Legal anchor: CFIA Standards of Identity Vol. 1 — ice cream ≥10% milk fat (8% with cocoa), ≥36% solids. VERIFIED.
+- Dairy Queen: PARTIAL — DQ's own corporate FAQ says soft serve is 5% butterfat and "does not qualify to be called ice cream" (via Mental Floss/Reader's Digest quoting the FAQ). Say "Dairy Queen's own corporate materials," NOT "Dairy Queen Canada admits."
+- McDonald's Canada: PARTIAL — official page calls it "Vanilla Cone… creamy vanilla soft serve"; never "ice cream." Do NOT state a Canadian fat % or legal status — only the naming observation.
+- Nestlé Real Dairy: VERIFIED real side — "Ice Cream," first ingredient fresh cream (voila.ca; madewithnestle.ca).
+- Drumstick: VERIFIED — sold as "Frozen Dessert Cones" (voila.ca; RCSS). Cone ingredients not captured — don't recite.
+- Parlour sandwiches: VERIFIED — "Frozen Dessert Sandwiches"; ingredients incl. modified milk ingredients, coconut oil, palm oil; Nestlé's own page headline says "Ice Cream Sandwich" while the retail designation is frozen dessert — usable contrast, phrase carefully (their page vs the label).
+- Iceberg/Original tubs: UNVERIFIED — dropped. Sealtest/Beatrice/Natrel/Wholesome Farms tubs: UNVERIFIED — dropped.
+- Lambert (Quebec): PARTIAL — real "crème glacée" tubs at Metro; usable as honourable mention.
+- Chapman's Frozen Yogurt: VERIFIED — sold as "frozen yogurt," modified milk ingredients first, cream third; frame as "legally not ice cream, and not pretending" — no deception framing against Chapman's.
+- Gelato: PARTIAL — non-standardized name sold in its own category; do not claim it "fails" the standard.
+- Great Value 1.5L: designation "Ice Cream" verified; Canadian ingredients UNRETRIEVABLE — transparency framing only; 4L Great Value "Ice Milk" and 4L No Name "Ice Milk" designations VERIFIED.

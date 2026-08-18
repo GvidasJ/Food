@@ -305,8 +305,73 @@ Real soy sauce is **brewed** — fermented soybeans and wheat, months of culture
 | no name / PC fruit gummies with no fruit | **No such Loblaw-brand SKU found.** |
 | "Honey-flavoured" syrup at Loblaw banners | Not found. no name honey products checked are genuine ("100% liquid honey"). |
 
-## RECOMMENDED SHOOTING ORDER
-**Lead with Tier 1:** Breyers Frozen Dessert (zero cream) → Cheddar Flavour Processed Cheese **Product** Slices, held beside the real marble cheddar slice → Mac & Cheese (flour first, cheddar second-to-last) → Apple **Beverage** vs Apple **Juice** → Seaquest (crab is #15) → Soy Sauce (never brewed).
+---
+
+# PART C — ADDENDUM (deeper SKU mining, 2,119 unique Loblaw-brand SKUs)
+
+## ⭐ THE BEST FIND — a same-brand "chocolate vs chocolatey" proof pair
+Two President's Choice tubs **in the same freezer** that prove FDR B.04.006 is doing real work. The cleanest on-camera demonstration in the entire project.
+
+| | **PC Scoop Shop Mint Chocolate Ice Cream** | **PC Candy Cane Chocolate Fudge Crackle Ice Cream** |
+|---|---|---|
+| Inclusion is called | "**chocolate** pieces" | "**chocolatey** fudge pieces" |
+| Its ingredients | *"(sugar, unsweetened chocolate, **cocoa butter**, soy lecithin, vanilla extract, salt)"* | *"(**modified palm oil**, sugar, cocoa, unsweetened chocolate, soy lecithin)"* |
+| Legal status | Contains cocoa butter → **may say "chocolate"** | Fat is modified palm oil → **may NOT say "chocolate"** |
+
+**One letter — the "y" — is the entire regulatory difference.** Note the second product's *tub name* still says "Chocolate Fudge Crackle"; only the ingredient list is forced to say "chocolatey." ✅ DOUBLE-SOURCED.
+
+## 🔄 SWAP THE CELLULOSE ITEM — use this instead
+**no name Shredded Mozzarella, 320 g — $5.49** ✅ DOUBLE-SOURCED, live banner URLs, priced
+> *"Pasteurized milk, Modified milk ingredients, Salt, Bacterial culture, Calcium chloride, Microbial enzyme, **Cellulose, Natamycin**"*
+
+Cellulose — wood pulp — declared outright on a Canadian label, plus natamycin (an antifungal). **You're paying cheese prices for a bag that's partly not cheese.** Better sourced than the Grated Cheese Product with Parmesan in Part B (which had no reachable loblaws.ca URL) — **use this one for the cellulose beat.** Part Skim version carries the same two ingredients.
+
+## no name **Fat-Free Cottage Cheese**, 500 g ✅ DOUBLE-SOURCED
+> *"**Modified milk ingredients, Salt, Modified corn starch, Titanium dioxide,** Guar gum, Mono- and diglycerides, Citric acid, Carrageenan, Bacterial culture, Microbial enzyme, Carbon dioxide"*
+
+🔥 **There is no milk in it.** Modified milk ingredients first, corn starch for body, and **titanium dioxide — a whitening pigment — supplies the white.** A dairy product where the whiteness is painted on.
+**Contrast, same brand:** no name Cottage Cheese 2% M.F. opens with *"milk ingredients"* and contains **no titanium dioxide.**
+
+## no name **Pepperoni — Smoked, Sliced** ✅ SINGLE-SOURCE
+> *"**Pork, Mechanically separated chicken, Water, Modified corn starch, Pork stock,** Salt…"*
+
+Pepperoni is culturally a pork-and-beef product. **Ingredient #2 is mechanically separated chicken, and there is no beef at all.** ⚠️ banner URL not located — confirm on shelf.
+
+## no name **Garlic Sausage** ✅ SINGLE-SOURCE
+> *"**Pork, Mechanically separated chicken, Water, Enriched wheat flour, Modified corn starch,** Salt, Potassium lactate, **Modified milk ingredients, Wheat gluten,** …"*
+
+**Yes — there is dairy in the sausage**, alongside wheat flour and wheat gluten as fillers. ⚠️ banner URL not located.
+
+## no name **Cheese Rice Crackers** ✅ SINGLE-SOURCE — the word "product" hiding inside another product
+> *"…Cheese seasoning (processed cheese, seasoning [cheddar cheese, whey powder, buttermilk, milk fat, salt, disodium phosphate, casein, silicon dioxide], milk powder, **cheese product**, sugar, buttermilk, salt…)"*
+
+The ingredient list literally contains an ingredient named **"cheese product"** — a sub-ingredient so non-standard it has no name of its own. Great one-second visual gag.
+
+## PC **"Too Good to be Wings" Boneless Chicken Breast Chunks** ✅ SINGLE-SOURCE
+> *"**Seasoned chicken: chicken, water, pea hull powder, salt, sodium phosphate, dried garlic.** Coating: rice flour, water, yellow corn flour…"*
+
+🔥 **This is a Loblaw-brand product whose own label defines what "seasoned chicken" means in their supply chain** — chicken + **water** + **pea hull powder** (a bulking fibre) + **sodium phosphate** (a water-binder). It's the closest verified evidence for the seasoned-chicken thesis, **and it does not depend on the contaminated US "No Name® Meats" text.**
+⚠️ The no name *Seasoned Chicken Breasts Club Size* list remains **unverified and source-contaminated. Still do not script it.**
+
+## no name **Battered Chicken Balls** ✅ SINGLE-SOURCE
+> *"**Chicken, Water, Toasted wheat crumbs…, Enriched wheat flour, Modified corn starch, Wheat starch,** Salt, Vegetable oil, **Soy protein concentrate,** Soy lecithin, Sugars…, Baking powder, **Soy protein isolate,** …"*
+
+**Five starch/flour ingredients and two isolated soy proteins** in something sold as chicken.
+
+## PC **Plant Based Bolognese Pasta Sauce** ✅ SINGLE-SOURCE — the fair example
+> *"Water, Crushed tomatoes…, Tomato paste, Onions, Carrots, **Textured vegetable protein (soy protein concentrate, caramel colour)**, Garlic, Celery, Olive oil…"*
+
+The label spells out that the meat-like crumble is **soy protein dyed brown with caramel colour** — the mechanism, printed inside a bracket. Honestly labelled ("Plant Based"), so use it as the **fair** example.
+
+## ⚠️ ONE LEAD NOT YET USABLE
+**no name "Simili-Bacon" / imitation bacon bits** — *"soy flour, soybean oil, salt, natural smoke flavour, sugars…, hydrolyzed soy and corn protein, yeast, caramel colour, sunflower oil, **erythrosine**, soy lecithin…"* — **zero bacon**, red from erythrosine, brown from caramel colour.
+⚠️ **Not verified at Loblaw banners** — no loblaws.ca/nofrills.ca listing found, and the OFF product name is French-only, suggesting a Quebec-only or discontinued SKU. The well-documented substitute is **Club House "Simulated Bacon Bits"** — the manufacturer's own page is titled *"Simulated Bacon Bits (contains no meat)"* — **but confirm Loblaw carries it**; it could only be verified at Food Basics (a Metro banner).
+
+## REVISED TALLY
+**24 products verified to a scriptable standard** (13 double-sourced, 11 single-source), **1 proof-pair**, 6 flagged-unverified leads, 6 documented dead ends.
+
+## RECOMMENDED SHOOTING ORDER (revised)
+**Tier 1:** Breyers Frozen Dessert (zero cream) → **the PC chocolate/chocolatey ice cream pair** (one brand, one freezer, the rule demonstrated in both directions) → Cheddar Flavour Processed Cheese **Product** Slices held beside the real marble cheddar slice → Mac & Cheese (flour first, cheddar second-to-last) → Apple **Beverage** vs Apple **Juice** → **no name Shredded Mozzarella** (cellulose + natamycin) → Seaquest (crab is #15) → Soy Sauce (never brewed) → Fat-Free Cottage Cheese (no milk, whiteness from titanium dioxide).
 
 ---
 

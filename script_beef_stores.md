@@ -1,4 +1,10 @@
-TITLE: Canadians Must AVOID Beef From These 8 Grocery Chains (Only 4 Are ACTUALLY Worth It)
+TITLE: We Tested Beef From Loblaws, Costco, Walmart & 6 More Canadian Stores | These FAILED
+
+ALTERNATES (same pattern):
+- We Tested Beef From Loblaws, Sobeys, Costco & 6 More Canadian Stores | These FAILED
+- We Tested Beef From Superstore, Sobeys, Walmart & 6 More Canadian Stores | These FAILED
+
+The nine stores the title covers: Loblaws, Real Canadian Superstore, No Frills, Sobeys, FreshCo, Safeway, Costco, Metro, Walmart, Save-On-Foods.
 
 Thirty-two packages of meat. Seven grocery stores. Every single package weighed less than the label said it did. That's not a rumour and it's not a lawsuit somebody filed hoping for a payday. That's what CBC News found in April of 2026 when it walked into seventeen Canadian grocery stores in Toronto, Vancouver and Halifax with a kitchen scale. And here's the part that should make you angry: they'd already done it once. Fifteen months earlier they caught four major chains doing the same thing, the companies apologized, promised to fix it — and then did it again. Tonight we're going through the beef counter at Loblaws, Real Canadian Superstore, No Frills, Sobeys, FreshCo, Safeway, Costco, Metro, Walmart and Save-On-Foods, in order of how many Canadians actually shop there. Everything here is built on CBC News investigations, the Canadian Food Inspection Agency's own food fraud reporting, federal recall records, Statistics Canada price data, and the ingredient lists these companies publish themselves. Nine things failed. Four at the end are genuinely worth your money. And before you reach for the next package of ground beef, ask yourself one question: do you actually know what the words on that label mean? Because most of them mean nothing at all. Let's start.
 

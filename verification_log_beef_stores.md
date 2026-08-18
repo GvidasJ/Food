@@ -1,6 +1,6 @@
 # VERIFICATION LOG — script_beef_stores.md
 
-Video: *Canadians Must AVOID Beef From These 8 Grocery Chains (Only 4 Are ACTUALLY Worth It)*
+Video: *We Tested Beef From Loblaws, Costco, Walmart & 6 More Canadian Stores | These FAILED*
 Structural reference: the bottled-water store-test (8ZpHlYP0jX4), 26 min / 29,058 char transcript.
 Compiled 2026-08-18. **Everything in the MANDATORY PHRASINGS section is binding on the script and on the voiceover.**
 
@@ -152,7 +152,13 @@ Compiled 2026-08-18. **Everything in the MANDATORY PHRASINGS section is binding 
 
 ## 6. 🚨 MANDATORY PHRASINGS — BINDING ON SCRIPT AND VOICEOVER
 
-1. **NEVER say or imply that Canadian Counter weighed, tested, bought or sampled anything.** The channel did not conduct this investigation. Every weight finding must be voiced as CBC's. The script's opening does this correctly: *"That's what CBC News found in April of 2026…"* If a thumbnail or title implies the channel did the testing, **the title is wrong, not the script.**
+1. **NEVER say or imply in the NARRATION that Canadian Counter weighed, tested, bought or sampled anything.** The channel did not conduct this investigation. Every weight finding must be voiced as CBC's. The script's opening does this correctly: *"That's what CBC News found in April of 2026…"*
+
+   ⚠️ **TITLE TENSION — user's decision, recorded here.** The chosen title is *"We Tested Beef From…"*, matching the house pattern used on the steakhouse and burger videos. On those two, "we tested" described reading menus and labels, which the channel genuinely did. **On this video the core findings — the 32 underweight packages — are CBC's, not the channel's.** The narration is written to attribute them correctly and must stay that way. The exposure is the title alone. Two ways to reduce it if you want them:
+   - Keep the title, and make sure the **first 15 seconds say "CBC News found"** out loud, as the script already does. This is the minimum.
+   - Or use a variant that keeps the pattern without the claim: *"9 Canadian Stores Sold Beef That FAILED The Scale | Loblaws, Costco, Walmart & 6 More"*.
+
+   **Whatever the title says, the narration attribution does not change.**
 
 2. **The Metro honesty sentence must stay, verbatim in substance:** *"I want to be careful here, because I could not retrieve the ingredient list for that specific product — Metro's website blocks it — so I'm not going to tell you what's in it."* Removing it turns a careful segment into an unsupported accusation.
 

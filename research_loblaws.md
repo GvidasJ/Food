@@ -189,6 +189,127 @@ Category detail July 2026 y/y: fresh vegetables +3.9%, fresh/frozen chicken +0.3
 
 ---
 
+---
+
+# PART B — THE PRODUCTS (verified label decoding)
+
+## ⚠️ SOURCING NOTE — READ FIRST
+**Loblaw's e-commerce estate is hard-blocked.** loblaws.ca, realcanadiansuperstore.ca, nofrills.ca and api.pcexpress.ca all return **HTTP 403 (Akamai)** to any automated fetch. Every ingredient list below comes from **search-engine-indexed page text** and/or **Open Food Facts Canada** (cited by UPC, with label photographs). ✅ DOUBLE-SOURCED = both agree. **Re-check every price on camera day.**
+
+## Additional standards not covered in Part A
+| Standard | Requirement | Where |
+|---|---|---|
+| **Ice Milk** | *"not less than 33% solids, **not less than 3% and not more than 5% milk fat**, and not less than 160 g/L of solids of which… not less than 14 g is milk fat"* | CFCS §7.6.2 |
+| **Frozen Dairy Dessert** | *"the frozen food obtained by freezing a frozen dairy dessert mix, with or without the incorporation of air"* — **no milk-fat floor at all** | CSI Vol.1 |
+| **Processed Cheese Food** | *"contains (i) added milk or milk products, (ii) **not less than 51% cheese**, (iii) not more than 46% moisture, and (iv) **not less than 23% milk fat**"* | CFCS §7.4.13 |
+| **"Processed Cheese *Product*"** | **NOT a standard.** The only standardized names are *Processed (variety) Cheese*, *Processed Cheese Food*, *Processed Cheese Spread* and the cold-pack equivalents. Adding **"Product"** places the food outside all of them — **no cheese minimum, no milk-fat minimum.** | CFCS §7.4.0–7.4.20 (by absence) |
+| **Chocolate** | ≥35% total cocoa solids of which **≥18% cocoa butter**, and **cocoa butter must be the only fat**. Substitute vegetable fat → cannot say "chocolate" → hence **"chocolatey."** | FDR B.04.006 |
+| **Apple Juice** | *"Apple Juice is the fruit juice obtained from apples."* Water-extended → must be **beverage / drink / cocktail / punch**. | CFCS §10.3.4, §10.3.2 |
+| **Maple Syrup** | *"obtained **exclusively** by the concentration of maple sap or by the dilution or solution of a maple product in potable water."* Anything else → **"table syrup."** | CSI Vol.6 |
+| **Filler** | *"**any vegetable material (except tomato or beetroot), milk, egg, yeast or any derivative or combination thereof** that is acceptable as food."* | FDR B.14.001 |
+| **Ground meat + filler** | Mixture of ground meat and filler needs *"a total protein content of not less than **13 per cent**"*; ground meat with only spices/seasonings needs **16%**. **The lower bar is the filler bar.** | FDR B.14.040 / B.14.041 |
+
+---
+
+## 🥇 TIER 1 — bulletproof, double-sourced, visually obvious
+
+### Breyers **Vanilla Frozen Dessert**, 1410 mL
+Legal designation `Frozen Dessert` — printed where "Ice Cream" used to be.
+> *"**Modified milk ingredients, Water, Sugars (sugar, glucose), Coconut oil,** Vanilla extract, Mono & diglycerides, Tara gum, Guar gum, Natural vanilla flavour, Carob bean gum, Annatto, Turmeric extract"*
+
+**Water is #2. There is no cream and no milk fat — the fat is coconut oil.** The cleanest single example available: a tub in the ice-cream freezer containing zero cream.
+`loblaws.ca/en/vanilla-frozen-dessert/p/21651628_EA` · corroborated by the Voilà sibling SKU (non-Loblaw).
+
+**Contrast:** PC **Cream First** Vanilla *Premium Ice Cream* — the brand name is itself an admission that the cheap tubs don't.
+
+### no name **Cheddar Flavour Processed Cheese Product Slices**, 400 g
+> *"**Modified milk ingredients, Cheese (modified milk ingredients, salt, bacterial culture, calcium chloride, microbial enzyme, lipase, annatto), Water, Sugars (glucose solids and/or glucose syrup),** Sodium citrate…"*
+
+🔥 **The money shot:** Loblaw's own URL slug reads `cheddar-flavour-processed-cheese-product-slices`, but the **display title on the shelf-facing page drops the word "Product."**
+Four tells: (a) "Cheddar ***Flavour***" — not cheddar; (b) "Processed Cheese ***Product***" — outside all three standardized categories, so **no 51%-cheese or 23%-milk-fat minimum applies**; (c) the *cheese* sub-ingredient is itself made from modified milk ingredients, not milk; (d) **sugar is the fourth ingredient in a cheese slice.**
+
+**KILLER CONTRAST — same brand, same fridge door:** no name **Marble Cheddar Cheese Slices** = *"Pasteurized milk, Modified milk ingredients, Pasteurized cream, Bacterial culture, Salt, Annatto, Calcium chloride, Microbial enzyme"* — milk first, and the words "Flavour" and "Product" are **absent from the name**. This pair proves the naming rule is doing real work.
+
+### no name **Macaroni and Cheese Dinner**, 200 g
+Formulation A: *"macaroni (wheat), cheese sauce powder (**enriched wheat flour, corn maltodextrin, modified milk ingredients, salt, annatto, turmeric extract, paprika extract, soybean oil, silicon dioxide, sodium phosphate, citric acid, cheddar cheese powder,** natural flavour)"*
+
+🔥 **The single most quotable line in the research:** inside a sachet called *"cheese sauce powder,"* the first ingredient is **wheat flour**, and **cheddar cheese powder is the second-to-last ingredient — behind silicon dioxide.** The orange is annatto, turmeric and paprika extract.
+⚠️ Two formulations are in market (B has cheddar 4th, still behind flour). **Photograph which one is on the shelf.**
+
+**Contrast:** PC **Deluxe** Cheddar Mac & Cheese — cheddar is 2nd. You pay more, you get more cheese.
+
+### no name **Apple Beverage**, 2 L
+> *"**Water, Sugars (sugar/glucose-fructose, concentrated apple juice), Malic acid, Natural flavour, Caramel colour,** Ascorbic acid"*
+
+Water first. **Added sugar is listed ahead of the apple juice inside the same sugars bracket.** **Caramel colour** is dyeing it apple-coloured. Under CFCS §10.3.4 it cannot use the word "juice."
+🔥 The same liquid is listed under **three different names**: Loblaws' URL slug says `apple-drink`, the page title says "Apple Beverage," No Frills lists the same UPC as "Apple **Drink**." None of them is "juice."
+
+**KILLER CONTRAST, same brand, same aisle:** no name **Apple Juice from Concentrate** = *"Water, Concentrated apple juice, Ascorbic acid"* — three ingredients, no added sugar, no colour, **and it gets to say "Juice."**
+
+### Seaquest **Flake-Style Crab Flavoured Wild Alaska Pollock**, 227 g
+> *"**Water, Wild Alaska Pollock, Wild Pacific Whiting, Corn starch, Liquid egg-white, Sugar, Sorbitol, Tapioca starch, Sea salt,** Mirin wine…, Natural flavour, Potassium chloride, Sodium phosphates, Konjac flour, **Crab meat**, Alaska pollock oil, Carrageenan, Canthaxanthin, Titanium dioxide"*
+
+Water is #1. **Crab meat is the 15th ingredient** — present in trace amounts purely so the crab flavour can be called natural. Two starches + egg white are the texture; canthaxanthin + titanium dioxide paint the red-and-white "leg." The entire legal name is the confession.
+⚠️ **Loblaw sells no no-name/PC surimi** — this is a national brand carried in their banners. Say so.
+
+### no name **Soy Sauce**, 450 mL
+> *"**Water, Hydrolyzed soy protein, Sugar, Salt, Caramel colour,** Lactic acid, Sodium benzoate"*
+
+Real soy sauce is **brewed** — fermented soybeans and wheat, months of culture. This is **acid-hydrolyzed soy protein** with sugar and caramel colour, assembled in hours. **There is no compositional standard for soy sauce in the Canadian Standards of Identity — which is exactly why this can be sold as "Soy Sauce."** Strong candidate for the biggest "wait, what?" moment. $2.50 at Loblaws / $2.00 at RCSS.
+
+---
+
+## TIER 2 — strong, single-source, verify with a shelf photo
+
+**no name Vanilla Ice Milk 1.65 L:** *"**Sugars (glucose solids, sugar), Modified milk ingredients, Cream,** Guar gum…"* — **sugar is #1 by weight, ahead of any dairy; cream is third.** Legally caps at **5% milk fat**; real ice cream needs **10%**. Package also carries "Ice milk base made with 100% Canadian Milk" — true, and reads as a quality claim. (Chocolate and Neapolitan siblings exist.)
+
+**no name Original Syrup 750 mL — $3.85:** *"**Sugars (glucose, glucose-fructose), Water, Natural flavour, Cellulose gum, Salt, Caramel colour,** Sodium benzoate…"* — **zero maple.** Colour is caramel colour, body is cellulose gum, "maple" is natural flavour. Calling it maple syrup would be illegal, so the front says only "Syrup."
+**PC Original Table Syrup** — same story, `Table Syrup` is the reserved term for syrup that isn't maple. The **Light** version puts *water first*. The **Butter Flavoured** version **contains no butter.**
+**PC Table Syrup with 10% Maple Syrup** — the most honest label of the three, and it still means **90% of the bottle is not maple.** Great "even the honest one" beat.
+
+**no name Original Hot Dogs 450 g:** *"**Pork, Mechanically separated chicken, Water, Modified corn starch, Enriched wheat flour,** Salt, Sugars…, **Wheat gluten, Beef,** …"* — **mechanically separated chicken is #2**, then three fillers, and **beef is ingredient #9, behind wheat gluten.**
+
+**no name Bologna, Sliced 500 g — $5.00:** **Mechanically separated chicken is #1** in a product most shoppers read as a pork/beef deli meat.
+
+**no name Beef Burgers, Club Pack 2.27 kg:** *"**Beef, Water, Toasted wheat crumbs, Textured soy flour, Salt,** Sugars…, **Hydrolyzed soy protein,** Spice, Onion extract"* — two of the top four ingredients are **filler** per FDR B.14.001. Because filler is present, the product need only hit **13% protein** instead of the **16%** required of a plain seasoned ground-beef patty. **The word "Burgers" — not "hamburger," not "ground beef" — is what makes that legal.**
+**Contrast:** PC Thick & Juicy Prime Rib Burgers = *"Beef, Water, Salt, Seasonings"* — still water-extended, but no soy/wheat filler.
+
+**no name Whipped Topping 1 L:** *"**Water, Sugars (corn syrup, glucose-fructose), Modified palm kernel oil, Modified milk ingredients,** Polysorbate 60…"* — **no cream, no milk fat.** Sits in the dairy case beside real whipping cream.
+
+**PC Lemon Iced Tea Flavoured Beverage:** *"Water, Sugars (glucose-fructose), natural flavour, citric acid, potassium citrate, sodium phosphate, **caramel colour**…"* — **there is no tea in the iced tea.** Not tea extract, not instant tea, not tea solids. "Flavoured Beverage" is the legally required admission.
+
+**no name Chocolately Chip Cookies 907 g** (Loblaw's own listing misspells it): chips are *"sugar, palm kernel oil, cocoa, dextrose, modified milk ingredients, soy lecithin"* — **palm kernel oil and cocoa powder, but no cocoa butter.** Fails B.04.006, so the word "chocolate" is forbidden → **"chocolatey."** Note **sugar is the first ingredient of the chip itself.**
+
+**no name Grated Cheese Product with Parmesan 250 g:** *"PASTEURIZED MILK, MODIFIED MILK INGREDIENTS, SALT, LIPASE, CALCIUM CHLORIDE, BACTERIAL CULTURE, MICROBIAL ENZYME, **CELLULOSE**"* — a "cheese **product**… **with** parmesan," and **cellulose (wood pulp) is a declared ingredient right on a Canadian label.** No lawsuit required. ⚠️ direct loblaws.ca URL not located — get a shelf photo.
+
+**no name Crispy Southern-Style Chicken 1 kg — ~$18.99:** *"**Chicken (breasts, thighs, drumsticks), Water,** Enriched wheat flour…"* — **water is #2**, and the page's own spec sheet declares **"16% meat protein."** "Southern-***Style***" is a non-standardized descriptor doing all the work.
+
+**no name Fruit Punch Drink Mix:** **"Fruit" Punch contains no fruit** — the red is beet and black carrot. Legally a "Drink Mix," never a juice. Ironic bonus: the tub carries Loblaw's **"Simple Check"** seal ("made without 10 ingredients such as synthetic colours, artificial flavours…"). All true. It's still sugar with acid in it. ⚠️ two formulations in market.
+
+**no name Beef / Chicken Flavour Instant Noodle Soup:** the label says **"Artificial beef flavour"** outright — **zero beef, zero chicken.** Brown comes from caramel colour. ⚠️ current Loblaw URLs not located.
+
+**PC Jamaican-Style Ginger Beer:** *"Carbonated water, Sugars…, **Natural flavour**, Citric acid, Sodium benzoate, **Caramel colour**, Gum arabic"* — **no ginger.** ⚠️ Loblaw URL not located.
+
+## FAIRNESS PICK — include so the video isn't cherry-picking
+**PC Plant-Based Mozzarella-Style Shreds/Slices** — *"water, modified potato and corn and cassava starch, coconut oil, salt…"* — zero dairy, and the label says so honestly: "Plant-Based," "-Style." Use as the fair example of the "-style" qualifier working as intended.
+
+---
+
+## ⛔ LEADS THAT DID NOT SURVIVE — do not script
+| Lead | Status |
+|---|---|
+| no name / PC surimi sticks | **Do not exist.** Loblaw carries only national-brand surimi. Use Seaquest. |
+| no name "seasoned" chicken breast brine | 🚨 **CONTAMINATED SOURCE.** The "enhanced up to 10% with water, salt, sodium phosphate…" text belongs to **No Name® Meats of the USA (nonamesteaks.com)** — an unrelated company. Using it would be a factual error. Buy the pack. |
+| no name whole wheat bread with caramel colour | **Not found.** The real story is the whole wheat vs whole grain flour distinction (see research_bread.md). |
+| PC Canola & Olive Oil Blend ratio | Product and ingredients confirmed, but **the canola:olive percentage is not published anywhere reachable.** Canola listed first means it's the majority — that's enough. **Do not state a ratio.** |
+| no name / PC fruit gummies with no fruit | **No such Loblaw-brand SKU found.** |
+| "Honey-flavoured" syrup at Loblaw banners | Not found. no name honey products checked are genuine ("100% liquid honey"). |
+
+## RECOMMENDED SHOOTING ORDER
+**Lead with Tier 1:** Breyers Frozen Dessert (zero cream) → Cheddar Flavour Processed Cheese **Product** Slices, held beside the real marble cheddar slice → Mac & Cheese (flour first, cheddar second-to-last) → Apple **Beverage** vs Apple **Juice** → Seaquest (crab is #15) → Soy Sauce (never brewed).
+
+---
+
 ## ⛔ FIX-BEFORE-SCRIPTING LIST
 1. "Modified milk ingredients" rename is **DONE** (Feb 11 2026), not proposed.
 2. The no name price freeze was **2022–Jan 2023**.

@@ -80,23 +80,63 @@ Per-item overcharges **4% to 11%**.
 ### The earlier 80-store episode
 Loblaw's underweighting ran across **80 Western Canada stores until December 2023.** Originating complaint (Iris Griffin, Winnipeg Superstore): ground beef stated **1.834 kg** containing **1.7 kg** of meat — **134 g short**, a **$1.27 overcharge, 7.9%** on a $17.35 package.
 
-### Wave 2 — CBC, 14 April 2026 — THEY DID IT AGAIN, 15 MONTHS LATER
+### Wave 2 — CBC, 14 April 2026 (Sophia Harris) — THEY DID IT AGAIN, 15 MONTHS LATER
+✅ **INDEPENDENTLY RE-VERIFIED 2026-08-18.** CBC.ca and the CBC lite/Radio-Canada mirrors all return HTTP 403 to automated fetching, but the full article text was recovered via the **Yahoo News Canada syndication** and cross-checked against search results and a trade-press analysis. Every figure below is confirmed from two independent retrievals.
+
 **Methodology:** secret shopping at **17 Loblaw-owned or Sobeys-affiliated stores over two months** in Toronto, Vancouver and Halifax.
 
-**Findings: 32 underweight meat products across 7 of the 17 stores** — 2 Safeways, 1 Thrifty Foods, 2 Farm Boys, 2 Real Atlantic Superstores (now rebranded Real Canadian Superstore).
+**Findings: 32 underweight meat products across 7 of the 17 stores:**
+- **2 Safeways** (Sobeys-owned, North Vancouver)
+- **1 Thrifty Foods** (Sobeys-owned, North Vancouver)
+- **2 Farm Boys** (Empire-owned, GTA)
+- **2 Real Canadian Superstores** (Loblaw-owned, Halifax area)
 
 Overcharges **2% to 16.7%**:
-- Worst item: **Farm Boy organic air-chilled chicken — $1.35 on a $9.42 purchase (16.7%)**
-- **Halifax briskets: $4 combined overcharge on six units (4.7%)** ← the beef-specific one
+- **Worst item — Farm Boy organic air-chilled chicken breasts: labelled 0.285 kg, actual 0.244 kg, sold for $9.42 — a $1.35 overcharge (16.7%).**
+- **Halifax briskets: ~$4 combined overcharge on six units (4.7%)** ← the beef-specific one
 - Thrifty Foods organic chicken: up to **$1 per item (9.8%)**
 
-🔥 **CFIA ENFORCEMENT, QUANTIFIED — the killer stat:**
+### 🔥🔥 KAREN WEBBER — THE STORY THAT CARRIES THE WHOLE VIDEO
+A Halifax-area customer. **February 2025:** she buys four beef briskets, finds all four underweight, reports it to the store manager. The manager gives her a free brisket and promises it will be corrected.
+**One year later:** she buys four more briskets **from the same store. All underweight again.**
+
+Her quotes — use these:
+> *"Food prices have gone astronomically high."*
+> *"Can't be making extra money off of packaging. That's just wrong."*
+> *"You're only supposed to charge people for what they can actually eat."*
+> *"I was pissed… they were obviously just paying lip service to me."*
+> *"I am incredibly disappointed that it took CBC to change this instead of me as a consumer."*
+> *"I'm going to keep weighing everything."*
+
+This is beef, it's store-specific, it's a repeat offence against the same named person, and it has a perfect closing line. **Build the video's spine on it.**
+
+### 🔥 CFIA ENFORCEMENT, QUANTIFIED — the killer stat (✅ confirmed twice)
 - Fiscal 2023-24: **6 meat product spot checks.**
 - Since January 2025 (after CBC's first story): **236 spot checks.**
 - Result: **warnings to 7 retailers. ZERO fines.**
-- Maximum available penalty: **$15,000** — against companies with $22B–$64B in annual revenue.
+- **Maximum available penalty: $15,000** — against companies with $22B–$64B in annual revenue. ✅ confirmed in the Yahoo syndication.
+- 🆕 **CFIA says the federal government is reviewing AMP fine limits, with an outcome expected in the 2026 federal budget.** Current and forward-looking — good closing beat.
 
-**Responses:** Loblaw said it was *"limited to one product at a 'small number' of stores"* and it reviewed protocols with staff. Empire said errors are investigated when they occur, and noted **Farm Boy uses third-party packaging at CFIA-certified facilities.**
+**Terri Lee**, retired CFIA inspector (24 years, retired 2021), on what a real penalty would be:
+> *"It needs to be enough so that it deters them — half a million dollars."*
+
+Set that against the **$15,000** maximum. That contrast is the argument.
+
+### 🆕 THE REGULATORY SEAM — why nobody catches this
+**Three regulators split the job and the gap is in the middle:**
+- **Measurement Canada** — *Weights and Measures Act*; oversees **scale devices** and short-measure complaints
+- **CFIA** — Safe Food for Canadians Regulations; enforces **accurate net quantity declarations on labels**
+- **Competition Bureau** — *Competition Act*; misleading representations
+
+The structural gap: the **five-year cycle** device examination catches **device accuracy** but not **"product-specific tare entries"** at meat counters. **The scale is certified accurate. The number typed into it for the weight of the tray is not checked by anyone.** That is precisely where systematic errors slip through.
+⚠️ **Do not attribute the 236 inspections or the 7 warnings to Measurement Canada — that enforcement was CFIA's.**
+
+### 🆕 The Real Canadian Superstore B.C. case
+A B.C. Real Canadian Superstore **sold underweight beef strip loin** and received **a warning, no fine** — despite the chain having already been under CFIA scrutiny in early 2024 over underweight ground beef across Western Canada locations. **Beef-specific, banner-specific, and it's a second offence.**
+
+**Responses:**
+- **Loblaw:** *"We are truly sorry this happened. We take weight accuracy seriously."* Characterized the issue as limited to one product at a *"small number"* of stores; said protocols were reviewed with staff.
+- **Empire/Sobeys spokesperson Karen White-Boswell:** *"On occasion when errors occur, we investigate the issue so that it can be corrected."* On Farm Boy: products are *"packaged and weighed at a CFIA-certified facility."*
 
 ### The class actions
 - **9 Jan 2025** — lead plaintiff **Carrie Corrall**, a BC mother, files in **Federal Court in Vancouver** against **Loblaws, Walmart Canada and Sobeys**, alleging they *"misrepresented"* meat weights by including packaging using *"deceptive means."* **Punitive damages sought**, on the argument the overcharging happened while grocers publicly committed to keeping prices low. **Not yet certified.**
@@ -262,4 +302,6 @@ Source: **USDA FSIS, *Ground Beef and Food Safety***.
 | Federated Co-op 2025 sales | Not found; the $8.4B figure circulating is from **2016**. |
 | Market shares as current-year | From the RCC's **~2023** Bureau submission. Say *"as the industry itself told the Competition Bureau."* |
 | Measurement Canada enforcement results | 🚨 **The enforcement in this story was CFIA's, not Measurement Canada's.** Do not attribute the 236 inspections or 7 warnings to Measurement Canada. |
-| CBC verbatim quotes | **CBC.ca returns HTTP 403 to automated fetching.** All CBC detail was recovered via syndicated copies (Yahoo Finance Canada, The Deep Dive) and cross-checked against search snippets. **Open the two CBC articles manually before quoting verbatim on screen.** |
+| CBC verbatim quotes — **Jan 2025 article only** | CBC.ca returns HTTP 403 to automated fetching. The **Jan 2025** detail came from syndicated copies (Yahoo Finance Canada, The Deep Dive) cross-checked against search snippets, but has **not** been re-verified from a second full retrieval. Open it manually before quoting verbatim on screen. |
+
+✅ **RESOLVED 2026-08-18 — the April 2026 article is now fully verified.** Recovered in full via the Yahoo News Canada syndication and cross-checked against an independent trade-press analysis. All figures confirmed, plus new material the first pass missed: the **Karen Webber repeat-brisket story**, the exact Farm Boy weights (0.285 kg labelled / 0.244 kg actual), **Terri Lee's "half a million dollars" quote**, the **$15,000 maximum penalty**, the **pending AMP fine-limit review in the 2026 federal budget**, the **three-regulator tare-entry gap**, and the **B.C. Superstore beef strip loin warning**.

@@ -141,6 +141,75 @@ House style: regulatory label decoding, NOT fear-mongering. Part 2 (regulation d
 
 ---
 
+---
+
+# PART 2 — REGULATION DEEP DIVE (agent 2, compiled 2026-08-19)
+
+## The law
+- **NHPR SOR/2003-196 s.4(1), verbatim:** *"no person shall sell a natural health product unless a product licence is issued in respect of the natural health product."*
+- **s.5(g)**: application needs *"information that demonstrates the safety and efficacy"* — the regulation does NOT specify what kind of evidence; guidance sets a sliding scale.
+- **Health Canada's own words on the number:** *"A NPN or DIN-HM means that the product has been authorized for sale in Canada and is safe and effective when used according the instructions on the label."*
+- **Traditional-use claims**: need *"at least two independent references that support the recommended conditions of use"* — a single pharmacopoeial monograph can suffice; expert opinion can substitute for a second reference. Traditional evidence is *"not . . . modern evidence."*
+- **Homeopathics** get a **DIN-HM**. Since July 2022, products without modern scientific evidence must print: *"This/These claim(s) is/are based on traditional homeopathic references and not modern scientific evidence."*
+- **Site licences are issued on written attestation, not inspection** (audit para 2.21, verbatim): *"the department relied on natural health product manufacturers' attestations… and had not conducted an inspection before the products went on the market. We noted that the department takes a different approach with drug manufacturers — that is, it does an initial inspection before those products arrive on the market."* Still no permanent inspection program; NHP inspection results only began publishing Oct 29 2025.
+
+## 🔥 THE NIGHTON STING — the climax of the video
+**March 2015, CBC Marketplace "Licence to Deceive":** Marketplace invented a homeopathic children's fever/pain remedy called **"Nighton" — an anagram of "nothing"** — submitted **photocopied pages from a 1902 homeopathic reference** as its only evidence, and **Health Canada licensed it with a DIN-HM** as providing *"effective relief from fever, pain, and inflammation"* in children and infants.
+- The number Health Canada says means "safe and effective" was earned with **no product and no science.**
+- Aftermath: nosode labels forced to say "not vaccines"; restrictions on kids' homeopathic cough/cold claims; 2017 follow-up showed unproven kids' remedies persisting.
+- ⚠️ Do NOT confuse with the RETRACTED Jan 2016 lab-testing story — the Nighton licensing sting stands and was never retracted.
+
+## The 2021 audit — verbatim, exact framing
+- Para 2.32: *"we examined a sample of 75 licensed products for sale on Canadian websites. We found that **88% of these products were advertised with misleading product information. Also, 56% of the products we examined were marketed with misleading label information."*** ⚠️ It's 88% of a 75-product sample — never say "88% of all ads."
+- Label problems found: unauthorized fat-burning/endurance claims; a product recommended for ages 3+ licensed only for adolescents/adults; wrong dosages; safety warnings in **4-point font**. **More than a quarter of the 75 didn't even display their NPN.**
+- **~6% of 766 active licensed companies inspected** 2017–2019. *"On-site inspections found product quality problems at **all sites**."* Nearly half of 46 sites → regulatory action; 7 site licences cancelled.
+- **91,000+ licences since 2004** — by HC's own estimate **only half went to market**; applications ran 10× OTC drugs partly because companies could file for *"hypothetical products that have not been developed"* and paid **no fees**. Fewer than 5% of licence holders told HC which facility made their products.
+- Para 2.8 (pre-2023): *"Health Canada does not have the authority to order a change to a label or force a mandatory recall of a natural health product for any reason, including when a product presents a serious or imminent risk of injury to health."* Max fine: **$5,000** (vs $5,000,000 for OTC drugs).
+- Exhibit 2.3: a product tied to a hospitalization, contaminated with pharmaceuticals *"that could cause miscarriages and birth defects,"* was **still for sale online 3.5 years later**. 7 of 36 "removed" products re-entered the market.
+- Conclusion, verbatim: *"We concluded that Health Canada did not ensure that natural health products offered to Canadians were safe, effective, and accurately represented."*
+
+## Post-audit
+- **Pilot inspections Mar 2021–Mar 2022: 36 inspections, ALL found compliance issues; 42% serious enough to threaten licence suspension.**
+- HC QP note, verbatim: *"Between 2021 and 2023, there were 100 voluntary recalls of licensed natural health products for safety issues including bacterial contamination and the presence of foreign matter such as fibreglass."* ~470 voluntary recalls since 2004; 8,000+ suspected adverse reactions reported (5,000+ serious); AI ad-scan pilot: **63% of 3,800+ products checked carried non-compliant cancer claims.**
+- **Bill C-47 (June 22 2023)**: Vanessa's Law extended to NHPs — mandatory recalls, label-change orders, fines up to **$5 million per day** (from $5,000).
+- **The counterattack:** CHFA "Save Our Supplements," ~1 million postcards. **Bill C-368** passed second reading + committee, died at prorogation Jan 6 2025; **reborn as Bill C-224, passed second reading March 10 2026, now in Health Committee.** ← live right now.
+- **Fees: paused.** HC verbatim: *"the implementation of cost recovery for natural health products will not begin on December 1, 2025 as indicated."*
+- **Labelling reform (SOR/2022-146)**: Product Facts table; March 2025 exemption order pushes everything to **June 21 2028**.
+
+## Canada vs US — the honest frame
+- FDA verbatim: *"The FDA does NOT have the authority to approve dietary supplements for safety and effectiveness, or to approve their labeling, before the supplements are sold to the public."*
+- Canada: mandatory pre-market NPN licensing.
+- **The frame: stricter gate, near-empty guardhouse after the gate.** Personal importation (CBSA D19-9-1) legally allows individuals a 90-day supply of unlicensed product for personal use — the grey-market channel.
+
+## Recalls/chronology usable in script
+- **Nov 2023 — Herbaland bulk gummies**: all bulk-refill gummy vitamins recalled — unlabelled bulk sale = no dosage/warning info, *"particularly for children and pregnant people."*
+- **July 2024 — metal fibres**: Equate, Kirkland Signature, Life, Natural Factors, Option+, VegiDay, Webber Naturals, Wellness by London Drugs, Wellquest.
+- **April 2025 — Life Brand Timed Release Melatonin 10 mg**: six lots recalled nationally for **incorrect dosing instructions on the label**.
+- **May 2026 — Kirkland Women 50+**: metal fragments.
+- **Kids' melatonin poison-centre calls (Canadian):** Ontario Poison Centre, children 5 and under: **160 (2017) → 438 (2021)**, rising every year. Manitoba: 19 (2016) → 64 (2022).
+- Global peer-reviewed adulteration figure (herbals, not vitamins): DNA authentication of ~6,000 products across 37 countries → **27% adulterated; North America 33%** (Ichim, Frontiers in Pharmacology, 2019).
+
+## Who needs what — official positions, verbatim
+- Canada's Dietary Guidelines: *"When eating a variety of nutritious foods, vitamin and mineral supplements are not generally required."*
+- **Vitamin D:** *"Adults 51 years of age and older should be advised to take a daily supplement of 400 IU (10 mcg) of vitamin D."* RDA 600 IU (1–70), 800 IU (70+), UL 4,000 IU. Milk/margarine fortification amounts roughly doubled, **mandatory Dec 31 2025**.
+- **Folic acid:** *"All adults and adolescents who could become pregnant should be advised to take a daily multivitamin with 400 mcg (0.4 mg) of folic acid."*
+- **StatCan 2015 CCHS:** **45.6% of Canadians (~15.7M) used at least one supplement**; women 51–70: 65.1%. (The "70%" figure is a 2010 opinion poll — attribute separately, never blend.)
+- StatCan vitamin D status: 2022–24 average 69 nmol/L; ~73% at/above the 50 nmol/L cut-off (2016-17); supplement users 85% vs non-users 59% above cut-off.
+- ⚠️ **B12-over-50 is NOT on the current canada.ca supplements page** — it was in the archived 2007 Food Guide. Attribute the malabsorption science to NIH ODS, not "Health Canada recommends."
+
+## Part 2 additional DO-NOT-USE
+| Item | Why |
+|---|---|
+| "88% of advertisements" framing | Wrong — 88% of a 75-product sample |
+| Marketplace Jan 2016 lab claims (Emergen-C etc.) | RETRACTED |
+| "4 of 7 fish oils rancid" | Not verified in the CBC article |
+| ISURA failure percentages | No published figure exists |
+| Jail terms under Vanessa's Law for NHPs | Only the $5M/day fine confirmed |
+| Proposed fee dollar amounts | Trade-press only |
+| B12-over-50 as current HC recommendation | Archived 2007 guidance only |
+
+---
+
 ## ⛔ UNVERIFIED / RETRACTED — DO NOT USE ON AIR
 | Item | Status |
 |---|---|

@@ -98,6 +98,60 @@ Chemistry kicker: by the standard, everything sold as "salt" is ≥~98% NaCl. **
 9. **The world's largest underground salt mine is Canadian** — CN-Tower-deep under Lake Huron; tornado 2011 (hit the mine first, killed a miner); strike 2018; 87 laid off in 2024 because winter was too mild.
 10. **Iodization is history's cheapest public-health win** — <1¢/day, ~30:1; Michigan goiter 38.6% → 1.4%. Canada locked it in law; the US left it to the market.
 
+---
+
+# PART 2 — BRANDS (agent 2, compiled 2026-08-21)
+
+## Central thesis VERIFIED + refined
+Table salt AND sea salt sold for table/household use must contain 0.01% KI. **The premium tier escapes via common names** ("sea salt flakes," "fleur de sel," "pink salt," "kosher salt"). And the receipt-level proof: **mainstream iodized sea salts EXIST** — Windsor Fine/Coarse Sea Salt "– IODIZED" (product pages literally titled that), Great Value Iodized Fine Sea Salt, Compliments Iodized Sea Salt, La Baleine ("Sea Salt and Potassium Iodide (0.01%)"), TATA. The pattern is visible on any ingredient panel.
+
+## Brand table (key rows)
+| Product | Owner | Iodized? | Price | Multiple vs GV |
+|---|---|---|---|---|
+| **Great Value Iodized Table Salt 1 kg** | Walmart | YES | **$1.17/kg (11.7¢/100 g)** | 1.0× baseline |
+| Windsor Iodized Table Salt 1 kg | **Stone Canyon (US) since Apr 2021** | YES (KI + invert sugar + calcium silicate) | $1.69 (No Frills) / $2.49 (Loblaws) | ~1.4–2× |
+| Sifto Table Salt 1 kg | **Compass Minerals (Kansas)** | YES, "Product of Canada" | $1.69–1.99 | ~1.5× |
+| Mr. Goudas Iodized 1 kg (Toronto) | Goudas Foods | YES | $1.69 | ~1.4× |
+| Windsor Coarse Kosher | Stone Canyon | **NO** — company FAQ: *"No, Windsor Coarse Kosher Salt does not contain iodine."* | — | — |
+| Windsor Fine Himalayan Pink | Stone Canyon | not iodized | — | — |
+| Compliments Iodized Sea Salt 560 g | Sobeys | YES — ingredients verbatim: *"Sea salt, dextrose, potassium iodide, **yellow prussiate of soda**"* | — | — |
+| La Baleine Fine Sea Salt | Salins Group (France) | YES in Canadian retail | — | — |
+| **PC Himalayan Pink Grinder 70 g** | Loblaw | NO | $4.99 = **$7.13/100 g** | **~61×** |
+| PC Coarse Pink 390 g | Loblaw | NO | $7.00 | ~15× |
+| Maldon Flakes 240 g | Maldon (UK family) | NO | $10.89–19.90 | **39–71×** |
+| Redmond Real Salt 454 g | Redmond Inc (Utah) | NO | $15.99 | **~30×** |
+| Diamond Crystal Kosher | **Cargill** | NO ("Pure and Natural") | foodservice | — |
+| Morton Coarse Kosher | Stone Canyon (same owner as Windsor) | NO (company FAQ) | — | — |
+| Vancouver Island Salt Co. 250 g | Independent BC (since 2009) | NO | $10.95 | ~37× |
+| Saltwest Naturals (Sooke BC) | Independent | NO | — | — |
+| Newfoundland Salt Company 150 g | Independent, Bonavista NL (Trinity Bay, hand-boiled) | NO | $21 = $14/100 g | **~120×** |
+
+⚠️ A plain **no name iodized table salt did not surface** in current Loblaws listings — don't claim it exists; cheapest in Loblaw banners is Windsor $1.69.
+⚠️ Windsor/Morton are **corporate siblings** — both Stone Canyon via the US$3.2B K+S Americas deal (closed April 2021).
+⚠️ Sifto's "since 1867" is the **brand's own claim** (salt found at Goderich 1867); attribute to the brand.
+
+## Enforcement/corporate receipts
+- **Mines Seleine (Windsor's Magdalen Islands division): guilty on 4 counts under CEPA, fined $400,000 (Aug 19, 2020)** for dumping dredged material outside the permitted area — ECCC offenders registry.
+- Windsor 2023 strike: **Feb 17 – Aug 27, 2023, ~192 days**, Unifor Locals 240 & 1959; final deal up to +$4.60/hr.
+- US iodization detail: FDA requires US non-iodized salt to state *"This salt does not supply iodide, a necessary nutrient"* — ~53% of US retail table salt is iodized.
+- IOM verbatim: mandatory iodization *"virtually eliminated goiter throughout the country."*
+- Quebec pregnancy study (Jan 2025, 500 women): first-trimester median UIC **136 µg/L — below the 150–249 adequate range**; but 92% used iodized salt and 99% had adequate usual intakes — **frame honestly, both halves.**
+- McGill OSS (Jan 2026): **"The Pink Himalayan Salt Grift"** — pink salt 97–99% NaCl, not iodized.
+
+## PART 2 DO-NOT-USE
+| Item | Why |
+|---|---|
+| "Windsor/anyone makes no name/PC salt" | No source |
+| **"Pink salt sold in Canada is illegal"** | ⛔ NEVER say this. An archived CFIA decision points that way for table use without KI, but pink salt is openly sold; frame ONLY as "a regulatory grey zone" if at all |
+| Fleur de sel "typical" price | Only a $96/125g Amazon gouge listing pinned — don't build a multiple on it |
+| CBC Feb 2025 article quotes | 403-blocked; snippet facts only, no invented quotes |
+| Morton table salt at Canadian retail | Not confirmed |
+| Diamond Crystal wide Canadian retail | Foodservice confirmed only |
+| "12% adults moderate-severe deficient" | Use with the study's caveat: 11.9% by concentration, 4.2% by 24-h excretion |
+| Celtic/Redmond advocacy-lab ppb numbers | Excluded per house rules (as Part 1) |
+
+---
+
 ## ⛔ PART 1 DO-NOT-USE
 | Item | Why |
 |---|---|

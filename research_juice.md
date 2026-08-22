@@ -81,6 +81,61 @@ Lassonde (Old South) exited frozen concentrate ~2025 (waning demand) → **Coca-
 4. Kirkland NFC OJ — bulk value. ⚠️ price not captured.
 5. **Honest caveat mandatory:** even the best 100% juice = 22–25 g sugar/250 mL; Food Guide says whole fruit + water (regulation agent verifies).
 
+---
+
+# PART 2 — REGULATION (agent 2, compiled 2026-08-22)
+
+## The standards (CFCS Vol. 10, post-SOR/2024-244; old FDR B.11.120–134 repealed)
+- **FDR B.11.001:** *"fruit juice means the unfermented liquid expressed from sound ripe fresh fruit."*
+- **CFCS 10.3.2:** *"(Naming the fruit) Juice is the juice obtained from the named fruit and may contain a sweetening ingredient in dry form."*
+- 🔥 **10.3.9(f): ORANGE JUICE "may contain dextrose in dry form, glucose solids, invert sugar and sugar"** — and still be legally named "orange juice." Only the "100%" claim forbids added ingredients (CFIA: *"'100% fruit juices' means only juices… are present, without added ingredients, including any permitted by a standard"*).
+- **10.3.15:** reconstituted juice's prescribed name IS *"(naming the fruit) Juice from Concentrate"* — "from concentrate" is mandatory naming; even ads must say it.
+- **10.3.16 Nectar:** a standardized word meaning as little as **35–40% fruit** blended with water and sweetener (apricot/peach/pear only).
+
+## Naming rules (CFIA Annex 1 §8 — the climax material)
+- **The 25% rule:** the word "juice" may appear in a common name only at ≥25% juice, and then the **% must be declared** on the front in type ≥ the net-quantity numerals. ⚠️ **This is administrative guidance, not regulation.**
+- 🔥 **"Fruit Drink / Cocktail / Cooler / Beverage" can contain NO juice.** CFIA's own worked example (Cranberry Drink with a big cranberry image), verbatim: *"**This would apply whether cranberry juice, other fruit juices, or no juice of any kind is actually present in the product.**"* Such names are *"synonymous with (naming the fruit)-flavoured drink"* and are *"not required to indicate 'flavour'."*
+- 🔥 **Canada has NO US-style mandatory "contains X% juice" declaration** (US 21 CFR 101.30 forces it). In Canada the % triggers only when "juice" enters the name. SunnyD's "5%" and Arizona's "10%" are voluntary.
+- **B.11.150 (SOR/78-478, 1978):** a fruit flavoured drink sold as a juice substitute **MUST contain added vitamin C, 24–48 mg/100 mL.** → **The vitamin C flash on fruit punch is a legal requirement, not generosity.** Meanwhile vitamin C in real juice is merely *permitted* (D.03.002 item 14) — never required.
+
+## Contaminants (neutral framing only)
+Inorganic arsenic in fruit juice: **10 ppb** (tightened 10× effective Aug 17 2022; grape 30 ppb) · patulin in apple juice: **50 ppb** · lead: 0.05 ppm. **CFIA 2021 Children's Food Project (294 samples): "None of the juice samples tested contained detectable levels of arsenic" — or lead.** Use as the reassurance beat.
+
+## The Food Guide U-turn
+- **2007 guide: 125 mL (½ cup) of 100% juice = one fruit serving.**
+- **2019 Dietary Guidelines §2, verbatim:** sugary drinks *"include soft drinks, fruit-flavoured drinks, **100% fruit juice**, flavoured waters with added sugars, sport and energy drinks."* And: *"Water, unsweetened milk or fortified soy beverage, and fruit should be offered instead."* "Make water your drink of choice."
+- Free sugars definition explicitly includes *"sugars naturally present in honey, syrups, **fruit juices** and fruit juice concentrates"* (mirrors WHO 2015).
+- **The lobby fight (Globe and Mail "The Big Squeeze" / CBC):** the Canadian Beverage Association — funded by Coca-Cola and PepsiCo — pressed federal ministers/decision-makers **"more than 50 times" in a year**. Juice Council: "Canadians are not overconsuming 100 per cent juice." Author Alissa Hamilton: *"Whole fruit has fibre, which slows down the metabolism of the sugar… When you're drinking the juice without the fibre, you get an insulin spike."* Heart & Stroke's release: "New Canada's Food Guide cuts the crap." ⚠️ Attribute "50 times" to the Globe/CBC.
+
+## 🔥 The FOP symbol — juice is NOT exempt
+- FDR B.01.350(6)(a) exempts only **whole or cut** fruit/veg. B.01.350(5)(g) exempts **"sweetening agents, including maple sugar and maple syrup."**
+- Sugars threshold: ≥15% DV (15 g) per serving. A 250 mL glass of apple juice ≈25 g ≈ 25% DV → symbol.
+- 🔥 **Health Canada's own explainer uses "a bottle of fruit juice" as its illustrated example of a product carrying the "High in sugars" symbol.** Mandatory Jan 1 2026.
+- **The line: a bottle of 100% juice wears a federal sugar warning; a bottle of maple syrup doesn't.**
+
+## NL sugar tax — the contradiction
+- Canada's only sugary-drink tax: **NL, $0.20/L, Sept 1 2022.** Official circular verbatim: non-taxable includes *"100% natural fruit and/or vegetable juices"* — *"only products that include sugars in the List of Ingredients are taxable."*
+- **Repealed effective July 1 2025.**
+- Decode: the tax called juice not-sugary while the Food Guide calls it a sugary drink — two arms of Canadian policy disagreeing about the same glass.
+
+## Prices & trade
+- **StatCan 18-10-0245-01: Orange juice 2 L — $4.01 (Jan 2022) → $6.29 peak (Aug–Sep 2025) → $6.09 (Jun 2026) ≈ +52%.** Apple juice 2 L: $3.02 → $4.28 (+42%). ⚠️ Table starts 2022 — no longer history claims.
+- Citrus greening broke world OJ supply; futures ~US$5/lb 2024.
+- 🔥 **CBC Marketplace (Nov 2018): ~30 million litres/year of apple juice concentrate imported from China** — China is Canada's #1 concentrate supplier. CFIA verbatim: adding water back is *"a substantial transformation"* → **no origin declaration required.** The US requires origin on juice since 1987 (US Minute Maid lists five countries; the Canadian box lists none). Ontario grower: <5% of his harvest ends up in Canadian juice; juice apples ~5¢/lb vs 25¢ fresh.
+- CNF sugar/100 g: apple juice 9.62 g · OJ 8.31 g · **grape juice 14.2 g — more per mL than Coca-Cola (11 g/100 mL).**
+
+## Part 2 DO-NOT-USE
+| Item | Why |
+|---|---|
+| Apple-juice-specific 0.015 ppm arsenic ML | Proposal only; current list 10 ppb general |
+| Origin year of the 25% guideline | Not pinned |
+| "Sweetened juice" prefix requirement | Old provisions repealed; state neither way |
+| Per-250 mL conversions | My arithmetic from CNF/100 g — say "about" |
+| "50 times" lobbying as registry fact | Attribute to Globe/CBC reporting |
+| Pre-2022 StatCan price history | Table starts 2022 |
+
+---
+
 ## ⛔ PART 1 DO-NOT-USE
 | Item | Why |
 |---|---|

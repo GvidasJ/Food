@@ -87,3 +87,72 @@ Dasani adds magnesium sulphate (sold in pharmacies as Epsom salt), potassium chl
 | "no name water case" | Couldn't find current listing — Loblaw case water is PC-branded |
 | National "~$0.002/L tap" average | Use Toronto $0.005/L (2025, incl. wastewater), attributed |
 | US contaminant numbers (CR PFAS, Starkey arsenic, Columbia 240K particles) | US-specific + off house style — replaced by regulatory spine |
+
+---
+
+# PART 2 — REGULATION, ECONOMICS, POLITICS (agent dossier, 2026-08-24)
+
+## a. The law (FDR Division 12 — still in force; post-SOR/2024-244 the recipe moved to CFCS Vol. 11 + Health Canada micro table — "same force of law, harder to find")
+- **B.12.001(1) verbatim:** "No person shall sell water represented as mineral water or spring water unless it is potable water obtained from an underground source and not from a public community water supply."
+- **CFCS 11.1.1:** spring/mineral water "does not have its composition modified through the use of any chemicals" (CO2 + ozone excepted; added fluoride capped at 1 ppm total).
+- **B.12.002 verbatim:** spring/mineral labels SHALL state "(a) the geographical location of the underground source; (b) total dissolved mineral salt content in ppm; (c) total fluoride ion content in ppm." 🔥 The law forces real spring water to print its address.
+- **CFIA labelling tool:** treated water must carry the treatment in its NAME — "distilled water," "demineralized water," "carbonated water" (B.01.006.1(c)). HC FAQ: treated to <10 ppm minerals (non-distillation) = MUST be called "demineralized water"; distilled = "distilled water"; CO2 added = "carbonated water." 🔥 **The label always confesses — in the product's legal name.**
+- **B.12.007:** chlorine used-then-removed need not appear on label (state fairly: deliberate disclosure exemption, not cover-up).
+- **"Alkaline"/pH:** printable only if "factual and not misleading" (CFIA's own misleading example: "super alkaline organized"); pH is NOT a regulated quality parameter; NO Canadian authority recognizes any health benefit of alkaline water.
+- **Oversight asymmetry (fairness mandatory):** Toronto tests municipal water every 4–6 hours, 300+ contaminants; CFIA inspects bottling plants "on average once every three years" (ATTRIBUTE TO CBC 2014 — CFIA publishes no frequency). BUT Health Canada verbatim: "Quality standards for bottled water and tap water are similar. Both… are considered to be safe," and HC states no waterborne disease outbreak has ever been associated with bottled water in Canada. Headline = "less watched," NOT "less safe."
+- **Fluoride beat (50+ relevant):** most bottled water ≈ zero fluoride; spring/mineral labels must print the number (B.12.002(c)); Health Canada + Canadian Dental Association support fluoridation (root-decay relevance for seniors). Frame as trade-off, never scare.
+
+## b. What companies pay for the water (the money reveal)
+- **Ontario:** $3.71/M L base + $500/M L bottler surcharge **since Aug 1, 2017** = **$503.71 per million litres** (⚠️ NOT 2021 — that's the moratorium end date). Raw water in a 500 mL bottle ≈ **0.025¢ — 1/40th of a cent**. Aberfoyle's full 3.6M L/day permit ≈ $1,813/day in water charges.
+- **BC:** **$2.25 per million litres** — set 2016 after the Nestlé/Hope outcry, STILL $2.25 (survived every review). Raw water in a 500 mL bottle ≈ 1/10,000th of a cent — ~$1 per 890,000 bottles.
+- **Quebec:** royalties raised (Bills 42/2022 + 20/2023, "Blue Fund"); bottlers now at the top **$500/M L** tier. ⚠️ Verify exact in-force date on legisquebec before putting a day on screen.
+- **Ontario moratorium** on new bottling permits Dec 16, 2016 → **ended April 1, 2021**, replaced by municipal consent — host municipality veto over new/increased bottled-water takings ("arguably the strongest municipal water power in Canada").
+- **Toronto tap 2026:** $4.8629/m³ ≈ **0.486¢/L** — a quarter of a cent per 500 mL glass. Case spring water ~21–25¢/L ≈ **43–50x tap**; Smartwater $3.79/L ≈ 780x; Fiji up to $4.49/L ≈ **920x** (recompute on screen vs 0.486¢).
+
+## c. The Aberfoyle saga — definitive timeline (spine for Pure Life entry + Ice River winner)
+- Nestlé operated Aberfoyle (Puslinch ON, permit up to **3.6M L/day**) + Erin/Hillsburgh (1.1M L/day); 2016–17 pumped months on an EXPIRED permit (lawful while renewal pending; "over a billion litres" tally = Council of Canadians, ATTRIBUTE as advocacy).
+- Aug 2016: Nestlé finalized Middlebrook well purchase near Elora; the anonymous rival bidder was **Centre Wellington Township itself** (⚠️ "outbid the township" framing contested — Nestlé exercised a pre-existing contractual clause).
+- Opposition: Wellington Water Watchers, Save Our Water, **Six Nations of the Grand River** (June 2019 Haudenosaunee cease-and-desist — attribute "as reported by Council of Canadians"). Context: as of early 2018 only ~9% of Six Nations residents had household access to safe treated water (CBC/then-Chief Ava Hill; state year — coverage since expanded).
+- Apr 2021: Nestlé Waters NA → BlueTriton. **Nov 8, 2024:** BlueTriton/Primo announces Ontario wind-down; ~200 jobs. **Jan 31, 2025:** Puslinch property → **White Wolf Property Management ($61,154,375 per GuelphToday land-registry reporting)** — owned by James & Alexandra Gott of **Ice River Springs**. **Oct 9, 2025:** Ontario renewed permits to White Wolf — same 3.6M + 1.113M L/day. "The wells didn't retire; they changed flags."
+- **Apr 2, 2025: Centre Wellington Township bought the Middlebrook well for $1.8M from Primo** — to secure it as future MUNICIPAL supply. Save Our Water's Donna McCaw: "Now our water is 100 per cent safe." 🔥 The town that fought Nestlé for its water finally just… bought it. To drink it.
+- Quotes (attributed): Water Watchers "a monumental win"; Dr. Dawn Martin-Hill (Six Nations): "Six Nations demands compensation for the years of profit from this water taking."
+
+## d. Who actually drinks bottled (StatCan 38-10-0275-01, CSV-verified)
+- Households drinking PRIMARILY bottled water: 30% (2007) → **19% (2023)**. 2023: Manitoba 27%, NL 25%, NS 25%, ON 21%, QC 19%, AB 16%, BC 12%.
+- 🔥 CMA spread 2023: **Brantford 44%** (adjacent to Six Nations), St. Catharines–Niagara 32%, Oshawa 27%, Winnipeg 25%, KWC 25%, Toronto 19%, Vancouver 10%. "The map of bottled-water dependence is a map of distrust — and of real water problems."
+- Per-capita ~72–73 L/yr (Statista/AAFC-based — attribute as industry estimate). NO StatCan CPI series for bottled water exists — never cite one.
+
+## e. History / empathy beats
+- **Walkerton, May 2000:** E. coli O157:H7 from manure runoff into a shallow town well; **7 dead, ~2,300 ill** in a town of ~5,000. O'Connor Inquiry → Safe Drinking Water Act 2002 (licensed operators, mandatory testing) + Clean Water Act 2006. 🔥 THE empathy beat: "If you stopped trusting tap water in 2000, that was rational — and it's exactly why Ontario tap is now among the most heavily policed water on Earth."
+- **Iqaluit, Oct 2021:** fuel contamination, do-not-consume order, ~8,000 people, ~80,000 L flown in (a buried decades-old fuel tank). **Calgary 2024** Bearspaw feeder-main break = supply/conservation crisis, ⚠️ NOT a boil-water advisory — never conflate.
+- **First Nations (mandatory carve-out, respectful):** ISC as of Aug 13, 2026: **40 long-term drinking water advisories in 38 communities** (156 lifted since Nov 2015). For tens of thousands of people, bottled water IS the water supply — any "bottled water is a rip-off" framing must explicitly carve this out.
+- **Aquafina 2007:** CBC reported Canadian labels already disclosed "water from the public distribution of Mississauga [Ont.]" + a Vancouver public source. Legal, labelled — "the scandal was that nobody read it."
+- Recall record thin: 29 notices 2000–2008 (Council of Canadians summary — attribute); recent ones all Class 3. Consistent with HC "no outbreaks."
+- Emergency-preparedness guidance (Get Prepared): store 2 L/person/day — "a case in the basement is insurance, not gullibility."
+
+## f. Part 2 ranked reveals
+1. The raw water in a $2 bottle cost the company ~1/40th of a cent in Ontario — and ~1/10,000th of a cent in BC ($2.25/M L, unchanged since 2016).
+2. Only two words on a water label have legal teeth — "spring" and "mineral" (underground source, unmodified, by regulation). "Pure," mountains, glaciers = art direction.
+3. The label always confesses in the product's legal NAME: "demineralized," "distilled," "remineralized," "carbonated" = treated water, often municipal.
+4. Real spring water must print its address — B.12.002 forces the source's geographic location, minerals and fluoride onto the label.
+5. Toronto tests tap every 4–6 hours; bottling plants see CFIA on average every 3 years (per CBC) — yet Health Canada calls both safe and bottled water has zero recorded outbreaks. Less watched ≠ less safe.
+6. One in five Canadian households still drinks mainly bottled water — Brantford: 44%.
+7. The Nestlé-country saga ended Jan 2025 with the wells going to a Canadian family (Ice River's owners) — and the township bought the Middlebrook well for $1.8M to actually drink from it.
+8. Ontario ended its moratorium with a municipal veto — no new bottling permit without the host town's consent.
+9. Bottled water usually means zero fluoride, and the law makes spring water print the number — the dental trade-off nobody mentions to seniors.
+10. Walkerton (7 dead, 2,300 ill, 2000) is WHY the over-50 audience switched — and the reforms it triggered are why Ontario tap is now the most-tested water in the country.
+
+## ⛔ PART 2 DO-NOT-USE
+| Item | Why |
+|---|---|
+| "$3.71 → $503.71 in April 2021" | WRONG — surcharge dates to Aug 1, 2017; Apr 1, 2021 = moratorium end |
+| "BlueTriton sold to Ice River in 2023" | WRONG — 2020 Nestlé→Ice River deal collapsed; actual transfer = White Wolf, Jan 31, 2025 |
+| Quebec "$500/M L effective Jan 1, 2023" day-precision | Verify on legisquebec first — phased via Bills 42+20 |
+| Dasani = "Brampton/Calgary tap" as fact | Not confirmed — say "local municipal supplies, per Coca-Cola" (overrides Part 1 table) |
+| "11,000 without running water in Grand River watershed" | Advocacy figure — use CBC's "~9% of Six Nations had household access to treated water (early 2018)" with year |
+| "CFIA inspects every 3 years" as CFIA fact | Attribute to CBC News (2014) |
+| Calgary 2024 as "boil-water advisory" | It wasn't — supply emergency with use bans |
+| Market-size dollar figures | Estimates conflict wildly — skip or name the report |
+| StatCan bottled-water CPI | No such series exists |
+| Six Nations cease-and-desist quotes | Attribute "as reported by Council of Canadians" or obtain letter |
+| "Nestlé outbid the township at Middlebrook" | Contested — Nestlé exercised pre-existing contractual clause |

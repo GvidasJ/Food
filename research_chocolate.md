@@ -82,4 +82,67 @@ Part 1 = brands agent (PENDING — appended when it lands). Part 2 = regulation/
 
 ---
 
-# PART 1 — BRANDS (pending: appended when brands agent lands)
+# PART 1 — BRANDS (agent dossier, 2026-08-27)
+
+## THE TWIST: Canada's law sorted the candy aisle into two teams — and the most Canadian bars are on the "chocolatey" team.
+
+## Team REAL CHOCOLATE (verbatim, cocoa butter, standard met)
+- **Cadbury Dairy Milk (Canada):** "Milk, sugar, cocoa butter, skim milk, whole milk powder, unsweetened chocolate, butter oil, soy lecithin, artificial flavour" — 🔥 **MILK is the FIRST ingredient.** Made at Gladstone Ave, Toronto.
+- **Aero:** "Milk chocolate (sugar, modified milk ingredients, cocoa butter, unsweetened chocolate, soy lecithin, PGPR, natural flavour)" — one of the cleanest mainstream lists.
+- **Kit Kat:** real milk chocolate COATING (cocoa butter, Rainforest Alliance); the palm oil lives in the wafer filling.
+- **Smarties (45 g):** real milk chocolate inside the candy shell; natural colours; peanut-free facility; Nestlé Cocoa Plan.
+- 🔥 **Big Turk:** REAL chocolate coating (cocoa butter, no palm), coloured with black carrot — **the bar everyone jokes about passes the test.**
+- **Hershey's Creamy Milk Chocolate (Canada) + Reese cups:** real milk chocolate components (Reese also has TBHQ etc.).
+- **Snickers/Mars:** milk chocolate coating (modified palm oil in the nougat) — ⚠️ re-verify wrappers.
+- **Chips:** Hershey **Chipits "PURE Semi-Sweet"** = real; **PC The Decadent chips: "Unsweetened Chocolate, Sugar, Cocoa Butter, Soy Lecithin, Vanilla Extract" — unsweetened chocolate FIRST, ahead of sugar** (best-ordered list in the aisle); Compliments chips = real.
+
+## Team "CHOCOLATEY" (verbatim — sugar first, palm-family fats, cocoa butter demoted or absent)
+- **Caramilk (50 g) — Mondelez Canada's own database:** "Sugars (sugar, glucose syrup), Milk ingredients, **Modified palm oil**, Unsweetened chocolate, **Palm oil**, Modified vegetable oil, **Cocoa butter [7th]**, Salt…" — described by Mondelez as "creamy Cadbury **chocolatey** goodness." Same Toronto plant since 1968; the caramel "secret" intact (fairness).
+- **Coffee Crisp (50 g):** "Sugar, wheat flour, Modified milk ingredients, **Palm oil**, **Modified palm and vegetable oils**, Cocoa butter [6th], Unsweetened chocolate… " — **Nestlé's own press release: "thin chocolatey coating."** Canada-only since 1939, ~153M bars/yr, one factory on Earth (Sterling Rd).
+- **Mr. Big (60 g):** modified palm oil + hydrogenated palm oil — **cocoa butter: ABSENT.**
+- **Wunderbar (58 g):** modified palm oil + hydrogenated palm kernel oil — no cocoa butter.
+- **Crispy Crunch (48 g):** modified palm oil, no cocoa butter — 🔥 Amazon.ca sells it titled "Cadbury Crispy Crunch **Chocolatey Candy Bars**."
+- 🔥 **Crunchie — same wrapper, two products:** Canadian version = "chocolatey," NO cocoa butter; **British Crunchie = milk chocolate.** Side-by-side segment.
+- **Oh Henry! (58 g):** sugars (incl. HFCS), peanuts, modified palm/vegetable oils (shea/sunflower/safflower), modified palm kernel oil — **no cocoa butter anywhere.** And: US Oh Henry! discontinued 2019 (Ferrara); survives ONLY in Canada — Hershey-owned, different recipe. "The Americans lost it; we kept it — the palm version."
+- **Skor MINIS:** palm-based, no milk chocolate — while full-size Hershey's-with-Skor is real. Format changes the recipe.
+- 🔥 **no name "chocolatey chips"** (in cookies): "Chocolatey chips (sugar, **palm kernel oil**, cocoa, dextrose, modified milk ingredients, soy lecithin)" — the whole decode in one bracket: swap cocoa butter for palm kernel oil and "chocolate chips" must legally become "chocolatey chips."
+
+## Ownership / factories / obituaries
+- **Gladstone Ave, Toronto (Mondelez):** every Cadbury bar sold in Canada — Dairy Milk, Caramilk, Mr. Big, Wunderbar, Creme Egg, Mini Eggs (~500M bars/yr, ~350+ staff, Neilson-built 1906).
+- **Sterling Rd, Toronto (Nestlé):** Kit Kat, Aero, Smarties, Coffee Crisp — 24/7.
+- **Mars Canada:** Newmarket ON plant.
+- **Ferrero: Brantford, Ontario** — only North American plant (2006), 1,300+ jobs, C$445M expansion; first Rocher "chocolate squares" line launched Brantford Oct 2025.
+- 🔥 **Jersey Milk DISCONTINUED July 2025** (Mondelez; 101-year-old Neilson-heritage bar, "low consumer demand").
+- 🔥 **Cherry Blossom DISCONTINUED (announced late 2024/early 2025)** — Hershey sent the Montreal-born Lowney classic "to the chocolate graveyard" (CBC's phrase). Two icons lost within a year.
+- **Allan Candy:** Hershey-owned since Dec 2014 (~$28M).
+- **Laura Secord:** Leclerc/Nutriart (Quebec City) since 2010 (~$20M) — Canadian again after Labatt→Rowntree→Chicago→liquidators. Fairness/balance: mall closures continuing (Mic Mac 2025; Hamilton, Halifax, Fredericton set for Apr 2026); **July 2025 CFIA Class II recall** (chocolate chips, undeclared peanut) — state flatly. Store counts conflict — "dozens of shops, heavily concentrated in Quebec."
+- ✅ **Ganong, St. Stephen NB, 1873** — Canada's oldest candy company, 5th generation (Bryana Ganong, President & CEO); five-cent nut bar lore (attribute; dates vary 1898/1910); **heart-shaped Valentine box 1932 "first in North America" (verified per dossier)**; still makes Chicken Bones + Pal-o-Mine + Delecto.
+- ✅ **Purdys, Vancouver, 1907** — Flavelle family since 1963 (Karen Flavelle sole owner since 1997); ~80,000 Hedgehogs A DAY at the Kingsway factory; own sustainable-cocoa program since 2014.
+- **Smiths Falls (brands-side confirmation):** closure announced Feb 15 2007, closed 2008 (~500 jobs; reports 400–650), production largely to Mexico → Tweed/Canopy 2014 → **sold back to Hershey $53M (2023)** with candy/mint/gum production planned — ⚠️ "Hershey says production will return," never "is back."
+
+## Prices (indicative — re-verify every price on camera)
+- 🔥 **The singles trap:** a $1.97 single (~45 g) ≈ **$4.40/100 g** — while **Lindt Excellence 100 g = $5.97 at Walmart.ca**. The real-chocolate premium bar is barely a dollar more per 100 g than a palm-oil "chocolatey" single.
+- Ladder/100 g: bagged chips ~$0.60–1.20 → family bars ~$2.30–3.50 → **singles ~$3.50–5.00 (worst per-gram value in the aisle)** → Lindt $5.97–7.99 (documented) → Purdys/Laura Secord ~$8–12 (⚠️ unverified).
+- Only source-documented prices: Lindt $5.97/$6.99/$7.99; Crunchie $1.25 No Frills promo.
+
+## Recalls (CFIA — fairness: "the system working," no deaths per cited coverage)
+- Ferrero Kinder Salmonella recall Apr 2022 (23 products, Belgium-made, no Canadian illnesses reported); "Dubai chocolate" pistachio/Salmonella recalls 2025; Laura Secord/Nutriart peanut recall Jul 2025 (Class II); Cadbury Dairy Milk Mini Bars undeclared hazelnut (pull date from notice); historical: Hershey Smiths Falls Salmonella Nov 2006.
+
+## Shrinkflation (brands-side): Cadbury Creme Egg **39 g → 34 g (−12.9%)** (Retail Insider op-ed, attribute); current singles for the record: Aero 42 g, Crunchie 44 g, Kit Kat 45 g, Crispy Crunch 48 g, Caramilk 50 g, Coffee Crisp 50 g, Oh Henry! 58 g, Wunderbar 58 g, Mr. Big 60 g.
+
+## ⛔ PART 1 DO-NOT-USE
+| Item | Why |
+|---|---|
+| "Caramilk can no longer legally call itself chocolate" | Substack/Grokipedia-sourced — NOT a regulator statement. Use: verbatim list + Mondelez's own "chocolatey goodness" wording + **read the wrapper's printed common name ON CAMERA** |
+| Front-label common names for Mr. Big/Wunderbar/Crispy Crunch/Crunchie | Ingredient lists + marketing wording verified; printed common names NOT — buy the bars, show them |
+| Where Hershey/Reese/Oh Henry! are physically made today | Unverified; Smiths Falls restart status unverified — "Hershey says production will return" |
+| Great Value Canada chips wording | Blocked — do not use (US GV chips are real chocolate — not transferable) |
+| Selection chips ingredients; standalone no name chocolatey-chips bag | Unverified — the verified example is inside no name cookies |
+| Easter hollow-figure decode (Palmer etc.) | US-only verified — buy Canadian seasonal items and read on camera |
+| Historic Canadian bar sizes ("used to be 52 g") | Undocumented except Creme Egg 39→34 g (attributed) and UK-only cases |
+| Most exact prices | Only Lindt + one Crunchie promo documented — re-price on camera |
+| Smiths Falls "500 jobs" as fact | "Roughly 500, with reports ranging from 400 to 650" |
+| Ganong nut-bar year as fact | Lore, dates vary — "Ganong says," "by most accounts" |
+| Laura Secord store count | Conflicting — "dozens of shops" + count from their own locator |
+| Cocoa Life logo on Canadian Cadbury wrappers | Check pack (Kit Kat/Smarties Rainforest Alliance IS verified) |
+| 2009 Caramilk reformulation complaints | Grokipedia-sourced — attribute or omit |

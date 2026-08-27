@@ -1,10 +1,11 @@
 # SCRIPT — Chocolate
 
-TITLE: Canadians Must AVOID These 8 "Chocolate" Bars (Only 3 Are ACTUALLY Real Chocolate)
+TITLE: We Investigated 11 Canadian "Chocolate" Bars (Only 3 Are ACTUALLY Real Chocolate)
 
 ALTERNATES:
-- Canadians Must AVOID These 8 "Chocolatey" Bars (The Word on the Wrapper Is a Legal Confession)
-- Your Favourite Canadian Chocolate Bar Isn't Legally Chocolate — We Read Every Label
+- I Investigated Every Famous "Chocolate" Bar In Canada (Most Aren't Legally Chocolate)
+- I Investigated Caramilk, Coffee Crisp & 9 More "Chocolate" Bars (Only 3 Are Real)
+- Canadians Must AVOID These 8 "Chocolate" Bars (Only 3 Are ACTUALLY Real Chocolate)
 
 ---
 
@@ -34,4 +35,4 @@ So here's the whole candy aisle in one test, and it takes five seconds. Turn the
 
 CHARACTER COUNT: 21,062 (narration body, excluding title/alternates/footer)
 
-TITLE COUNT NOTE: the 8 "Chocolate" bars = Caramilk, Coffee Crisp, Oh Henry!, Mr. Big, Wunderbar, Crispy Crunch, Crunchie (Canadian version), no name chocolatey chips. The 3 ACTUALLY real winners = Cadbury Dairy Milk, Laura Secord, Ganong (with Aero/Smarties/Kit Kat coating/Big Turk/Purdys named on air as also passing).
+TITLE COUNT NOTE: the 11 investigated = 8 "chocolatey" (Caramilk, Coffee Crisp, Oh Henry!, Mr. Big, Wunderbar, Crispy Crunch, Crunchie Canadian version, no name chocolatey chips) + 3 real winners (Cadbury Dairy Milk, Laura Secord, Ganong). Aero/Smarties/Kit Kat coating/Big Turk/Purdys named on air as also passing.

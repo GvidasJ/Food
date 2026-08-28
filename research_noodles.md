@@ -124,4 +124,57 @@
 ---
 
 # PART 2 — REGULATION, SODIUM LAW & ECONOMICS
-*(pending second agent — to be appended)*
+### (FDR quotes from Justice Laws consolidation current to 2026-06-21)
+
+## 2.1 STANDARDS: no Canadian standard for "noodles" — the egg rule is AMERICAN
+- Canada has **no standard of identity for "noodles" / "instant noodles" / "pasta"** — not in old FDR Division 13, not in the new CFCS volumes (SOR/2024-244, in force Dec 18, 2024 — "same law, new address"; Volume 12 Grain & Bakery has zero occurrences of "noodle"/"pasta").
+- The only egg rule: **FDR B.13.051** (verbatim): "No person shall sell macaroni, spaghetti, noodles or similar alimentary pastes, as egg macaroni, egg spaghetti, egg noodles or egg alimentary pastes, respectively, unless they contain, on the dry basis, not less than four per cent, egg-yolk solids…" — only the NAME "egg noodles" triggers the 4% egg-yolk minimum.
+- **US contrast (the reveal): 21 CFR 139.150** — in the US "Noodles" IS a standardized food: "The total solids of noodle products contains not less than 5.5 percent by weight of the solids of egg, or egg yolk." On-camera line: in the US a bag labelled just "noodles" legally needs egg; in Canada it doesn't — your egg-free instant "noodles" are perfectly legally named here. (Farkay, the Canadian winner, contains actual egg — would pass the US standard.)
+- **Enriched flour beat:** CFIA: "All foods sold in Canada that contain white flour must be made with enriched white flour" — imported products included (FDR B.13.001: thiamine/riboflavin/niacin/folic acid/iron per 100 g). A noodle block fried in Guangdong still has to use enriched flour to be sold here.
+
+## 2.2 FOP "HIGH IN SODIUM" SYMBOL — the January 1, 2026 beat
+- FDR B.01.350 (SOR/2022-168). Sodium DV = 2,300 mg. Thresholds: **15% DV = 345 mg** (RA > 30 g, not main dish — instant noodles' case); 10% = 230 mg (RA ≤ 30 g); 30% = 690 mg (main dish RA ≥ 200 g). Instant noodles are NOT a "main dish" (B.01.001: main dish = combination dish per Table of Reference Amounts; noodles are listed as pasta/soup categories).
+- Reference amount: TRA item **C.8 "Pastas, noodles, all varieties… 85 g dry / 215 g cooked"**; item C.9 (ready-to-eat fried chow-mein toppers) 25 g.
+- **B.01.350(2):** percentage calculated "per serving of stated size or per reference amount, whichever is greater" ⇒ whole-pack sodium is what's judged.
+- CFIA: **"There will be no enforcement discretion after January 1, 2026."**
+- Multiples (OUR ARITHMETIC — plug in filmed label number): threshold 345 mg vs full packs: 1,100 mg = 3.2×; 1,400 mg = 4.1×; 1,790 mg = 5.2×; 1,900 mg = 5.5×. Even vs the lenient 690 mg main-dish bar: 1.6–2.8×.
+- Retail instant noodles get NO exemption (ingredient-use carve-out covers commercial "dried soup mix" etc. only).
+
+## 2.3 SERVING-SIZE LAW — the half-block trick is ILLEGAL in Canada (key cross-correction to Part 1)
+- **FDR B.01.002A(1)(b)(ii):** serving of stated size = "the net quantity of the food in the package… if the package contains less than 200% of the reference amount for the food."
+- Math: 200% × 85 g RA = **170 g**. Mr. Noodles (85 g), Sapporo (100 g), Shin (120 g), Buldak (140 g) are ALL under 170 g ⇒ **Canadian Nutrition Facts must show the WHOLE PACKAGE as the serving.** A "serving: ½ block" on such a pack is a US-format label, not a compliant Canadian one.
+- REINTERPRETS Part 1's "half-block trick map": the ½-serving labels found (Mr. Noodles 43 g via Dizin, Maruchan, Shin US 4-pack) are US-format/legacy labels. THE BEAT: America lets the half-block dodge run; Canadian law bans it at these pack sizes — flip a Canadian bag and the whole-pack number must be right there. MANDATORY: on camera, read the CANADIAN bag's NFT; don't accuse any brand of using the trick on Canadian shelves — say "on American labels you'll see half-block servings; Canadian law requires the whole package here."
+
+## 2.4 SODIUM REDUCTION TARGETS — asked twice, met once (partially)
+- Health Canada voluntary targets, category **9a "Canned, dried, and refrigerated soups"** — description explicitly includes "fresh and **instant oriental noodle soups**."
+- 2012–2016 targets (mg/100 g as consumed, sales-weighted): baseline 289 → Phase III target 240; **2017 measured: 266 — "Met the Phase I interim target"** only.
+- 2018 evaluation verbatim: "Only 14% of food categories met the targeted reduction. In total, 48% did not make any meaningful progress"; "77% of sodium in Canadians' diet comes from processed food."
+- 2020–2025 targets: category 9a re-issued at **240 mg/100 g target, 320 mg/100 g maximum** (as consumed). Voluntary — no penalty.
+- Context math (ours): 85 g pack @1,400 mg in ~585 g prepared ≈ 239 mg/100 g (at the line); 1,790 mg ≈ 298 mg/100 g (near/over the maximum).
+
+## 2.5 ADDITIVES LAW — "legal in Canada, listed right there"
+- **TBHQ:** Health Canada List of Permitted Preservatives, item **T.1A Tertiary Butyl Hydroquinone** — permitted in "Fats and oils…; Lard; Shortening" at max "0.02%" (200 ppm of the fat; combined cap with BHA/BHT/propyl gallate). Rides into the noodle via the frying oil. (T.1A row verified on archived 2017 list; current list still names TBHQ in B.2/B.3 cross-references — RE-PULL LIVE PAGE before a close-up "item T.1A" claim.)
+- **MSG:** must be declared by common name (FDR B.01.008.2(3)(a); CFIA List C "never exempt from declaration"). CFIA claims rule verbatim: "Claims pertaining to the absence or non-addition of monosodium glutamate such as 'contains no M.S.G.', 'no M.S.G. added' and 'no added M.S.G.' are **considered misleading and deceptive when other sources of free glutamates are present. These include hydrolyzed vegetable protein, soya sauce or autolyzed yeast extracts.**" (Hook: FDA s. 5(1).) → the Nissin Cup Noodles "No MSG" flash + hydrolyzed corn/soy protein + yeast extract is the perfect on-camera pairing. MSG is not a priority allergen — a declaration rule, not a danger.
+- **Caramel colour:** List of Permitted Colouring Agents item C.3 — lawful in unstandardized foods at GMP.
+- Propylene glycol: NOT verified for noodles — omit.
+
+## 2.6 ECONOMICS & CANADIAN ANGLES
+- **WINA Global Demand (updated Aug 6, 2026):** **Canada rank #33 — 200 million servings/year, flat 2021–2025.** Global 2025: 124.2 billion. Top: China/HK 43,268M; Indonesia 14,540M; India 9,601M; Vietnam 8,231M; Japan 5,952M; USA 5,227M; S. Korea 4,061M.
+- **Per-capita (our computation):** 200M ÷ 41.42M (StatCan Apr 1 2026) ≈ **4.8 servings per Canadian per year** — about one pack every 2½ months; South Korea leads the world at ~75–80.
+- **CANADIAN WHEAT REVEAL (the Kikkoman-soybeans beat):** Cereals Canada verbatim — CWRS is "ideal for… noodles and Asian product applications"; **CPSR "ideal for… instant noodles, and white salted noodles."** "An impressive 28.6 million tonnes of Canadian wheat is expected to reach over 80 international markets in 2025-2026." Exports (avg 2020–2024): **Indonesia — home of Indomie — 2.1 million tonnes, $818 million; Japan 1.7 million tonnes, $720 million.** Framing: Canada's #33 noodle appetite vs millions of tonnes of Canadian wheat coming back as other countries' noodles.
+- **StatCan doesn't track instant noodles** in Table 18-10-0245-01 (closest: dry pasta 500 g, $3.39 June 2026) — the cheapest meal in the store is invisible to the official food-price basket. Use Part 1 retailer prices "at time of research"; capture receipts on camera.
+- **Real CFIA recalls (allergens, not contaminants):** **Baixiang** instant noodles recalled **July 3, 2024** for undeclared **peanut** (Class 1; AB/BC/ON; "triggered by a consumer complaint"; "no reported reactions"). **Nissin Big Cup Noodle** recalled **March 28, 2025** (importer Watson Enterprises): undeclared **shrimp** (101 g) and undeclared **peanut** (Curry 120 g); AB/BC/MB/SK + online.
+- **Buldak/Denmark:** June 2024 DVFA recalled 3 products over capsaicin ("risk of acute poisoning"); July 2024 partially lifted after DTU reassessment (2 returned; **3x Spicy stayed recalled**). **Canada's recall database: "No results found" for "buldak"** (checked 2026-08-28) — the contrast is a regulatory-choices beat, never a danger claim.
+
+## 2.7 HISTORY BEATS (verified)
+- **Aug 25, 1958:** Momofuku Ando launches Chikin Ramen — flash-frying was the preservation breakthrough. **Sep 18, 1971:** Cup Noodles.
+- **Sapporo Ichiban:** brand launched Japan 1966; Sanyo Foods Corp. of America (Garden Grove, CA, est. 1978) "manufactures Sapporo Ichiban for the United States and Canadian market" (sanyofoodsamerica.com) — the "Japanese" ramen on Canadian shelves is made in California.
+- **Anderson Watts Ltd. established 1977**, Vancouver-area — Mr. Noodles a Canadian staple since the late 1970s. Safe phrasing for arrival of instant noodles in Canada: "on Canadian shelves since at least the late 1970s" — do NOT name a specific first brand/year.
+- **KD rivalry: SKIP as head-to-head** (no comparable stat). If used at all: two separate on-screen datasets (media-reported ~90M KD boxes/yr, 2015-era vs WINA 200M servings) — different metrics/years; safer to omit.
+
+## PART 2 UNVERIFIED / DO-NOT-USE
+- Mr. Noodles "manufactured by Beltek Foods, Huizhou, China" — **Wikipedia-only.** MANDATORY on-camera treatment: read the package's "imported by Anderson Watts" line and country-of-origin marking; phrase as "imported by a Vancouver company — check the fine print for where it's actually made."
+- Exact first arrival of instant noodles in Canada; CWRS 15–30% blend claims (blocked trade press); propylene glycol; KD box figures as comparison; DVFA Danish-language originals (facts rest on Time/NBC/Korea Times); live T.1A row (re-pull before filming close-up); retailer prices beyond Part 1's captured listings.
+
+## KEY PRIMARY SOURCES
+FDR consolidation (laws-lois.justice.gc.ca c.r.c., c. 870); SOR/2024-244 Gazette 2024-12-18; CFCS document + CFIA crosswalk; CFIA unenriched-flour page; CFIA FOP page + Health Canada FOP industry guide v2 PDF; Table of Reference Amounts (2024); sodium targets 2020-2025 + 2018 evaluation; Permitted Preservatives list (T.1A); CFIA composition-and-quality (MSG claims) + list-of-ingredients pages; WINA instantnoodles.org demand table; cerealscanada.ca; StatCan 18-10-0245-01, 17-10-0009-01; recalls-rappels.canada.ca (Baixiang, Nissin Big Cup); 21 CFR 139.150.

@@ -70,4 +70,59 @@
 ---
 
 # PART 2 — REGULATION, MSM LAW, NITRITES, FOP & ECONOMICS
-*(pending second agent — to be appended)*
+### (Verbatim from Justice Laws / CFIA / Health Canada / Gazette / StatCan, retrieved Aug 29, 2026)
+
+## 2.1 THE LEGAL WIENER — Canadian Standards of Identity Vol. 7 (SFCR), Table 2 Part A item 11
+- Standardized names sharing one standard: "Sausage (ready-to-eat), Salami, **Wiener, Frankfurter**, Bologna, Pepperoni…" ("Hot dog" itself is NOT a standardized name — brands use it as a known name; the product must meet the wiener/frankfurter standard.)
+- Mandatory ingredients: "**Boneless meat or meat by-product or mechanically separated meat, or any combination of them.**" Optional: "Preservative / **Filler** / … / Sweetening agents / … / Salt / Water…" Process: "**Comminuted and cured**, and one or more of: smoked, cooked, dried, fermented." Content: "**Min. 9.5% meat product protein / Min. 11% total protein.**"
+- **THE EPISODE'S CENTRAL LAW — "cured" defined (Vol. 7 s. 1, verbatim):** ""cured"… means that salt and **at least 100 p.p.m. of sodium nitrite, potassium nitrite, sodium nitrate or potassium nitrate, or any combination of them, has been added** to the meat product." ⇒ A wiener legally MUST be cured. There is no nitrite-free wiener in Canada — only different sources of the nitrite.
+- "Filler" defined (Vol. 7 s. 1): "milk, egg, yeast or vegetable material… that is not visibly distinguishable after it is added… does not include beetroot, tomato or food additives other than modified starches." (Wheat flour, corn starch, milk ingredients, soy protein on wiener labels = legal fillers.)
+- NO numeric max-water % exists in the current standard — DO NOT script one. The limits are the protein minimums + FDR B.14.030 (meat protein not less than 1.5 points below total protein requirement).
+- SOR/2024-244 context: old FDR B.14.032 wiener standard repealed Dec 18, 2024; meat standards now CFCS **Volume 13** (Volume 14 is SALT — never cite Vol 14 for meat) + Standards of Identity Vol. 7.
+- Charm beat (CFCS Vol. 13, verbatim): "**13.5.1 Wieners and Beans… contains not less than 25% wieners**" vs "**13.5.2 Beans and Wieners… not less than 10% wieners**" — the word order on the can is legally load-bearing.
+
+## 2.2 MECHANICALLY SEPARATED MEAT — the law
+- Vol. 7 s. 1 (verbatim): ""mechanically separated meat" means an edible meat product… obtained by removing most of the bone and cartilage from a comminuted meat product from which the bone and cartilage was not previously removed and that does not contain **more than 0.027% calcium for every 1% protein or any bones or bone fragments larger than 2 mm**."
+- **MSM is legally NOT "meat":** ""meat"… **does not include… mechanically separated meat**." ⇒ earns the title's scare quotes.
+- Declaration: CFIA meat-labelling page — MSM declared in the ingredient list by name and proportion: "Mechanically separated chicken, Water, …" etc. The front name stays "Wieners"; only a product SOLD AS MSM must be named "Mechanically Separated (species)" (min 14% protein at retail).
+- "Finely textured meat": separate defined category (≤0.15% calcium, no skin, 1.5 mm) — Canada's closest analogue to US "advanced meat recovery" (which USDA lets be labelled simply "beef/pork"). Safe framing: "different countries draw the meat/MSM line differently, using calcium content and bone-particle size." Do NOT say "pet food."
+
+## 2.3 NITRITES — limits & the celery question
+- Max input: 200 ppm per batch (120 ppm side bacon) — Health Canada List of Permitted Preservatives items P.7/P.8 + CFIA nitrites page verbatim: "the maximum input level of sodium nitrite salts is 20 g per 100 kg of meat product, i.e. … 200 ppm."
+- **CFIA on celery (verbatim, inspection.canada.ca/en/preventive-controls/meat/nitrites):** "**Cultured celery powder… can be used as an alternative source of nitrites** in the production of cured or fermented meat products. Cultured celery powder **contains preformed nitrites** produced by bacterial action on nitrates present in the celery product. It is important to know the level of preformed nitrites… to achieve the minimum levels of nitrites (100 ppm, CSI Vol 7) needed to cure the product without exceeding the maximum allowable limit (200 ppm…)."
+- CFIA claims page (verbatim): "no preservatives" claims permitted only if none of the listed preservatives added/carried over; "Ingredients, such as cultured whey, cultured dextrose, cultured skim milk, can be specifically manipulated to contain high levels of… These ingredients can act as preservatives. **If foods contain these ingredients, claims pertaining to the absence of preservatives are not appropriate.**"
+- IMPORTANT LIMIT: no CFIA sentence names CELERY in the claims guidance or calls celery-cured claims "misleading" — quote the two passages SIDE BY SIDE and let the viewer connect. CBC 2012 quote (Part 1) carries the naming: "For all intents and purposes it is bio-chemically identical."
+- Do NOT say nitrites are "Class 2 preservatives" (old FDR vocabulary).
+
+## 2.4 FOP "HIGH IN" SYMBOLS — wieners trigger BOTH (Jan 1, 2026)
+- FDR B.01.350; thresholds for RA > 30 g: **15% DV sodium (= 345 mg)** AND **15% DV saturated+trans fat (= 3 g)**; judged "per serving of stated size or per reference amount, whichever is greater."
+- Reference amount: TRA item **L.5 "Sausage products… wieners… frankfurters…" — 75 g uncooked; 55 g cooked** (ready-to-eat wieners ⇒ 55 g).
+- OUR COMPUTATION (label as such): Maple Leaf Original 38 g wiener = 370 mg Na, 3 g sat+trans → scaled to 55 g RA: **~535 mg Na (23% DV)** and **~4.3 g sat (22% DV)** → BOTH symbols. Cross-check CNF food 5705 (wiener, mixed meats): per 55 g ≈ 607 mg Na (26%), 4.37 g sat (22%). Compliance: "transition period… ending on January 1, 2026" (SOR/2022-168 RIAS). Two wieners ≈ double.
+- Health Canada consumer page: symbol is "black and white… a magnifying glass."
+
+## 2.5 "ALL BEEF" / EXTENDED / SIMULATED
+- CFIA (verbatim): ""pure", "100%" or "all"… are acceptable provided the **meat product ingredients** have been derived exclusively from the animal species indicated" — the claim modifies the MEAT portion; legal fillers ride along (⇒ Lesters "All Beef" with wheat flour + soy is legal — the myth-bust). Even: "a "100% Beef Sausage" is not permitted to be wrapped in a natural casing derived from any other species."
+- Extended meat products (soy-extended): FDR B.01.102 — protein sources must appear IN THE NAME, same size/prominence.
+- Veggie dogs: FDR B.01.100 — "simulated (name)" + "contains no meat" on PDP + B.14.087 fortification; CFIA: "veggie burger… soy sausage" escape the regime when they don't look like meat; ""vegetarian", "veggie", "plant-based"" claims OK if not equating to meat.
+
+## 2.6 MAPLE LEAF 2008 LISTERIOSIS — HANDLE WITH CARE (empathy/history beat)
+- **Products were ready-to-eat DELI MEATS from the Bartor Road, Toronto plant (Est. 97B) — NOT hot dogs. NEVER implicate wieners.**
+- Facts: 57 confirmed cases; deaths: 20 (Health Canada, as of Dec 10, 2008) / "22" (July 2009 Weatherill coverage) / 24 (2015 peer-reviewed final). MANDATORY phrasing: "at least 22" or give the range — never a flat single number.
+- Weatherill Report July 2009: **57 recommendations**; "a void in leadership"; ~$27M class settlement (CBC/Globe); outbreak cost ≈ $242M (peer-reviewed).
+- McCain apology (Globe verbatim): "Going through the crisis, there are two advisers I've paid no attention to. The first are the lawyers, and the second are the accountants. It's not about money or legal liability – this is about our being accountable for providing consumers with safe food." Named **Canadian Press Business Newsmaker of the Year 2008** (verified) — NOT "top PR move" (unverified phrase).
+- Frame: why Canada's meat-plant Listeria controls and recall machinery look the way they do.
+
+## 2.7 ECONOMICS & CANADIANA
+- **StatCan 18-10-0245-01 tracks "Wieners, 400 grams"** (predecessor table tracked 450 g — the basket item itself shrank; different methodologies, DON'T present as a price drop): Jan 2017 $3.12 → Jan 2025 $3.94 → peak $4.58 (Mar 2026) → **June 2026: $4.01/400 g**.
+- **Maple Leaf Foods fact sheet (attribute):** "In 2021, Canadians purchased **40 million kilograms** of hot dogs. On average, Canadians buy **8 packs** of hot dogs per year! **77% of Canadian households** purchased hot dogs in 2021." + "34 types of hot dogs across 10 different brands."
+- Costco: US$1.50 since 1985 (US, NPR); Canada $1.50 CAD "unchanged since the early 1980s" (Daily Hive) + **36.6M hot dogs sold in Canada 2025**; CEO Vachris "as long as I'm around"; CFO Millerchip "the $1.50 hot dog price is safe." Do NOT state a precise Canadian start year.
+- Buns mismatch, Canadian version: Dempster's sells 8-packs AND 12-packs; the US "10 vs 8" trope doesn't map — here it's 12 wieners vs 8 buns, or no mismatch at all. (Per-brand wiener counts unverified — check packs at shoot.)
+- Toronto street meat: Globe (2012): "In 2007, the province eased a regulation that limited street vendors to selling hot dogs, sausages and a handful of other pre-cooked items" — why "street meat" = precooked sausage for decades.
+- Harvest Meats "Yorkton, Saskatchewan, Canada since 1928"; Schneiders giant sign over Kitchener since 1961.
+- **CFIA recalls (primary):** Lafleur Original Wieners 450 g — Class 3, "texture and appearance issues," May 2022 (Olymel). Compliments & Selection CORN DOGS — Listeria, Class 2, published Aug 21, 2026 (recalling firm O Mets Chinois — corn dogs, warehouse-level QC; distinct product, be precise). Mount Brydges Debrecziner sausages — undeclared mustard, Apr 2026.
+
+## PART 2 UNVERIFIED / DO-NOT-USE
+- Sodium-nitrite "S." row verbatim of the preservatives list (page truncated — P.8 potassium rows + CFIA page carry the 200 ppm cap safely); CFIA naming celery in claims guidance; "Class 2 preservatives"; Costco Canada price-history details; per-brand pack counts; "150 million hot dogs/year" floating totals; Ontario Reg. 562 verbatim; flat "22 deaths"; "top PR move" award; TRA/preservatives quotes eyeball-verify before final cut; FO-36 method contents.
+
+## KEY PRIMARY SOURCES
+Canadian Standards of Identity Vol. 7 (inspection.canada.ca); CFCS Vol. 13; FDR consolidation (B.01.100/102/350, B.14.001/030/076/087); CFIA meat-and-poultry labelling page; CFIA nitrites preventive-controls page; CFIA composition-and-quality claims page; Health Canada Permitted Preservatives / TRA item L.5 / Daily Values / CNF 5705; SOR/2022-168 + SOR/2024-244 Gazette; StatCan 18-10-0245-01 (+ discontinued 18-10-0002-01); recalls-rappels.canada.ca; Health Canada 2008 Lessons Learned; Weatherill Report coverage; Globe and Mail McCain profile; Maple Leaf fact sheet PDF; Daily Hive/NPR/blogTO (Costco).

@@ -9,7 +9,84 @@
 ---
 
 # PART 1 — BRANDS & LABELS
-*(pending brands agent — to be inserted)*
+### (Source grades: [BRAND] = brand's own Canadian site; [RETAILER] = Voilà/Loblaw transcription — re-read package; [OFF/RESELLER/SNIPPET] — must re-read package on camera. Prices Aug 31, 2026, mostly Voilà/Sobeys.)
+
+**POPULARITY: no public Nielsen/Circana Canadian ranking exists.** NEVER say "Canada's #1 cereal." Safe framing: "the biggest shelf presence in every Canadian store." Order by ubiquity: Honey Nut Cheerios → Frosted Flakes → Froot Loops → Lucky Charms → Mini-Wheats → Raisin Bran → Vector → Life/Harvest Crunch → Corn Flakes (+store brand) → Shreddies (honourable segment) → winners.
+
+## 1. HONEY NUT CHEERIOS (General Mills) — the flagship
+- Verbatim [RETAILER — Voilà]: "Whole grain oats, **Sugars (sugar, honey, golden syrup)**, Corn starch, Salt, Calcium carbonate, High monounsaturated canola…, Trisodium phosphate, Tocopherols, Natural almond flavour, Monoglycerides, Vitamins and minerals: Iron, Niacinamide (B3), Calcium pantothenate (B5), Pyridoxine hydrochloride (B6), Folate."
+- **12 g sugars per 1 cup (37 g)** → FOP: RA 30 g bucket ⇒ 10 g trigger; 37 g serving counts in full ⇒ **SYMBOL REQUIRED** (Part 2 math). Plain Cheerios: **1 g per 27 g** — 12x contrast on the same shelf, both verified labels.
+- Fortification beat: US Cheerios lists calcium, C, A, B12, D3, zinc; Canadian lists five B-vitamins+iron only (Part 2 law).
+- General Mills: no Canadian cereal plant found; GM's own story: Manitoba oats → milled Minneapolis → made Cedar Rapids, Iowa. READ "imported by" line on camera before asserting.
+- Prices: HNC $6.49/430 g; plain Cheerios $6.49/350 g ($1.85/100 g). PC Honey Nut Oat O's $4.50–6.50 comparison [SNIPPET].
+
+## 2. FROSTED FLAKES (WK Kellogg → FERRERO)
+- Verbatim [OFF + SmartLabel — re-read]: "Milled corn, **Sugars (sugar, corn and barley malt extract)**, Salt, **Riboflavin (for colour)**, Vitamins and minerals: Iron, Niacinamide, Thiamine hydrochloride, **Cholecalciferol (vitamin D3)**, D-Calcium pantothenate, Pyridoxine hydrochloride, Folic acid."
+- **14 g sugars per 1 cup (38 g)** ⇒ **SYMBOL REQUIRED.** Flakes coloured with riboflavin.
+- **OWNERSHIP BOMBSHELL (verified):** Kellogg Company split Oct 2, 2023 → WK Kellogg Co (cereal); **Ferrero completed its US$3.1B acquisition of WK Kellogg Co on February 12, 2026** — Frosted Flakes, Froot Loops, Rice Krispies, Corn Flakes, Special K, Mini-Wheats in Canada are now sold by a subsidiary of the Italian Nutella company (ferrero.com release + Food Business News).
+- Plant spine: Kellogg Canada born London, ON 1924; **London plant closed Dec 2014 (~500 jobs)** — CBC last-box-with-hidden-note story; site now "100 Kellogg Lane." **Belleville, ON plant OPEN** (2008, ~$100M; Mini-Wheats, Bran Buds, Kashi confirmed-by-news) and taking MORE production per Aug 2024 announcements. Froot Loops/Frosted Flakes "Prepared in Canada" per Loblaw copy [SNIPPET] — RESOLVE ON CAMERA via each box's made-in/imported-by line; Special K/Rice Krispies/Corn Flakes/Vector reported imported (uncited blog — read boxes).
+- Price: $6.29/355 g Voilà ($4.99 Superstore snippet).
+
+## 3. FROOT LOOPS — the first ingredient is "Sugars"
+- Verbatim [RESELLER — re-read]: "**Sugars (sugar, maltodextrin)**, whole grain corn flour, wheat flour, whole grain oat flour, degerminated corn flour, corn bran, oat hull fibre, hydrogenated coconut and vegetable oil, salt, **concentrated carrot juice (for colour), anthocyanin, annatto, turmeric**, natural flavour, **concentrated watermelon juice, concentrated blueberry juice, concentrated huito juice (for colour)**, stevia leaf extract, Vitamins and minerals: … cholecalciferol (vitamin D₃)…"
+- **THE LAW MADE IT UNDENIABLE:** first ingredient = grouped "Sugars" (B.01.008.3). Meanwhile retailer copy says "no artificial flavours or colours, is made with whole grains and is a source of fibre" [SNIPPET] — claim-vs-first-ingredient contrast.
+- **14 g per 1 cup (39 g)** ⇒ **SYMBOL REQUIRED.**
+- COLOURS TWIST (verified): Canadian version uses vegetable-juice colours; US version has used Red 40/Yellow 5/Blue 1/Yellow 6 (McGill, Nov 2024: "Kellogg's does use artificial colours in its US cereals, while in Canada it opts for natural ones"). WK Kellogg announced Aug 6, 2026 it will remove FD&C colours from US cereals by end-2026. And synthetic colours are LEGAL in Canada (Part 2) — marketing outran the law here.
+- Vitamin D3 present via TMAL mechanism (Part 2 nuance). Price: $6.29/320 g.
+
+## 4. LUCKY CHARMS (General Mills) — the counter-example
+- Verbatim [RETAILER — Voilà; POSSIBLY PRE-2021 LABEL, re-read]: "Whole Grain Oats, Sugar And/Or Golden Sugar, Corn Starch, Corn Syrup, Dextrose, Salt, Calcium Carbonate, **Gelatin**, Trisodium Phosphate, … **Colour (Includes Tartrazine)**, Tocopherols, Natural And Artificial Flavour…"
+- NOTE: sugars appear UNGROUPED in this transcription — likely an outdated render; if the current box shows them ungrouped, that's its own story; READ CURRENT BOX. Tartrazine + gelatin + artificial flavour = the "Canada isn't all vegetable juice" counter-beat.
+- 12 g per 36 g ⇒ symbol candidate. **$7.29/300 g = $2.43/100 g — most expensive per gram of the big brands.**
+
+## 5. MINI-WHEATS (WK Kellogg/Ferrero) — made in Belleville, escapes the symbol
+- Verbatim [OFF — re-read]: "Whole grain wheat, Sugars (sugar, brown rice syrup), **Gelatin**, BHT." Brand claim "made with 100% whole grain" — first ingredient matches.
+- 11 g per 23 biscuits (55 g) — biscuit RA 55 g ⇒ 15 g trigger ⇒ **escapes**. Gelatin-on-a-wheat-cereal label fact. MADE IN BELLEVILLE, ONTARIO (news-confirmed) — the Ontario-made beat.
+
+## 6. TWO SCOOPS RAISIN BRAN — the coated raisins
+- Verbatim [OFF/SmartLabel — re-read]: "Whole grain wheat, **Raisins (sugar, palm oil)**, Wheat brans, Sugars (sugar, corn and barley malt extract), Salt, Vitamins and minerals…"
+- **The raisins themselves are listed with sugar and palm oil** — the two-scoops are pre-coated. 14 g/55 g — NEAR the 15 g line: DO NOT call the symbol either way (rounding unverified); "check your box's front panel."
+- Size churn: 425 g and 375 g SKUs coexist [SNIPPET] — shelf-check beat.
+
+## 7. VECTOR — five sugars in one bracket, legally a "meal replacement"
+- Verbatim [RETAILER — Voilà]: "Rice, Whole Grain Wheat, **Sugars (Sugar, Corn Syrup, Blackstrap Molasses, Honey, Malted Barley Syrup)**, Roasted Soybeans, Vegetable Oil, Soy Protein Concentrate…"
+- FIVE sweeteners, one bracket — the grouping law making the stack visible in a single line (best visual of the mechanism). Sold as a "meal replacement" (label directions: 55 g cereal + 200 mL skim milk). 10 g/55 g ⇒ escapes symbol. $6.99/400 g.
+
+## 8. QUAKER (PepsiCo) — Life & Harvest Crunch + the Peterborough story
+- **Life** verbatim [RETAILER]: "Whole Grain Oat Flour, Sugar, Corn Flour, Whole Grain Wheat Flour, Salt…" — 10 g/49 g. $5.99/450 g.
+- **Harvest Crunch** verbatim [RETAILER]: "Whole Grain Rolled Oats, Rolled Whole Wheat, Brown Sugar, Modified Milk Ingredients, Dried Coconut, Coconut Oil, Almonds, Honey Blend, Natural Flavour." — **23 g sugars per 1-cup (100 g) serving** — the largest stated serving in the aisle. $5.99/475 g.
+- PepsiCo official: "two Quaker plants: Trenton (Ontario) and Peterborough (Ontario)." Peterborough since **1902**; **Dec 11, 1916 dust explosion killed 23** (Part 2). Quaker recall Jan 2024 (Salmonella, granola bars/cereals, national) — Part 2.
+
+## 9. CORN FLAKES vs COMPLIMENTS — the 3.2x price beat
+- Kellogg's Corn Flakes verbatim [RETAILER]: "Milled Corn, Sugars (Sugar, Corn And Barley Malt Extract), Salt, Riboflavin (For Colour)…" — 3 g/29 g. **$6.29/340 g = $1.85/100 g.**
+- **Compliments Corn Flakes** verbatim [RETAILER]: "Flaked Milled Corn, Sugars (Sugar, Barley Malt Extract), Salt, Ferrous Fumarate (Iron), Riboflavin (Colour)…" — **$3.99/680 g = $0.59/100 g. Same-store, same-day: Kellogg's costs 3.2x more per gram for near-identical recipes.**
+- CFIA decoder (Part 2): corn flakes are a "refined cereal" — the "made from corn" claim rules.
+- Also verified: Rice Krispies 3 g/28 g $6.99/340 g; Special K 4 g/32 g $6.99/345 g (both escape symbol; both now Ferrero).
+
+## 10. SHREDDIES — the honourable Canadian (semi-winner)
+- Verbatim [BRAND — Post Canada]: "Whole grain wheat, Sugars (sugar, barley malt extract), Salt, BHT added to preserve freshness" + vitamins. Claims: "Made with 100% Whole Grain Wheat."
+- **Invented in Niagara Falls 1939 — originally named "Cubs," renamed Shreddies 1941; still made there** (plant built 1904; second Shreddies line added 1977). ~15 g sugars/100 g (≈8.3 g/55 g) ⇒ escapes symbol. **$4.79/550 g — cheapest big brand per gram.**
+- The "semi": owned by **Post Holdings, St. Louis** (Nabisco 1939 → Post 1993 → Kraft → Ralcorp 2008 → Post Holdings 2012). Family-size churn: 725 g and 635 g SKUs coexist — present as size-ladder observation ONLY, not shrinkflation (undated).
+
+## 11. WINNERS
+- **#3 Quaker Old Fashioned Large Flake Oats**: complete list: "Whole Grain Rolled Oats." **One ingredient. 1 g sugars/40 g. $5.29/1 kg = $0.53/100 g — cheapest item in the dossier**, from the Peterborough/Trenton operation. The grandmother beat.
+- **#2 Post Shredded Wheat (Big Biscuit / Spoon Size)**: verbatim [BRAND]: "Whole grain wheat, BHT is added to package material…" — site claims "0 mg Sodium and 0 g Sugars." Made in **Niagara Falls since 1904**. $5.49/425–525 g. (BHT is in the package material — the label's own phrase; say it precisely.)
+- **#1 RED RIVER CEREAL — the resurrection:** created **1924 in Manitoba by Gertrude Skilling** (Red River valley grains). Smucker stopped selling it ~2020-21 ("due to low support"). **Arva Flour Mills** (Arva, Ontario — "North America's oldest continuously operating commercial flour mill," their billing; owner Mark Rinker per CBC) **acquired the brand June 1, 2022, relaunched July 2022 with the original cracked-grain recipe.** Today [BRAND]: "Cracked Wheat, Cracked Rye, Cracked and Whole Flax" — **$7.99/908 g**, in stock at arvaflourmills.com. 100th anniversary Dec 2023. (Arva "est. 1819" year — unverified, don't use the year.)
+- Honourables: **Weetabix** (Post Canada): "Whole grain wheat, Sugars (barley malt extract, cane sugar), Salt" — 2 g/53 g, $5.49/400 g. **Cheerios Original** 1 g/27 g (clean label, imported). **Nature's Path** (Richmond BC, founded 1985, family-owned): Heritage Flakes organic list verified from US site; TWIST — a 2025 dietitian list reports its cereals now made in Blaine, WA ("Product of USA") — READ THE CANADIAN BOX'S ORIGIN LINE before featuring; keep out of script unless verified on-shelf.
+
+## SUGAR SCORECARD (per 30 g, OUR ARITHMETIC from label servings)
+Frosted Flakes 11.1 g; Froot Loops 10.8; Lucky Charms 10.0; Honey Nut Cheerios 9.7; Raisin Bran 7.6 (incl. raisins); Harvest Crunch 6.9; Life 6.1; Mini-Wheats 6.0; Vector 5.5; Shreddies 4.5; Special K 3.8; Rice Krispies 3.2; Corn Flakes 3.1; Weetabix 1.1; Cheerios 1.1; Quaker oats 0.8; **Shredded Wheat 0**.
+
+## SHRINKFLATION (media-verified only)
+- **Post Honeycomb family size 595 g → 525 g (−11.7%)** — CBC News Oct 18, 2023 (Sophia Harris; Edmonton shopper Ellyn Newall; taller-but-slimmer box; Post didn't reply to CBC). Same piece: Kraft Dinner −11%, Betty Crocker −13%.
+- StatCan tracked item is "Cereal, 400 grams" — $4.20 June 2026, +36% since 2017 (Part 2).
+
+## PART 1 UNVERIFIED / DO-NOT-USE
+- ANY "Canada's best-selling cereal" claim (no public ranking; radio-station Facebook post is not a source)
+- Frosted Flakes/Froot Loops made-in-Belleville (Loblaw "Prepared in Canada" snippet + uncited blog — resolve via box fine print on camera); General Mills "no Canadian plant" as flat assertion (read Cheerios box importer line)
+- All [RETAILER]/[OFF]/[RESELLER] transcriptions until read on camera (esp. Lucky Charms — possibly outdated ungrouped-sugars render; Vector OFF typos)
+- Snippet prices (Superstore $4.99 Frosted Flakes, No Frills figures, PC items); Great Value Canada cereal ingredients (search results show the US product — never attribute to Canada); Compliments corn flakes nutrition numbers (empty table — read box)
+- Arva "est. 1819"; Nature's Path Blaine WA production (single secondary source — check origin line on a real box); Heritage Flakes serving/sugars (customer-review sourced); US Froot Loops dye list as label-verbatim (secondary; US formula changing late 2026); "Shreddies shrank 725→635 g" as shrinkflation (sizes coexist, undated)
 
 ---
 

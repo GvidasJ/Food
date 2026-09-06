@@ -382,3 +382,184 @@ Present ONLY as "Health Canada's guidance says…" with these quotes. Background
 12. **"Ocean Brands founded 1962" / "second-largest canned seafood brand in Canada"** — search-summary claims; pages not fetched. Verified facts: Pattison ownership, 2011 acquisition.
 13. **Bumble Bee HQ "San Diego, no planned changes"** — from coverage summaries; confirm against Businesswire original before quoting.
 14. **Any implication that FCF, Clover Leaf's Canadian entity, or any Canadian retailer committed an offence** — none found and none may be implied.
+
+---
+
+# PART 4 — CANADIAN LAW AND STANDARDS
+
+**Structural finding up front:** Canada does **not** have a US-style FDR "standard of identity for canned tuna", and B.21.021 is not the tuna section. FDR food standards were restructured by SOR/2024-244 (in force December 18, 2024). The species/colour/"white tuna" rules live on the **CFIA/SFCR side**: SFCR s. 262(1)(b) plus the incorporated *Descriptive Words, Expressions and Identification Names for Specific Foods* (Table 3), the CFIA Fish List, and (historically) the CFIA *Fish Products Standards and Methods Manual*, Chapter 2, Standard 1 — Canned Tuna.
+
+## 4.1 Where the canned-tuna rules actually are
+
+**(a) The FDR does not contain a canned-tuna standard.** Current FDR Division 21 is "Marine and Fresh Water Animal Products", largely repealed by SOR/2024-244 (https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/page-28.html). The compositional standard now covering canned tuna is "Prepared fish", Volume 18 of the *Canadian Food Compositional Standards*:
+
+> "18.1.3 Prepared fish or prepared meat is the whole or minced food prepared from fresh or preserved fish or meat respectively, may be canned or cooked; and may contain (a) liquid smoke flavour or liquid smoke flavour concentrate; (b) edible oil, vegetable broth and tomato sauce or puree; (c) salt; …"
+— https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-food-compositional-standards-0
+
+(Note: this is why Selection's "vegetable broth" is legal — the standard explicitly permits it. State neutrally.)
+
+**(b) Which species may be sold as "tuna" — CFIA Fish List:**
+
+> "The CFIA Fish List provides guidance regarding the common names for fish. The names on the CFIA Fish List are considered acceptable common names and the use of these names is recommended. The use of common names that are not on the CFIA Fish List can be assessed against the requirement that no person shall package or label fish in a manner that is false, misleading or deceptive [5(1), FDA; 6(1), SFCA]."
+— CFIA, "Labelling requirements for fish and fish products": https://inspection.canada.ca/en/food-labels/labelling/industry/fish
+
+Fish List search returns 16 species with acceptable "Tuna" names incl. *Thunnus alalunga* (Albacore), *T. albacares* (Yellowfin), *Katsuwonus pelamis* (Skipjack), *T. tonggol* (Tongol), bluefins, *Sarda* spp. (Bonito Tuna). ⚠️ Retrieved via automated summary of the search app — screenshot exact rows before air.
+
+**(c) "White tuna" = albacore only — BINDING LAW.** SFCR s. 262:
+
+> "262 (1) The label of prepackaged fish must bear … (b) in the case of tuna that is in a hermetically sealed package, one of the expressions to describe the applicable colour of the fish flesh based on the indicated condition as set out in the Descriptive Words, Expressions and Identification Names Document."
+— SOR/2018-108, s. 262: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-108/section-262.html
+
+The incorporated document, **Table 3** (key on-screen quote):
+
+> "1. 'White Meat Tuna' or 'chair de thon blanc' or 'White Tuna' or 'thon blanc' — the tuna is of the species Thunnus alalunga and has a diffuse luminous reflectance of not less than 33.7% of that of magnesium oxide
+> 2. 'Light Meat Tuna' or 'chair pâle de thon' or 'Light Tuna' or 'thon pâle' — the tuna has a diffuse luminous reflectance of not less than 22.6% of that of magnesium oxide
+> 3. 'Dark Meat Tuna' or 'chair foncée de thon' or 'Dark Tuna' or 'thon foncé' — the tuna does not meet the requirements of item 2"
+— CFIA, *Descriptive words, expressions and identification names for specific foods* ("Last amended on 2023-03-27"): https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/descriptive-words-expressions-and-identification-names-specific-foods
+
+Munsell equivalence (archived CFIA canned tuna standard): white ≈ 6.3 Munsell units, light ≈ 5.3 — https://epe.lac-bac.gc.ca/100/206/301/cfia-acia/2011-09-21/www.inspection.gc.ca/english/fssa/fispoi/man/samnem/chap2su1e.shtml (describe on air as "CFIA's former canned tuna standard").
+
+## 4.2 "Solid", "Chunk", "Flaked" — the definitions
+
+From CFIA's **archived** canned tuna standard (present as "CFIA's standard as written when Ottawa last spelled it out"; mirrors Codex CXS 70-1981):
+
+> "a) Solid — Fish cut into transverse segments to which no free fragments are added. … Segments are placed in the can with the planes of their transverse cut ends parallel to the ends of the can. A piece of segment may be added if necessary to fill a container.
+> b) Chunk or chunks — A mixture of pieces of fish most of which have dimensions of not less than 1.2 cm in each direction and in which the original muscle structure is retained.
+> c) Flake, flaked or flakes — A mixture of particles of fish in which the muscle structure of the flesh is retained.
+> d) Grated or shredded — A mixture of particles of fish that have been reduced to a uniform size, and in which particles are discrete and do not comprise a paste."
+— archived URL above. Codex backstop (in force): CXS 70-1981. Today a false "solid" claim would be pursued under FDA 5(1) / SFCA 6(1) (false/misleading labelling).
+
+## 4.3 Commercial sterility — FDR B.27.001/B.27.002
+
+> "B.27.002 (1) No person shall sell a low-acid food packaged in a hermetically sealed container unless the food is commercially sterile."
+> "B.27.001 … commercially sterile means the condition obtained in a food that has been processed by the application of heat, alone or in combination with other treatments, to render the food free from viable forms of microorganisms, including spores, capable of growing in the food at temperatures at which the food is designed normally to be held during distribution and storage; … low-acid food means a food, other than an alcoholic beverage, where any component of the food has a pH greater than 4.6 and a water activity greater than 0.85"
+— https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.27.002.html ; https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.27.001.html
+
+## 4.4 Net quantity / drained weight — the neat fact
+
+**Tuna packed in water must be declared by DRAINED weight; tuna in oil by total net weight.** SFCR-incorporated *Units of measurement for the net quantity declaration of certain foods*, Table 1:
+
+> "3. Fish in a hermetically sealed package, other than shellfish and crustaceans or fish packaged in water — [Weight:] applicable"
+> "11. Fish packaged in water in a hermetically sealed package — [Weight of the edible contents in the container exclusive of free liquid or glaze content:] applicable"
+— https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/units-measurement-net-quantity-declaration-certain-foods
+
+CFIA fish page: "Drained weight — The weight of the edible contents of the container exclusive of free liquid or glaze content." — https://inspection.canada.ca/en/food-labels/labelling/industry/fish
+
+## 4.5 Can sizes are NOT prescribed; 170 g = the metricated 6-oz can
+
+The SFCR's (archived) *Standard Container Sizes* document prescribes sizes only for wine, graded honey, sliced bacon, sliced RTE meats, sausages, peanut butter, graded carrots/potatoes — **fish appears nowhere** (https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/archived-standard-container-sizes). 6 oz × 28.3495 = 170.1 g — arithmetic, not regulation. US size ladder: "tuna came in 7 ounce cans … downsized to 6.5 oz., then 6-1/8 oz., and finally to 6 oz." then StarKist to 5 oz in 2008 (Mouse Print: https://www.mouseprint.org/2008/08/11/holy-mackerel-starkist-downsizes-tuna/). 198 g (7 oz) solid cans still exist in Canada (e.g., Unico Solid Light 198 g). **Canada's shelf standard is still 170 g while the dominant US can shrank to 142 g — but see DO-NOT-USE: no dated Canadian shrink event may be claimed.**
+
+## 4.6 Front-of-package nutrition symbol — the sodium arithmetic
+
+**FDR B.01.350, verbatim:** "(2) For the purposes of subsection (1), the percentage of the daily value for the nutrient is calculated on the basis of the amount of the nutrient, by weight, per serving of stated size or per reference amount, whichever is greater." Sodium threshold: 15% DV for general foods (30% for main dishes ≥200 g RA; 10% for RA ≤30 g). — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.350.html
+
+**Compliance date (Health Canada):** "Regulated parties must comply with the requirements for all components of these amendments as of January 1, 2026." DVs: "20 g for saturated fat and trans fat, 100 g for sugars and 2300 mg for sodium." — https://www.canada.ca/en/health-canada/services/food-nutrition/legislation-guidelines/guidance-documents/front-package-nutrition-symbol-labelling-industry.html
+
+**Reference amount:** "Marine and fresh water animals, including land snails, canned — 55 g" (Table of Reference Amounts: https://www.canada.ca/en/health-canada/services/technical-documents-labelling-requirements/table-reference-amounts-food.html ⚠️ verify row on page before air).
+
+**The arithmetic (show on screen):**
+- Sodium DV 2,300 mg × 15% = **345 mg** trigger, per serving or per 55 g reference amount, whichever is greater.
+- Plain Clover Leaf Flaked Light in Water: **130 mg (6% DV) per 55 g → 38% of the way to the symbol. No symbol.**
+- Clover Leaf Spicy Thai Chili 85 g can: **300 mg (13%) per can → 87% of the way to the line. Still no symbol — but almost.**
+- Clover Leaf Tuna Snacks Classic kit: 300 mg per 90 g kit — under the line. (Third-party databases list some kits above 345 mg — DO NOT air without photographing a real label.)
+- Why plain tuna isn't simply exempt: B.01.350(6)(f)/(7)(f) exempt marine products only where no sodium was added — most canned tuna lists **salt**, so it is assessed; "no salt added" tuna is exempt outright.
+
+## 4.7 Country of origin + "Product of Canada"/"Prepared in Canada"
+
+> "266 The label of imported prepackaged fish must bear the name of the foreign state of origin." — SFCR s. 266: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-108/section-266.html
+
+CFIA gloss: "The country of origin is the country where the last substantial transformation occurred. The wording 'product of' / 'produit de' is recommended…" — https://inspection.canada.ca/en/food-labels/labelling/industry/fish
+
+Voluntary claims (CFIA "Origin claims on food labels", verbatim): "A food product may use the claim 'Product of Canada' when all or virtually all major ingredients, processing, and labour used to make the food product are Canadian." … "Generally, the percentage referred to as very little or minor is considered to be less than a total of 2% of the product" … "'Prepared in Canada' to describe a food which has been entirely prepared in Canada…" — https://inspection.canada.ca/en/food-labels/labelling/industry/origin-claims
+
+## 4.8 "Dolphin friendly" claims — no defined federal standard
+
+> "Method of production claims (sustainable, dolphin safe and others) — Claims concerning the method of production of fish and fish products are permissible provided they meet the criteria detailed on the Method of production claims page." — https://inspection.canada.ca/en/food-labels/labelling/industry/fish
+> "Claims related to the method of production are also subject to subsection 5(1) of the Food and Drugs Act (FDA) and subsection 6(1) of the Safe Food for Canadians Act (SFCA), which prohibit statements and claims that are false, misleading, deceptive or that create an erroneous impression regarding the product." … "regulated parties may be requested to demonstrate how they meet the requirements of the claim." — https://inspection.canada.ca/en/food-labels/labelling/industry/method-production-claims
+
+**Defensible editorial line:** in Canada, "dolphin friendly" has no defined federal standard — it is policed only under the general false-and-misleading prohibitions, and the company must be able to substantiate it on inspection.
+
+## 4.9 Health Canada mercury guidance (USE ONLY AS ATTRIBUTED GOVERNMENT GUIDANCE)
+
+All verbatim from Health Canada, "Mercury in Fish — Consumption Advice: Making Informed Choices about Fish" (page date 2024-07-25): https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/chemical-contaminants/environmental-contaminants/mercury/mercury-fish.html
+
+> "Most Canadians don't need to be concerned about mercury exposure as a result of fish consumption. In general, the types of fish that are most popular in Canada are also relatively low in mercury."
+> "Canned tuna, especially canned light tuna, is one of the most popular types of fish for many Canadians. The fish used in canned tuna products are generally younger and smaller and have significantly less mercury than fresh or frozen tuna, so that most Canadians don't need to be concerned about consuming canned tuna."
+> "However, for those who consume large amounts of canned albacore tuna, there is some potential for exposure to higher levels of mercury than is considered acceptable. Because of this, Health Canada has issued advice for children and some women on the consumption of canned albacore tuna. The advice does not apply to canned light tuna, nor does it apply to Canadians outside of the specified groups."
+> "Canned albacore tuna is also often called canned white tuna, but it is not the same as canned light tuna. Canned light tuna contains other species of tuna such as skipjack, yellowfin, and tongol, which are relatively low in mercury."
+> "Canned Albacore (White) Tuna Advice (does not apply to canned light tuna): Specified Women - 300 grams a week; Children 5-11 years old - 150 grams a week; Children 1-4 years old - 75 grams a week. * Specified women are those who are or may become pregnant or are breastfeeding."
+
+This supersedes the 2007 advisory quoted in Part 2 — use this 2024 page as the on-air source.
+
+## 4.10 Best-before — the >90-day exemption
+
+> FDR B.01.007(1.1)(b): durable-life date required only "where a prepackaged product having a durable life of 90 days or less is packaged at a place other than the retail premises…" — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.007.html
+> CFIA: "Foods with a shelf life greater than 90 days … are not required to be labelled with a 'best before' date and storage instructions…" and "A durable life date is not an indicator of food safety, neither before nor after the date." — https://inspection.canada.ca/en/food-labels/labelling/industry/date-markings-and-storage-instructions
+
+Bottom line: a commercially sterile tuna can legally needs no best-before date; any printed date is voluntary.
+
+# PART 5 — ECONOMICS AND HISTORY
+
+## 5.1 StatCan average retail price — "Canned tuna, 170 grams"
+
+Table 18-10-0245-01 (transaction data, series begins Jan 2017; vector v1353834282; CSV retrieved Sept 6, 2026):
+- **Earliest: January 2017 — $1.44**
+- **Latest: July 2026 — $1.84** (highest monthly value in the series)
+- **Increase: +$0.40 = +27.8% over 9.5 years**
+- Waypoints: Dec 2017 $1.81 · Apr 2020 $1.96 · Jun 2023 $2.01 (previous peak) · Oct 2024 $1.50 · Jun 2026 $1.64 → **Jul 2026 $1.84 (a 20-cent, +12.2% one-month jump — right as the 2026 tariff war escalated; correlation, not proven causation)**
+- Predecessor table 18-10-0002-01 (1995–2022) has **no canned tuna series** (its canned-fish item is salmon 213 g: Jan 1995 $3.64). Jan 2017 is genuinely the earliest official tuna price.
+- Comparison: "Canned salmon, 213 grams" Jan 2017 $3.03 → Jul 2026 $5.32 (**+75.6%**). Tuna has been remarkably price-stable by comparison — an honest, counterintuitive beat.
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
+
+## 5.2 Can-size shrinkflation
+
+US ladder documented (Mouse Print, Aug 11 2008): "Once upon a time, tuna came in 7 ounce cans… Then, cans were downsized to 6.5 oz., then 6-1/8 oz., and finally to 6 oz." StarKist 2008 to 5 oz; StarKist rep quote: "…they decreased the can size… the company said it will save two million gallons of water a year, while only taking out two teaspoons of tuna from each can." — https://www.mouseprint.org/2008/08/11/holy-mackerel-starkist-downsizes-tuna/
+Canadian-safe phrasing: Canada's standard can is still 170 g (the old 6-oz) while the dominant US can shrank to 5 oz/142 g. **No dated Canadian shrink event may be claimed.**
+
+## 5.3 BC cannery history — Steveston and the last one standing
+
+- Gulf of Georgia Cannery NHS, Steveston: designated 1976; "in continuous operation between 1894 and 1979"; "As the largest and leading producer of salmon in the province, the Gulf of Georgia Cannery was known as the 'Monster Cannery'"; 1890s Steveston nicknamed "Salmonopolis" with more than half of BC's 45 canneries. — Parks Canada: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=77 ; National Trust: https://nationaltrustcanada.ca/online-stories/gulf-of-georgia-cannery-national-historic-site-bcs-monster-cannery-still-brimming-with-stories
+- Canfisco Prince Rupert, 2015 — CBC: "Canfisco says it will cease canning operations in Prince Rupert. More than 500 jobs could be lost at what was once the world's largest cannery…" Rob Morley (Canfisco VP): "We're moving more to fresh and frozen products… our labour costs and the cost of operation in that cannery, are much higher than all our competitors in Alaska. So it is tough to compete." — https://www.cbc.ca/news/canada/british-columbia/canfisco-cannery-prince-rupert-close-jobs-1.3316981
+- Hakai Magazine ("The Last Cannery Standing", Aug 14, 2018): "That left St. Jean's as the last commercial cannery processing wild salmon in the province." St. Jean's "launched in 1961… began not with salmon, but with oysters. Armand St. Jean started the business in his backyard… packaged his smoked oysters, which he called 'smudgies,' in plastic bags and sold them to bar patrons around town." — https://hakaimagazine.com/features/the-last-cannery-standing/
+- St. Jean's About Us: "Family Legacy — Founded in 1961 by Armand St. Jean. Indigenous Owned — Majority Nuu-chah-nulth ownership since 2015. Canadian Made — Crafted on Vancouver Island in British Columbia." — https://stjeans.com/about-us/
+
+## 5.4 Jim Pattison Group — the Canadian business story
+
+- Company's own words: "The story of The Jim Pattison Group began in 1961, with the purchase of a GM franchise that handled Pontiac and Buick nameplates." Scale per same page: "$20B" revenue, "57,000" employees. — https://www.jimpattison.com/about/our-story/ (⚠️ retrieved via automated summary — re-verify on screen)
+- Divisions include Canfisco and Pattison Food Group (Save-On-Foods, Urban Fare, PriceSmart Foods, Quality Foods); Ripley's Believe It or Not!; Guinness World Records (CBC, Feb 15 2008: "Vancouver billionaire Jim Pattison has tightened his grip on the odd and the weird, buying the Guinness World Records books to go with his Ripley Entertainment business." — https://www.cbc.ca/news/business/one-for-the-books-b-c-billionaire-buys-guinness-world-records-1.770533)
+- **THE 1961 COINCIDENCE (all sourced):** Armand St. Jean founds his cannery in 1961; Jim Pattison buys his first car dealership in 1961. One became Canada's last cannery; the other became the conglomerate that owns Canfisco (which ended industrial salmon canning in Prince Rupert in 2015) and the Ocean's tuna brand. Beautiful closing-arc symmetry.
+
+## 5.5 Where Canada's canned tuna comes from
+
+- Industry data reported by VASEP/VCCI citing ITC (2023): Thailand 52%, Italy 15%, Vietnam ~13% of Canada's canned tuna imports — https://vccinews.com/news/56789/canada-a-potential-tuna-market.html (⚠️ secondary; for a hard claim pull HS 1604.14 from StatCan CIMT manually before air). Safe phrasing: "the majority of Canada's canned tuna is imported, led by Thailand, with Vietnam a fast-growing supplier."
+- Safe Catch's own FAQ (why Thailand): "A majority of the world's canned fish supply goes through Thailand, which gives us access to high volumes of raw material." — https://safecatch.helpscoutdocs.com/article/31-processed-in-thailand
+
+## 5.6 The 2025–26 tariff war and the tuna aisle — VERIFIED, WITH THE CRUCIAL NUANCE
+
+**(a) The 50% tariff effective September 8, 2026 applies to US-ORIGIN steel food cans — not to tuna, and not to cans from other countries.**
+
+Department of Finance, Aug 25, 2026: "Following the U.S. decision to impose a 50 per cent tariff on $27.6 billion of Canadian goods effective August 22, Minister Champagne confirmed today that Canada will match the new U.S. tariffs dollar for dollar, rate for rate…" "Effective September 8, Canada will impose counter-tariffs of 15, 25 and 50 per cent on products drawn from those targeted by U.S. Section 338 and Section 232 tariffs…" — https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html
+
+Backgrounder, verbatim: "7310.21.00 — … Cans which are to be closed by soldering or crimping — 50 [per cent]" and "These tariffs only apply to goods originating from the U.S. …" "These countermeasures will be effective as of 12:01 a.m., September 8, 2026." — https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html
+
+**(b) Canada's surtaxes on US food imports were removed as of September 1, 2025** (Canada Gazette, SOR/2026-16 RIAS: "On August 22, 2025, Canada announced that it would remove its counter tariffs on U.S. goods, with the exception of those on steel, aluminum and autos, as of September 1, 2025."). The temporary remission sheltering "food and beverage packaging" steel expired **January 31, 2026**. — https://gazette.gc.ca/rp-pr/p2/2026/2026-02-25/html/sor-dors16-eng.html
+
+**Story logic (fully sourced):** the fish from Thailand/Vietnam faces no new 2026 tariff; the **steel can** is where the tariff war reaches the tuna aisle — US-origin empty cans face 50% from September 8, 2026 (the day this video posts), and the remission that sheltered food-packaging steel expired in January. The July 2026 price jump ($1.64 → $1.84) is suggestive context, not proof.
+
+## 5.7 Import duty on canned tuna (Customs Tariff 1604.14)
+
+CBSA Customs Tariff 2026, Ch. 16: "1604.14.90 … - Other — 7% [MFN]; … CPTPT: Free; GPT 3.5%" — https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/html/00/ch16-eng.html
+- **Vietnam: duty-free under CPTPP.** **Thailand: 7% MFN** (no longer a GPT beneficiary on the 2026 country list). US: UST free.
+- Aisle economics in one line: Thai tuna carries 7% duty; Vietnamese tuna 0% — one sourced reason importers have been shifting volume toward Vietnam.
+
+## 5.8 UNVERIFIED / DO-NOT-USE (Parts 4–5)
+
+1. **"Canadian tuna cans shrank from 198 g to 170 g in year X"** — no source for a dated Canadian downsizing; 198 g cans still exist. The 7→6.5→6.125→6 oz ladder is US-market only.
+2. **"Ocean Brands joined the Jim Pattison Group in 2011"** — secondary-sourced only (Wikipedia/seafood.media). The group relationship IS verified via Ocean Brands releases hosted on jimpattison.com; use "part of the Jim Pattison Group" without the year, or say "reported".
+3. **"Gulf of Georgia was the largest fish cannery in BC" / "2.5 million cans in 1897"** — tertiary only. Verified phrasing: "largest and leading producer of salmon in the province… known as the 'Monster Cannery'".
+4. **Tuna snack kits over the FOP sodium line** — third-party databases list e.g. 470 mg and 380 mg kits, above the 345 mg trigger, but these are not manufacturer labels. DO NOT air without photographing a real label. Manufacturer-site kits verified sit at 300 mg — under the line.
+5. **Import shares "Thailand 52% / Italy 15% / Vietnam 13%"** — usable only as "industry data reported by…"; replace with StatCan CIMT numbers for a hard claim.
+6. **St. Jean's "founded 1960"** — single-source lede; company and Hakai say **1961**. Buyer entity naming varies (NCN Cannery LP vs Nuu-chah-nulth Seafood Development Corporation) — say "sold majority ownership to a partnership of Nuu-chah-nulth First Nations in 2015–16."
+7. **Automated-summary retrievals to re-verify on screen:** Table of Reference Amounts 55 g row; CFIA Fish List rows; jimpattison.com Our Story figures; the VCCI quote.
+8. **Any implication that canned tuna itself is tariffed by the Sept 8 2026 measures** — it is not; the 50% applies to US-origin steel cans and other listed goods. Do not conflate.
+9. **Health/mercury framing beyond 4.9** — verbatim Health Canada language only, attributed. No independent health claims.

@@ -1,6 +1,6 @@
 # COMPETITOR TRACKING ROSTER — Canadian Counter daily analysis
 
-Updated: September 5, 2026. Pull each core channel (newest) + one Algrow cluster scan seeded on CC's ID for every daily analysis.
+Updated: September 8, 2026. Pull each core channel (newest) + one Algrow cluster scan seeded on CC's ID for every daily analysis.
 
 ## Own channel
 - **Canadian Counter** — `UCkuoOyuZyRqA49o5irJai9A` (@CanadianCounter)
@@ -22,6 +22,7 @@ Updated: September 5, 2026. Pull each core channel (newest) + one Algrow cluster
 - **Frozen Pennies** — `UCqz2PHyYFPdiDz8smw7NGcQ` (~157K) — Canadian tariff/hoarding angle
 - **Appliance Trap** — `UCR_yg6u6UAFpw1WKXOqTW_A` (~8K) — Giant Tiger 261K/4.9x outlier
 - **Sam Wilder** — `UChnjWZQ-WWtqAKjoRkP9Quw` (~108K) — McVities ranking 64K (cookies demand signal)
+- **Canada Insight** — `UC3oveUcfsaKS7uGbBeStZ5w` — **ADDED Sept 8, 2026.** Canadian; "We Sent 10 Popular Olive Oils in Canada to a Lab" 43K / 2.9x outlier. Lab-testing format is a step beyond label-reading — expensive to copy but a proof that Canadian audiences reward investigation depth. Watch for topic collisions and for whether the lab format repeats.
 
 ## Notes
 - Reference-video picks so far: noodles/hot dogs/creamers/cereal/ketchup (CE + others per logs), tea (Hidden Menu 9e8VwwhsuW8), bread (PoP fCHAwMo4RVw), canned soup (UK Food Exposed AJo436-e9cM + CE lmZQAgwktZM), cookies (PoP 7A8KquXhM7M).

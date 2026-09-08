@@ -440,3 +440,371 @@ Source: [grimmsfinefoods.com product page](https://grimmsfinefoods.com/products/
 
 ---
 **Sources are hyperlinked inline throughout; primary sources used wherever possible (mapleleaffoods.com, mapleleaf.ca, olymel.com, grimmsfinefoods.com, pillers.com, harvestmeats.ca, sollio.coop, SEC.gov, inspection.canada.ca/canada.ca, Competition Bureau, FSIS.usda.gov, company press releases via newswire.ca, Globe and Mail, CBC).**
+
+---
+
+# PART 2 — LAW AND ECONOMICS (law/economics agent dossier, verbatim)
+
+---
+
+# HAM & BACON INVESTIGATION — RESEARCH DOSSIER (Canadian Counter)
+**Compiled September 8, 2026. Every claim carries a verbatim quote + URL. Primary sources (Justice Laws, CFIA, Health Canada, StatCan) preferred. Anything not verified to that standard is in UNVERIFIED / DO-NOT-USE at the end.**
+
+---
+
+## PART A — LAW AND STANDARDS
+
+### A1. What is legally "ham" in Canada? And "bacon"?
+
+**"Ham" is defined — by cut of the pig — in the SFCR-incorporated Canadian Standards of Identity, Volume 7 – Meat Products (Interpretation section):**
+
+> "ham" means the edible meat product that is derived from the hind leg of a dressed swine carcass above the tarsal joint. (jambon)
+
+— Canadian Standards of Identity: Volume 7 – Meat Products, https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-standards-identity-volume-7 (verified verbatim from downloaded page text)
+
+So legally, ham comes from the **hind leg only**, above the tarsal (ankle) joint. There is **no standalone "Ham" row in Volume 7's Table 2** of standardized prepared meat products — the definition governs use of the name, and "Chopped Ham" (see A2) is the standardized processed product.
+
+**Bacon — three separate compositional standards exist in Volume 7, Table 2** (column headings verbatim: "Item | Column 1 Edible Meat Product | Column 2 Mandatory Ingredients | Column 3 Optional Ingredients | Column 4 Mandatory Treatments and Processes | Column 5 Maximum and Minimum Amounts of Certain Contents, and Other Requirements"):
+
+> 23. Bacon — Boneless pork belly — Salt, Preservative — Water, Seasoning, Phosphates, Ice, Meat broth, Spices, Alcohol, Sweetening agents — Cured — None
+>
+> 24. Back Bacon — Boneless pork loin — Salt, Preservative — [same optional list] — Cured and smoked, with an internal temperature during smoking of no less than 58°C — None
+>
+> 25. Wiltshire Bacon — Boneless pork loin with portion of belly attached — Salt, Preservative — [same optional list] — Cured — None
+
+— Same URL as above (rows verified verbatim in downloaded page text: "23. Bacon Boneless pork belly Salt Preservative Water Seasoning Phosphates Ice Meat broth Spices Alcohol Sweetening agents Cured None 24. Back Bacon Boneless pork loin Salt Preservative … Cured and smoked, with an internal temperature during smoking of no less than 58°C None 25. Wiltshire Bacon Boneless pork loin with portion of belly attached … Cured None")
+
+**Episode beat:** under the federal standard, "Bacon" (pork belly) and "Back Bacon" (pork loin) are legally different foods — and a **preservative is a MANDATORY ingredient** of standardized bacon (it must be cured). Back bacon must also be **smoked to at least 58°C internal**; belly bacon need only be cured.
+
+**"Side bacon"** is a regulatory term in the Food and Drug Regulations (see A2 — B.14.021 and B.01.092 exempt "side bacon, Wiltshire bacon, pork jowls, salt pork and salt beef"), and in nitrite limits (A3, 120 ppm for side bacon).
+
+**"Peameal" — absence:** the word "peameal" appears nowhere in Standards of Identity Volume 7, nowhere in the Canadian Food Compositional Standards Volume 13 (both full texts downloaded and searched), and nowhere in the CFIA Pork – Meat cuts manual page (https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products/meat-cuts/pork — searched; zero hits for "peameal" or "bacon"). The only federal document I found that names it is Health Canada's **Canadian Nutrient File**, which lists food code **1981: "Pork, cured, back bacon (cornmeal, peameal), uncooked"** — i.e., the federal nutrition database classifies peameal as a form of back bacon (https://food-nutrition.canada.ca/cnf-fce/ — retrieved via the CNF API, food code 1981). **State absence clearly on camera: there is no legal standard for "peameal bacon."**
+
+**The FDR side (Canadian Food Compositional Standards):** since the December 2024 amendments (SOR/2024-244, Canada Gazette II: https://gazette.gc.ca/rp-pr/p2/2024/2024-12-18/html/sor-dors244-eng.html), FDR food standards live in the FDR-incorporated **Canadian Food Compositional Standards** document. Its **Volume 13 – Meat, Its Preparations and Products** contains no "ham" or "bacon" standard either. What it does define (verbatim, from downloaded full text):
+
+> 13.1.3 Solid cut meat is (a) a whole cut of meat; or (b) a product consisting of pieces of meat of which at least 80% of the pieces weigh at least 25g each.
+
+> 13.3.4 Preserved meat or preserved meat by-product is uncooked or cooked meat or meat by-product that is salted, dried, pickled, cured or smoked, may be glazed and may contain (a) sweetening agents; (b) spices and seasonings, except tomato; (c) vinegar; (d) alcohol; (e) smoke flavouring or artificial smoke flavouring; (f) in the case of cured pork hams, shoulders, backs and bellies, artificial maple flavour; and (g) in the case of cured pork bellies, an added orange flavour that complies with the standard set out in section 9.1.3 of Volume 9, Flavouring Preparations.
+
+— Canadian Food Compositional Standards, https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-food-compositional-standards-0
+
+(Delightful trivia hidden in 13.3.4: federal law specifically authorizes **artificial maple flavour** in cured pork, and an **orange flavour** in cured pork bellies.)
+
+The FDR's own Division 14 table of contents confirms no ham standard remains in the regulations proper (B.14.015 Meat, Meat By-Products; B.14.030 Prepared Meats…): https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.14.021.html
+
+---
+
+### A2. The "how much water is in your ham" law — minimum meat protein
+
+**The core rule — FDR B.14.021 (verbatim, current consolidation):**
+
+> B.14.021 (1) No person shall sell solid cut meat to which food additives or water have been added unless (a) in the case of meat, other than side bacon, Wiltshire bacon, pork jowls, salt pork and salt beef, the meat (i) where cooked, contains a meat protein content of not less than 12 per cent, and (ii) where uncooked, contains a meat protein content of not less than 10 per cent. (b) [Repealed, SOR/2024-244, s. 91] (2) A bone or a visible fat layer shall not be included in any calculation used to determine meat protein content for the purposes of paragraph (1)(a).
+
+— Food and Drug Regulations, https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.14.021.html
+
+**The label must tell you — FDR B.01.090 (verbatim):**
+
+> B.01.090 (1) No person shall offer for sale at retail any solid cut meat or solid cut poultry meat to which phosphate salts or water has been added, unless that meat or poultry meat is contained in a package and carries a label. (2) The label referred to in subsection (1) shall contain a statement of the minimum percentage of meat protein as part of the common name of the product on the principal display panel of the package in type that is as legible and conspicuous as any other type on that display panel, and in letters that are at least one half of the size of the letters used in the common name of the product but that are not less than 1.6 mm in height.
+
+— https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.090.html
+
+**The bacon exemption — FDR B.01.092 (verbatim):**
+
+> B.01.092 Sections B.01.090 and B.01.091 do not apply in respect of side bacon, Wiltshire bacon, pork jowls, salt pork or salt beef.
+
+— https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.092.html
+
+**CFIA guidance on the naming ("water added") — verbatim:**
+
+> Solid cut meat product (type 1): their minimum meat protein content must not, unless otherwise specified by regulations, be less than 12% when cooked, or less than 10% when uncooked [B.14.021, B.22.012, FDR].
+
+> The common name of solid cut meat products must reflect the fact that they contain phosphate salts or water, unless the product is cured or preserved or a standard is prescribed for it in the Canadian Standards of Identity, Volume 7 – Meat Products, or in volumes 13 or 19 of the Canadian Food Compositional Standards document. The use of the term "seasoned" in conjunction with the product's common name has been found to be acceptable when phosphate salts alone or with water are incorporated into a product. Similarly, the use of the term "seasoned" is also acceptable when spices are added with water. However, if water alone (for example, water being the only non-meat ingredient) is added, then an expression such as "water added" must be part of the product's common name.
+
+> Declarations such as "minimum meat protein xx%" / "au moins xx % de protéines de viande" or "meat protein xx%" / "xx % protéines de viande" are acceptable. Examples: "chicken breast with water added, minimum xx% meat protein", in the case of a chicken breast to which only water has been incorporated
+
+> Side bacon, Wiltshire bacon, pork jowls, salt pork and salt beef are exempted from the minimum meat protein requirement [B.14.021, FDR] and from the percent (%) meat protein label declaration [B.01.092, FDR].
+
+— CFIA, Labelling requirements for meat and poultry products, https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+
+**Standardized ham product with a protein floor — Volume 7, Table 2, item 21 (verbatim):**
+
+> 21. Chopped Ham — Boneless ham — Preservative, Water, Seasoning, Gelling agent, Ice, Meat broth, Salt, Spices, Alcohol, Sweetening agents — Comminuted, cured and cooked — Min. 12% meat product protein
+
+— https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-standards-identity-volume-7
+
+And CFIA's summary table ("Meat products for which a minimum meat protein content is prescribed [Canadian Standards of Identity, Volume 7 – Meat Products, Table 2, Parts A and B; FDR, Divisions 14 and 22]") lists, verbatim: "Chopped ham 12%" and "Meat loaf / Meat lunch / Luncheon meat 9.5%" — same CFIA URL as above.
+
+**On-camera translation:** cooked ham pumped with brine/phosphates must still be at least **12% meat protein**; scanty ham must say so in the name ("water added") with the % protein declared right in the common name at a legally mandated letter height (≥1.6 mm) — but **side bacon is completely exempt** from the whole regime.
+
+---
+
+### A3. Nitrites — the permitted-additive facts (no safety commentary)
+
+**Health Canada's List of Permitted Preservatives (Lists of Permitted Food Additives), Part 1 — potassium nitrite entry (item P.8), captured from the current list:**
+
+> Permitted in: "Preserved meat or preserved meat by-product, except side bacon"; "Side bacon"; "Preserved poultry meat or preserved poultry meat by-product"; "Meat binder for preserved meat or preserved meat by-product; pumping pickle, cover pickle or dry cure used in the curing of preserved meat and preserved meat by-products"
+> Maximum levels: "not to exceed 200 ppm, calculated prior to any smoking, cooking or fermentation" (general); "not to exceed 120 ppm, calculated prior to any smoking, cooking or fermentation" (side bacon); where combined with sodium nitrite, "the total combined amount…not to exceed 200 ppm" (or 120 ppm for side bacon).
+
+— Health Canada, 11. List of Permitted Preservatives, https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-additives/lists-permitted/11-preservatives.html (note: the page is long; the sodium nitrite row itself sits past the fetchable cut-off — see UNVERIFIED for the caveat; the numbers are confirmed by CFIA below)
+
+**CFIA's guidance restating the FDR limits (verbatim, primary CFIA document):**
+
+> As per the Food and Drug Regulations, in products other than side bacon, the maximum input level of sodium nitrite salts is 20 g per 100 kg of meat product, i.e. 200 mg/kg or 200 ppm. In the curing of side bacon, the maximum input level of sodium nitrite salts is 12 g per 100 kg of pork bellies, i.e. 120 ppm.
+
+— CFIA, Preventive control recommendations on the use of nitrites in the curing of meat products, https://inspection.canada.ca/en/preventive-controls/meat/nitrites
+
+**The "cultured celery extract" mechanism — same CFIA document (verbatim):**
+
+> Cultured celery powder (or other cultured vegetable juice powders validated/proven by evidence to be effective for the intended purpose) can be used as an alternative source of nitrites in the production of cured or fermented meat products. Cultured celery powder contains preformed nitrites produced by bacterial action on nitrates present in the celery product. It is important to know the level of preformed nitrites present in the celery powder to determine the amount of powder to be included in the formulation to achieve the minimum levels of nitrites (100 ppm, CSI Vol 7) needed to cure the product without exceeding the maximum allowable limit (200 ppm, Food and Drug Regulations).
+
+— Same URL. (Note the CFIA-cited **minimum** of 100 ppm nitrite to legally cure.)
+
+**CFIA labelling guidance on "no preservatives" claims (verbatim):**
+
+> Claims pertaining to the absence or non-addition of a food class such as "contains no preservatives" and "no preservatives added" are permitted where none of the preservatives found in Health Canada's Lists of permitted food additives have been directly added or none are present due to carry-over [199(1)(b), SFCR]. … There is no objection to claims for the absence of preservatives when the food contains naturally-occurring constituents that can provide a preservative function (for example, naturally-occurring benzoates in cranberry juice, acetic acid in vinegar and citric acid in lemon juice). Ingredients, such as cultured whey, cultured dextrose, cultured skim milk, can be specifically manipulated to contain high levels of peptides and propionic, butyric and lactic acids. These ingredients can act as preservatives. If foods contain these ingredients, claims pertaining to the absence of preservatives are not appropriate.
+
+— CFIA, Food composition and quality claims, https://inspection.canada.ca/en/food-labels/labelling/industry/composition-and-quality (there is **no celery-specific clause** in the current guidance — the cultured-ingredient passage above is the closest text; state that plainly)
+
+**The asterisk convention in practice (media record, 2012 — CBC News, verbatim):**
+
+> Maple Leaf Foods, which offers a line of deli meats under its Natural Selections line with "no added preservatives," is one such product. The packaging does include a reference to cultured celery extract. However, Marketplace tested the product in a lab and discovered that the natural-sounding extract is actually a nitrite.
+> Maple Leaf Foods has said it will change the packaging on its Natural Selections line of meats after a CBC Marketplace investigation…
+
+— CBC News, "Maple Leaf Foods changes misleading product labels," Feb 2, 2012, https://www.cbc.ca/news/canada/maple-leaf-foods-changes-misleading-product-labels-1.1173014
+
+**Real 2026 labels using the workaround (manufacturer's own pages, ingredient lists verbatim):**
+- Maple Leaf Original Natural Bacon: "Pork, Water, Sea salt, **Cultured celery extract**, Spice — Naturally smoked using hardwood chips" — https://www.mapleleaf.ca/products/maple-leaf-original-natural-bacon/
+- Maple Leaf Original Natural Smoked Ham: "Pork, Water, Sea salt, **Cultured celery extract**, Vinegar, Cane sugar, Spice, Smoke" — https://www.mapleleaf.ca/products/maple-leaf-original-natural-smoked-ham/
+
+---
+
+### A4. Front-of-package "magnifying glass" arithmetic — deli ham vs bacon
+
+**In force:** CFIA implementation page (verbatim): "**January 1, 2026, deadline for Front-of-package (FOP) labelling** — You must comply with FOP labelling requirements by the deadline. There will be no enforcement discretion after January 1, 2026." And: "However, products that were imported, manufactured in Canada, or packaged at retail before that date can still be sold and remain on store shelves." — https://inspection.canada.ca/en/food-labels/labelling/implementation-plan
+
+**The rule — FDR B.01.350 (verbatim):**
+
+> B.01.350 (1) Except as otherwise provided in this section, the principal display panel of a prepackaged product must carry a symbol that is set out in Schedule K.1 if (a) the product, as offered for sale, contains a nutrient that is set out in column 1 of the table to this section; and (b) the amount of the nutrient, calculated as a percentage of the daily value, meets or exceeds the applicable threshold set out in columns 2 to 7 of that table.
+> (2) For the purposes of subsection (1), the percentage of the daily value for the nutrient is calculated on the basis of the amount of the nutrient, by weight, per serving of stated size or per reference amount, whichever is greater.
+
+Sodium row of the thresholds table (verbatim structure): for a "Prepackaged product with a reference amount greater than 30 g or 30 mL" the threshold is "**15% of the daily value for sodium**"; for a "Prepackaged product with a reference amount of 30 g or 30 mL or less" it is "**10% of the daily value for sodium**"; for a "Prepackaged main dish with a reference amount of 200 g or more" it is "**30% of the daily value for sodium**."
+— https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.350.html
+
+**THE SMALL-RA RULE, EXACTLY:** the special rule for reference amounts ≤30 g is the **10% column** — there is **no** "assessed per 50 g" or "per 30 g" provision anywhere in B.01.350. (The per-50-g basis belongs to *nutrient content claims*, a different regime.) The assessment basis is always "per serving of stated size or per reference amount, whichever is greater" (subsection (2), quoted above). Do not say "per 50 g" on camera.
+
+**Daily value for sodium:** "Sodium | 1200 mg | 2300 mg" (children 1–4 / everyone 4+) — Health Canada, Table of Daily Values, Part 1, https://www.canada.ca/en/health-canada/services/technical-documents-labelling-requirements/table-daily-values/nutrition-labelling.html
+
+**Reference amounts** (Health Canada, Table of Reference Amounts for Food, current version published October 18, 2024, incorporated by reference in the FDR — https://www.canada.ca/en/health-canada/services/technical-documents-labelling-requirements/table-reference-amounts-food.html), meat category rows as returned on two independent fetches:
+- "Pork rinds and bacon" — **54 g uncooked / 15 g cooked**
+- "Luncheon meats such as bologna, blood pudding, liver sausage, mortadella, ham and cheese loaf or headcheese; pâté, sandwich spread…" — **75 g uncooked, 55 g cooked**
+- "Cured meat and poultry products such as cured ham, dry cured ham, back bacon, cured pork back… corned beef, pastrami…" — **85 g raw / 55 g cooked**
+(Item lettering not independently verified — see UNVERIFIED.)
+
+**The arithmetic (show this on screen):**
+- Sodium DV = **2,300 mg**. Thresholds: 15% = **345 mg**; 10% = **230 mg**; 30% = **690 mg**.
+- **Deli ham** (cooked, RA 55 g > 30 g → 345 mg threshold): Health Canada's Canadian Nutrient File, "Deli-meat, ham, cooked, sliced" (food code 1148) = **1,249 mg sodium per 100 g** (CNF API, https://food-nutrition.canada.ca/cnf-fce/) → **~687 mg per 55 g reference amount ≈ 30% DV — roughly double the 345 mg trigger. Deli ham wears the magnifying glass.**
+- **Raw bacon** (sold raw; RA 54 g uncooked > 30 g → 345 mg threshold at 15%): real label — Maple Leaf Original Natural Bacon, "Per 2 slices (50 g) … Sodium / Sodium 310 mg 13%" (https://www.mapleleaf.ca/products/maple-leaf-original-natural-bacon/). Scaled to the 54 g RA: 310 × 54/50 ≈ **335 mg — a hair UNDER the 345 mg threshold (≈14.6% DV)**. CNF "Pork, cured, bacon, raw" (code 1936) = 662 mg/100 g → 54 g ≈ **357 mg — a hair OVER**. **Bacon sits right on the line, brand by brand.**
+- **Pre-cooked bacon** (RA 15 g cooked ≤ 30 g → 230 mg threshold at 10%): real label — Maple Leaf Ready Crisp Fully Cooked Natural Bacon, "Per 2 slices (16 g) … Sodium / Sodium 220 mg 10%" (https://www.mapleleaf.ca/products/maple-leaf-ready-crisp-fully-cooked-natural-bacon/). Basis = 16 g serving (greater than 15 g RA): **220 mg vs the 230 mg trigger — under by 10 mg.** (CNF cooked baked bacon, code 5405: 2,193 mg/100 g → 15 g ≈ 329 mg, over — formulation matters.)
+- **Punchline candidate:** the 55 g slice of deli ham blows through its threshold; a 16 g serving of bacon ducks under its — the magnifying glass lands on the ham sandwich, while several bacons squeak by at 220–335 mg. **Verify the specific packages on camera before naming products.**
+
+**Meat exemptions (CFIA, verbatim):** "The following prepackaged products when not ground are exempt from the nutrition symbol requirements if exempt from carrying a Nutrition Facts table [B.01.350(13), FDR]: raw single ingredient meat or poultry meat…" — but cured/water-added products are not raw single-ingredient, and "A Nutrition Facts table (NFt) is required on meat and poultry to which food additives or water have been added" — https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+
+Bonus oddity, same CFIA page (verbatim): "The available display surface (ADS) in the case of bacon board packages is the total surface of the package, excluding the space occupied by the UPC symbol, the package seams, and a surface equivalent to the length of the package by the width of a strip of bacon, so that the customer is able to see the bacon." — federal law accounts for the bacon-window on the package.
+
+### A5. "Smoked" vs "naturally smoked" vs "smoke flavour" (CFIA, verbatim)
+
+> "Naturally smoked" – the meat product was exposed to smoke generated from the direct combustion of hardwood, hardwood sawdust or corn cobs. This can be done either in the presence of heat or not
+> "Smoked" – the meat product was treated with smoke derived directly or indirectly (for example, liquid smoke) from hardwood, hardwood sawdust or corn cobs. In the case of liquid smoke, the term "smoked" must be used only if the meat product was subjected to heat in the presence of a vaporized liquid smoke solution or when the meat product subjected to heat has been packaged in a casing or wrapping impregnated with liquid smoke
+> "Smoke flavour" – this term must be used when liquid smoke has been added to the meat product by methods other than those mentioned above, for example, adding liquid smoke directly into the emulsion.
+
+— CFIA, Labelling requirements for meat and poultry products, https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+(Also from A3's CFIA claims page: "Note: For labelling purposes, liquid smoke is not considered to be a preservative." — https://inspection.canada.ca/en/food-labels/labelling/industry/composition-and-quality)
+
+### A6. "Black Forest ham" / regional names — state absence
+
+- "Black Forest" appears **nowhere** in the Canadian Standards of Identity Volume 7, the Canadian Food Compositional Standards, or the CFIA meat/poultry labelling requirements page (all three full texts downloaded and searched — zero hits).
+- "Wiltshire Bacon," by contrast, IS a standardized name (Vol 7, item 25, quoted in A1) — a regional English name frozen into Canadian law.
+- So: in Canada, "Black Forest Ham" is an unregulated marketing name governed only by the general prohibition on false or misleading labelling (Food and Drugs Act s. 5(1); Safe Food for Canadians Act s. 6(1), both cited throughout the CFIA labelling page above). Maple Leaf sells a "Black Forest Natural Smoked Ham" (https://www.mapleleaf.ca/products/maple-leaf-black-forest-natural-smoked-ham/).
+- Background (secondary — Wikipedia; use cautiously): "the term 'Black Forest ham' has been a Protected Geographical Indication in the European Union since 1997… not recognized outside the EU" — https://en.wikipedia.org/wiki/Black_Forest_ham
+
+### A7. Date marking / "Keep Refrigerated" on vacuum-packed deli meat
+
+**FDR B.01.007 (verbatim — the ≤90-day rule; contrast with your canned/frozen episodes where durable life exceeds 90 days and no date is required):**
+
+> (1.1) The following information shall be shown on any part of the label: … (b) where a prepackaged product having a durable life of 90 days or less is packaged at a place other than the retail premises from which it is to be sold, (i) the durable life date, and (ii) instructions for the proper storage of the prepackaged product if it requires storage conditions that differ from normal room temperature; and (c) where a prepackaged product having a durable life of 90 days or less is packaged on the retail premises from which it is to be sold, (i) the packaging date, and (ii) the durable life of the food, except when the durable life appears on a poster next to the food.
+> (4) The durable life date shall be shown in the following manner: (a) the words "best before" and "meilleur avant" shall be shown grouped together with the durable life date…
+
+(Including the famous bilingual month codes: "JA for JANUARY … DE for DECEMBER.")
+— https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.007.html
+
+**CFIA on meat storage instructions (verbatim):**
+
+> Prepackaged meat products with a durable life of 90 days or less are required to be labelled with date markings and storage instructions. The words "Best Before" and "Meilleur avant" followed by the durable life date must appear on the label [B.01.007, FDR].
+> The storage instructions must be shown on the principal display panel using one of the following expressions, whichever is applicable: "Keep Refrigerated" and "Garder réfrigéré" or "Keep Frozen" and "Garder congelé". [48(2), 205(2), 283(1)(a), 286, SFCR; B.27.002(2), FDR]
+
+— https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+
+### A8. The round federal inspection legend
+
+**SFCR (SOR/2018-108), verbatim:**
+
+> 179 The inspection legends that are set out in Figures 1 and 2 of Schedule 2 are prescribed for the purposes of the definition inspection mark in section 2 of the Act.
+
+> 180 (1) A licence holder or an inspector is authorized to apply the inspection legend that is set out in Figure 1 of Schedule 2 to, and use it in connection with, an edible meat product, whether prepackaged or not, if the following conditions are met: (a) the meat product was manufactured, processed, treated, preserved, packaged or labelled by the licence holder in accordance with the provisions of the Act and these Regulations; … (e) in the case where the meat product, or any meat product that it contains, is derived from food animals that were slaughtered in Canada, the food animals were slaughtered by a licence holder in accordance with the provisions of the Act and these Regulations; (f) the meat product complies with the standards that are set out in Volume 7 of the Standards of Identity Document…
+
+— https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-108/section-179.html and /section-180.html
+
+**CFIA guidance (verbatim):**
+
+> When traded interprovincially or exported, the inspection legend set out in Figure 1 of Schedule 2 of the SFCR must appear on the label of an edible meat product, whether prepackaged or not, provided the conditions set out in subsections 180(1), (3) and (4) of the SFCR are met [282(1)(a), 287(1)(a), SFCR].
+> Consumer prepackaged meat products may show their inspection legend or inspection mark on any part of the label, except the bottom [245(2) and (3), SFCR].
+
+— https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+On carcasses: "Applying in a conspicuous manner, with edible ink or hot stamp, the inspection legend that measures no less than 25 mm in diameter, directly to the carcass or carcass side" — https://inspection.canada.ca/en/food-guidance-commodity/meat-products-and-food-animals/application-inspection-legend-food-anima
+The legends are trademarks owned by the CFIA (SFCR Schedule 2; see CFIA SFCR handbook, https://inspection.canada.ca/en/food-safety-industry/toolkit-food-businesses/sfcr-handbook-food-businesses).
+
+---
+
+## PART B — ECONOMICS AND HISTORY
+
+### B1. StatCan — what bacon costs
+
+**Table 18-10-0245-01, "Monthly average retail prices for selected products," Canada, product "Bacon, 500 grams" (vector v1353834271-series; bacon = v1353834280). Pulled from the full-table CSV download (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501):**
+- **Jan 2017 (series start): $5.03**
+- **Jul 2026 (latest): $6.97** → **+38.6%** over the series
+- 2017 annual average $5.54 → 2025 annual average $7.15; Jan–Jul 2026 average $7.08
+- **Series peak: $7.68 in October 2025**
+- Note: no ham or deli-meat product exists in this table (products checked: only "Pork loin cuts / rib cuts / shoulder cuts, per kilogram" besides bacon).
+
+**Deeper history — discontinued Table 18-10-0002-01 ("Monthly average retail prices for food and other selected products"), same product "Bacon, 500 grams": Jan 1995 = $3.00; final observation Feb 2022 = $8.55** (methodology differs from the newer scanner-based 18-10-0245 — do not splice the two series on one chart without a caveat). https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000201
+
+**CPI — Table 18-10-0004-01, "Consumer Price Index, monthly, not seasonally adjusted," Canada, product class "Ham and bacon" (vector v41690985), retrieved via the StatCan Web Data Service API:**
+- Jan 2017: **132.3** → Jul 2026: **192.6** → **+45.6%**
+- Peak: **207.7 (Aug 2025)**; 12-month change Jul 2025→Jul 2026: +0.9%
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401
+
+### B2. Toronto = "Hogtown": William Davies → Canada Packers → Maple Leaf — every link sourced
+
+**Link 1 — Davies, the empire's biggest pork packer, and the nickname (Dictionary of Canadian Biography, verbatim, verified against page text):**
+
+> By 1900 almost half a million hogs a year were being shipped to the Davis factory for slaughter and export, shareholders were receiving in dividends close to a 100 per cent annual return on their capital, and both Flavelle and Davies had become millionaires. The Davies company was said to have been the largest pork-packing operation in the British empire, and it seems that Toronto's nickname, Hogtown, dates from the early 1900s.
+
+— DCB, "DAVIES, WILLIAM," https://www.biographi.ca/en/bio/davies_william_15E.html
+(Note the careful phrasing "was said to have been" — mirror that hedging on camera.)
+
+City of Toronto's own exhibit (verbatim): "Even Toronto's 'Hogtown' moniker is said to be a reference to the number of pigs handled by Davies' plant – over 500,000 in 1900 alone." — https://www.toronto.ca/explore-enjoy/history-art-culture/online-exhibits/web-exhibits/web-exhibits-culture-people/made-in-toronto-meat/
+
+**Link 2 — Davies folded into Canada Packers, 1927 (DCB, verbatim):** "in 1927 the enterprise was folded into Canada Packers Limited." — same DCB URL. And The Canadian Encyclopedia (verbatim): "The original company, established in 1927, was Canada Packers, Ltd, which acquired the capital stock of Gunns Ltd, The Harris Abattoir Co Ltd, the Canadian Packing Co Ltd and William Davies Co, Inc." — https://www.thecanadianencyclopedia.ca/en/article/maple-leaf-foods-inc
+
+**Link 3 — Canada Packers + Maple Leaf Mills → Maple Leaf Foods (Canadian Encyclopedia, verbatim):** "The present name was adopted in 1990 when Canada Packers Inc and Maple Leaf Mills merged." … "In 1995, McCain Capital Corp together with the Ontario Teacher's Pension Plan Board, purchased control of the company." — same URL. (The Toronto exhibit dates the Maple Leaf step as 1991: "William Davies Co. merged with the Harris Abattoir Co. to form Canada Packers in 1927, later becoming part of Maple Leaf Foods in 1991." Use "1990–91 merger (completed April 1, 1991)" and note the Hillsdown Holdings ownership belongs in UNVERIFIED unless separately sourced.)
+
+**Link 4 — today's own corporate history closes the loop (canadapackers.com, verbatim):** the company "joined Maple Leaf Mills Limited in 1991 to create Maple Leaf Foods, Canada's largest food processor" and "On October 1, 2025, Canada Packers completed the spin-off from Maple Leaf Foods and launched as a new independent public company." — https://www.canadapackers.com/about/history/
+
+**Chain, fully cited:** the firm that gave Hogtown its name (Davies) → Canada Packers (1927) → Maple Leaf Foods (1991) → and in 2025 the pork half became **Canada Packers again** (see B5).
+
+### B3. Peameal bacon — the Toronto invention (handle with care)
+
+- Flavour Network (Corus) history piece, verbatim: "Toronto's oral history offers a clue by naming pork baron William Davies the inventor of peameal bacon." … "peameal bacon is wet-cured pork loin from the back of the hog that has been trimmed of fat and rolled in cornmeal, creating a yellow crust." … "Originally, it was rolled in crushed yellow peas, hence the name peameal." And on the U.S. term: "A smoked back bacon that's popular in the US — and isn't Canadian at all." — https://www.flavournetwork.ca/article/the-history-of-canadian-peameal-bacon/
+- The DCB confirms the Davies trade context that birthed it: "a rising demand for lean, premium bacon in Britain" (https://www.biographi.ca/en/bio/davies_william_15E.html).
+- Federal corroboration that peameal = cornmeal-coated back bacon: Canadian Nutrient File food 1981, "Pork, cured, back bacon (cornmeal, peameal), uncooked" (Health Canada CNF, https://food-nutrition.canada.ca/cnf-fce/).
+- **Script caution:** the Davies-invented claim is **oral history** ("offers a clue", "credited") — say "credited to," never "documented." The peas-to-cornmeal switch timing (often said to be after WWI) is folklore-grade; keep it hedged.
+
+### B4. The 2008 Maple Leaf listeriosis outbreak — corporate/economic history (precision on numbers)
+
+**Official toll — two official figures exist; use both with attribution:**
+- Public Health Agency of Canada, Lessons Learned report (verbatim): "Of the 56 confirmed cases (75% of which were in Ontario) and 2 probable cases, there were 20 deaths where Listeriosis was the underlying or contributing cause of death" and "The source of illness was linked to ready-to-eat meats produced at a Maple Leaf plant in Ontario." — https://www.canada.ca/en/public-health/services/food-safety/listeria/lessons-learned-public-health-agency-canada-response-2008-listeriosis-outbreak.html
+- The Weatherill Report (Report of the Independent Investigator, released July 23 2009) is the number most media use — "the outbreak that cost 22 Canadians their lives" (full-text release carried by Bakers Journal: https://www.bakersjournal.com/full-text-of-final-report-on-listeriosis-outbreak-1698/); the federal government "would implement all 57 recommendations" (Globe and Mail: https://www.theglobeandmail.com/news/national/company-government-faulted-in-listeria-deaths/article4279768/). **Recommended script line: "22 deaths, per the federal independent investigator" — never "23" (see UNVERIFIED).**
+
+**Recall scale:** AP (via NBC News) reported approximately **220 products** withdrawn and the Toronto plant (Est. 97B) closed August 20, 2008 — https://www.nbcnews.com/news/amp/wbna26428441
+
+**McCain's news-conference line (AP, verbatim quotes):**
+
+> "The buck stops right here."
+> "We have excellent systems and processes in place but this week it's our best efforts that failed — not the regulators, not the Canadian food safety system."
+> "I emphasize this is our accountability and it's ours to fix, which we are taking on fully."
+
+— https://www.nbcnews.com/news/amp/wbna26428441
+
+**The TV apology (video message, August 23, 2008 — as reproduced in a legal case study; reconstructed from PDF, ellipses where the extraction is imperfect):**
+
+> "My name is Michael McCain. … When Listeria was discovered in the product, we launched immediate recalls to get it off the shelf. Then we shut the plant down. Tragically our products have been linked to illnesses and loss of life. To Canadians who are ill and to the families who have lost loved ones I offer my deepest sympathies. Words cannot begin to express our sadness for your pain. Maple Leaf Foods is 23,000 people who live in a culture of food safety. We have an unwavering commitment to keeping your food safe with standards well beyond regulatory requirements. But this week our best efforts failed and we are deeply sorry. This is the toughest situation we've faced in 100 years as a company. … I commit to you that our actions are guided by putting your interest first."
+
+— Colin Stevenson, "Maple Leaf Case Study: An Example of Crisis Management," https://www.whlawyers.ca/wp-content/uploads/2019/06/Maple-Leaf-Case-Study_-_Colin-Stevenson.pdf (**play the actual 2008 clip rather than reading this reconstruction — one clause ("shaken your confidence in us") is garbled in the PDF extraction; see UNVERIFIED**)
+
+**The settlement:** "Maple Leaf Foods Inc. reached a $27-million Canada-wide settlement" in the class actions; approved by courts in Saskatchewan, Ontario and Quebec; claims from $750 up to $125,000 depending on severity — CBC News, https://www.cbc.ca/news/27m-settlement-reached-in-maple-leaf-listeriosis-suits-1.810045 and Globe and Mail, https://www.theglobeandmail.com/news/national/listeria-lawsuits-against-maple-leaf-settled-for-27-million/article1067849/
+
+**Retrospective "model response" coverage:** Boyd Neil (Hill & Knowlton Canada) "calls Maple Leaf's response to the listeriosis outbreak 'a case study in how to effectively handle a crisis'" — Law Times, https://www.lawtimesnews.com/news/general/a-case-study-in-effective-crisis-management/258726 ; McCain was voted **2008 Business Newsmaker of the Year by The Canadian Press** (44 of 125 votes) — https://www.theguardian.pe.ca/living/maple-leaf-foods-ceo-michael-mccain-named-business-newsmaker-of-year-108749/ ; Globe and Mail profile "The testing of Michael McCain," https://www.theglobeandmail.com/report-on-business/the-testing-of-michael-mccain/article598005/ ; McCain on his advisors (Globe-attributed): "Going through the crisis there are two advisors I've paid no attention to. The first are the lawyers, and the second are the accountants."
+
+### B5. Maple Leaf 2024–26: the pork spin-off — and the name that came back
+
+**Verified, and it is the full-circle beat:** Maple Leaf did NOT simply exit pork — it spun the pork business into a new public company and **revived the name Canada Packers.**
+
+**Maple Leaf Foods press release, October 1, 2025 (verbatim):**
+
+> MISSISSAUGA, ON, Oct. 1, 2025 /CNW/ - Maple Leaf Foods Inc. ("Maple Leaf Foods" or the "Company") (TSX: MFI) announced today that it has completed the spin-off of its pork operations into Canada Packers Inc. ("Canada Packers").
+> The common shares of Canada Packers ("Canada Packers Common Shares") will commence trading on the Toronto Stock Exchange on October 2, 2025 under the symbol "CPKR".
+> [Michael McCain, Executive Chair:] "Maple Leaf Foods and Canada Packers are moving forward today as independent companies, each with a clear investment profile."
+
+— https://www.mapleleaffoods.com/news/maple-leaf-foods-inc-completes-spin-off-of-canada-packers-inc/
+(Same release/coverage: Maple Leaf **retains a 16% ownership stake** in Canada Packers and is an anchor customer under a supply agreement; shareholder approval June 11, 2025 — see also https://www.realagriculture.com/2025/10/maple-leaf-completes-spin-off-of-pork-business-into-canada-packers/)
+
+**Brandon, Manitoba:** Canada Packers' flagship is the Brandon "super plant" — the company's locations pages list the Brandon plant ( https://www.canadapackers.com/about/locations/manitoba-brandon/ ), and RealAgriculture reports the new company runs "two main processing plants at Brandon, Man. and Lethbridge, Alta. … approximately 3,700 employees and capacity to process nearly five million pigs per year" ( https://www.realagriculture.com/2024/10/the-return-of-canada-packers/ and the Oct 2025 completion piece above).
+
+**Status as of Sept 2026:** Canada Packers Inc. (TSX: CPKR) is a standalone public company; it has filed its own MD&A (SEDAR+: https://www.sedarplus.ca ; Q3 2025 MD&A: https://filecache.investorroom.com/mr5ircnw_canadapackers/190/Q3_2025_Canada_Packers_MDA_AODA.pdf) and reported its first post-spin earnings (Global News: https://globalnews.ca/news/11512750/canada-packers-posts-its-first-earnings-report-after-spinoff-from-maple-leaf/).
+
+**The line for the episode:** the company that made Toronto "Hogtown" became Canada Packers in 1927, became Maple Leaf Foods in 1991 — and in 2025 Canada's biggest pork business went back on the stock exchange under the name **Canada Packers**. Ninety-eight years later, the wheel came all the way around.
+
+### B6. Olymel 2023 — factual, attributed, no blame
+
+**Olymel news release, April 14, 2023 (via Newswire, verbatim from coverage of the release):** Olymel announced "the permanent closure of the Vallée-Jonction hog slaughtering and cutting plant in Beauce" — https://www.newswire.ca/news-releases/olymel-announces-the-permanent-closure-of-the-vallee-jonction-hog-slaughtering-and-cutting-plant-in-beauce-832899672.html
+- Scale: "The decision affects 994 employees across two shifts per day, including 911 unionized workers and 83 managers"; final closure December 22, 2023.
+- Company's stated reason (as reported from the release): the decision was necessary "to stop losses in the fresh pork sector, which have amounted to more than $400 million over the past two years"; cited factors: "the pandemic, the labour shortage, the instability of export markets and the increase in raw material costs."
+- CBC: "Olymel to close Quebec pork plant, nearly 1,000 people to lose their jobs," https://www.cbc.ca/news/canada/montreal/olymel-closure-quebec-1.6810440
+- Federal QP note on the closure (Government of Canada, open.canada.ca): https://search.open.canada.ca/qpnotes/record/dfatd-maecd,00015-2023
+
+### B7. Hogs and tariffs, 2019–2026 — verified timeline (do not overclaim)
+
+**Scale of the export stake:** Canada is the world's **third-largest pork exporter** — "in 2022, Canada exported 1.4 million tonnes of pork, valued at $4.8 billion CAD, to 77 countries" (Canadian Pork Council, https://www.cpc-ccp.com/foreign-trade). Canada also exported "$468.6 million in pork products to China" in 2024 (Global Affairs Canada, below).
+
+**2019 China episode:** China halted Canadian meat June 2019 over "forged" veterinary certificates (188 counterfeit certificates cited; ractopamine finding) — Global News, https://globalnews.ca/news/5431046/china-meat-imports-canada-ban/ ; resolved that fall. CFIA export notice, November 5, 2019 (verbatim, primary): "Effective today, pork and beef products from eligible establishments in Canada that are processed on or after November 5, 2019 may be exported to China." — https://inspection.canada.ca/en/exporting-food-plants-animals/food-exports/food-export-notices/pork-and-beef-products-china
+
+**2024–25 China anti-discrimination probe → tariffs:** Global Affairs Canada ministerial statement, March 8, 2025 (verbatim, primary): "The investigation resulted in the announcement of unjustified tariffs on Canadian canola oil and meal, peas, fish, seafood and pork products and is scheduled to enter into force on March 20, 2025." and "In 2024, Canada exported $468.6 million in pork products to China" — https://www.canada.ca/en/global-affairs/news/2025/03/statement-by-ministers-ng-macaulay-and-lebouthillier-on-chinas-anti-discrimination-investigation.html (China's rate on pork: 25% — see AAFC support announcement, https://www.canada.ca/en/agriculture-agri-food/news/2025/03/government-of-canada-announces-support-for-agricultural-sector-following-the-imposition-of-tariffs-by-china.html)
+
+**January 2026 Canada–China deal — pork left out (primary, verbatim):** the Global Affairs backgrounder on the Preliminary Joint Arrangement states "Canada expects that Canadian canola meal, lobsters, peas and crabs will not be subjected to relevant anti-discrimination tariffs from March 1, 2026, to the end of this year" and canola seed tariffs drop "to a combined rate of approximately 15%" — and **pork does not appear anywhere in the document**. — https://www.international.gc.ca/news-nouvelles/2026/2026-01-16-china-chine.aspx?lang=eng . USDA FAS flagged the same gap (GAIN report CA2026-0001, "Canada Strikes Deal with China on Canola Seafood Peas and Beef," Jan 30, 2026: https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Canada+Strikes+Deal+with+China+on+Canola+Seafood+Peas+and+Beef_Ottawa_Canada_CA2026-0001.pdf). **As of Sept 8, 2026: China's 25% pork tariff remains unresolved by that arrangement.**
+
+**United States:** the 2025 IEEPA "border" tariffs on Canada (25%, raised to 35% July 31/Aug 1, 2025 — Thompson Coburn tracker: https://www.thompsoncoburn.com/insights/ieepa-tariffs-on-canada-increased-to-35/) **exempted CUSMA/USMCA-originating goods** from the outset of the March 6, 2025 executive order — and Canadian pork overwhelmingly qualifies. Norton Rose Fulbright (verbatim): "the IEEPA tariffs did not apply to CUSMA-compliant goods (that make up the vast majority of exports)"; and "On February 20, the US Supreme Court struck down tariffs imposed under the International Emergency Economic Powers Act (IEEPA)" (*Learning Resources Inc. v Trump*, No. 24-1287), while Section 232 tariffs (steel/aluminum, autos, copper, lumber) remain — https://www.nortonrosefulbright.com/en/knowledge/publications/99029733/us-supreme-court-strikes-down-ieepa-tariffs-but-practical-impacts-for-canadian-exporters-limited . **Bottom line for script: Canadian pork/bacon into the U.S. has stayed essentially tariff-free via CUSMA; the China 25% is the live wound.** (On "Section 338": no evidence found of any Section 338 action touching pork — see DO-NOT-USE.)
+
+### B8. Bacon cultural economics — sourced stats
+
+**The famous poll (Maple Leaf/Angus Reid press release, Feb 3, 2010 — verbatim headline):**
+
+> "Asked to choose between bacon and sex, 43 per cent of Canadians would choose...bacon!"
+
+Key stats from the release: 43% chose bacon over sex; **73% of respondents said they love bacon**; 23% of men ranked bacon their preferred aroma; survey of 1,006 Canadian adults by Angus Reid Public Opinion (Dec 1–2, 2009), margin of error ±3.1%. — https://www.newswire.ca/news-releases/asked-to-choose-between-bacon-and-sex-43-per-cent-of-canadians-wouldchoosebacon-539257941.html (a corporate-commissioned poll — attribute it as such on air)
+
+**Maple Leaf "Bacon Bits Facts and Figures" sheet (corporate, citing Nielsen; verbatim from the PDF):**
+- "77.1% of Canadian households purchased bacon in 2019 with the average buyer purchasing approximately 4.1 kgs of bacon a year."
+- "IN 2020, CANADIANS PURCHASED OVER 53.4 MILLION KG OF BACON" (Nielsen)
+- "Maple Leaf Foods produces 1.8 million packages of bacon per week at our Lagimodiere plant in Winnipeg." / "Winnipeg is the Bacon Capital of Canada!"
+— https://www.mapleleaffoods.com/wp-content/uploads/sites/6/2022/02/MapleLeafFoodsBaconFactSheet-en-c.pdf
+
+**Government consumption-side number (primary):** Statistics Canada, The Daily, "Food availability, 2025" (May 28, 2026), verbatim: "pork availability was relatively stable (-0.1%), at 14.1 kilograms (boneless weight) per person" — https://www150.statcan.gc.ca/n1/daily-quotidien/260528/dq260528d-eng.htm
+
+---
+
+## UNVERIFIED / DO-NOT-USE
+
+1. **Sodium Nitrite row of the List of Permitted Preservatives, verbatim** — the Health Canada page truncated before the S-entries on every fetch. The 200/120 ppm numbers are solid via the **potassium nitrite row** and the **CFIA nitrites guidance** (both quoted in A3); do not display an on-screen "Sodium Nitrite — S.2" table row as a verbatim quote without pulling the page manually first.
+2. **"Ham with Added Water" as a named legal standard** — no such standard exists today. The correct citations are B.14.021 (12%/10%), B.01.090 (% meat protein in the common name) and CFIA's "an expression such as 'water added' must be part of the product's common name." Don't present "Ham with Added Water" as a defined regulatory product name.
+3. **Any CFIA rule on "Black Forest ham"** — none found; only absence is verified. The EU PGI claim rests on Wikipedia; verify against the EU eAmbrosia register before using.
+4. **William Davies personally invented peameal bacon** — oral history only ("Toronto's oral history offers a clue…"). Also the peas-to-cornmeal switch "after WWI" — folklore-grade. Say "credited," keep hedges.
+5. **Reference-amount item letters (L.1, L.4, L.8)** — the row texts and gram values were returned consistently on two fetches, but the item lettering came from an AI-summarized fetch; check the printed table before putting item numbers on screen.
+6. **"23 deaths" or "24 deaths"** in the listeriosis outbreak — figures circulating in some secondary/scientific sources; the two defensible official figures are PHAC's "20 deaths where Listeriosis was the underlying or contributing cause" (of 56 confirmed + 2 probable cases) and Weatherill's 22. Use 22 with attribution to the independent investigator.
+7. **Recall product count** — AP says ~220 products; other sources say 191 or 243. Say "more than 190" or "roughly 220 (AP)" with attribution; don't state a single hard number as fact.
+8. **The TV-apology clause "We know this has shaken your confidence in us"** — my PDF extraction garbled this line ("our confidence"). Play the archival clip; don't caption from my reconstruction.
+9. **"Section 338" U.S. tariff exposure for pork** — no evidence found of any Section 338 measure touching Canadian pork; do not mention Section 338 at all.
+10. **Hillsdown Holdings as the 1991 merger vehicle** — widely repeated (FundingUniverse, Wikipedia) but not confirmed in the primary/encyclopedic sources I verified; corroborate before use.
+11. **Fatsecret/third-party sodium values for named deli hams** (e.g., "Maple Leaf Country Kitchen Ham 520 mg/55 g") — crowd-sourced; buy the package and shoot the actual NFt instead. The CNF 1,249 mg/100 g figure (government) is safe.
+12. **"The first bacon factory opened in Wiltshire, England in 1770"** and other trivia on Maple Leaf's fact sheet — sourced by Maple Leaf to mentalfloss.com and a fan wiki; do not use.
+13. **Splicing the two StatCan bacon price series** (18-10-0002 ending 2022 at $8.55 vs 18-10-0245 showing ~$7 in the same era) — different methodologies; never chart them as one line.
+14. **Bacon's FOP status as a category** — my computations show individual products landing 220–357 mg against 230/345 mg thresholds, i.e., it varies by brand, serving size, and raw-vs-cooked sale. Verify each specific package before saying a named product does or doesn't "wear the magnifying glass."

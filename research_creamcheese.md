@@ -688,3 +688,352 @@ DFC's consumer-facing page for logo-spotting is https://dairyfarmersofcanada.ca/
 ---
 
 *End of dossier. Primary-source coverage: Justice Canada (FDR, SFCR, FDA), CFIA (FCSD Vol. 7, crosswalk, implementation plan, common-name guidance), Health Canada (TRA, TDV, additive List 4, CNF), Canada Gazette (SOR/2024-244), CBSA Customs Tariff 2026, Global Affairs Canada (Notices 906 and TRQ key-dates), Statistics Canada (18-10-0245-01, 18-10-0002-01, 18-10-0004-01 via WDS), Canadian Dairy Commission, Dairy Farmers of Canada, Kraft Heinz Canada product pages, Dictionary of Canadian Biography, Pomeroy Foundation, Britannica, Bloomberg/Fortune/AP for the 2021 event.*
+
+---
+
+# PART 1 — OWNERSHIP AND LABELS (brands/labels agent dossier, verbatim)
+
+---
+
+# CANADIAN COUNTER — OWNERSHIP + LABELS DOSSIER
+## Cream Cheese & Cheese Spreads Sold in Canada
+**Research date: September 9, 2026. All prices "at time of research." All corporate claims attributed. No health commentary anywhere in this document — additives are described only as declared ingredients permitted under Canadian rules. Every claim carries a quote + URL. Items sourced from OpenFoodFacts, Instacart, or reseller listings are flagged: "re-read physical package on camera."**
+
+---
+
+## PART 1 — THE EPISODE'S ENGINE: THE FIVE LEGAL NAMES
+
+These names are legally different things in Canada. The compositional standards live in the **Canadian Food Compositional Standards** (incorporated by reference into federal regulation; the old Food and Drug Regulations dairy standards such as B.08.035 were repealed in 2024 by SOR/2024-244 and moved into this document).
+
+From the Canadian Food Compositional Standards, Volume 7 (dairy), CFIA (https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-food-compositional-standards-0):
+
+- **7.4.7 Cream Cheese** — moisture "not more than 55%", milk fat "not less than 30%".
+- **7.4.9 Cream Cheese Spread** — "not less than 51% cream cheese", "not more than 60% moisture, and not less than 24% milk fat".
+- **7.4.15 Processed Cheese Spread** — "not less than 51% cheese, not more than 60% moisture, and not less than 20% milk fat".
+- **7.4.19 Cold-Pack Cheese Food** — "not less than 51% cheese, not more than 46% moisture, and not less than 23% milk fat".
+
+Why "cream cheese PRODUCT" exists as a name — CFIA's dairy labelling requirements page (https://inspection.canada.ca/en/food-labels/labelling/industry/dairy):
+> "only those foods that meet all the provisions set out in the standard can use the prescribed common name."
+> "A dairy product that deviates from a prescribed standard may not use the common name associated with that standard unless the standardized common name is modified to indicate how the food differs."
+
+**What we found on real Canadian shelves (exact names as printed on manufacturer/retailer product pages):**
+
+| Printed common name | Product |
+|---|---|
+| "Cream Cheese" | Philadelphia Original Brick; Lactantia Original Cream Cheese 250 g; Compliments Cream Cheese Brick; Great Value Cream Cheese (flagged); Organic Meadow Organic Cream Cheese |
+| "Cream Cheese Product" | Philadelphia soft tub ("Philadelphia Cream Cheese Product Original 250 g" — Voilà); Philadelphia "Whipped Original Cream Cheese Product"; Philadelphia "Light Cream Cheese Product"; Lactantia "Original Cream Cheese Product 227g" (DFC listing); **Tre Stelle "Original Cream Cheese Product 200g"** |
+| "Cream Cheese Spread" | Philadelphia "Cream Cheese Spread Brick Light" (Voilà); No Name "Cream Cheese Spread, Original – 450 g" (Loblaws listing title); Lactantia "Original Cream Cheese Spread" (Ontario Made listing) |
+| "Cheese Spread" | Kraft Cheez Whiz — Kraft Heinz Canada's own page title is simply "Cheese Spread" |
+| "Cold Pack Cheddar Cheese Product" / "Cold-Pack Cheese Food" | MacLaren's Imperial — **two different names appear across sources** (see Segment 3) — re-read physical package on camera |
+| "Processed Cheese Product" / "Process Cheese Product" | The Laughing Cow (Metro lists "Processed Cheese Product The Laughing Cow"; Real Canadian Superstore lists "The Laughing Cow Process Cheese Product Garlic & Herbs") |
+| "Fresh Cheese" | Boursin — Dairy Farmers of Canada lists it as "Boursin Garlic & Fine Herbs Fresh Cheese 150g" |
+
+On-camera line of inquiry: same brand family, same shelf, five different legal categories — and the brick and the tub of Philadelphia sit side by side at the same price with different legal names (brick = "Cream Cheese", tub = "Cream Cheese Product").
+
+---
+
+## PART 2 — BRAND ROSTER, OWNERSHIP CHAINS, LABEL BLOCKS
+
+### SEGMENT 1 — PHILADELPHIA (Kraft Heinz) — the market leader
+
+**Ownership chain:**
+- Brand of **The Kraft Heinz Company** (Chicago/Pittsburgh, NASDAQ: KHC), formed July 2015 by the merger of Kraft Foods Group and H.J. Heinz, engineered by Berkshire Hathaway and 3G Capital, which had bought Heinz in 2013 for $23 billion. CBS News: "Buffett and 3G each contributed $5 billion for a special dividend for Kraft shareholders." (https://www.cbsnews.com/news/kraft-heinz-splitting-reversing-merger/; merger agreement: https://news.kraftheinzcompany.com/press-releases-details/2015/HJ-Heinz-Company-and-Kraft-Foods-Group-Sign-Definitive-Merger-Agreement-to-Form-The-Kraft-Heinz-Company/default.aspx)
+- **Sept 2, 2025:** Kraft Heinz announced it would split into two companies; Philadelphia was slated for "Global Taste Elevation Co." alongside Heinz and Kraft Mac & Cheese (CBS News, above; Kraft Heinz 8-K exhibit, Dec 16, 2025: "Following a thorough evaluation of potential strategic transactions, Kraft Heinz announced in September of 2025 that it was separating into two standalone companies… Kraft Heinz currently expects the transaction to close in the second half of 2026." https://www.sec.gov/Archives/edgar/data/1637459/000119312525319938/d95367dex991.htm)
+- **Feb 11, 2026:** the split was PAUSED. New CEO Steve Cahillane said the company's "challenges are fixable" (Food Dive, https://www.fooddive.com/news/kraft-heinz-pauses-split-as-new-ceo-says-problems-are-fixable/811930/). As reported by Reuters (carried by KFGO): "Faced with the choice of continuing the separation and all the work that's required there or shifting all resources against growing the business… it became very compelling that we ought to pause the separation." (https://kfgo.com/2026/02/11/kraft-heinz-pauses-work-related-to-separation/) — verify this quote against the original Reuters wire before use.
+- **Canadian-owned? NO.** US-owned. Canadian arm: Kraft Heinz Canada ULC, HQ at Queen's Quay Terminal, downtown Toronto since July 10, 2023 — "Kraft Heinz has been a member of the Canadian business community for over 100 years." (https://news.kraftheinzcompany.com/press-releases-details/2023/Kraft-Heinz-Unveils-New-Canadian-Headquarters-in-Downtown-Toronto-/default.aspx)
+
+**Where Canadian Philadelphia is made — VERIFIED: Montreal, not the US.**
+- Business Wire press release, March 2026 (via FinancialContent): Kraft Heinz announced a "$250 million investment to modernize its Mont Royal factory in Montreal"; the plant "employs over 1,000 employees"; Kraft Heinz "employs approximately 2,000 Canadians"; its products are "found in over 95 percent of Canadian households." President of Kraft Heinz Canada Simon Laroche: "This investment underscores our more than 120-year-old commitment to Canada and producing the foods Canadians love right here at home." (https://www.financialcontent.com/article/bizwire-2026-3-20-kraft-heinz-to-invest-250-million-in-montreals-mont-royal-factory-to-strengthen-canadian-manufacturing-capacity; also https://www.morningstar.com/news/business-wire/20260319488425/…)
+- Food Processing (Mar 2026), quoting Laroche: "From Kraft Dinner to Philadelphia Cream Cheese and Kraft Peanut Butter, our Mont Royal facility plays a vital role" (https://www.foodprocessing.com/business-of-food-beverage/capital-spending/news/55365941/kraft-heinz-canada-commits-to-significant-upgrades-to-mont-royal-plant-in-montreal)
+- Note the contrast for the episode: the December 2021 US shortage centred on Kraft Heinz's Lowville, NY plant — a different plant from the one supplying Canada.
+
+**LABEL BLOCK — Philadelphia Original Brick Cream Cheese, 250 g** (manufacturer's own page: https://www.kraftheinz.com/en-CA/philadelphia/products/00068100011258-original-brick-cream-cheese)
+- Printed common name: **"Cream Cheese"** (page/product title: "Original Brick Cream Cheese")
+- Ingredients (verbatim): "MILK, CREAM, SKIM MILK POWDER, SALT, BACTERIAL CULTURE, GUAR GUM AND/OR CAROB BEAN GUM, SORBIC ACID." — Contains: Milk.
+- **Ingredient count: 7 listed entries** (8 if the two gums are counted separately). Guar gum, carob bean gum and sorbic acid are declared additives permitted under Canadian rules.
+- Nutrition (printed label values, per "2 Tbsp (30 g)"): Calories 100; Fat 10 g; Saturated 6 g + Trans 0.3 g (32% DV); Cholesterol 30 mg; **Sodium 125 mg (5% DV)**; Carbohydrate 2 g; Sugars 1 g; Protein 2 g.
+- Claim on the manufacturer's page (verbatim): "Philadelphia, voted most trusted Cream Cheese brand, based on the 2026 BrandSpark® Canadian Trust Study." Description: "blends the creamy goodness of Philly with real milk and cream… contains no artificial colours or flavours."
+- Price at Voilà by Sobeys (voila.ca), at time of research: **$5.49 / 250 g — "$2.20 per 100g"** ("Philadelphia Cream Cheese Original 250 g", https://voila.ca/products/philadelphia-cream-cheese-original-250-g/466160EA)
+
+**LABEL BLOCK — Philadelphia Original SOFT tub — printed name "Cream Cheese Product"** (manufacturer's page: https://www.kraftheinz.com/en-CA/philadelphia/products/00068100896459-original-cream-cheese)
+- Ingredients (verbatim, Kraft Heinz Canada page): "MILK, CREAM, MODIFIED MILK INGREDIENTS, SALT, BACTERIAL CULTURE, LACTIC ACID, GUAR GUM AND/OR CAROB BEAN GUM, POTASSIUM SORBATE." — Contains: Milk. **Count: 8 entries.**
+- Nutrition (printed, per "2 Tbsp (30 g)"): Calories 70; Fat 6 g; Saturated 4 g + Trans 0.2 g (21% DV); Cholesterol 20 mg; **Sodium 120 mg (5% DV)**; Carbohydrate 3 g; Sugars 2 g; Protein 2 g.
+- Voilà lists "Philadelphia Cream Cheese Product Original 250 g" at **$5.49 / 250 g — $2.20 per 100g** (https://voila.ca/products/philadelphia-cream-cheese-product-original-250-g/466030EA). CAUTION: the ingredient list shown on that Voilà page matches Kraft's *Light* formulation, not Kraft's own tub page — **re-read physical package on camera**.
+- The engine in one shot: brick says CREAM CHEESE, tub says CREAM CHEESE PRODUCT, same brand, same price at the same store.
+
+**Other Philadelphia SKUs (manufacturer's own pages, printed values):**
+- **Light Cream Cheese Product** (https://www.kraftheinz.com/en-CA/philadelphia/products/00068100011173-light-cream-cheese-spread): Ingredients "MODIFIED MILK INGREDIENTS, SALT, BACTERIAL CULTURE, LACTIC ACID, XANTHAN GUM, CAROB BEAN GUM, GUAR GUM, SORBIC ACID." (8 entries — note: **no "milk" or "cream" as first ingredients; leads with modified milk ingredients**). Per 2 Tbsp (30 g): Cal 70; Sat fat 3.5 g (19% DV); **Sodium 150 mg (7% DV)** — the highest sodium of the Philadelphia lineup shown.
+- **Whipped Original Cream Cheese Product** (…/00068100896510-whipped-original-cream-cheese-product): "MILK, CREAM, MODIFIED MILK INGREDIENTS, WATER, SALT, BACTERIAL CULTURE, LACTIC ACID, GUAR GUM AND/OR CAROB BEAN GUM, XANTHAN GUM, POTASSIUM SORBATE, CALCIUM PROPIONATE" (11 entries). Per 2.5 Tbsp (30 g): Cal 80; Sat 4 g (21%); Sodium 95 mg (4%).
+- **Original Lactose Free Cream Cheese** (…/00068100901610-original-cream-cheese): "MILK, CREAM, EVAPORATED SKIM MILK, SALT, BACTERIAL CULTURE, CAROB BEAN GUM, LACTASE (ENZYME)" (7 entries). Per 2 tbsp (30 g): Cal 100; Sat 6 g (32%); Sodium 85 mg (4%). Voilà: $6.79 / 250 g — $2.72 per 100g (https://voila.ca/products/philadelphia-lactose-free-cream-cheese-original-250-g/601852EA). Note it keeps the unmodified name "Cream Cheese" — and it is dearer than the standard brick at the same retailer.
+
+---
+
+### SEGMENT 2 — CHEEZ WHIZ (Kraft Heinz) — the jar your parents had
+
+**Ownership:** Kraft Heinz (same chain as above). **Canadian-owned? NO.**
+
+**Where made:** Quebec. Kraft Cheez Whiz Cheese Spread is certified **"Aliments préparés au Québec"** (Prepared in Quebec) by Aliments du Québec, listed under company "KraftHeinz" (https://www.alimentsduquebec.com/en/certified-products/products/kraft-cheez-whiz-cheese-spread).
+
+**LABEL BLOCK — Kraft Cheez Whiz "Cheese Spread"** (manufacturer's page: https://www.kraftheinz.com/en-CA/kraft-cheez-whiz/products/00068100892314-cheese-spread)
+- Printed common name: **"Cheese Spread."**
+- Ingredients (verbatim): "MODIFIED MILK INGREDIENTS, WATER, VEGETABLE OIL, CHEESE (MILK, MODIFIED MILK INGREDIENTS, SALT, BACTERIAL CULTURE, MICROBIAL ENZYME, CALCIUM CHLORIDE, LIPASE, ANNATTO*), CORN MALTODEXTRIN, SODIUM PHOSPHATE, MODIFIED CORN STARCH, LACTIC ACID, SALT, GROUND MUSTARD, SODIUM ALGINATE, SEASONING (CONTAINS CELERY), SORBIC ACID, ANNATTO, PAPRIKA OLEORESIN. *MAY BE OMITTED."
+- **Ingredient count: 15 top-level entries** (23 counting the sub-ingredients of the cheese). Sodium phosphate, sodium alginate, modified corn starch, sorbic acid, annatto and paprika oleoresin are declared additives permitted under Canadian rules. Note for the label segment: "CHEESE" is the fourth ingredient, after modified milk ingredients, water and vegetable oil.
+- Nutrition (printed, per "2 tbsp (30 g)"): Calories 70; Fat 4.5 g; Saturated 1 g + Trans 0.1 g (6% DV); Cholesterol 5 mg; **Sodium 410 mg (18% DV)**; Carbohydrate 5 g; Sugars 3 g; Protein 2 g. (For contrast, on the printed labels: Philadelphia brick 125 mg sodium per 30 g; Cheez Whiz 410 mg per 30 g.)
+- Price at Voilà, at time of research: **$7.99 / 450 g — $1.78 per 100g** ("Cheez Whiz Cheese Spread Original 450 g", https://voila.ca/products/cheez-whiz-cheese-spread-450-g/342941EA)
+
+---
+
+### SEGMENT 3 — MacLAREN'S IMPERIAL (Kraft Heinz) — the little red cardboard tub, 130+ years old
+
+**Ownership chain — Canada's oldest cheese brand, American-owned since 1920:**
+- Kraft Heinz Canada's own product page: "MacLaren's Imperial Sharp Cheddar Cheese has been around since 1891 when Alexander MacLaren first started producing his famous cheese product in Stratford, Ontario." (https://www.kraftheinz.com/en-CA/maclaren-imperial/products/00068100895063-maclaren-s-imperial-sharp-cold-pack-cheddar-cheese-product)
+- Bottle-history archive baybottles.com (secondary source): "In late 1920 the MacLaren Imperial Cheese Company was purchased and consolidated with the J. L. Kraft & Bros. Co., of Chicago, Illinois under the name: 'Kraft-MacLaren Cheese Co., Ltd.'" — capitalized at $1,000,000, head office Montreal (https://baybottles.com/2021/05/10/maclarens-imperial-cheese/). This was J.L. Kraft's route into Canada — i.e., the American cheese giant's Canadian story *starts* with buying a Canadian brand. **Canadian-owned? NO — Kraft since 1920.**
+
+**LABEL BLOCK — MacLaren's Imperial Sharp Cold Pack Cheddar Cheese Product, 230 g** (manufacturer's page above)
+- Printed common name on Kraft Heinz Canada's page: **"SHARP COLD PACK CHEDDAR CHEESE PRODUCT"**. But Voilà's listing calls the same 230 g item "Maclaren Imperial **Cold-Pack Cheese Food** Cheddar 230 g" (https://voila.ca/products/maclaren-imperial-cold-pack-cheese-food-cheddar-230-g/385899EA) — two different legal names across sources. **Re-read physical package on camera; this is a great on-camera beat given "cold-pack cheese food" is its own standard (7.4.19).**
+- Ingredients (verbatim, Kraft Heinz page): "CHEDDAR CHEESE (MILK, MODIFIED MILK INGREDIENTS, SALT, BACTERIAL CULTURE, CALCIUM CHLORIDE, MICROBIAL ENZYME, LIPASE), MODIFIED MILK INGREDIENTS, WATER, SALT, SORBIC ACID, CITRIC ACID, LACTIC ACID, ANNATTO." — Contains: Milk. **Count: 8 top-level entries.**
+- Nutrition (printed, Kraft Heinz page, per "2 tbsp (30 g)"): Calories 120; Fat 10 g; Saturated 6 g + Trans 0.3 g (32% DV); Cholesterol 30 mg; **Sodium 270 mg (12% DV)**; Protein 6 g. CAUTION: Voilà's nutrition panel for this item shows Sodium 510 mg per 29 g — a direct conflict with the manufacturer's page. **Re-read physical package on camera.**
+- Price at Voilà, at time of research: **$8.49 / 230 g — $3.69 per 100g.**
+
+---
+
+### SEGMENT 4 — THE LAUGHING COW (Bel Group, France) — French brand, made by a Québec family fromagerie
+
+**Ownership:** Bel Group (Fromageries Bel), France. Brand "born in 1921 in the Léon Bel factory in France" (Groupe Bel Canada: https://www.bel-canada.ca/en/brand-listings/the-laughing-cow/). **Canadian-owned? NO — French.**
+
+**Where made — VERIFIED, and it's a great story:** The Laughing Cow's own Canadian FAQ (https://www.thelaughingcow.ca/faqs/):
+> "The majority of The Laughing Cow cheeses are proudly produced in St-Nicolas, Quebec since August 2007. The Laughing Cow Lactose Free is, however, imported from Slovakia, while our Cheese Dippers are imported from France."
+
+The St-Nicolas producer is **Fromagerie Bergeron**, a Québec family cheesemaker, under contract to Bel. Bel/Bergeron 10th-anniversary press release (Nov 6, 2017, Canada Newswire): production quadrupled in a decade; "nearly 1.4 billion individual cheese portions using 100% Canadian milk"; Roger Bergeron, General Manager, on being "chosen as the Canadian producer" (https://www.newswire.ca/news-releases/bel-group-and-fromagerie-bergeron-celebrate-10-years-of-the-exemplary-partnership-behind-la-vache-qui-rit-cheese-655531813.html). Groupe Bel Canada's production page: "Since 2007, this local company has produced the renowned The Laughing Cow® cheese for the entire Canadian market." (https://www.bel-canada.ca/en/expertises/production-and-partners/)
+
+Bel's own FAQ also explains "processed" in its own words: "All of our The Laughing Cow products are made from a blend of specially selected cheeses. To make them, we melt the cheeses and add other milk ingredients. This procedure is called processing." (thelaughingcow.ca/faqs/)
+
+**LABEL BLOCK — The Laughing Cow Original** (manufacturer's page: https://www.thelaughingcow.ca/products/triangles-en-ca/original/)
+- Printed common name at retail: **"Processed Cheese Product"** (Metro listing title) / "Process Cheese Product" (Real Canadian Superstore title). Re-read physical package on camera for the exact bilingual name.
+- Ingredients (verbatim, thelaughingcow.ca): "Modified milk ingredients, cheeses (pasteurized milk, modified milk ingredients, salt, bacterial culture, calcium chloride, microbial enzyme), sodium phosphates, citric acid (acidity corrector), salt. Contains: Milk." **Count: 5 top-level entries.** Sodium phosphates and citric acid are declared additives permitted under Canadian rules.
+- Nutrition (per Voilà panel for the 267 g format, per "1 portion (17 g)"): Calories 30–35 (Voilà table shows "Calories 30"); Fat 2 g; Saturated 1.5 g (8% DV); Cholesterol 10 mg; **Sodium 110 mg (5% DV)** per single 17 g wedge.
+- Price at Voilà, at time of research: **$7.49 / 267 g (16 wedges) — $2.81 per 100g**; the 133 g (8-wedge) pack was $5.99 — $4.50 per 100g (https://voila.ca/products/the-laughing-cow-cheese-original-267-g/169523EA and …/the-laughing-cow-cheese-original-133-g/169507EA).
+
+---
+
+### SEGMENT 5 — BOURSIN (Bel Group, France) — French brand, actually made by a Canadian farmer co-op
+
+**Ownership chain:**
+- Created in Normandy; owned by Unilever until 2007. **November 2007: Unilever sold Boursin to Le Groupe Bel for €400 million.** Bel CEO Gérard Boivin was "delighted with the acquisition of an iconic brand like Boursin." (Food Manufacture: https://www.foodmanufacture.co.uk/Article/2007/11/05/Unilever-sells-Boursin-to-Le-Group-Bel/; DairyReporter: https://www.dairyreporter.com/Article/2007/11/08/unilever-sells-boursin-to-le-groupe-bel/)
+- **Canadian-owned? NO — French (Bel).**
+
+**Where the Canadian Boursin is made — VERIFIED:** Groupe Bel Canada production page: "Since January 2011, 53 million units of Boursin® cheese have been produced at the Canadian co-operative's cheese dairy in Saint-Hyacinthe" — the co-operative is **Agropur** (https://www.bel-canada.ca/en/expertises/production-and-partners/). So the "French" cheese in the Canadian dairy case is made in Saint-Hyacinthe, Québec by a Canadian dairy co-op, with Canadian milk.
+
+**Blue Cow verification:** Boursin Garlic & Fine Herbs 150 g appears in Dairy Farmers of Canada's Blue Cow Spotter: "The Blue Cow logo helps Canadians quickly identify dairy products made with 100% Canadian milk and dairy ingredients." DFC categorizes it as **"Fresh Cheese."** (https://dairyfarmersofcanada.ca/en/canadian-goodness/blue-cow-spotter/boursin-garlic-fine-herbs-fresh-cheese-150g)
+
+**LABEL BLOCK — Boursin Garlic & Fine Herbs, 150 g** (manufacturer's page: https://www.boursin.ca/en/produit/garlic-fine-herbs/)
+- Ingredients (verbatim, boursin.ca): "Pasteurized milk and cream – Dried garlic – Fine herb blend* (fresh frozen parsley, dried parsley and chives) – Salt – Ground white pepper – Bacterial culture – Potassium sorbate – Contains: Milk." **Count: 7 entries.** (Voilà's listing shows a slightly different wording: "Pasteurized cultured milk and cream, garlic, salt, white pepper, parsley, chives." — re-read physical package on camera.)
+- Nutrition (printed, boursin.ca, per "2 tbsp (30 g)"): Calories 120; Fat 12 g (16% DV); **Saturated 8 g + Trans 0.3 g (42% DV)** — the highest saturated-fat %DV of any product in this dossier as printed; Carbohydrate 1 g; **Sodium 140 mg (6% DV)**. The boursin.ca page also carries a lactose-related footnote "per 30 g serving size. *Threshold established by Health Canada." — capture the full claim on camera.
+- Price at Voilà, at time of research: **$8.29 / 150 g — "$5.53 per 100g"** — the most expensive spread per 100 g in this dossier (https://voila.ca/products/boursin-cheese-garlic-fine-herbs-150-g/37675EA)
+
+---
+
+### SEGMENT 6 — TRE STELLE (Arla Foods, Denmark/Sweden) — the "Italian-Toronto" brand that's Scandinavian-owned
+
+**Ownership chain:**
+- Founded as part of National Cheese Company Ltd., a Toronto family specialty-cheese business dating to 1960. **In 2004, Arla Foods acquired National Cheese Company Ltd. and the Tre Stelle brand** (Just Food: https://www.just-food.com/news/canada-arla-foods-acquires-national-cheese/; Made in CA: https://madeinca.ca/cheese-arla-foods-tre-stelle/). Arla's own brand page confirms current ownership (https://www.arlafoods.ca/our-brands/trestelle/). Arla Foods is a European farmer-owned dairy co-operative. **Canadian-owned? NO — Arla (Denmark/Sweden).**
+- Arla's Canadian production (per Made in CA summary): PEI facility (feta) and Concord, Ontario plant (mascarpone, paneer, mozzarella, ricotta, bocconcini). **Where the retail cream cheese is made is NOT confirmed** — Arla's Canadian foodservice cream cheese FAQ references "the Holstebro Dairy" (Holstebro is in Denmark) and states "The main ingredients of cream cheese are milk, cream, salt and culture… Most of stabilizers in Arla Pro cream cheeses are from plant based origin." (https://www.arlapro.com/en-ca/articles/frequently-asked-questions-about-our-cream-cheese/). **Check the retail pack's "Product of" statement on camera.**
+
+**LABEL BLOCK — Tre Stelle Original Cream Cheese Product, 200 g** (manufacturer's page: https://www.trestelle.ca/en-ca/products/original-cream-cheese-product-70-200g-796201/)
+- Printed common name: **"Original Cream Cheese Product"** — despite one of the shortest ingredient lists in the category:
+- Ingredients (verbatim): "Pasteurized cream and skim milk, Salt, Bacterial culture." **Count: 3 entries.** (The category paradox for the episode: a 3-ingredient "cream cheese PRODUCT" vs multi-additive products legally named "cream cheese spread". The name tracks composition standards — fat/moisture — not ingredient count.)
+- Nutrition (printed on the page; serving size not displayed — re-read on camera): Calories 80; Fat 7 g; Saturated 4.5 g; **Sodium 95 mg (4% DV)**; Carbohydrate 1 g; Sugars 1 g; Protein 1 g.
+- Price: not obtainable from an accessible retailer at research time — flagged below.
+
+---
+
+### SEGMENT 7 — LACTANTIA CREAM CHEESE (Lactalis, France) — the new challenger, and the company that bought Kraft's Canadian cheese business
+
+**Ownership chain:**
+- Lactantia is a brand of **Lactalis Canada Inc., Toronto** — formerly Parmalat Canada. Lactalis Canada's own history page: "Parmalat Canada becomes Lactalis Canada to reflect its full ownership by Lactalis Group" (2020) (https://www.lactalis.ca/about-us/our-history/). Groupe Lactalis on X, July 6, 2020: "Today Parmalat Canada officially becomes Lactalis Canada. Only the name changes: same great brands, same great people. Canada has 17 production plants…" (https://x.com/groupe_lactalis/status/1280155939203624961). Lactalis Group HQ: Laval, France. **Canadian-owned? NO — French (Lactalis).**
+- **The Ingleside connection — the biggest cheese deal in recent Canadian history:** Kraft Heinz press release, Nov 6, 2018: deal value "$1.62 billion CAD (approximately $1.23 billion USD at current FX rates)"; "The agreement includes the sale of natural cheese brands Cracker Barrel, P'tit Quebec and aMOOza! in the Canadian market."; "Kraft Heinz will sell its production facility located in Ingleside, Ontario."; "Kraft Heinz Canada will also transfer approximately 400 employees from that facility to Parmalat."; and crucially: **"Kraft Heinz will continue to own and market its other cheese products, including Philadelphia, Cheez Whiz and Kraft Singles."** (https://news.kraftheinzcompany.com/press-releases-details/2018/Kraft-Heinz-Canada-Announces-Agreement-to-Sell-Its-Natural-Cheese-Business-to-Parmalat/default.aspx). Closing: July 2, 2019 (https://www.newswire.ca/news-releases/kraft-heinz-announces-closing-of-the-sale-of-its-canadian-natural-cheese-business-to-parmalat-853971228.html). **Answer to the research question: the Ingleside, Ontario plant made Kraft's NATURAL cheese (Cracker Barrel, P'tit Québec, aMOOza) and has belonged to Parmalat/Lactalis Canada since July 2019 — Philadelphia was retained by Kraft Heinz and is made at Mont-Royal, Montreal.**
+- **Where Lactantia cream cheese is made:** Ontario Made program listing — "Lactantia Original Cream Cheese, Lactantia Light Cream Cheese, Lactantia Original Cream Cheese Spread, Lactantia Light Cream Cheese Spread", manufacturer Lactalis Canada, **Toronto, Ontario** (https://supportontariomade.ca/explore-products/lactantia-cream-cheese).
+- **Blue Cow:** "Lactantia Original Cream Cheese Product 227g" is listed in DFC's Blue Cow Spotter — "made with 100% Canadian milk and dairy ingredients" (https://dairyfarmersofcanada.ca/en/canadian-goodness/blue-cow-spotter/lactantia-original-cream-cheese-product-227g). Note the naming split inside one brand: 250 g brick = "Cream Cheese"; 227 g tub = "Cream Cheese Product."
+- **Public record — recall:** CFIA recall notice, **August 20, 2025**: "Original Cream Cheese, 250 g, UPC 0 66096 96108 3", recalling firm Lactalis, recalled "due to off odour and off taste" from microbial contamination; Class 3; distributed in AB, MB, NB, NS, ON, PE, QC, SK; "Do not use, sell, serve or distribute the affected product." (https://recalls-rappels.canada.ca/en/alert-recall/lactantia-brand-original-cream-cheese-recalled-due-odour-and-taste). This is a routine posted recall — no charges, no wrongdoing alleged; state only what the notice says.
+
+**LABEL BLOCK — Lactantia Cream Cheese Original, 250 g** (retailer: Voilà, https://voila.ca/products/lactantia-cream-cheese-original-250-g/48374EA)
+- Product description on Voilà (verbatim): "Made in Canada with the deliciously smooth and creamy texture Canadians love…" Bullet claims: "• 31% M.F. with 55% Moisture • Made in Canada".
+- Nutrition (per "30 g", Voilà panel): Calories 90; Saturated 6 g (32% DV); Cholesterol 30 mg; **Sodium 110 mg (5% DV)**; Protein 3 g. Full ingredient list not displayed on the Voilà page — **re-read physical package on camera.**
+- Price at Voilà, at time of research: **$4.49 / 250 g — $1.80 per 100g** (undercutting Philadelphia's $5.49 at the same store).
+
+---
+
+### SEGMENT 8 — STORE BRANDS, PART 1: PC & NO NAME (Loblaw — Canadian, Weston-controlled)
+
+**Ownership:** George Weston Limited's own site: "George Weston Limited is a Canadian public company, founded in 1882. George Weston has two operating segments: Loblaw Companies Limited, Canada's largest food and drug retailer and a provider of financial services, and Choice Properties…" (https://www.weston.ca/). **Canadian-owned? YES (the retailer/brand owner; the packer is undisclosed — see Part 4).**
+
+**Brand history (secondary sources — verify wording before air):** No Name launched March 21, 1978 with 16 generic products in yellow-and-black packaging under Loblaw president Dave Nichol; design by Don Watt (Canadian Grocer: https://canadiangrocer.com/no-name-still-generates-buzz-nearly-50-years-after-its-launch; Wikipedia (flagged, secondary): https://en.wikipedia.org/wiki/No_Name_(brand)).
+
+**SKUs found (Loblaw banners; direct label capture blocked — see Part 8):**
+- "No Name Pasteurized Cream Cheese – 250 g" (https://www.loblaws.ca/en/pasteurized-cream-cheese/p/20308105001_EA)
+- "No Name Pasteurized Light Cream Cheese Spread – 250 g" (https://www.loblaws.ca/pasteurized-light-cream-cheese-spread/p/20308105002_EA)
+- "No Name Cream Cheese Spread, Original – 450 g" tub (https://www.loblaws.ca/en/cream-cheese-spread-original/p/21397475_EA)
+- "President's Choice Lactose-Free Plain Cream Cheese – 250 g" (https://www.realcanadiansuperstore.ca/en/lactose-free-plain-cream-cheese/p/21184727_EA) — search-indexed price $4.49/ea at Real Canadian Superstore at time of research (**flag: from search snippet; verify on site or in store**).
+- OpenFoodFacts holds a No Name "Pasteurized Cream Cheese Spread – 250 g" entry (https://world.openfoodfacts.org/product/0060383092924/pasteurized-cream-cheese-spread-no-name) — **OpenFoodFacts: re-read physical package on camera.**
+- Loblaw's e-commerce (loblaws.ca, nofrills.ca, realcanadiansuperstore.ca) and presidentschoice.ca all blocked automated label capture — every No Name / PC ingredient list and price must be re-read on camera or in-store. Note for the shoot: the No Name naming spread ("Cream Cheese" vs "Cream Cheese Spread") is itself the story.
+
+---
+
+### SEGMENT 9 — STORE BRANDS, PART 2: COMPLIMENTS, SELECTION, GREAT VALUE, WESTERN FAMILY
+
+**COMPLIMENTS (Sobeys/Empire — Canadian, Nova Scotia):**
+- Empire's site: "Sobeys Inc. is the wholly-owned subsidiary of Empire Company Limited" — Empire founded 1907, headquartered Stellarton, Nova Scotia, TSX: EMP.A; banners include Sobeys, Safeway, IGA, Foodland, FreshCo, Thrifty Foods and Voilà (https://www.empireco.ca/). Compliments is Sobeys' own brand, launched 2005, ~3,400 items (Sobeys corporate "Our Brands" page, https://corporate.sobeys.com/our-brands — direct fetch blocked; figures via search index, verify). **Canadian-owned? YES (brand; packer undisclosed).**
+- **LABEL BLOCK — Compliments Cream Cheese Brick, 250 g** (Voilà — Sobeys' own storefront, effectively first-party for its own brand: https://voila.ca/products/compliments-cream-cheese-brick-250-g/229077EA)
+  - Printed common name: "Cream Cheese" ("Compliments Cream Cheese Brick").
+  - Ingredients (verbatim): "Milk Ingredients, Bacterial Culture, Salt, Carob Bean Gum" — **Count: 4 entries.** (Shortest mainstream list captured in this dossier alongside Great Value's flagged list.)
+  - Nutrition (per "2 tbsp (30 g)"): Calories 100; Fat 9 g; Saturated 6 g (32% DV); Cholesterol 25 mg; **Sodium 90 mg (4% DV)**; Protein 3 g.
+  - Price at Voilà, at time of research: **$4.29 / 250 g — $1.72 per 100g** — the cheapest per-100 g verified price in this dossier.
+
+**SELECTION (Metro — Canadian, Montréal):**
+- Metro Inc. is a Montréal-headquartered Canadian grocer; Selection is its "national brand equivalent" private label with 2,500+ products; Irresistibles is the premium line (Metro's own page: https://www.metro.ca/en/our-products-private-brands; Canadian Grocer: https://canadiangrocer.com/private-brand-power). **Canadian-owned? YES (brand; packer undisclosed).**
+- "Selection Cream Cheese Brick" exists (https://www.metro.ca/en/online-grocery/Aisles/Dairy%20&%20Eggs/Packaged%20Cheese/Cream%20Cheese%20&%20Spreads/p/059749894326); search-indexed price ~$3.49 / 250 g ($1.40/100 g) at time of research. **metro.ca served a captcha to automated access — verify price and label in-store/on camera.**
+
+**GREAT VALUE (Walmart — American):**
+- Walmart Canada's own about page: "Since we began in Canada in 1994, we've grown to become one of the country's largest employers, with more than 100,000 associates nationwide"; home office "Mississauga, Ontario"; part of "Walmart Inc. – a people-led, tech-powered omnichannel retailer…" (https://www.walmartcanada.ca/about-us). **Canadian-owned? NO — Great Value is the house brand of a US retailer.**
+- SKU: "Great Value Cream Cheese, 250 g" (https://www.walmart.ca/en/ip/great-value-cream-cheese/10054562); a second slug "great-value-cream-cheese-product-brick" also appears in Walmart's URL space — suggesting both a "Cream Cheese" and a "Cream Cheese Product" have existed under the brand. Search-indexed ingredients: "milk ingredients, bacterial culture, salt, and locust bean gum" (4 entries). **Walmart.ca blocked automated access ("We like real shoppers, not robots!") — ALL Great Value label data and prices must be re-read on the physical package on camera.** See Part 4 for the "prepared for" angle.
+
+**WESTERN FAMILY (Pattison Food Group — Canadian, BC):**
+- Pattison Food Group's site: "Canada's largest Western-based provider of food and health products", "a Jim Pattison business", "Nearly 30,000 team members", in business since 1915; Western Family listed under "Corporate Brands"; banners include Save-On-Foods (https://pattisonfoodgroup.com/). **Canadian-owned? YES — privately held by the Jim Pattison Group (brand; packer undisclosed).**
+- SKU: "Western Family – Cream Cheese Brick" at Save-On-Foods (https://www.saveonfoods.com/product/western-family-cream-cheese-brick-00062639336943). Search-indexed description: a "Canadian-prepared product (30% M.F., 55% moisture)… made from domestic and imported ingredients with no artificial colours or flavours." That phrase — **"prepared in Canada from domestic and imported ingredients"** — is a labels-segment gift: it means the milk isn't necessarily all Canadian. **saveonfoods.com blocked automated access — re-read physical package on camera.**
+
+---
+
+### SEGMENT 10 — THE GENUINELY CANADIAN-OWNED CORNER
+
+**ORGANIC MEADOW (Guelph, Ontario — co-operative roots, Canadian-owned):**
+- History per FarmersForum: the Guelph-based organic co-op (founded by Ontario farmers, organic milk shipped from 1995) filed for creditor protection April 2, 2015, owing "more than $22 million" to creditors; in November 2015 it re-formed as **Organic Meadow Limited Partnership**, with co-op members holding a minority equity interest and the business becoming a subsidiary of Meadowfresh Dairy, owned by **Agrifoods International Cooperative Ltd.** — a western Canadian co-operative (https://farmersforum.com/organic-meadow-owes-more-than-22-million/; https://farmersforum.com/the-new-organic-meadow-guelph-organic-co-op-and-processor-forms-new-company-with-western-canadian-partners/). **Canadian-owned? YES — co-operative ownership, Canadian.**
+- Product: "Organic Cream Cheese" 250 g and "Light Cream Cheese" 250 g (https://organicmeadow.com/products/organic-cream-cheese/ — page confirms product + Canada Organic logo). Search-indexed ingredients: "Organic milk, salt, bacterial culture, microbial enzymes" (4 entries) — **retailer-sourced; re-read physical package on camera.** No accessible retail price at research time — flagged.
+
+**GAY LEA FOODS / WESTERN CREAMERY (Ontario & Manitoba farmer co-op):**
+- Gay Lea's own press release: Gay Lea Foods **completed the acquisition of Western Creamery on September 30, 2019** — a North York, Ontario maker of "natural yogurts, cream cheese spreads, pressed cottage cheeses, and sour creams," all kosher-certified, ~40 employees; the deal marked Gay Lea's first entry into the cream cheese spread category. Chair Rob Goodwill: "Our co-operative took another important step forward today as we continue to grow Gay Lea Foods"; President & CEO Michael Barrett: "This acquisition supports our co-operative's plans to grow our presence in the Canadian dairy and food industry." Gay Lea: 1,400+ member dairy farms across Ontario and Manitoba, ~1,000 employees (https://www.gaylea.com/news/about-us/gay-lea-foods-completes-the-acquisition-of-western-creamery). **Canadian-owned? YES — farmer co-operative.** Western Creamery-brand cream cheese label data not captured — in-store pickup needed.
+
+**The quiet Canadian manufacturing layer (for the reveal):** even the foreign-owned brands lean on Canadian processors — Boursin made by **Agropur** (Canadian co-op) in Saint-Hyacinthe; The Laughing Cow by **Fromagerie Bergeron** (Québec family firm) in Saint-Nicolas; Philadelphia and Cheez Whiz by Kraft Heinz's own **Mont-Royal, Montréal** plant. Ownership went abroad; the vats mostly stayed home.
+
+*(Checked and excluded: Fromagerie L'Ancêtre (Bécancour, QC — certified organic since 1992 per https://tourismemauricie.com/en/directory/fromagerie-lancetre-2) shows cheddar, mozzarella, parmesan etc. but no cream cheese line we could verify — do not claim they make one.)*
+
+---
+
+## PART 3 — CLAIM STACKS (verbatim, per pack/page)
+
+| Brand/SKU | Claim (verbatim) | Source |
+|---|---|---|
+| Boursin G&FH 150 g | Blue Cow listing; "The Blue Cow logo helps Canadians quickly identify dairy products made with 100% Canadian milk and dairy ingredients." | DFC Blue Cow Spotter (URL in Segment 5) |
+| Lactantia Cream Cheese Product 227 g | Blue Cow listing (same logo meaning) | DFC (URL in Segment 7) |
+| Lactantia Cream Cheese 250 g | "Made in Canada"; "31% M.F. with 55% Moisture" | Voilà listing (Segment 7) |
+| Philadelphia brick | "voted most trusted Cream Cheese brand, based on the 2026 BrandSpark® Canadian Trust Study"; "no artificial colours or flavours" | kraftheinz.com/en-CA (Segment 1) |
+| Philadelphia Lactose Free | keeps unmodified name "Cream Cheese"; "LACTASE (ENZYME)" declared | kraftheinz.com/en-CA (Segment 1) |
+| Cheez Whiz | certified "Aliments préparés au Québec" | Aliments du Québec (Segment 2) |
+| The Laughing Cow | "proudly produced in St-Nicolas, Quebec since August 2007"; Lactose Free "imported from Slovakia" | thelaughingcow.ca FAQ (Segment 4) |
+| Western Family brick | "Canadian-prepared… domestic and imported ingredients" | Save-On-Foods listing (FLAGGED — Segment 9) |
+| Organic Meadow | Canada Organic logo on brand site | organicmeadow.com (Segment 10) |
+| No Name Light spread | Loblaw "Simple Check™" symbol ("made without 10 ingredients such as synthetic colours, artificial flavours…") | Loblaws listing via search index (FLAGGED — Segment 8) |
+
+Also note for the blue-cow hunt on camera: DFC's Blue Cow Spotter also lists **Island Farms Cream Cheese 18% M.F. 500g** and **Longo's Cream Cheese Spread 227g** (https://dairyfarmersofcanada.ca/en/canadian-goodness/blue-cow-spotter/island-farms-cream-cheese-18-mf-500g; …/longos-cream-cheese-spread-227g). **Philadelphia did NOT appear in DFC's Blue Cow Spotter database when searched** — but do not state on air that Philadelphia lacks the logo; the database may be incomplete. Check the physical pack.
+
+---
+
+## PART 4 — THE GREAT VALUE / "PREPARED FOR" ANGLE
+
+- Every store brand in this dossier — Great Value (Walmart), No Name/PC (Loblaw), Compliments (Sobeys), Selection (Metro), Western Family (Pattison) — is a **retailer-owned label. None of these retailers discloses on its public product pages who actually cultures and packs the cheese.** Canadian labels for such products typically carry a "Prepared for / Préparé pour [retailer]" address instead of the packer's identity — which is why the on-camera reads matter: the dossier could not identify the packer for ANY store-brand cream cheese from public sources. Do not speculate on camera about who makes them; show the "prepared for" line and say the packer is not disclosed.
+- The tell to film on Great Value: "Great Value Cream Cheese, 250 g" (walmart.ca item 10054562), search-indexed ingredients "milk ingredients, bacterial culture, salt, locust bean gum" — 4 entries, nearly identical to Compliments' 4-entry list ("Milk Ingredients, Bacterial Culture, Salt, Carob Bean Gum"). Same-recipe questions are fair to *ask* on camera; not fair to *assert* without the packer's name.
+- Contrast card: Western Family's own description says "domestic and imported ingredients" while Compliments' parent co-lists Blue Cow items and Lactantia/Boursin carry the 100%-Canadian-milk logo. The phrase differences are the story.
+
+---
+
+## PART 5 — CANADIAN CORPORATE STORIES WITH PUBLIC RECORDS
+
+**1. The $1.62-billion cheese hand-off (2018–2019).** Kraft Heinz sold its Canadian natural-cheese business — Cracker Barrel, P'tit Québec, aMOOza, and the Ingleside, Ontario plant with ~400 employees — to Parmalat for "$1.62 billion CAD," keeping "Philadelphia, Cheez Whiz and Kraft Singles." Closed July 2, 2019. (Press releases in Segment 7; Globe and Mail coverage: https://www.theglobeandmail.com/business/article-kraft-heinz-to-sell-natural-cheese-operations-in-canada-for-16/; Global News: https://globalnews.ca/news/4639172/kraft-heinz-canadian-cheese-parmalat-deal/)
+
+**2. Mont-Royal doubles down (March 2026).** $250M modernization of the Montréal plant that makes Philadelphia, Kraft Dinner and Kraft peanut butter; 1,000+ plant jobs; ~2,000 Kraft Heinz employees in Canada. (Sources in Segment 1.)
+
+**3. Ketchup comes home — the footprint backstory (2014–2020).** Global News, Nov 17, 2020: Kraft Heinz announced Heinz ketchup production would return to the Mont-Royal plant in summer 2021, with a $17M investment including a $2M forgivable Quebec loan, ~30 new jobs atop ~750 existing; background: the 2014 sale of the Leamington, Ontario plant to Highbury Canco and the "ketchup wars" with French's. Kraft Heinz Canada's Av Maharaj: "We sold that facility to Highbury Canco and the next day we became — and still are — their largest customer." (https://globalnews.ca/news/7467863/kraft-heinz-ketchup-montreal/)
+
+**4. The December 2021 cream cheese shortage — a U.S. crisis with a Canadian asterisk.** The shortage hammered U.S. supply: a Kraft Heinz spokesperson (Kathy Krenger) said at-home cream cheese consumption was up 18% vs 2019 and November foodservice demand up 75% year-over-year, with shipments up 35% (as reported by The Hustle/SupplyChainBrain: https://thehustle.co/12082021-cream-cheese; https://www.supplychainbrain.com/articles/34298-that-cream-cheese-shortage-you-heard-about-cyberattacks-played-a-part). CNN: an October ransomware attack on Wisconsin's Schreiber Foods contributed (https://www.cnn.com/2021/12/18/business/cream-cheese-cyberattack-schreiber-foods/index.html). Kraft's famous "$20 not to make cheesecake" offer (NPR: https://www.npr.org/2021/12/16/1064855510/kraft-cream-cheese-20-dollar-website) **excluded Canada** — Narcity (Dec 20, 2021): "Kraft's $20 giveaway is currently only open to U.S. residents," and "Narcity has reached out to see if Canadians are also being affected by Kraft's shortage" — no Kraft Heinz Canada reply appears in the piece (https://www.narcity.com/kraft-will-pay-you-to-not-eat-cheesecake-the-us-is-running-short-on-cream-cheese). **We found NO CBC/Globe reporting of a Canada-wide cream cheese shortage in Dec 2021 — see DO-NOT-USE. The defensible Canadian angle: Canadian Philadelphia comes from Montréal, not from the strained U.S. plants; frame it as "why Canada's bagels mostly kept their schmear."**
+
+**5. The Liberté goodbye (2022) — Montréal's bagel-shop schmear dies.** CBC headline: "RIP Liberté cream cheese: Montreal bagel lovers mourning end of beloved schmear" (Aug 2022, https://www.cbc.ca/news/canada/montreal/creame-cheese-libert%C3%A9-no-more-1.6562946); CTV Montreal (Aug 27, 2022): "'It will truly be missed,' Montreal bagel shops say adieu to beloved Liberté cream cheese" — Liberté was a Montréal-founded brand whose owner **General Mills** (US) discontinued the cream cheese amid reported dipped demand (https://www.ctvnews.ca/montreal/article/it-will-truly-be-missed-montreal-bagel-shops-say-adieu-to-beloved-liberte-cream-cheese/). Full body quotes were not retrievable (both pages blocked our reader) — pull exact quotes before air. A Liberté "Cream Cheese Product" listing still existed at Metro at research time (https://www.metro.ca/en/online-grocery/aisles/dairy-eggs/packaged-cheese/cream-cheese-spreads/cream-cheese-product/p/065684100590) — check current shelf status.
+
+**6. CFIA recall records (cream cheese/spreads, from recalls.canada.ca search for "cream cheese"):** (a) Lactantia Original Cream Cheese 250 g, Aug 20, 2025, Class 3, off odour/off taste (details in Segment 7); (b) Co-op Gold Cream Cheese Creamy Frosting, recalled Jan 2026 for undeclared milk (https://recalls-rappels.canada.ca/en/alert-recall/co-op-gold-brand-cream-cheese-creamy-frosting-recalled-due-undeclared-milk). Separately, a large multi-brand listeria recall of shredded/processed cheese products occurred in 2025-26 (https://recalls-rappels.canada.ca/en/alert-recall/various-brands-cheese-products-recalled-due-listeria-monocytogenes; Global News: https://globalnews.ca/news/11759205/cfia-mass-cheese-recall-listeria/) — it did not involve the cream cheese SKUs in this dossier. **Recalls are corrective actions, not allegations of wrongdoing; no company here was charged with anything.**
+
+**7. Gay Lea buys Western Creamery (Sept 30, 2019)** — a Canadian farmer co-op buying into cream cheese (Segment 10).
+
+**8. Bel builds a Canadian production web** — Bergeron (2007, Laughing Cow), Agropur Saint-Hyacinthe (2011, Boursin), and "The first Mini Babybel® plant in Canada is currently being built in Sorel-Tracy" with partner Laiteries Chalifoux (https://www.bel-canada.ca/en/expertises/production-and-partners/).
+
+---
+
+## PART 6 — PRICE TABLE ($/100 g, at time of research, Sept 9, 2026)
+
+All verified prices from **Voilà by Sobeys (voila.ca)** unless noted. Flagged rows = price from search-indexed retailer listing, not directly captured — verify before air.
+
+| Product (printed name) | Size | Price | $/100 g | Owner (country) |
+|---|---|---|---|---|
+| Selection Cream Cheese Brick (Metro) ⚑ | 250 g | ~$3.49 | ~$1.40 | Metro (Canada) |
+| Compliments Cream Cheese Brick | 250 g | $4.29 | $1.72 | Empire/Sobeys (Canada) |
+| Cheez Whiz Cheese Spread | 450 g | $7.99 | $1.78 | Kraft Heinz (US) |
+| Lactantia Cream Cheese Original | 250 g | $4.49 | $1.80 | Lactalis (France) |
+| PC Lactose-Free Plain Cream Cheese (Superstore) ⚑ | 250 g | ~$4.49 | ~$1.80 | Loblaw (Canada) |
+| Philadelphia Original Brick Cream Cheese | 250 g | $5.49 | $2.20 | Kraft Heinz (US) |
+| Philadelphia Cream Cheese Product (tub) | 250 g | $5.49 | $2.20 | Kraft Heinz (US) |
+| Philadelphia Lactose Free Cream Cheese | 250 g | $6.79 | $2.72 | Kraft Heinz (US) |
+| The Laughing Cow Original (16 wedges) | 267 g | $7.49 | $2.81 | Bel (France) |
+| MacLaren's Imperial Cold Pack (cheddar) | 230 g | $8.49 | $3.69 | Kraft Heinz (US) |
+| The Laughing Cow Original (8 wedges) | 133 g | $5.99 | $4.50 | Bel (France) |
+| Boursin Garlic & Fine Herbs | 150 g | $8.29 | $5.53 | Bel (France) |
+| Great Value Cream Cheese (Walmart) | 250 g | NOT OBTAINED | — | Walmart (US) |
+| Tre Stelle Cream Cheese Product | 200 g | NOT OBTAINED | — | Arla (DK/SE) |
+| Organic Meadow Organic Cream Cheese | 250 g | NOT OBTAINED | — | Agrifoods co-op (Canada) |
+| Western Family Cream Cheese Brick (Save-On) | 250 g | NOT OBTAINED | — | Pattison (Canada) |
+
+Spread for the episode: verified prices run from $1.72 to $5.53 per 100 g — a 3.2× gap on the same shelf; both ends of the verified range (Compliments cheapest, Boursin dearest) are made in Canada with Canadian milk.
+
+---
+
+## PART 7 — SODIUM & SATURATED FAT QUICK CARD (printed label values only, manufacturer pages)
+
+Per printed serving as shown; no commentary — read the labels on camera.
+
+| Product | Printed serving | Sodium | Sat fat |
+|---|---|---|---|
+| Philadelphia Brick Cream Cheese | 2 Tbsp (30 g) | 125 mg (5% DV) | 6 g (32% DV) |
+| Philadelphia Cream Cheese Product (tub) | 2 Tbsp (30 g) | 120 mg (5% DV) | 4 g (21% DV) |
+| Philadelphia Light Cream Cheese Product | 2 Tbsp (30 g) | 150 mg (7% DV) | 3.5 g (19% DV) |
+| Philadelphia Lactose Free | 2 tbsp (30 g) | 85 mg (4% DV) | 6 g (32% DV) |
+| Cheez Whiz Cheese Spread | 2 tbsp (30 g) | 410 mg (18% DV) | 1 g (6% DV) |
+| MacLaren's Imperial (KH page) | 2 tbsp (30 g) | 270 mg (12% DV) | 6 g (32% DV) |
+| The Laughing Cow Original | 1 portion (17 g) | 110 mg (5% DV) | 1.5 g (8% DV) |
+| Boursin Garlic & Fine Herbs | 2 tbsp (30 g) | 140 mg (6% DV) | 8 g (42% DV) |
+| Compliments Cream Cheese Brick | 2 tbsp (30 g) | 90 mg (4% DV) | 6 g (32% DV) |
+| Lactantia Cream Cheese 250 g | 30 g | 110 mg (5% DV) | 6 g (32% DV) |
+| Tre Stelle Cream Cheese Product | serving size not shown — verify | 95 mg (4% DV) | 4.5 g |
+
+---
+
+## PART 8 — UNVERIFIED / DO-NOT-USE
+
+**Do not air any of the following without new verification:**
+
+1. **"Canada had a cream cheese shortage in December 2021."** NOT VERIFIED. We found no CBC, Globe and Mail, CTV or Global News reporting of a Canada-wide cream cheese shortage; the documented shortage was American. The claim that "Canada was spared because Philadelphia is made in Canada" appears only on a RedFlagDeals forum — DO NOT USE as fact. Also, no Kraft Heinz Canada statement on Canadian 2021 supply was located.
+2. **Great Value label data and price** — walmart.ca blocked all access ("Verify Your Identity" bot wall). Ingredients quoted are search-snippet only. Re-read physical package on camera; record price in-store.
+3. **All Loblaw-ecosystem label data** (No Name, PC): loblaws.ca/nofrills.ca/superstore/presidentschoice.ca inaccessible to automated capture; the OpenFoodFacts No Name entry must be re-read on the physical package on camera. PC $4.49 price is search-indexed.
+4. **Selection (Metro) price $3.49 and label** — metro.ca served a captcha; search-indexed only. Verify in-store.
+5. **Western Family label wording** ("domestic and imported ingredients") — saveonfoods.com blocked direct access; wording from search index of the retailer's page. Re-read package.
+6. **Where Tre Stelle RETAIL cream cheese is physically made** — Arla's foodservice FAQ references Holstebro Dairy (Denmark); the retail pack's country of origin is unconfirmed. Check the pack's "Product of" line.
+7. **Tre Stelle serving size** — nutrition numbers shown lack a printed serving size on the page; and no retail price obtained.
+8. **MacLaren's conflicting data** — Voilà shows "Cold-Pack Cheese Food" name and 510 mg sodium/29 g vs Kraft Heinz's "Cold Pack Cheddar Cheese Product" and 270 mg/30 g. One of these is stale. Package is the referee.
+9. **Philadelphia tub ingredient discrepancy** — Voilà's tub listing shows the Light formulation. Use Kraft Heinz's page; confirm on the pack.
+10. **Philadelphia and the Blue Cow logo** — absence from DFC's online spotter is not proof the pack lacks the logo. Check the physical pack; do not assert either way from this dossier.
+11. **Liberté discontinuation quotes** — CBC/CTV article bodies were unretrievable (403); only headlines and summary facts captured. Pull full quotes before scripting.
+12. **Berkshire Hathaway's current percentage stake in Kraft Heinz** — not verified here; say only "Berkshire Hathaway and 3G Capital created Kraft Heinz in 2015" (sourced).
+13. **Bel Group family/Unibel control details** — Bel's French family control is widely reported but not verified to standard here; say "France's Bel Group" only.
+14. **"Philadelphia outside North America is owned by Mondelez"** — appears in Wikipedia only in our capture; verify with Mondelez primary sources before using.
+15. **Compliments "launched 2005, ~3,400 products"** — from search index of Sobeys corporate page (direct fetch blocked); verify at corporate.sobeys.com/our-brands.
+16. **Reuters Cahillane quote** ("Faced with the choice of continuing the separation…") — captured via KFGO's wire pickup; verify against Reuters original.
+17. **Kraft Heinz "began selling cheese in Ontario in 1903"** (from one press-release summary) — J.L. Kraft's Ontario birth and the 1903 Chicago start need a primary source; use only the sourced quote "more than 120-year-old commitment to Canada."
+18. **Instacart listings** (PC lactose-free) — reseller: re-read physical package on camera. **OpenFoodFacts entries** (No Name): re-read physical package on camera. **managemygroceries.ca / canadianfoodtousa.com** (Great Value, Cheez Whiz, MacLaren's): resellers — do not use for label or price.
+19. **No charges, no convictions, nothing criminal** — nothing in this dossier alleges any offence by any company. The Schreiber Foods incident was a cyberattack ON the company (it was the victim); the CFIA recalls are standard corrective actions; no firm named here was charged with anything, and the script must say so wherever a recall or shortage is discussed.
+
+— END OF DOSSIER —

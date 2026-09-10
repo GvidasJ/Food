@@ -176,6 +176,371 @@ Sources: https://en.wikipedia.org/wiki/Booster_Juice ; https://boosterjuice.com/
 
 ---
 
+# PART 2 — LAW AND ECONOMICS (law/economics agent dossier, verbatim)
+
+# CANADIAN COUNTER — LAW + ECONOMICS DOSSIER
+## "We Investigated Tim Hortons & 14 More 'Canadian' Chains (3 Companies Own Almost EVERYTHING)"
+
+**Scope of this dossier:** Menu-labelling law, franchise-disclosure law, the OPC Tim Hortons app finding, the economics of the cup and the combo (StatCan/ICO, math shown), drip-pricing law and enforcement, royalty-fund structures, GST/HST prepared-food oddities, and law-adjacent history (Always Fresh, Roll Up odds). All quotes are verbatim with URLs. Compiled 10 September 2026. **House rules observed:** no health claims or commentary (calorie rules covered strictly as disclosure LAW); regulatory findings quoted as findings; allegations labelled as allegations; UNVERIFIED / DO-NOT-USE list at the end.
+
+---
+
+## 1. MENU LABELLING LAW — Ontario's Healthy Menu Choices Act, 2015 (the label-reading bridge)
+
+**Primary source:** Healthy Menu Choices Act, 2015, S.O. 2015, c. 7, Sched. 1 — https://www.ontario.ca/laws/statute/15h07 (e-Laws consolidation states: "Consolidation Period: From January 1, 2017 to the e-Laws currency date.")
+
+### 1.1 Who is covered — the "20 or more" definition (s. 1(1), verbatim)
+
+> "'chain of food service premises' means 20 or more food service premises in Ontario that operate under the same or substantially the same name, regardless of ownership, and that offer the same or substantially the same standard food items"
+
+And note the definition reaches head office, not just the store (s. 1(2), verbatim):
+
+> "For the purposes of this Act, a person who owns or operates a regulated food service premise means a person who has responsibility for and control over the activities carried on at a regulated food service premise, and may include a franchisor, a licensor, a person who owns or operates a regulated food service premise through a subsidiary and a manager of a regulated food service premise, but does not include an employee who works at a regulated food service premise but is not a manager."
+
+### 1.2 The core requirement (s. 2, verbatim)
+
+> "**Information to be displayed** 2. (1) Every person who owns or operates a regulated food service premise shall ensure that there is displayed, in accordance with the requirements of this section, the following information: 1. The number of calories of every standard food item that is sold or offered for sale at the regulated food service premise. 2. Any other information required by the regulations."
+
+> "(2) The information required to be displayed under subsection (1) with respect to a standard food item shall be displayed, (a) on each menu on which the standard food item is listed or depicted at the regulated food service premise; and (b) where the standard food item is put on display at the regulated food service premise, on a label or tag identifying the standard food item."
+
+> "(4) The requirement under subsection (1) applies with respect to each variety, flavour and size of standard food item that is sold or offered for sale at the regulated food service premise."
+
+> "(5) If a combination of standard food items is sold or offered for sale as a combination meal, the requirements under this section apply with respect to the combination meal as if the combination meal was also an individual standard food item."
+
+**In-force date:** The e-Laws "Section Amendments" note under s. 2 reads: "2016, c. 5, Sched. 11, s. 1 - 01/01/2017" — i.e., the calorie-display requirement as amended came into force **January 1, 2017**.
+
+### 1.3 The fine print that must sit beside the fine print — the contextual statement (O. Reg. 50/16, verbatim)
+
+**Primary source:** O. Reg. 50/16 (Healthy Menu Choices) under the Act — https://www.ontario.ca/laws/regulation/160050
+
+> "The contextual statement must read, 'Adults and youth (ages 13 and older) need an average of 2,000 calories a day, and children (ages 4 to 12) need an average of 1,500 calories a day. However, individual needs vary.' in English…"
+
+> "The information must appear in the same font and format as, and in at least the same size and prominence as, the name or price of the standard food items listed on the menu or page." (O. Reg. 321/16, s. 5 (2))
+
+*Episode use: this is the sentence your viewers have seen at the bottom of every chain menu board in Ontario without knowing it's a legally mandated, word-for-word script.* (Quoted purely as a legal posting requirement — no nutrition commentary.)
+
+### 1.4 Inspectors and penalties (ss. 3–4, verbatim)
+
+> "**Inspectors** 3. (1) The Minister may appoint inspectors for the purposes of this Act." … "(2) For the purpose of determining whether this Act is being complied with, an inspector may, without a warrant, enter and inspect, (a) a regulated food service premise; or (b) any business premises of a company that owns, operates, franchises or licenses one or more regulated food service premises."
+
+> "**Offences** 4. (1) Every person who contravenes any provision of this Act or the regulations is guilty of an offence and is liable, (a) in the case of an individual, (i) for a first offence, to a fine of not more than $500 for every day or part of a day on which the offence occurs or continues, and (ii) for a second or subsequent offence, to a fine of not more than $1,000 for every day or part of a day on which the offence occurs or continues; and (b) in the case of a corporation, (i) for a first offence, to a fine of not more than $5,000 for every day or part of a day on which the offence occurs or continues, and (ii) for a second or subsequent offence, to a fine of not more than $10,000 for every day or part of a day on which the offence occurs or continues."
+
+Directors' duty (s. 4(2), verbatim): "A director or officer of a corporation that owns or operates a regulated food service premise shall take all reasonable care to ensure that this Act and the regulations are complied with."
+
+### 1.5 Other provinces — Ontario stands alone; BC is voluntary
+
+- **Ontario is the first (and, per available sources, only) province with a mandatory law.** CBC News, Dec. 30, 2016 ("How many calories in that fast-food meal? Ontario menu labelling legislation takes effect Jan. 1"): "Although Ontario is the first province in the country to require nutritional labelling at restaurants, Belfontaine said that he hopes other provinces will follow suit." — https://www.cbc.ca/news/health/ontario-menu-nutrition-labelling-1.3915396
+- **British Columbia — voluntary "Informed Dining" program.** BC Government news release, 2012: "Informed Dining is a voluntary program" providing "nutritional information similar to that found on packaged foods at the grocery store"; participating restaurants highlight "Calorie and sodium information…for all regular menu items, along with information on daily calorie and sodium needs, to help consumers understand the information." — https://news.gov.bc.ca/releases/2012HLTH0052-000676 (see also the 2013 expansion release: https://news.gov.bc.ca/releases/2013HLTH0067-000682)
+- **Quebec:** No equivalent mandatory menu-calorie statute was found in this research (see UNVERIFIED section — phrase on air as "we found no equivalent law in Quebec," not "Quebec has no law").
+- **Federal:** No federal statute requires calories on restaurant menus; the requirement is provincial (Ontario only). Ontario's own guide to the law: https://www.ontario.ca/document/guide-menu-labelling-requirements
+
+---
+
+## 2. FRANCHISE DISCLOSURE LAW — Arthur Wishart Act (Franchise Disclosure), 2000 ("the fine print behind the counter")
+
+**Primary source:** Arthur Wishart Act (Franchise Disclosure), 2000, S.O. 2000, c. 3 — https://www.ontario.ca/laws/statute/00a03
+
+### 2.1 The duty of fair dealing (s. 3, verbatim)
+
+> "**Fair dealing** 3 (1) Every franchise agreement imposes on each party a duty of fair dealing in its performance and enforcement. 2000, c. 3, s. 3 (1)."
+> "(3) For the purpose of this section, the duty of fair dealing includes the duty to act in good faith and in accordance with reasonable commercial standards. 2000, c. 3, s. 3 (3)."
+
+### 2.2 The disclosure document — 14 days before signing or paying (s. 5, verbatim)
+
+> "**Franchisor's obligation to disclose** 5 (1) A franchisor shall provide a prospective franchisee with a disclosure document and the prospective franchisee shall receive the disclosure document not less than 14 days before the earlier of, (a) the signing by the prospective franchisee of the franchise agreement or any other agreement relating to the franchise, other than an agreement described in subsection (1.1); and (b) the payment of any consideration by or on behalf of the prospective franchisee to the franchisor or franchisor's associate relating to the franchise…"
+
+> "(4) The disclosure document shall contain, (a) all material facts, including material facts as prescribed; (b) financial statements as prescribed; (c) copies of all proposed franchise agreements and other agreements relating to the franchise to be signed by the prospective franchisee; (d) statements as prescribed for the purposes of assisting the prospective franchisee in making informed investment decisions; and (e) other information and copies of documents as prescribed. 2000, c. 3, s. 5 (4)."
+
+> "(6) All information in a disclosure document and a statement of a material change shall be accurately, clearly and concisely set out. 2000, c. 3, s. 5 (6)."
+
+### 2.3 The rescission rights — 60 days / 2 years (s. 6, verbatim)
+
+> "**Rescission for late disclosure** 6 (1) A franchisee may rescind the franchise agreement, without penalty or obligation, no later than 60 days after receiving the disclosure document, if the franchisor failed to provide the disclosure document or a statement of material change within the time required by section 5 or if the contents of the disclosure document did not meet the requirements of section 5. 2000, c. 3, s. 6 (1)."
+
+> "**Rescission for no disclosure** (2) A franchisee may rescind the franchise agreement, without penalty or obligation, no later than two years after entering into the franchise agreement if the franchisor never provided the disclosure document. 2000, c. 3, s. 6 (2)."
+
+And what the franchisor must do on rescission (s. 6(6), verbatim): "The franchisor, or franchisor's associate, as the case may be, shall, within 60 days of the effective date of the rescission, (a) refund to the franchisee any money received from or on behalf of the franchisee, other than money for inventory, supplies or equipment; (b) purchase from the franchisee any inventory… (c) purchase from the franchisee any supplies and equipment… and (d) compensate the franchisee for any losses that the franchisee incurred in acquiring, setting up and operating the franchise, less the amounts set out in clauses (a) to (c)."
+
+### 2.4 Damages for misrepresentation (s. 7(1)–(2), verbatim)
+
+> "7 (1) If a franchisee suffers a loss because of a misrepresentation contained in the disclosure document or in a statement of a material change or as a result of the franchisor's failure to comply in any way with section 5, the franchisee has a right of action for damages against, (a) the franchisor; (b) the franchisor's agent; (c) the franchisor's broker… (d) the franchisor's associate; and (e) every person who signed the disclosure document or statement of material change."
+> "(2) If a disclosure document or statement of material change contains a misrepresentation, a franchisee who acquired a franchise to which the disclosure document or statement of material change relates shall be deemed to have relied on the misrepresentation."
+
+### 2.5 Which provinces have franchise legislation (as of September 2026: seven)
+
+- **Ontario** — Arthur Wishart Act (Franchise Disclosure), 2000 (above).
+- **Alberta, British Columbia, Manitoba, New Brunswick, Prince Edward Island** — each has a Franchises Act; overview: Canadian Franchise Association, "Franchise Disclosure Legislation across Canada" — https://cfa.ca/advocacy/franchise-disclosure-leg/
+- **Saskatchewan — NEW, in force June 30, 2026.** Per Alexander Holburn LLP: "Saskatchewan will become the seventh Canadian province to bring into force franchise disclosure legislation, joining Alberta, British Columbia, Ontario, Prince Edward Island, New Brunswick, and Manitoba." The statute is "The Franchise Disclosure Act, SS 2024, c 13." — https://www.ahbl.ca/saskatchewan-joins-the-majority-of-canadian-provinces-in-passing-franchise-disclosure-legislation/ ; Government of Saskatchewan release (June 30, 2026): https://www.saskatchewan.ca/government/news-and-media/2026/june/30/saskatchewan-introduces-franchise-disclosure-legislation-to-strengthen-transparency-and-fairness ; law-firm confirmations: https://www.mltaikins.com/insights/saskatchewans-franchise-disclosure-act-comes-into-force-june-30/ and https://www.osler.com/en/insights/updates/saskatchewan-franchise-legislation-coming-into-force-june-30-2026/
+- **Quebec** has no franchise-specific disclosure statute (franchising is governed by the Civil Code) — phrase carefully on air; see UNVERIFIED.
+
+*Episode beat: before anyone can sell your neighbour a donut franchise in most of Canada, the law forces them to hand over a single document with "all material facts" — and if they don't, the franchisee can walk away for up to two years and get their money back.*
+
+---
+
+## 3. THE PRIVACY FINDING AS LAW — OPC's June 2022 Tim Hortons app report (the legally safest "caught")
+
+**Primary source:** PIPEDA Findings #2022-001, "Joint investigation into location tracking by the Tim Hortons App" — https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-001/
+
+**Who investigated (from the report):** the Office of the Privacy Commissioner of Canada, the Commission d'accès à l'information du Québec, the Office of the Information and Privacy Commissioner of Alberta, and the Office of the Information and Privacy Commissioner for British Columbia — a four-authority joint investigation.
+
+### 3.1 What the report found (verbatim quotes from the report)
+
+- Tracking frequency: the App "would continually (i.e., as often as every few minutes) track a User's location, including in the Background, including when the App was not open."
+- Inference of sensitive places: the system could "[i]nfer where a User's home and place of work were located, and when the User was travelling (i.e., when the device was more than 100 km from the inferred home)."
+- Appropriate purposes: "Tim Hortons did not collect and use the granular location data in question for an appropriate purpose in the circumstances."
+- Consent: "Tim Hortons did not obtain meaningful or valid consent," including because of "misleading statements to Users (in certain permission requests and FAQs) that it would only collect information when the App was open."
+
+### 3.2 The legal provisions contravened (verbatim, with paragraph numbers as displayed)
+
+- Para. 50: Tim Hortons contravened "subsection 5(3) of the PIPEDA, section 5 of Quebec's Private Sector Act, section 11 of PIPA-AB, and section 11 of PIPA-BC."
+- Para. 66: Tim Hortons contravened "section 6.1 as well as Principle 4.3 of Schedule 1 of PIPEDA, sections 6 and 12–14 of Quebec's Private Sector Act, subsection 7(1) of PIPA‑AB, sections 6–8 of PIPA-BC."
+- Disposition, para. 96: "We therefore find this matter to be **well-founded and conditionally resolved**."
+
+### 3.3 What Tim Hortons agreed to (from the report)
+
+The company committed to "delete all granular location data in question, as well as data derived therefrom" (within one month after legal holds were lifted) and to "establish, and thereafter maintain, a privacy management program with respect to the App."
+
+### 3.4 The OPC news release (June 1, 2022)
+
+**Source:** https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/
+
+- Headline: "Tim Hortons app violated privacy laws in collection of 'vast amounts' of sensitive location data"
+- "…had their movements tracked and recorded every few minutes of every day, even when their app was not open, in violation of Canadian privacy laws."
+- "Tim Hortons' continual and vast collection of location information was not proportional to the benefits…"
+
+### 3.5 The follow-up — commitments fulfilled (June 2023)
+
+**Source:** OPC blog, "One year later: 10 takeaways for businesses from the Tim Hortons investigation" — https://www.priv.gc.ca/en/blog/20230629_02/
+
+> "After following up with Tim Hortons, our Office is now satisfied that the company has met its commitments and implemented the recommendations flowing from our findings."
+
+Takeaway quotes from the same OPC blog (usable as OPC's words): "Only collect the information that you legitimately need, and only when you need it." / "The vast collection of sensitive geolocation information resulted in a loss of customers' privacy that was disproportionate to any benefits." / "Ask for express consent before collecting, using or disclosing app user data that is likely to be considered sensitive, like with granular geolocation data."
+
+### 3.6 Related civil settlement (attributed; not a finding of liability)
+
+CBC News / The Canadian Press, July 29, 2022: "Tim Hortons says it has reached a proposed settlement in multiple class-action lawsuits alleging the restaurant's mobile app violated customer privacy which would see the restaurant offer a free coffee and doughnut to affected users." … "Tim Hortons says in court documents it would also permanently delete any geolocation information it may have collected between April 1, 2019 and Sept. 30, 2020, and direct third-party service providers to" do the same. — https://www.cbc.ca/news/business/tim-hortons-app-1.6536175 (Settlement approval details: see UNVERIFIED. On air, always: "a settlement is not an admission of wrongdoing.")
+
+*Script framing (legally safe): "This isn't an allegation. Four privacy regulators investigated, published findings that the app broke federal and provincial privacy law, Tim Hortons agreed to fix it — and a year later the regulator confirmed it had."*
+
+---
+
+## 4. ECONOMICS OF THE CUP AND THE COMBO (StatCan + ICO, math shown)
+
+All CPI figures below were pulled directly from Statistics Canada's Web Data Service for **Table 18-10-0004-01** (Consumer Price Index, monthly, not seasonally adjusted, 2002=100, Canada) on 10 September 2026. Latest available month: **July 2026** (August 2026 CPI not yet released as of Sept. 10, 2026). Table page: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401 — vector IDs verified via the WDS API (`getSeriesInfoFromVector`).
+
+### 4.1 CPI: restaurants vs. groceries vs. everything, Jan 2017 → July 2026
+
+| Series (Canada, 2002=100) | Vector | Jan 2017 | Jul 2026 | % change |
+|---|---|---|---|---|
+| All-items CPI | v41690973 | 129.5 | 169.9 | **+31.2%** |
+| Food (all) | v41690974 | 141.5 | 202.8 | **+43.3%** |
+| Food purchased from stores (groceries) | v41690975 | 140.3 | 200.5 | **+42.9%** |
+| **Food purchased from restaurants** | v41691046 | 144.3 | 207.5 | **+43.8%** |
+| Coffee and tea | v41691036 | 131.4 | 206.7 | **+57.3%** |
+| **Coffee** | v41691037 | 134.1 | 217.0 | **+61.8%** |
+| Tea | v41691038 | 123.7 | 166.8 | +34.8% |
+
+Math shown (example): restaurants 207.5 ÷ 144.3 = 1.438 → +43.8%. All-items 169.9 ÷ 129.5 = 1.312 → +31.2%.
+
+**The honest story the numbers tell:** since the calorie law took effect (Jan 2017), *all food* — both restaurant meals (+43.8%) and groceries (+42.9%) — has outrun overall inflation (+31.2%) by roughly 12 points, and the two food channels are in a near dead heat over the full window. **Do not claim restaurant inflation dramatically beat grocery inflation over 2017–2026 — the cumulative numbers don't support it.** The stand-out is coffee itself: the CPI coffee index is up **+61.8%**, roughly double the all-items pace.
+
+Latest-month context, quoted verbatim from The Daily, CPI July 2026 (released Aug. 17, 2026, https://www150.statcan.gc.ca/n1/daily-quotidien/260817/dq260817a-eng.htm): "The Consumer Price Index (CPI) rose 3.0% year over year in July, following a 2.8% gain in June." and "Prices for food purchased from stores grew at a slower pace in July (+3.1%) compared with June (+3.9%) on a year-over-year basis."
+
+### 4.2 The price of a bag of coffee — Table 18-10-0245-01 (actual dollars)
+
+**Source:** Statistics Canada Table 18-10-0245-01, "Monthly average retail prices for selected products," product **"Roasted or ground coffee, 340 grams"**, Canada, vector v1353834333 (full-table CSV downloaded from StatCan, Sept. 10, 2026). Table: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
+
+| Month | Average retail price, Canada |
+|---|---|
+| Jan 2017 | **$4.59** |
+| Jan 2020 | $5.32 |
+| Jan 2024 | $6.16 |
+| Jul 2025 | $9.30 |
+| Jul 2026 (latest) | **$9.54** |
+
+Math: $9.54 ÷ $4.59 = 2.078 → **+107.8%**. *The same 340-gram bag of coffee has more than doubled since the month Ontario's calorie law switched on.*
+
+### 4.3 World coffee price context (primary: International Coffee Organization)
+
+- ICO Coffee Market Report, January 2017 (PDF): "Coffee prices increased in January with the monthly average of the ICO composite indicator up by 5.6% to **139.07 US cents/lb** compared to 131.70 US cents/lb in December 2016." — https://www.ico.org/documents/cy2016-17/cmr-0117-e.pdf
+- ICO Coffee Market Report, June 2026 (PDF): "The ICO Composite Indicator Price (I-CIP) averaged **248.90 US cents/lb** in June 2026, a 2.8% decrease from May 2026." Same report: prices "fell to 231.96 US cents/lb on 9 June – the lowest level in nearly two years," then "rebounded sharply by 17.4%, reaching a two-month high of 272.39 US cents/lb at the end of the month." — https://www.ico.org/documents/cy2025-26/cmr-0626-e.pdf
+
+Math: 248.90 ÷ 139.07 = 1.790 → world benchmark coffee up **~+79%** Jan 2017 → June 2026, while the Canadian retail bag rose ~+108% — a defensible, fully sourced compare-and-contrast.
+
+### 4.4 The size of the till — food services receipts (StatCan, primary)
+
+**Source:** The Daily, "Food services and drinking places, December 2025" (released Feb. 25, 2026) — https://www150.statcan.gc.ca/n1/daily-quotidien/260225/dq260225d-eng.htm
+
+> "Annual sales of food services and drinking places totalled **$101.4 billion in 2025**, up 5.6% from 2024."
+> "Total sales in the food services and drinking places subsector decreased 0.3% to $8.6 billion in December."
+
+Subsector split for 2025 (from the same release, as extracted): limited-service eating places **$47.3 billion (+5.9%)**; full-service restaurants **$43.6 billion (+5.8%)**; special food services +5.7%; drinking places −2.3%. (Monthly table behind it: Table 21-10-0019-01.)
+
+**Chain share:** No current official StatCan figure splitting chain vs. independent sales was found in this research. Do not cite one as official. (See UNVERIFIED.)
+
+### 4.5 Industry-association numbers (attribute to Restaurants Canada, not StatCan)
+
+**Source:** Restaurants Canada release, July 20, 2026, "Rising costs outpace sales growth, eroding restaurant profitability, new report finds" — https://www.restaurantscanada.org/rising-costs-outpace-sales-growth-eroding-restaurant-profitability-new-report-finds/ (also on GlobeNewswire: https://www.globenewswire.com/news-release/2026/07/20/3329612/0/en/rising-costs-outpace-sales-growth-eroding-restaurant-profitability-new-report-finds.html)
+
+Verbatim: "Canada's restaurant industry generates $125 billion in annual sales" … "Restaurants are Canada's fourth largest private sector employer, with 1.2 million workers" … it "contributes nearly four percent of Canada's GDP" and "generates $2.25 in economic output for every dollar spent." Forecast: "Real commercial foodservice sales are expected to grow by 1.5% in 2026." Operator sentiment: "64% of operators say their profitability is lower than last year" and "41% of operators are operating at a loss or breaking even."
+
+*(Note the scope difference on air: StatCan's $101.4B covers the "food services and drinking places" subsector in 2025; Restaurants Canada's "$125 billion" is the association's broader industry figure — attribute each to its own source and don't blend them.)*
+
+---
+
+## 5. TIPPING / FEES & DRIP PRICING LAW
+
+### 5.1 The statute (primary, verbatim)
+
+**Source:** Competition Act, R.S.C. 1985, c. C-34, s. 74.01 — https://laws-lois.justice.gc.ca/eng/acts/c-34/section-74.01.html (site header: "Act current to 2026-06-21 and last amended on 2026-03-26")
+
+> "**Misrepresentations to public** 74.01 (1) A person engages in reviewable conduct who, for the purpose of promoting, directly or indirectly, the supply or use of a product or for the purpose of promoting, directly or indirectly, any business interest, by any means whatever, (a) makes a representation to the public that is false or misleading in a material respect…"
+
+> "**Drip pricing** (1.1) For greater certainty, the making of a representation of a price that is not attainable due to fixed obligatory charges or fees constitutes a false or misleading representation, unless the obligatory charges or fees represent only an amount imposed on a purchaser of the product referred to in subsection (1) by or under an Act of Parliament or the legislature of a province."
+
+Plain-English gloss (safe): the advertised price must be a price you can actually pay — the only extras allowed to appear later are government-imposed charges like GST/HST. The drip-pricing amendment came into force June 24, 2022 (per the Competition Bureau's Cineplex release, which "mentions amendments recognizing drip pricing came into force on June 24, 2022"). Bureau explainer page: https://competition-bureau.canada.ca/en/deceptive-marketing-practices/drip-pricing
+
+### 5.2 Enforcement — decided case (Cineplex; not a restaurant, but the landmark)
+
+**Source:** Competition Bureau news release, Sept. 23, 2024, "Competition Bureau wins deceptive marketing case against Cineplex" — https://www.canada.ca/en/competition-bureau/news/2024/09/competition-bureau-wins-deceptive-marketing-case-against-cineplex.html
+
+Verbatim: "Cineplex engaged in drip pricing by adding a mandatory $1.50 online booking fee." … "The Tribunal ordered Cineplex to pay a financial penalty of over $38.9 million dollars and legal costs." Commissioner of Competition: "The Tribunal's decision in the Cineplex case is a resounding win for Canadians. It sends a strong message that businesses should not engage in drip pricing and need to display their full prices upfront."
+
+Appeal status (secondary, attributed): the Federal Court of Appeal dismissed Cineplex's appeal on January 21, 2026 (ROBIC: https://www.robic.ca/en/?publications=mandatory-booking-fees-and-drip-pricing-cineplexs-appeal-dismissed ; Lexpert: https://www.lexpert.ca/news/finance-law/federal-court-of-appeal-affirms-competition-tribunals-fine-on-cineplex-booking-fees/393931). Cineplex has said it will seek leave to the Supreme Court (BNN Bloomberg, Jan. 23, 2026: https://www.bnnbloomberg.ca/business/company-news/2026/01/23/cineplex-aims-to-challenge-latest-drip-pricing-decision-before-supreme-court/). *On air: "the penalty was upheld on appeal; a further appeal attempt has been reported."*
+
+### 5.3 FOOD-DELIVERY enforcement — DoorDash (ALLEGATIONS ONLY, before the Tribunal)
+
+**Source:** Competition Bureau news release, June 2025, "Competition Bureau sues DoorDash for allegedly advertising misleading prices and discounts" — https://www.canada.ca/en/competition-bureau/news/2025/06/competition-bureau-sues-doordash-for-allegedly-advertising-misleading-prices-and-discounts.html
+
+Verbatim: "The Competition Bureau is taking legal action against DoorDash Inc., and its subsidiary DoorDash Technologies Canada Inc." — the Bureau says "consumers were unable to purchase food and other items at the advertised price on DoorDash's websites and mobile applications due to the addition of mandatory fees at checkout" and "The company has been engaging in the alleged conduct for close to a decade, acquiring nearly $1 billion in mandatory fees from consumers."
+
+**MANDATORY ON-AIR LABEL:** These are the Bureau's **allegations**; the note in the release title is "allegedly"; DoorDash contests the case and has sought to have it dismissed (Globe and Mail: https://www.theglobeandmail.com/business/article-doordash-misleading-prices-competition-bureau-case/). Nothing has been proven before the Tribunal. Do not present as a finding.
+
+**Restaurant-chain enforcement under s. 74.01(1.1):** none found against a restaurant chain itself in this research — say "none found," not "none exists."
+
+---
+
+## 6. ROYALTY STRUCTURES 101 — "a slice of the till trades on the TSX" (neutral explainer)
+
+**The mechanism, in one sentence:** a restaurant company sells its trademarks into a fund/partnership; the operating company then pays that fund a fixed **percentage of top-line sales** ("system sales" / "gross sales") of the restaurants in a defined "royalty pool"; the fund flows that royalty out to public unitholders/shareholders as distributions or dividends. It's a bet on the cash register, not on the kitchen's profit margin — and any Canadian with a brokerage account can own it.
+
+### 6.1 Boston Pizza Royalties Income Fund (TSX: BPF.UN)
+
+**Source:** the Fund's own site — https://www.bpincomefund.com/
+
+Verbatim: the Fund is "a limited purpose open-ended trust with a proven track record of delivering stable and growing distributions for investors since its IPO in 2002," and it "earns royalty and distribution income equal to **5.5% of franchise sales** (less the pro rata portion payable to BPI in respect of its retained interest in the Fund) from Boston Pizza restaurants across Canada." Monthly distribution shown on the site: $0.124 per unit (verify current figure before air).
+
+### 6.2 Pizza Pizza Royalty Corp. (TSX: PZA)
+
+**Source:** Pizza Pizza Royalty Corp. release, Feb. 5, 2026 (royalty pool adjustment) — https://www.pizzapizza.ca/2026/02/05/pizza-pizza-royalty-corp-adds-39-restaurants-to-and-removes-19-restaurants-from-the-royalty-pool/
+
+Verbatim: "The Company, indirectly through the Pizza Pizza Royalty Limited Partnership (the 'Partnership'), owns the trademarks and trade names used by PPL in its Pizza Pizza and Pizza 73 restaurants." — "PPL pays the Partnership a royalty equal to **6% of the System Sales of its Pizza Pizza restaurants** in the Royalty Pool" and "**9% of the System Sales of the Pizza 73 restaurants** in the Royalty Pool." — "For 2026, there will be 814 restaurants (2024 – 794) in the Royalty Pool made up of 712 Pizza Pizza locations and 102 Pizza 73 locations."
+
+### 6.3 A&W — the royalty fund that just turned back into a company
+
+**Source (structure):** A&W Revenue Royalties Income Fund Q2 2024 results release — https://awincomefund.mediaroom.com/2024-07-22-A-W-REVENUE-ROYALTIES-INCOME-FUND-ANNOUNCES-SECOND-QUARTER-2024-RESULTS
+
+Verbatim: "The Fund is a limited purpose trust established to invest in Trade Marks, which through its interest in the A&W Trade Marks Limited Partnership (the 'Partnership'), owns the A&W trade-marks used in the A&W quick service restaurant business in Canada." — "In return for licensing A&W Food Services to use its trade-marks, Trade Marks (through the Partnership) is entitled to royalties equal to **3% of the gross sales** reported by A&W restaurants in the Royalty Pool." — "The Fund also today announced that it has agreed to combine with A&W Food Services to create a new publicly traded corporation."
+
+**Source (completion):** closing release, Oct. 17, 2024 — https://awincomefund.mediaroom.com/2024-10-17-A-W-Revenue-Royalties-Income-Fund-and-A-W-Food-Services-of-Canada-Announce-Successful-Closing-of-Combination-Transaction — the Fund's units were delisted from the TSX on October 17, 2024, and shares of the combined A&W Food Services of Canada Inc. began trading on the TSX under the symbol "AW" on October 18, 2024 (unitholders could elect "$37.00 in cash or one common share in the new company" per the July 22, 2024 release). **On-air accuracy point: A&W's royalty *fund* no longer trades; the combined company (TSX: AW) does.**
+
+*Episode beat (safe, sourced): "When you pay for a Boston Pizza dinner in Canada, 5.5 cents of every franchise-sales dollar is owed to a trust on the Toronto Stock Exchange. Pizza Pizza: six cents on the dollar; Pizza 73: nine. It comes off the top — off sales, not profits — and you can literally buy units of it."*
+
+---
+
+## 7. GST/HST ODDITIES — the six-donut rule, heated food, and Ontario's $4 rebate
+
+### 7.1 The statute itself (primary, verbatim) — Excise Tax Act, Schedule VI, Part III
+
+**Source:** Excise Tax Act, R.S.C. 1985, c. E-15, Schedule VI, Part III ("Basic Groceries"), s. 1 — https://laws-lois.justice.gc.ca/eng/acts/e-15/page-140.html
+
+Basic groceries are zero-rated (0% GST/HST): "Supplies of food or beverages for human consumption… other than supplies of…" — and then the exceptions that ARE taxed, including:
+
+> "**(m)** cakes, muffins, pies, pastries, tarts, cookies, doughnuts, brownies, croissants with sweetened filling or coating, or similar products where (i) they are prepackaged for sale to consumers in quantities of less than six items each of which is a single serving, or (ii) they are not prepackaged for sale to consumers and are sold as single servings in quantities of less than six, but not including bread products, such as bagels, English muffins, croissants or bread rolls, without sweetened filling or coating;"
+
+> "**(o)** food or beverages heated for consumption;"
+
+And the donut-shop escape hatch — even at an establishment that mostly sells taxable prepared food, the supply is still zero-rated where:
+
+> "(ii) in the case of a product described in paragraph (m), (A) the product is prepackaged for sale to consumers in quantities of more than five items each of which is a single serving, or (B) the product is not prepackaged for sale to consumers and is sold as single servings in quantities of more than five, and is not sold for consumption at the establishment" (para. 1(q))
+
+**Translation for the episode (fully supported by the text above):** one donut to go = taxable; **six or more donuts to go = tax-free (zero-rated)** — provided they're not for eating on the premises. Also taxable regardless of count: anything "heated for consumption," beverages "dispensed at the place where they are sold" (para. 1(o.4)), sandwiches "other than when frozen" (para. 1(o.2)), and salads "not canned or vacuum sealed" (para. 1(o.1)) — all verbatim from the same section.
+
+### 7.2 CRA's own guidance — GST/HST Memorandum 4.3 "Basic Groceries"
+
+**Source:** https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html
+
+As extracted (paragraph numbers per the memorandum): sweetened goods are taxable where "they are pre-packaged for sale to consumers in quantities of less than six items" (para. 87); products "pre-packaged for sale to consumers in quantities of six or more single servings" are zero-rated (para. 96); and the memorandum's example (para. 97): "a supply of two bagels, two muffins and two doughnuts, purchased from a doughnut shop (when they are not individually packaged), is considered to be six single servings…and therefore zero-rated." On heated food: "Food or beverages heated for consumption are excluded from zero-rating under paragraph 1(o)" (para. 102), with the example that items "sold from a heated cabinet…are taxable" (para. 103). *(These memo extracts came through an intermediary text extraction — re-verify exact sentence boundaries against the page before putting them on screen as block quotes; the statutory text in 7.1 is fully verified and is the safer on-screen quote.)*
+
+### 7.3 Ontario's point-of-sale rebate — the $4 coffee-run rule
+
+**Source:** GST/HST Info Sheet GI-064, "Harmonized Sales Tax for Ontario — Point-of-Sale Rebate on Prepared Food and Beverages" — https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
+
+Verbatim: "The Government of Ontario provides a point-of-sale rebate of the provincial part of the HST payable on qualifying prepared food and beverages." The HST context from the same sheet: "The HST rate is 13% of which 5% represents the federal part and 8% the provincial part," effective July 1, 2010. Qualifying items track the taxable-prepared-food list (including "food or beverages heated for consumption" and "cakes, muffins, pies, pastries, tarts, cookies, doughnuts, brownies, croissants with sweetened filling or coating, or similar products"), and the rebate applies where the total for qualifying items in the transaction is **$4.00 or less** (threshold calculated excluding HST).
+
+**The 50+ audience beat, fully law-based:** in Ontario, a single coffee-and-donut order at $4.00 or under is effectively taxed at only the 5% federal rate (the 8% Ontario part is rebated at the till); cross the $4 line and the full 13% applies; buy a box of six donuts to go and there's no GST/HST at all. Three different tax treatments for the same counter. *(Fact-check note: keep the "$4 or less" phrasing tied to the total of qualifying items in the single transaction, per GI-064.)*
+
+---
+
+## 8. HISTORY, LAW-ADJACENT
+
+### 8.1 The "Always Fresh" par-baking transition (2002–2004) — as reported and as litigated
+
+**As reported (CBC News, Feb. 28, 2012, "$2B Tim Hortons franchisee lawsuit deemed half-baked" — https://www.cbc.ca/news/business/2b-tim-hortons-franchisee-lawsuit-deemed-half-baked-1.1216811), verbatim:**
+
+> "Under what's known as the 'Always Fresh Conversion' several years ago, the company stopped making baked goods from scratch in each location every day, and instead started shipping partially baked items that had been flash frozen before final baking in ovens at all Tims locations every morning."
+
+> "A judge has rejected a $2-billion class action suit mounted by Tim Hortons franchise owners that accuses the chain of gouging them under the company's new way of making doughnuts. Justice George Strathy of the Ontario Superior Court recently issued a summary judgment in favour of Tim Hortons…"
+
+Direct quote from the ruling, as carried by CBC: "In order to keep the system healthy and competitive, the franchisor must be permitted to introduce new products, new methods of production or sale, and new techniques," and "It would not be commercially reasonable to require that the franchisor can only implement system-wide changes … if the proposed change is [demonstrated] to be an improvement that benefits that particular franchisee."
+
+**The case:** *Fairview Donut Inc. v. The TDL Group Corp.*, 2012 ONSC 1252 (Ont. Sup. Ct.) — summary judgment for Tim Hortons; secondary summaries date the conversion to roughly **2002–2004**, with dough par-baked and flash-frozen at a centralized facility and finished in in-store ovens (Mondaq case comment: https://www.mondaq.com/canada/class-actions/170744/fairview-donut-inc-v-the-tdl-group-corp-2012-onsc-1252 ; commentary noting the appeal was dismissed: https://www.mondaq.com/canada/CorporateCommercial-Law/211890/). **Critical on-air framing: the franchisees' claims were DISMISSED and the dismissal was upheld on appeal — this is a story about a lawful business-model change that was litigated and survived, not about wrongdoing.**
+
+**The bakery:** Maidstone Bakeries, Brantford, Ontario — Tim Hortons sold its 50% stake for $475 million in cash (Globe and Mail, 2009: "Tim Hortons sells bakery for $475-million in cash" — https://www.theglobeandmail.com/report-on-business/streetwise/tim-hortons-sells-bakery-for-475-million-in-cash/article1376898/).
+
+### 8.2 Roll Up To Win — the contest-law footnote
+
+**The law (primary, verbatim):** Competition Act, s. 74.06 — https://laws-lois.justice.gc.ca/eng/acts/c-34/section-74.06.html
+
+> "74.06 A person engages in reviewable conduct who, for the purpose of promoting, directly or indirectly, the supply or use of a product, or for the purpose of promoting, directly or indirectly, any business interest, conducts any contest, lottery, game of chance or skill, or mixed chance and skill… where (a) adequate and fair disclosure is not made of the number and approximate value of the prizes, of the area or areas to which they relate and of any fact within the knowledge of the person that affects materially the chances of winning; (b) distribution of the prizes is unduly delayed; or (c) selection of participants or distribution of prizes is not made on the basis of skill or on a random basis in any area to which prizes have been allocated."
+
+**The disclosure in practice (primary: Tim Hortons 2026 Roll Up To Win Official Rules PDF — https://cdn.sanity.io/files/czqk28jt/prod_th_ca/ef85e670845852f749c1e04b58daaa4d3e1c6b97.pdf), verbatim:**
+
+> "(vi) Odds of winning 1 of 14,716,495 Coffee and Donut Cup Prizes: 1 in 6 (for greater certainty, odds of winning 1 coffee Cup Prize is 1 in 9, odds of wining 1 donut Cup Prize is 1 in 18)." *(sic — "wining" is the rules' own typo; reproduce or [sic] it.)*
+
+Other odds from the same section: "Odds of winning 1 of 4 Volkswagen ID. Buzz Vehicle Cup Prizes: 1 in 22,132,299" and "Odds of winning 1 of 2 Sun Tracker Party Barge and Trailer Cup Prizes: 1 in 44,264,599."
+
+The other two Canadian contest-law fingerprints, verbatim from the same rules: "NO PURCHASE NECESSARY. To obtain a Paper Cup Roll, Base Hot Beverage Digital Roll(s)…" (s. 6, Alternate Method of Entry) and the skill-testing question: entrants must "correctly answer, without mechanical or other aid, a mathematical skill-testing question," including on prize claims ("correctly answering (without mechanical or other aid) a mathematical skill-testing question in Prize Claim Form I").
+
+*Episode beat: the odds on the cup aren't marketing generosity — s. 74.06 makes fair disclosure of odds and prize values a legal requirement, and the math quiz exists because of Canada's Criminal Code treatment of pure-chance lotteries (frame generally; see UNVERIFIED for the Criminal Code cite).* Contest period per the rules coverage: Feb. 23 – Mar. 22, 2026, 30+ million prizes (secondary: https://www.todocanada.ca/tim-hortons-2026-roll-up-to-win-returns-with-30-million-prizes-begins-feb-23/).
+
+---
+
+## 9. UNVERIFIED / DO-NOT-USE (or verify before air)
+
+1. **"Quebec has no menu-labelling law" as a flat statement — DO NOT USE as stated.** No Quebec equivalent was found, and secondary sources describe Ontario as the only mandatory regime, but absence was not verified against Quebec statutes directly. Safe phrasing: "Ontario is the only province where we found a mandatory calorie-on-menus law; B.C. ran a voluntary program."
+2. **BC Informed Dining current status — UNVERIFIED.** The program launched 2012 and was active per 2013–2018 sources; whether it still operates in 2026 was not confirmed. Say "launched as a voluntary program," not "still running."
+3. **CRA Memorandum 4.3 paragraph quotes (paras. 87, 96, 97, 102–103) — VERIFY EXACT WORDING** before using as on-screen block quotes; they came through intermediary extraction. The Schedule VI statutory text (Section 7.1) is fully verified — prefer it.
+4. **Tim Hortons class-action settlement approval date/court — UNVERIFIED.** Sources conflict (Quebec Superior Court; one says approval "last July" ≈ 2023; claims window reported Feb–Mar 2023). Verified core: proposed settlement announced July 29, 2022 (CBC). Always add "a settlement is not an admission of wrongdoing."
+5. **"Frozen par-baked donut cost franchisees roughly double scratch-baking" — DO NOT USE without checking the judgment.** It appeared only in secondary search summaries ("according to court documents"); CanLII was inaccessible during research (2012 ONSC 1252 could not be read directly). Also verify the exact ONCA citation for the appeal (reported as 2012 ONCA 867 in commentary — unconfirmed here).
+6. **Justice Strathy quote "there is nothing civilly or criminally wrong with a franchisor selling a product to its franchisee at a price that results in a profit" — VERIFY against the judgment** (came via CanLII Connects commentary, not the decision itself). The CBC-carried ruling quotes in Section 8.1 are safer.
+7. **"Food purchased from restaurants = 5.61% of the CPI basket" — UNVERIFIED** (CEIC, third party). Do not use without checking StatCan basket weights (Table 18-10-0007-01).
+8. **Boston Pizza monthly distribution $0.124/unit — time-sensitive; re-verify** at bpincomefund.com before air. Same for any "current" unit prices/yields.
+9. **February 2026 monthly food-services sales $8.8B / January $8.7B — from search snippets; verify** in the respective Daily releases before use. The December 2025 release figures in Section 4.4 are verified quotes.
+10. **Criminal Code s. 206 as the reason for skill-testing questions — not sourced in this research.** The general framing ("Canadian contest law leads promoters to add a skill element") is safe; the specific Criminal Code citation needs its own check.
+11. **Cineplex Supreme Court leave application status — moving target.** Verified to Jan. 2026 (FCA dismissal; Cineplex stated intent to seek leave). Check for an SCC leave decision before air.
+12. **DoorDash case — allegations only, still before the Competition Tribunal** (restated here because it is the single highest legal risk in this dossier if misdescribed). Never say "DoorDash was found…"; the Bureau's own headline says "allegedly."
+13. **Chain vs. independent share of Canadian foodservice sales — no official StatCan figure found.** Do not attribute any chain-share number to Statistics Canada. If needed, source a figure explicitly to Restaurants Canada or a named market-research firm after checking their publication.
+14. **"3 Companies Own Almost EVERYTHING" (title claim)** — the ownership map (RBI / MTY / Recipe-Fairfax etc.) was outside this dossier's tasks and is not sourced here; ensure the companion ownership dossier carries its own citations before the title claim airs.
+15. **StatCan CPI figures will update** — August 2026 CPI (due mid-September 2026) will supersede the July 2026 endpoints; re-pull vectors v41690973, v41690974, v41690975, v41691046, v41691037 and the coffee price vector v1353834333 (Table 18-10-0245-01) the week of final edit. The percentage math in Section 4 should be recomputed to the new latest month.
+
+---
+
+**Key file/source index (for the edit suite):** Ontario HMCA https://www.ontario.ca/laws/statute/15h07 · O. Reg. 50/16 https://www.ontario.ca/laws/regulation/160050 · Arthur Wishart Act https://www.ontario.ca/laws/statute/00a03 · OPC findings https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-001/ · OPC release https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/ · OPC one-year-later https://www.priv.gc.ca/en/blog/20230629_02/ · CPI table https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401 · Retail prices table https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501 · Food services Daily https://www150.statcan.gc.ca/n1/daily-quotidien/260225/dq260225d-eng.htm · CPI July 2026 Daily https://www150.statcan.gc.ca/n1/daily-quotidien/260817/dq260817a-eng.htm · ICO Jan 2017 https://www.ico.org/documents/cy2016-17/cmr-0117-e.pdf · ICO Jun 2026 https://www.ico.org/documents/cy2025-26/cmr-0626-e.pdf · Competition Act s.74.01 https://laws-lois.justice.gc.ca/eng/acts/c-34/section-74.01.html · s.74.06 https://laws-lois.justice.gc.ca/eng/acts/c-34/section-74.06.html · Bureau/Cineplex https://www.canada.ca/en/competition-bureau/news/2024/09/competition-bureau-wins-deceptive-marketing-case-against-cineplex.html · Bureau/DoorDash https://www.canada.ca/en/competition-bureau/news/2025/06/competition-bureau-sues-doordash-for-allegedly-advertising-misleading-prices-and-discounts.html · Excise Tax Act Sched. VI https://laws-lois.justice.gc.ca/eng/acts/e-15/page-140.html · CRA Memo 4.3 https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html · GI-064 https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html · BP Fund https://www.bpincomefund.com/ · PZA release https://www.pizzapizza.ca/2026/02/05/pizza-pizza-royalty-corp-adds-39-restaurants-to-and-removes-19-restaurants-from-the-royalty-pool/ · A&W releases https://awincomefund.mediaroom.com/ · Roll Up rules PDF https://cdn.sanity.io/files/czqk28jt/prod_th_ca/ef85e670845852f749c1e04b58daaa4d3e1c6b97.pdf · CBC Fairview https://www.cbc.ca/news/business/2b-tim-hortons-franchisee-lawsuit-deemed-half-baked-1.1216811 · Restaurants Canada https://www.restaurantscanada.org/rising-costs-outpace-sales-growth-eroding-restaurant-profitability-new-report-finds/
+
+
+---
+
 # PART 3 — THE PUBLIC RECORD FILE (documented matters only, with exact legal status)
 
 ## 3A. The Tim Hortons app — a formal regulatory FINDING (safe to state as a finding)

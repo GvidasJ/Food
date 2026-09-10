@@ -319,3 +319,229 @@ Do not put any of the following on screen or in script without further verificat
 15. **Franchise-fee figures** are FDD-derived or CFA-listing figures and change; date-stamp them on screen ("as reported 2024–26") and do not present as guaranteed current pricing.
 
 *Research compiled 2026-09-10. All URLs live as of that date.*
+
+---
+
+# PART 3 — POPULARITY ORDERING AND HISTORY (popularity/history agent dossier, verbatim)
+
+---
+
+# CANADIAN COUNTER — POPULARITY ORDERING + HISTORY/NOSTALGIA DOSSIER
+**Episode: "We Investigated Tim Hortons & 14 More 'Canadian' Chains (3 Companies Own Almost EVERYTHING)"**
+**Prepared 10 September 2026. House rules applied: no health commentary; all corporate claims attributed; verbatim quotes marked; folklore quarantined at the end.**
+
+**Sourcing key:** [VERBATIM] = exact wording pulled directly from the source page by this researcher. [SOURCED] = fact confirmed against the cited source, but the exact sentence was delivered via a search summary — pull the exact line from the URL before final script lock.
+
+---
+
+## 0. THE SPINE OF THE EPISODE: WHO ACTUALLY OWNS "CANADIAN" FOOD
+
+The title's "3 Companies" framing is defensible if you name **Restaurant Brands International (RBI)**, **Recipe Unlimited (Fairfax)**, and **MTY Food Group** — with **Foodtastic** as the fast-rising fourth you reveal late as a kicker.
+
+- **RBI** owns Tim Hortons (since the 2014 3G Capital/Burger King deal). The Canadian Encyclopedia: *"In 2014, the chain was again purchased by a foreign company, this time by Brazilian firm 3G Capital, known for its ownership of Burger King."* [VERBATIM] — https://www.thecanadianencyclopedia.ca/en/article/tim-hortons
+- **Recipe Unlimited / Fairfax** owns Swiss Chalet, Harvey's, St-Hubert, The Keg, Montana's, East Side Mario's, New York Fries and more. CBC News (Aug 9, 2022): *"The deal announced by Recipe Unlimited Tuesday puts a $1.2 billion value on Canada's oldest and largest full-service restaurant chain, which counts Swiss Chalet, Harvey's and The Keg among its roughly two-dozen brands."* And: *"Fairfax is already the controlling shareholder of Recipe Unlimited, owning 38.5 per cent of the equity interest as of the end of last year for about 61 per cent of the voting rights."* [VERBATIM] — https://www.cbc.ca/news/business/fairfax-recipe-unlimited-1.6545946
+- **MTY Food Group** (Montreal) owns Country Style, Mr. Sub, Thai Express and dozens more. MTY's own site: *"Stanley Ma, founder of MTY Group, opens his first restaurant in Montreal: 'Le Paradis du Pacifique'"* and describes itself as *"one of the largest franchisors in North America's restaurant industry."* [VERBATIM] — https://mtygroup.com/en/about-us/ . Globe and Mail reporting puts MTY at ~7,000 locations across its brands. [SOURCED] — https://www.theglobeandmail.com/business/article-mty-food-group-struggles-to-satisfy-its-hunger-for-acquisitions/
+- **Foodtastic** (Montreal) bought Second Cup (2021) and Freshii (2023). CBC: *"Aegis Brands Inc. says it has signed a deal to sell its Second Cup Coffee Co. operations to Quebec-based Foodtastic Inc. The company says the sale price includes $14 million in cash, plus a post-closing earn-out."* [VERBATIM] — https://www.cbc.ca/news/business/second-cup-1.5905290 . Freshii: all-cash deal valued at ~$74.4M, completed Feb 22, 2023. [SOURCED] — https://www.globenewswire.com/news-release/2022/12/19/2576165/0/en/Freshii-to-be-Acquired-by-Foodtastic-Inc.html
+
+**Attribution discipline:** all of the above are lawful, disclosed corporate transactions. Frame as "consolidation," never as wrongdoing.
+
+---
+
+## 1. RUNNING ORDER (MOST POPULAR FIRST, FOR RETENTION)
+
+Method: no reliable public "most-visited by Canadians 50+" dataset exists, so the ranking below is built on (a) Canadian unit counts from company/investor sources, (b) company-stated guest volumes, (c) cultural weight for a 50+ audience — with every inference labeled. **Do not present this order itself as a measured ranking on screen; present the underlying numbers.**
+
+| # | Chain | Canadian scale evidence (dated) | Why this slot |
+|---|-------|--------------------------------|---------------|
+| 1 | **Tim Hortons** | *"As of September 2023, it operates 3,874 stores across the country"* [VERBATIM, Canadian Encyclopedia, updated June 2024] — thecanadianencyclopedia.ca/en/article/tim-hortons | TCE: *"Tim Hortons has become Canada's largest restaurant chain."* [VERBATIM] Undisputed #1; opens cold. |
+| 2 | **McDonald's Canada** | Company: 1,400+ restaurants, ~90,000 employees; "2.5 million guests" daily [SOURCED — mcdonalds.com/ca/en-ca/about-us/our-history.html] | Fewer units than Subway but far higher traffic/sales per store; the daily-guests claim is the justification. INFERENCE: #2 by visits, labeled as such. |
+| 3 | **Subway** | ~3,000 Canadian locations (ScrapeHero count: 3,012 as of mid-2026) [SOURCED — scrapehero.com/location-reports/Subway-Canada/]; first Canadian store St. John's, NL, 1986 [SOURCED — subway.com/en-ca/aboutus/history] | Most physical locations of any non-Tim's chain — the "wait, Subway has MORE stores than McDonald's?" beat is a genuine surprise stat. |
+| 4 | **A&W** | 1,000+ restaurants; "Canada's second-largest fast-food hamburger chain" per Wikipedia (2022: 1,029) [SOURCED — en.wikipedia.org/wiki/A%26W_(Canada)] | Highest nostalgia-per-viewer for 50+ (Burger Family, frosted mugs). INFERENCE: placed above Starbucks for this audience. |
+| 5 | **Starbucks** | 1,483 stores in Canada in 2024 (Statista) [SOURCED — statista.com/statistics/218392/number-of-starbucks-stores-in-canada/]; first store outside the U.S.: Vancouver SeaBus terminal, March 1, 1987 [SOURCED — stories.starbucks.ca/about-starbucks-canada/] | Big footprint, weaker 50+ affinity; the "first international Starbucks was Canadian" fact earns its slot. |
+| 6 | **Dairy Queen** | ~700 Canadian locations (689 per ScrapeHero, Aug 2025) [SOURCED — scrapehero.com/location-reports/Dairy%20Queen-Canada/] | Small-town Canada institution; Saskatchewan origin story lands with 50+. |
+| 7 | **KFC** | 600–685 Canadian locations (ScrapeHero, 2026) [SOURCED — scrapehero.com/location-reports/KFC-Canada/] | Sunday-dinner bucket nostalgia; "Scott's Chicken Villa" era memories for boomers. |
+| 8 | **Wendy's** | *"Wendy's has grown to nearly 450 locations across the country, each one franchise-owned and locally operated."* [VERBATIM, Wendy's 50th-anniversary release, May 20, 2025] — wendys.com/blog/wendys-celebrates-50-fresh-years-canada | Also the pivot chain: Wendy's owned Tim Hortons 1995–2006 — use it as the bridge into the ownership story. |
+| 9 | **Pizza Pizza (+Pizza 73)** | Royalty pool: 774 restaurants as of Jan 1, 2024 (672 Pizza Pizza + 102 Pizza 73) [SOURCED — Pizza Pizza Royalty Corp. Q4-2024 release] | Ontario/Alberta icon; the 967-11-11 jingle is retention gold in the 905/416. Regionally skewed — say so. |
+| 10 | **Boston Pizza** | Company history: *"Canada's number one casual dining brand, with more than 365 restaurants from coast to coast."* [VERBATIM — bostonpizza.com/content/dam/bostonpizza/about-us/media-kit/boston-pizza-company-history.pdf] | Largest casual-dining brand; Dragons' Den familiarity (Jim Treliving) boosts 50+ recognition. |
+| 11 | **Domino's** | 400th Canadian store opened Jan 18, 2016; first international store ever was Winnipeg, 1983 [SOURCED — newswire.ca/news-releases/dominos-pizza-of-canada-opens-400th-store-565291941.html] | Mid-size footprint; the Winnipeg-first fact is its whole reason to appear. |
+| 12 | **Swiss Chalet** | ~200 locations (secondary sources; Recipe does not publish a current count on the brand page) [SOURCED — en.wikipedia.org/wiki/Swiss_Chalet] | Unit count undersells 50+ love. If retention data lets you bend the rules, Swiss Chalet can jump to the 6–8 zone — flag as editorial choice, not data. |
+| 13 | **Harvey's** | ~65 years old, ~300 locations (secondary) [SOURCED — foodserviceandhospitality.com/harveys-celebrates-65-years-of-homegrown-growth/] | The jingle carries it. |
+| 14 | **St-Hubert** | 117 restaurants at the 2016 Cara sale (Radio-Canada) [SOURCED — ici.radio-canada.ca/nouvelle/773343/rotisserie-st-hubert-histoire-leger-restaurant-quebec] | QC-weighted: in Quebec it's top-3 emotional; in the rest of Canada it needs introducing. Position depends on your audience geography — your channel analytics should decide 12–14 ordering. |
+| 15 | **Little Caesars** | "hundreds of stores in Canada, including locations in each of the 10 provinces" [SOURCED — 1851franchise.com/littlecaesarsinternational/little-caesars-pizza-continues-aggressive-international-growth-throughout-canada-2716024] | Deliberately LAST — this is the reference video's anchor chain, but in Canada it's a minor player. Making it the finale inverts the US template and sets up the roll-up segment. |
+
+**Nostalgia/roll-up segment (not ranked; grouped by owner):** Second Cup & Freshii (Foodtastic); Country Style, Mr. Sub, Thai Express (MTY); New York Fries, The Keg, Montana's, East Side Mario's (Recipe/Fairfax); plus independents Mary Brown's (over 280 locations, Feb 2025 — retail-insider.com/retail-insider/2025/02/mary-browns-chicken-accelerates-global-expansion/) and Booster Juice (opened Sherwood Park, AB, Nov 13, 1999; 400+ locations — boosterjuice.com/pages/our-story). The reveal structure: "the chains you grew up with didn't die — they got bought."
+
+---
+
+## 2. FOUNDING STORIES (RETENTION GOLD FOR 50+)
+
+### 2.1 Tim Hortons — the defenceman, the cop, and the crash
+All quotes below [VERBATIM] from The Canadian Encyclopedia (Douglas Hunter, updated June 21, 2024): https://www.thecanadianencyclopedia.ca/en/article/tim-hortons
+
+- **The real Tim Horton:** *"Its namesake, Toronto Maple Leafs defenceman Tim Horton (1930–74), founded the business with Montreal businessman Jim Charade. The first Tim Hortons doughnut franchise opened in Hamilton, Ontario, in May 1964."* Note the wrinkle most viewers don't know: co-founder Jim Charade, not Ron Joyce — *"Intimidated by competition in Toronto, Charade set up the first Tim Horton doughnut franchise on Ottawa Street North in the industrial east end of Hamilton... Opened in May 1964, the outlet remains in operation today."*
+- **Ron Joyce enters:** *"The third franchisee at the troubled Hamilton franchise was a Hamilton police officer named Ron Joyce, who lived nearby. Joyce had been running a Dairy Queen on the side and was looking to expand his restaurant interests."* He became Horton's equal partner in December 1966 for $12,000.
+- **Horton's death (handle exactly this way — factual, respectful, no speculation):** *"Horton was driving himself back to Buffalo after a game against the Maple Leafs when he lost control of the car in a high-speed, single-vehicle crash in St. Catharines in the early hours of 21 February 1974."* TCE adds, soberly: *"An autopsy revealed he had been drinking. Horton had struggled with alcohol in the past and had sought counselling."* And the human note: *"His father had died a few weeks before the crash and the loss may have affected him more than people knew. Horton had just turned 44."* The car was a De Tomaso Pantera — his signing bonus from the Sabres. There were 35 outlets when he died.
+- **Joyce builds the empire:** *"In 1975, Joyce proposed to buy her out... Joyce offered her $1 million and the company car, a Cadillac. Lori accepted and Joyce became the sole owner of the company."* (Lori Horton's later lawsuit to undo the sale *"failed in 1993, as did an appeal"* — if you mention it, state the court outcome and nothing more.)
+- **Wendy's era:** *"In 1995, Ron Joyce sold the company in a merger with the American fast-food chain Wendy's."* Then: *"Bowing to shareholder pressure, Wendy's divested its Tim Hortons ownership in 2006... In the process, the company was repatriated to Canada."*
+- **2014:** *"In October 2014, Canada's federal competition bureau approved 3G Capital's takeover."*
+- **The apostrophe (this is REAL, per TCE — great myth-confirmed beat):** *"The chain's signage had also been changed from Tim Horton's (as the chain had come to be known) to the pluralized Tim Hortons. The change was made in order to be standard across the chain while satisfying requirements of Quebec's language law, Bill 101 (Charter of the French Language), for commercial signage."* [VERBATIM] Caution: the commonly cited year "1993" for the change is from secondary sources only (e.g., mashed.com/335439/the-real-reason-tim-hortons-doesnt-have-an-apostrophe/) — say "by the 1990s" unless you verify the date.
+
+### 2.2 McDonald's Canada — George Cohon and the fries that crossed the Iron Curtain
+- **First store — and the "first outside the US" claim is TRUE:** Canada's first McDonald's opened June 1, 1967 in Richmond, BC — CBC's correction note is your cleanest citation: *"Canada's first McDonald's location opened in Richmond, B.C., in 1967."* [VERBATIM] — https://www.cbc.ca/news/business/george-cohon-mcdonalds-obit-1.7040379 . The franchisee was Western entrepreneur **George Tidball** (who later founded The Keg — use this as a connective thread). McDonald's Canada's own history page states 1967 Richmond was the first McDonald's outside the United States. [SOURCED — mcdonalds.com/ca/en-ca/about-us/our-history.html]
+- **Cohon:** CBC obit [VERBATIM]: *"Cohon found out that similar franchisee rights were up for grabs for Ontario — and the rest of Canada east of the province — prompting him to borrow $70,000 to buy them."* And: *"in November 1968, Cohon would open his first McDonald's location in London, Ont."* He was McDonald's Canada chairman/president/CEO until 1992, and *"became a Canadian citizen in 1977."*
+- **To Russia with Fries:** CBC Archives [VERBATIM]: *"On Jan. 31, 1990, Muscovites had begun lining up near Pushkin Square as early as 4 a.m. — to enter the doors of the first McDonald's restaurant to open in the Soviet Union."* And: *"At the end of the day, 30,000 new customers had passed through the doors, and the store had set a McDonald's record for most customers served on an opening day."* — https://www.cbc.ca/archives/first-mcdonalds-moscow-1990-1.4980247 . Cohon's 1997 autobiography is literally titled *To Russia with Fries*; CBC quotes it: *"In Moscow, we had explored all sorts of meat plants and dairies and bakeries and found that they weren't up to our standards... The simplest things became logistical headaches."* [VERBATIM via CBC obit]
+- **McHappy Day / Ronald McDonald House:** CBC obit [VERBATIM]: *"He also founded Ronald McDonald House Charities Canada in the 1980s."* (For McHappy Day's Canadian launch year, verify on mcdonalds.com/ca before scripting — see UNVERIFIED.)
+
+### 2.3 Subway — the quiet giant
+- First Canadian location: **St. John's, Newfoundland, 1986**. [SOURCED — subway.com/en-ca/aboutus/history; corroborated by CFA: cfa.ca/franchisecanada/subway-iconic-brand/ ("more than 2,800 locations across Canada")]
+- Canada milestone releases: 2,000th Canadian store, then 3,000th (QSR Magazine: qsrmagazine.com/news/subway-canada-hits-milestone-3000th-store/ — page is paywalled/blocked to bots; pull the exact line manually). Current independent count: 3,012 (ScrapeHero, 2026). The claim "most locations of any chain in Canada" is supportable ONLY vs. non-Tim Hortons chains — Tim's ~3,874 beats it. Say: "more locations than McDonald's — second only to Tim Hortons."
+
+### 2.4 A&W — car hops, frosted mugs, and the Burger Family
+- **1956 Winnipeg:** First Canadian A&W drive-in opened 1956 on Portage Avenue, Winnipeg. [SOURCED — en.wikipedia.org/wiki/A%26W_(Canada); corroborated widely] Winnipeg architect/columnist Brent Bellamy: *"The first A&W restaurant in Canada opened in 1956 on Portage Avenue in Winnipeg (across from Polo Park). 12 years before Canada's first McDonald's. There is still one there."* [VERBATIM tweet — x.com/brent_bellamy/status/1355290093532053506 — attribute to him, and note his "12 years" is measured against Cohon's Eastern operation, not Richmond 1967]
+- **The Burger Family (pure 50+ gold):** Papa, Mama, Teen and Baby Burger — introduced in the 1960s, retired, then *"In the 1990s, the company reintroduced the Burger Family lineup, which had been gone since the 1960s."* [SOURCED — en.wikipedia.org/wiki/The_Burger_Family and en.wikipedia.org/wiki/A%26W_(Canada)] Canada later added the Grandpa Burger (and Uncle/Grandma variants) — a Canada-only extension of the family.
+- **1972 split from the US company:** In 1972 the Canadian operation was acquired by Unilever, separating it permanently from the US chain; in 1995 *"the senior managers of A&W bought the chain from Unilever."* [SOURCED — en.wikipedia.org/wiki/A%26W_(Canada)] This is why Canadian A&W is a completely different company from US A&W — a perfect fit for the episode's ownership theme, and the rare case where the "American" brand became genuinely Canadian-owned.
+- **Scale:** "over 1,050+ restaurants... proudly Canadian" per A&W materials; 1,029 franchises and #2 burger chain after McDonald's per Wikipedia (2022). [SOURCED]
+
+### 2.5 Swiss Chalet (1954) & Harvey's (1959) — the Recipe twins
+- **Swiss Chalet, verbatim from the company:** *"The first Swiss Chalet® restaurant opened at 234 Bloor Street West in Toronto in 1954"*; *"Our founder was inspired by the Swiss method of cooking chickens, roasting chickens on a spit over an open flame."*; *"Our top-secret Chalet Sauce recipe was born, and quickly became a Canadian favourite!"* [VERBATIM — swisschalet.com/en/about/our-story.html] BlogTO's history piece adds the founder name (Maurice Mauran) and the Heidi-chalet decor — see UNVERIFIED for the founder-name tangle. Swiss Chalet FAQ confirms 1954 opening. [SOURCED — swisschalet.com/en/faq]
+- **Harvey's, verbatim from the company:** *"Richard Mauran set out to create an elevated fast-food burger restaurant"* leading to *"the first Harvey's restaurant in Richmond Hill, Ontario. With that, Harvey's was born!"* And the topping ritual, in Harvey's own words: *"For 65 years, our guests have topped their burgers just how they love them, because we know we don't make the best burgers - you do."* [VERBATIM — harveys.ca/en/about.html] Wikipedia adds: first location opened April 1, 1959 at Yonge St. and Observatory Lane, co-founded by George B. Sukornyk and Rick Mauran. [SOURCED — en.wikipedia.org/wiki/Harvey%27s]
+- **The jingle:** "Harvey's makes your hamburger a beautiful thing" was penned by ad-agency chairman Doug Linton and ran through most of the 1980s. [SOURCED — theglobeandmail.com/report-on-business/harveys-ad-shop-axed-after-20-years/article18289534/ ; strategyonline.ca/2023/09/05/how-to-make-your-slogan-a-beautiful-thing/]
+- **How they both ended up at Cara/Recipe:** Recipe's own timeline: *"CARA purchases Foodcorp Limited including Swiss Chalet and Harvey's"* (1977), and *"CARA becomes Recipe Unlimited Corporation"* (2018). [VERBATIM — recipeunlimited.com/en/about/timeline.html]
+
+### 2.6 Pizza Pizza — 967-11-11
+- Michael Overs opened the first Pizza Pizza at Parliament & Wellesley (68 Wellesley St. E.), Toronto, on **New Year's Eve 1967**; the original store still operates. [SOURCED — cfa.ca/franchisecanada/iconic-brand-pizza-pizza/ ; torontojourney416.com/pizza-pizza/] The jingle: "nine-six-seven, eleven-eleven — call Pizza Pizza, hey hey hey!" — an Ontario earworm; Overs also pioneered early insulated delivery bags. [SOURCED — same]
+- Overs died in 2010 at 70; obituaries credit him with building the chain from that single Cabbagetown storefront. [SOURCED — en.wikipedia.org/wiki/Michael_Overs]
+- Pizza 73 (Edmonton-based) was acquired July 24, 2007 for $70.25M. [SOURCED — pmq.com/pizza-pizza-limited-and-pizza-pizza-royalty-income-fund-complete-pizza-73-acquisition/]
+
+### 2.7 Boston Pizza — the Greek immigrant, the Mountie, and the accountant
+All [VERBATIM] from Boston Pizza's own company-history PDF (bostonpizza.com/content/dam/bostonpizza/about-us/media-kit/boston-pizza-company-history.pdf):
+- *"Started in Edmonton, Alberta in 1964 when Greek immigrant Gus Agioritis opened Boston Pizza and Spaghetti House, the concept quickly grew in popularity and a franchise was born."*
+- *"One of the first franchisees was former R.C.M.P. officer, Jim Treliving, who opened the doors to his first restaurant in Penticton, British Columbia in 1968. It was through this franchise that he met chartered accountant George Melville."*
+- *"In 1983, Treliving and Melville purchased Boston Pizza International Inc. (BPI)... of 44 restaurants from then owner Ron Coyle."*
+- *"...has made Boston Pizza Canada's number one casual dining brand, with more than 365 restaurants from coast to coast."*
+- 50+ hook: Treliving became a household face via CBC's Dragons' Den.
+
+### 2.8 St-Hubert — the yellow Beetles
+All [VERBATIM] from St-Hubert's official history page (st-hubert.com/en/about/history.html):
+- *"On September 25, Hélène and René Léger make their dream a reality and open the first St-Hubert rotisserie at 6355 Saint-Hubert Street"* (1951).
+- *"Free home delivery service is offered—a first in Canada! Montrealers are introduced to the fleet of yellow Beetles."* (1952) — this is your yellow-delivery-car nostalgia beat, straight from the company.
+- *"Groupe St-Hubert joins the big RECIPE family (formerly CARA)."* (2016). Radio-Canada reported the sale at $537M with 117 restaurants. [SOURCED — ici.radio-canada.ca/nouvelle/773343/] The name came from the street, which itself honours St. Hubert — and note co-founder Hélène Léger makes this one of Canada's great woman-led restaurant stories (Caribou magazine: cariboumag.com/articles/rotisserie-st-hubert-pionniere-en-affaires/).
+
+### 2.9 Dairy Queen — Saskatchewan first
+- CBC News (June 13, 2015) [VERBATIM]: *"Back in Saskatchewan, Don Patrick was putting a Dairy Queen store into his quick-freeze plant in Melville."* and franchisee Jim Penny — *"He was the second to open a DQ store in the province — June 10. 1954 in Estevan."* Penny's quote is beautiful for 50+: *"It put our children through university, and ultimately my grandchildren through university. It bought houses."* [VERBATIM] — https://www.cbc.ca/news/canada/saskatoon/dairy-queen-marks-75-years-in-business-more-than-60-years-in-sask-1.3112277
+- Date nuance: Wikipedia says the Melville quick-freeze-plant location dates to 1952, with 1953 commonly cited for the first standalone store — script it as "the early 1950s, starting in Melville, Saskatchewan" to stay safe. [SOURCED — en.wikipedia.org/wiki/Dairy_Queen]
+
+### 2.10 KFC in Canada — early, but "first international" is murky (see UNVERIFIED)
+Confirmed: KFC was in Canada very early — by the early 1960s Colonel Sanders had ~600 franchise outlets across the US **and Canada**, and Canada was among KFC's first markets outside the US. [SOURCED — en.wikipedia.org/wiki/KFC] A commonly repeated 1955 Saskatoon "first Canadian location" claim exists but is not solidly documented — do not present a specific city/year as fact (details in §7).
+
+### 2.11 Country Style (1963) & Second Cup (1975) — the coffee war Tim's won
+- **Country Style:** founded 1963 in Toronto; grew to ~50 Ontario locations by 1974; now a wholly owned MTY Food Group subsidiary. [SOURCED — countrystyle.com/about/ and en.wikipedia.org/wiki/Country_Style] The Wikipedia claim that it was Canada's largest coffee chain until Tim Hortons passed it in the mid-1970s is plausible but secondary — attribute or soften ("one of the biggest doughnut chains of the era").
+- **Second Cup:** founded 1975 in Toronto by Frank O'Dea and Tom Culligan. [SOURCED — en.wikipedia.org/wiki/Frank_O%27Dea ; long-read: thewalrus.ca/second-cup-coffee-canada/] O'Dea's personal arc — he has publicly told the story of going from panhandling to co-founding Second Cup — is inspirational material 50+ viewers may remember from his speaking career; source it to his own memoir/interviews if used. End state: sold to Foodtastic, completed April 26, 2021 (211 cafés at the time). [SOURCED — newswire.ca/news-releases/aegis-brands-completes-sale-of-second-cup-coffee-co-to-foodtastic-822079361.html]
+- The narrative: two Toronto-born coffee chains that predate or parallel Tim's expansion — both now subsidiaries inside Montreal roll-ups. That's the episode thesis in miniature.
+
+### 2.12 Mary Brown's (1969) & Booster Juice (1999) — the independents
+- **Mary Brown's:** founded St. John's, NL, 1969 — Pat Tarrant and Cyril Fleming opened Canada's first Golden Skillet franchise at the Avalon Mall, later renamed after Mary Brown Guthrie. [SOURCED — en.wikipedia.org/wiki/Mary_Brown%27s ; company: marybrowns.com/about-us/] Over 280 Canadian locations as of Feb 2025, still Canadian-owned; St. John's arena renamed the Mary Brown's Centre in 2021. [SOURCED — retail-insider.com/retail-insider/2025/02/ ; wattagnet.com/home/article/15534500/]
+- **Booster Juice:** first store opened Sherwood Park, Alberta (Edmonton area), November 13, 1999, founded by Dale Wishewan; company says it set a Canadian record with 50 stores in its first two years; 400+ locations. [SOURCED — boosterjuice.com/pages/our-story ; newswire.ca "JUST LIKE THAT, A QUARTER CENTURY HAS PASSED BY FOR BOOSTER JUICE"]
+
+### 2.13 Little Caesars / Domino's / Wendy's Canada (brief)
+- **Little Caesars:** opened its first international store in Canada in 1969, ten years after founding. [SOURCED — 1851franchise.com, pizzahalloffame.com/little-caesars/]
+- **Domino's:** *"On May 12, 1983, Domino's opened its first international store, in Winnipeg, Manitoba"* [SOURCED quote via Domino's Canada's own Facebook post — facebook.com/DominosCanada/posts/10150179860619983 ; corroborated by newswire.ca 400th-store release]. Canada was Domino's first step to 17,000+ stores worldwide.
+- **Wendy's:** *"Wendy's brought the fresh beef to Canada when it opened the first international Wendy's restaurant in Hamilton, Ontario, Canada in September of 1975."* [VERBATIM — wendys.com/blog/wendys-celebrates-50-fresh-years-canada, May 20, 2025] Hamilton: birthplace of both Tim Hortons AND international Wendy's — and the two merged in 1995. That's a tidy on-screen coincidence.
+- Also connective tissue: **The Keg** was founded in 1971 in North Vancouver as "The Keg 'n Cleaver" by George Tidball — the same man who brought McDonald's to Canada in 1967. [SOURCED — nsnews.com/in-the-community/a-visionary-and-cowboy-... ; thekeg.com/en/our-story] Now owned by Recipe/Fairfax (Recipe timeline: *"CARA merges with The Keg Restaurants Ltd."*, 2018 [VERBATIM]).
+- **Mr. Sub:** founded 1968 at 130 Yorkville Ave., Toronto, by Jack Levinson and Earl Linzon — Canada had a homegrown sub chain 18 years before Subway arrived; acquired by MTY in 2011 for $23M. [SOURCED — en.wikipedia.org/wiki/Mr._Sub ; blogto.com/eat_drink/2015/03/that_time_when_mr_sub_captured_our_hearts_with_hoagies/]
+- **New York Fries:** launched 1984 at Scarborough Town Centre by brothers Jay and Hal Gould; acquired by Cara, completed Nov 2, 2015. [SOURCED — recipeunlimited.investorroom.com/2015-11-02-Cara-Operations-Limited-completes-acquisition-of-New-York-Fries]
+- **Thai Express:** founded 1999 in Montreal; MTY brand. [SOURCED — en.wikipedia.org/wiki/Thai_Express] **Montana's:** founded 1995, first restaurant Oakville, ON. [SOURCED — montanas.ca/en/ourstory.html] **East Side Mario's:** first Canadian location London, ON (concept originated 1987 in Florida); came into Cara via the 2013 Prime Restaurants deal — Recipe timeline: *"An agreement with Fairfax Financial Holdings makes Prime Restaurants a subsidiary of CARA, bringing East Side Mario's, Bier Markt, Prime Pubs and Casey's into the organization."* [VERBATIM — recipeunlimited.com/en/about/timeline.html]
+
+---
+
+## 3. NOSTALGIA & CULTURE (50+ PAYLOAD)
+
+### 3.1 Roll Up the Rim (1986)
+- Launched 1986; per QSR Magazine's history, it was created as a spring sales driver and a "thank you" to guests, and the top prize in year one was a Timbits snack pack. [SOURCED — qsrmagazine.com/news/win-tim-hortons-just-roll-rim/ ; corroborated by mashed.com/371873/] Rrroll-up wording and the rolled-trilled-R delivery are from the ad campaigns themselves (see the 1998 spot in §3.6).
+- TCE context [VERBATIM]: *"Its annual Roll Up the Rim contest also was becoming increasingly expensive as it contended with increased competition from McDonald's."*
+- Physical rims went digital in 2020 (pandemic-era) and Tim Hortons announced the physical roll-up's permanent return for the contest's 40th anniversary (2025-26 coverage). [SOURCED — am800cklw.com/news/tim-hortons-says-roll-up-the-rim-is-back-for-good-this-time]
+
+### 3.2 The double-double enters the dictionary (2004 — CONFIRMED)
+CBC Arts, July 5, 2004 [VERBATIM]: *"'Double-double,' 'stagette' and 'goal suck' are among the 5,000 new words and definitions added to the Canadian Oxford Dictionary."* Editor-in-chief Katherine Barber on verifying it: *"We had to determine if it was used only in Tim Hortons doughnut shops or more widely... We found evidence in the Globe and Mail, the National Post, the Hamilton Spectator and the book Men with Brooms, based on the curling movie."* [VERBATIM] Researchers were literally *"sent to eavesdrop in coffee shops."* Second edition, official publication Aug 10, 2004. — https://www.cbc.ca/news/entertainment/double-double-now-you-can-look-it-up-1.511522
+
+### 3.3 Timbits hockey
+- TCE [VERBATIM]: *"Tim Hortons is also widely recognized for its presence in minor sports, sponsoring children's hockey, ringette, lacrosse, soccer, softball and baseball leagues... Among its many alumni are NHL stars Sidney Crosby and Nathan MacKinnon."*
+- Program start: 1982 per Tim Hortons/partner materials (Hockey Canada partnership pages; northwest.ca community page). [SOURCED — hockeycanada.ca/en-ca/news/2018-coach-new-partnership-with-tims] Timbits themselves debuted in 1976 (company timeline — verify exact wording on timhortons.ca before scripting).
+- TCE also grounds the Harper-era mythology: he *"extolled the company as emblematic of Canadian life, a part of family routines of 6 a.m. hockey practices"* [VERBATIM] — and the Kandahar outlet: *"an outlet was established in Kandahar in 2006 for Canadian troops."* [VERBATIM]
+
+### 3.4 A&W Burger Family relaunch, frosted mugs
+- The 1990s reintroduction of the Burger Family, plus retro orange-and-yellow restaurant design aimed at boomers, is documented [SOURCED — en.wikipedia.org/wiki/A%26W_(Canada)]. Root beer in frosted glass mugs and carhop service are core to the 1956-era Winnipeg drive-in memory (see Bellamy tweet + Wikipedia). The Great Root Bear mascot dates to the 1970s Canadian operation — and the 1975 tuba jingle ad is on YouTube (§3.6).
+
+### 3.5 Swiss Chalet sauce packets, Harvey's ritual, St-Hubert Beetles
+- Swiss Chalet sauce: company sells retail "Dipping Sauce Mix" to this day [SOURCED — swisschalet.com/en/grocery-products/sauces-marinades/dipping-sauce-mix.html]; the sauce's cult status is evidenced by the copycat-recipe cottage industry (copykat.com, theblackpeppercorn.com — colour, not citation).
+- Harvey's ritual, in the company's own words: *"our guests have topped their burgers just how they love them"* [VERBATIM — harveys.ca/en/about.html].
+- St-Hubert: *"the fleet of yellow Beetles"* [VERBATIM — st-hubert.com/en/about/history.html].
+
+### 3.6 REAL vintage-ad YouTube links (all verified live via YouTube search, Sept 2026)
+| Ad | Link | Notes/provenance |
+|----|------|------------------|
+| **Pizza Pizza "967-1111" (1985)** | https://www.youtube.com/watch?v=uEXbdWQ-_UI | Retrontario (the gold-standard Ontario TV archive channel), 0:39, ~35k views. The jingle itself. |
+| **Pizza Pizza "What's Your Favourite Number Toronto?" (1985)** | https://www.youtube.com/watch?v=Scu2iHXqLsI | Retrontario, 0:31. |
+| **Tim Hortons "Rrrrroll Up The Rim to Win" (1998)** | https://www.youtube.com/watch?v=SNwGz8vB-_8 | Retrontario, 0:30 — the trilled-R campaign as aired. |
+| **Vintage 1980s Tim Horton commercials compilation** | https://www.youtube.com/watch?v=WxZiT-1FX9E | Retrontario, 3:33, ~35k views — includes 80s-era store footage. |
+| **A&W "The Great Root Bear" (1975)** | https://www.youtube.com/watch?v=PMsQh1KkKsY | Retrontario, 0:31, ~197k views — tuba theme. |
+| **"Let's all go to A&W" jingle (1960s)** | https://www.youtube.com/watch?v=KF_DO6NH8Do | RetroWinnipeg, 1:00, ~176k views — drive-in-era jingle. |
+| **A&W restaurant commercial (1982)** | https://www.youtube.com/watch?v=0JNmzxsvJ6Y | Kevin Noonan upload, 0:32, ~51k views. |
+| **Harvey's "Makes Your Hamburger a Beautiful Thing" (1984)** | https://www.youtube.com/watch?v=yVmD9o_WZ9Y | Grossmobile upload, 0:31 — the Doug Linton jingle in full. |
+| **Harvey's Commercial 1986** | https://www.youtube.com/watch?v=o3rSBBASVFU | Betamax King upload, 0:31, ~13.5k views. |
+| **Swiss Chalet 1980** | https://www.youtube.com/watch?v=cwAfrLZj05s | Retrontario, 0:34. |
+| **Swiss Chalet Half Side Rib Dinner Combo (1991)** | https://www.youtube.com/watch?v=rs4pYdoZhqo | Retrontario, 0:30. |
+| **St-Hubert "Tu nous donnes le goût" (vintage QC ad)** | https://www.youtube.com/watch?v=E17RuT8eTOU | Télé Vintage (Quebec archive channel), 0:31. |
+| **Quebec Ad — St-Hubert** | https://www.youtube.com/watch?v=sFQ6DHWQ7XM | ladyjaye27 upload, 0:31, ~74k views — widely-shared classic QC spot. |
+| **A&W + Mr. Sub radio commercials, 1974** | https://www.youtube.com/watch?v=FzALMHdJPUY | retiredcanadian upload, 1:28 — covers Mr. Sub too. |
+
+Provenance note: Retrontario and RetroWinnipeg are hobbyist tape archives, not rights holders — fine to cite/link and describe, but licensing for in-video clip use must be cleared separately (fair-dealing review recommended).
+
+---
+
+## 4. SCALE DATA SUMMARY (dated, sourced)
+
+- **Tim Hortons:** *"As of September 2023, it operates 3,874 stores across the country and 1,827 stores internationally."* [VERBATIM — TCE]. RBI's FY2024 reporting puts Tim Hortons at 6,043 units worldwide. [SOURCED — rbi.com FY2024 results] So "nearly 4,000 in Canada" is accurate and safely sourced.
+- **The famous coffee stat — use the precise version only:** TCE [VERBATIM]: *"in 2010, its outlets served about 8 of 10 cups of coffee sold by Canadian restaurants."* A Tim Hortons press release version cites NPD Group data for "eight of every ten cups of coffee sold at quick service restaurants in Canada." [SOURCED — newswire.ca/news-releases/tim-hortons-raises-a-cup-to-canadian-coffee-lovers-for-national-coffee-day-510827961.html] **Key caveats for script: (1) it's restaurant/QSR coffee, NOT all coffee in Canada; (2) the underlying data is ~2010s vintage. Say "at its peak, by industry measures…" and attribute to NPD/company.**
+- **StatCan context** (The Daily, March 9, 2026) [VERBATIM]: *"Operating revenue for the food services and drinking places subsector rose 4.8% to $99.6 billion in 2024."* And the era-defining stat: *"Operating revenue at limited-service eating places grew 7.7% to $44.9 billion in 2024, while operating revenue at full-service restaurants increased 1.4% to $44.2 billion."* Plus: *"This marks the first year, apart from 2020 and 2021 during the COVID-19 pandemic, when limited-service establishments generated higher operating revenue than their full-service counterparts."* — https://www150.statcan.gc.ca/n1/daily-quotidien/260309/dq260309a-eng.htm — a perfect "fast food officially overtook sit-down Canada" beat.
+- Per-chain counts: see the table in §1 (each dated and sourced there). Weakest counts (secondary-source only): Swiss Chalet, Harvey's, Little Caesars, Domino's current total — mark on-screen as "approx."
+
+---
+
+## 5. REFERENCE-VIDEO US DEVICES THAT WON'T TRANSLATE (AVOID)
+
+1. **Little Caesars as the anchor/villain.** In the US template it's the emotional core (Hot-N-Ready price outrage). In Canada it's a modest player with a thin cultural footprint; anchoring on it would read as an American video with a maple leaf pasted on. Anchor on Tim Hortons instead — the ownership arc (Hamilton 1964 → Wendy's 1995 → repatriated 2006 → 3G/RBI 2014) IS the story.
+2. **US chain references (Golden Corral, Applebee's, Cracker Barrel, Denny's-style buffet culture).** Golden Corral has no Canadian presence; Applebee's is marginal. The Canadian 50+ equivalents are Swiss Chalet, St-Hubert, The Keg, Boston Pizza, Montana's — substitute, don't translate.
+3. **Fear/decline framing ("chains DISAPPEARING near you," "they don't want you to know").** The Canadian data doesn't support a collapse narrative — StatCan shows the sector growing (+4.8% to $99.6B in 2024). Also, implying misconduct by named companies breaches the house attribution rule. The honest Canadian tension is *ownership consolidation and foreign ownership*, all documented in disclosed deals — that's plenty dramatic.
+4. **US price-politics and seniors-outrage devices (dollar-menu inflation rants, tipping-culture rage, "back in my day it was 99¢" as grievance).** Different currency history, different menu economics; and grievance framing skews the tone away from the channel's nostalgia-warm register. Convert "outrage" beats into "did you know / whatever happened to" beats (e.g., Burger Family, 967-11-11, yellow Beetles).
+5. (Bonus) **Health/diet commentary** appears throughout US seniors-food content — banned outright by house rules here. TCE's controversy paragraphs on calories etc. must NOT be imported.
+
+---
+
+## 6. SUGGESTED NARRATIVE THREADS (free, all sourced above)
+
+- **The Hamilton triangle:** first Tim Hortons (1964) and first international Wendy's (1975) are both Hamilton — and in 1995 Wendy's bought Tim's.
+- **The Tidball thread:** one man, George Tidball, brought McDonald's to Canada (Richmond, 1967) and then founded The Keg (1971) — which is now owned by Recipe/Fairfax, the same group as Swiss Chalet.
+- **Canada as fast-food test market:** first McDonald's outside the US (Richmond, 1967), first Starbucks outside the US (Vancouver SeaBus, 1987), first international Domino's (Winnipeg, 1983), first international Little Caesars (1969), first international Wendy's (Hamilton, 1975). Five verified "Canada got it first" facts — a killer montage.
+- **The Ron Joyce arc for the 50+ audience:** cop → Dairy Queen side-hustler → $12,000 partner → $1M-and-a-Cadillac sole owner → billionaire philanthropist (d. 2019, CBC: cbc.ca/news/canada/nova-scotia/tim-hortons-ron-joyce-died-1.5001820).
+
+---
+
+## 7. UNVERIFIED / DO-NOT-USE (folklore quarantine)
+
+1. **"KFC opened in Canada before anywhere else outside the US" / "first KFC abroad was Saskatoon 1953/1955."** Conflicting dates across low-grade sources; Wikipedia's KFC article documents early-1960s US-and-Canada franchise counts but no verifiable "first international restaurant" date/city. DO NOT state a city or year. Safe version: "Canada was among the very first places outside the US where Colonel Sanders franchised his chicken, back in the 1950s" — attributed to KFC history accounts, hedged.
+2. **"8 out of 10 cups of coffee sold in Canada are Tim Hortons."** The unqualified version is false-by-overreach. Only use the restaurant/QSR-qualified, dated version (§4). The broad version goes in the bin.
+3. **"A&W was Canada's first fast-food chain."** Not supportable — Dairy Queen was in Melville, SK by 1952-53, and others predate 1956. Use A&W's own framing "Canada's original burger chain" AS a company claim, or the verifiable "Canada's first drive-in hamburger chain restaurant, Winnipeg 1956, 11 years before Canada's first McDonald's."
+4. **Tim Hortons apostrophe — the 1993 date.** The Bill 101 connection itself is CONFIRMED by The Canadian Encyclopedia (§2.1) — but the specific year "1993" circulates only in secondary listicles (Mashed etc.). Script "by the early 1990s" or verify against news archives.
+5. **Swiss Chalet founder identity.** BlogTO and Wikipedia name Maurice Mauran (with a 1948 Montreal "Chalet Bar-B-Q" lineage); Harvey's corporate names Richard (Rick) Mauran as its founder; some sources conflate or merge the two Maurans and claim one man founded both chains. Swiss Chalet's own site names no founder. Until reconciled, say "the Mauran family of Montreal restaurateurs" or omit the first name.
+6. **Harvey's site "bought from the owner of a bankrupt Dairy Queen."** Wikipedia-grade detail, no primary source found. Cut or verify in newspaper archives.
+7. **Roll Up the Rim year-one details ("prizes were a bust," exact Timbits snack-pack prize).** Circulates via Mashed/QSR retellings of company lore; the 1986 launch year is safe (multiple outlets + company anniversary materials), the granular year-one prize anecdotes should be verified against Tim Hortons' own newsroom before air.
+8. **"Country Style was Canada's largest coffee chain until Tim Hortons passed it in 1976."** Wikipedia only. Soften to "one of the dominant doughnut chains of 1960s-70s Ontario."
+9. **Tim Horton crash folklore (police pursuit, exact speed, "100 mph").** Speed/pursuit details vary across retellings (Hagerty, blogs). Stick strictly to the TCE wording quoted in §2.1. This is also the segment with the highest duty of care: the man has living descendants; no dramatization, no speculation beyond the TCE/autopsy-reported facts, and frame the alcohol finding exactly as TCE does (with the counselling and grief context TCE provides).
+10. **"Subway has the most restaurant locations in Canada."** False as stated (Tim Hortons has more). Only use the qualified version: more than any chain except Tim Hortons.
+11. **McHappy Day Canadian launch year (often given as 1977 or 1994 depending on definition).** I did not verify a primary source this session — pull from mcdonalds.com/ca newsroom before scripting. The Ronald McDonald House Charities Canada founding "in the 1980s" is CBC-sourced and safe (§2.2).
+12. **Any implication that consolidation (RBI/MTY/Recipe/Foodtastic) involved wrongdoing.** All transactions cited are disclosed, regulator-approved corporate deals (e.g., TCE: the 2014 takeover was *"approved"* by *"Canada's federal competition bureau"*). Tone must stay at "here's who owns what now" — never "they got away with something."
+
+---
+
+**Bottom line for the edit:** open on Tim Hortons with the TCE-sourced Horton/Joyce/apostrophe material, run the §1 order with the "Canada got it first" montage in the middle third, hold Little Caesars for last as the inverted-US-template joke, then land the roll-up reveal (RBI → Recipe/Fairfax → MTY → Foodtastic kicker) using the §0 quotes, and close on the StatCan "fast food overtook sit-down Canada" stat. Every quote marked [VERBATIM] above is safe to put on screen with its URL; everything marked [SOURCED] needs its exact sentence pulled from the cited URL before final script lock.

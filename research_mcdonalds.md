@@ -507,3 +507,296 @@ All figures below are Restaurants Canada's own published numbers (attribute on s
 8. **statbase.org, eatmyindex.com, worldpopulationreview.com, Truflation, bigmacindex.com** Big Mac figures — mirrors/derivatives of varying quality; cite the Economist GitHub dataset directly instead.
 9. **The Narcity price snapshots** ($6.49 Big Mac, 2023; $6.01, Feb 2022) — fine as dated historical colour with on-screen labels, but they are journalist spot-checks of single locations, not surveys; do not chart them against the Economist series as if comparable.
 10. **"First price lock of this kind in over a decade"** (re: the Jan 2026 Canada price promise) — this phrasing appeared in deal-blog coverage; it was not verbatim in the press-release text we captured. Confirm against the full official release before using the "first in a decade" superlative.
+
+---
+
+# PART 3 — THE CANADIAN NOSTALGIA LEDGER AND HISTORY (nostalgia/history agent dossier, verbatim)
+
+---
+
+# CANADIAN NOSTALGIA LEDGER + HISTORY DOSSIER
+## For: "Something Is Seriously Wrong at McDonald's... Canada Is Starting to Notice" — Canadian Counter (50+ audience)
+
+**House rules applied throughout:** No health claims or health-adjacent commentary anywhere in this dossier (one famous 1981 collector-glass safety story was deliberately excluded for this reason). Every usable claim carries a verbatim quote and URL. Discontinuations are stated as documented business facts with dates. Folklore and memory-culture material is quarantined and labelled. The dossier ends with an UNVERIFIED / DO-NOT-USE list. Sources were accessed September 11, 2026.
+
+**Repo overlap note:** The existing `research_chains.md` contains only a one-paragraph McDonald's Canada ownership blurb (subsidiary of McDonald's Corporation, Chicago; first location Richmond 1967). Everything below is new material for this episode.
+
+---
+
+# PART 1 — THE DISCONTINUED-CANADA LEDGER
+
+## 1.1 McPizza — the big one (and the fact-check every other YouTuber gets wrong)
+
+**What it was / when it launched in Canada.** McDonald's tested pizza in the late 1980s and launched it big in Canada in the early 1990s, with a Canadian celebrity fronting the campaign:
+
+> "The McPizza was first launched back in the late 1980s to early 1990s in Canada to increase dinnertime sales."
+> — Daily Hive Dished, "Retrospective: The McDonald's McPizza and who's lovin' it" (Aug 27, 2021) — https://dailyhive.com/vancouver/mcdonalds-mcpizza-retrospective-loved
+
+> "In Canada, the chain launched it around 1992, with Howie Mandel appearing in commercials."
+> — The Retroist, "The History of McPizza and McDonald's Pizza" — https://www.retroist.com/p/history-mcpizza-and-mcdonalds-pizza
+
+The Retroist also documents the family-size table-service version: the pizza was "delivered to the table on a raised rack by a staff member, a genuinely unusual sight" (same URL). The actual 1992 Canadian TV spot survives and is linkable (see Part 3, ad #1 — Howie Mandell McPizza ad, Retrontario).
+
+*Scale claim (use with caution):* blogTO's "The forgotten history of McPizza in Canada" (March 2025 — https://www.blogto.com/eat_drink/2025/03/mcpizza-canada/) reports the 1992 rollout reached 633 locations across Canada, briefly making McDonald's the largest pizza chain in the country. The article returned a 403 during this research session, so I could not capture the sentence verbatim — verify the exact wording on a regular browser before putting the "633 locations / biggest pizza chain in Canada" line on screen. The number is corroborated by an Old Canada Series archival post ("In March 1992, McDonald's launched its line of pizza at 633 locations across Canada…" — https://www.facebook.com/61559119110415/posts/122122110710303970/), but Facebook is not an air-quality source on its own.
+
+**Why and when it died in Canada.** Two independent sources, consistent dates:
+
+> "In January 2000, the McPizza is pulled from the menu because it takes too much time to make."
+> — The Canadian Press 50th-anniversary timeline, "From Big Macs to McLobsters: A look at 50 years of McDonald's in Canada" (2017) — https://www.kelownadailycourier.ca/news/national_news/article_918a72dd-1518-5f14-943c-3f3a61f59bb8.html
+
+> "It took approximately 11 minutes for a McPizza to be prepared, which was the primary factor involved in getting rid of it, as it diminished their reputation for fast service."
+> — Daily Hive Dished (Aug 27, 2021) — https://dailyhive.com/vancouver/mcdonalds-mcpizza-retrospective-loved
+
+The Retroist dates the Canadian wind-down slightly earlier: "Canada held on until about 1999." (https://www.retroist.com/p/history-mcpizza-and-mcdonalds-pizza). Safe on-air phrasing: "pulled across Canada by January 2000."
+
+**THE FACT-CHECK — the famous "last two McDonald's still serving pizza" (2017) were in the UNITED STATES, not Canada.** Get this right on air; many nostalgia videos fudge it. The last two locations were Pomeroy, Ohio and Spencer, West Virginia, and they stopped at the end of August 2017:
+
+> "we will no longer be serving pizza at our locations" — statement from franchise operator Greg Mills; the Pomeroy, Ohio location told Vice "It was a corporate decision."
+> — Vice, "The McPizza Is Officially Dead" (Sept 3, 2017) — https://www.vice.com/en/article/the-mcpizza-is-officially-dead/
+
+> "That ended on August 31, 2017. McDonald's corporate issued a directive to streamline menus, and the pizza was removed."
+> — The Retroist — https://www.retroist.com/p/history-mcpizza-and-mcdonalds-pizza
+
+Local coverage of the final days: WCHS (Charleston, WV), "Pomeroy, Spencer McDonald's locations sell last McPizzas" — https://wchstv.com/news/local/pomeroy-spencer-mcdonalds-locations-sell-last-mcpizzas ; WTAP, "McDonald's quits serving McPizza at 2 remaining restaurants" — https://www.wtap.com/content/news/McDonalds-quits-serving-McPizza-at-2-remaining-restaurants-442493823.html. The two stores had reportedly been the only ones selling it for about 15 years, and fans made road-trip pilgrimages there — a beautiful beat precisely BECAUSE Canadians who wanted one last McPizza had to drive to Appalachia.
+
+**The 2025 Canadian callback (current-day hook):** McDonald's Canada launched a pizza-adjacent item in summer 2025:
+
+> "Starting Tuesday, June 24, 2025, McDonalds will launch _Pizza Bites_, a new snack-sized offering." … "available for a limited time at participating locations in Canada"
+> — Access Winnipeg, "Pizza Coming Back to McDonalds Restaurants in Canada" (June 2025) — https://accesswinnipeg.com/2025/06/pizza-coming-back-to-mcdonalds-restaurants-in-canada/
+
+## 1.2 The Orange Drink — the birthday-party beverage (and a second fact-check)
+
+**What Canadians remember.** The fountain "Orange Drink" (not Fanta, not Crush) and, crucially for the 50+ audience, the McDonald's orange-drink cooler jug that showed up at every Brownies meeting, sports day and community BBQ. Best verbatim colour anywhere is a SmartCanucks community thread — usable on screen as "Canadians remember it like this," clearly labelled as reader comments:
+
+> "I remember for Brownies we'd get the McDonald's red cooler jug with the Orange drink and run around with orange mustaches all day!"
+> "They used to server the delicious orange drink at Sports Day in elementary school." [sic]
+> "Remember when you could rent a huge cooler/container from McDonald's. It was big and brown and had a self-serve tap."
+> "The McDonald's orange drink tasted like nothing else in existence. It was the perfect blend of artificial orange flavour, and awesome fizziness."
+> — reader comments, SmartCanucks, "McDonald's Canada Bring Back The Orange Drink!" (posted Aug 31, 2010) — https://smartcanucks.ca/mcdonalds-canada-bring-back-the-orange-drink/
+
+**When it left Canada.** The documented Canadian date is EARLIER than the famous 2017 story:
+
+> Orange Drink — "Discontinued around 2009" … "Not Fanta and not Orange Crush, something about McDonald's Orange Drink got people hooked"
+> — Daily Hive, "6 items McDonald's Canada discontinued that were actually good" (Feb 13, 2017) — https://dailyhive.com/vancouver/mcdonalds-canada-discontinued-items-2017
+
+The 2010 SmartCanucks thread corroborates the timeline — by August 2010 it was already gone from fountains: "The orange drink is still available in the big cooler thing, but I can't see it coming out of a fountain ever again." (same URL).
+
+**THE FACT-CHECK — the widely-shared 2017 "orange drink is gone" story was AMERICAN.** In 2017 McDonald's USA phased out Hi-C Orange Lavaburst (replaced by Sprite TropicBerry) — that is the story Today, Fortune, etc. covered: Today.com, "McDonald's getting rid of Hi-C Orange drink" (2017) — https://www.today.com/food/mcdonald-s-getting-rid-hi-c-orange-drink-t110932 ; and it returned in the US in 2021: Fortune, "mcdonalds orange drink hi c is back at mcds" (Feb 10, 2021) — https://fortune.com/2021/02/10/mcdonalds-orange-drink-hi-c-is-back-at-mcds/. The brief's premise that CBC/Global/HuffPost Canada covered a ~2017 Canadian removal could NOT be confirmed (see DO-NOT-USE list). On air: Canadian orange drink faded quietly around 2009-2010; the loud 2017 obituary was for the American cousin.
+
+**Current-day callback (2026):** McDonald's Canada now sells a nostalgia-flavoured substitute:
+
+> Orange Dream — "a nostalgic spin on Sprite®, made with an orange cream flavoured syrup and topped with a silky sweet cold foam."
+> — McDonald's Canada product page — https://www.mcdonalds.com/ca/en-ca/product/orange-dream-medium.html
+
+NOW Toronto's taste-test (May 13, 2026) calls it "a creamsicle-inspired soda" — https://nowtoronto.com/culture/mcdonalds-canadas-new-summer-drinks/ — part of the new permanent cold-drink lineup announced in McDonald's Canada's newsroom: https://www.mcdonalds.com/ca/en-ca/newsroom/article/---McDonald-s-Canada-Puts-Beverages-Centre-Stage-with-a-New,-Permanent-Line-up-of-Cold-Drinks.html. Perfect "they're selling the memory back to you" beat — state it neutrally as a product fact.
+
+## 1.3 PlayPlaces / Playlands — a documented trend, not a conspiracy
+
+Handle exactly as the house rules say: no single Canadian "McDonald's kills PlayPlaces" announcement exists; what exists is a documented multi-cause decline plus the 2020 closure.
+
+- History and decline overview: Wikipedia, "PlayPlace" — https://en.wikipedia.org/wiki/PlayPlace ; Reader's Digest, "McDonald's PlayPlaces: This May Be Why You Don't See Them Anymore" — https://www.rd.com/article/mcdonalds-playplaces-disappearing/ ; Parade, "What Happened to the McDonald's PlayPlace? (And Where to Find the Last Few)" — https://parade.com/food/what-happened-to-the-mcdonalds-playplace (these pieces document the trend: removals during 2010s remodels under the "Experience of the Future" redesign push, changing kids' habits, and the pandemic closure). NOTE: RD returned 403 in this session, so pull the exact sentences you want on-screen from the live page before air.
+- The 2020 pivot point is company-documented: when US dining rooms reopened, McDonald's plan kept play areas shut — Fox News, "McDonald's reveals plan for reopening dining rooms, Play Places will remain closed" (2020) — https://www.foxnews.com/food-drink/mcdonalds-reopening-plan-play-places.amp
+- Canadian balance beat (IMPORTANT for fairness): some Canadian locations still build them. SooToday, "Yes, the newly renovated McDonald's has a playland" (Sault Ste. Marie, March 2024) — https://www.sootoday.com/local-news/yes-the-newly-renovated-mcdonalds-has-a-playland-8507097
+
+Recommended on-air framing: "Nobody signed a memo killing the Playland. They disappeared one renovation at a time — and the renovations had a name: Experience of the Future." (Kiosk/table-service sourcing in 1.5.)
+
+## 1.4 In-store birthday parties and the Party Caboose — the strongest 50+ tear-jerker in the file
+
+**The era, in the company's own advertising:** a 1984 Canadian-aired TV spot selling in-store birthday parties survives — Retrontario, "MCDONALDS BIRTHDAY PARTIES (1984)," 31s — https://www.youtube.com/watch?v=sdJz_zBIk7s (details in Part 3). That ad IS the documentation of the era: parties were a promoted, staffed, bookable product.
+
+**The Party Caboose — CBC-documented Canadiana.** Real retired railway cabooses converted into birthday rooms in McDonald's parking lots across Canada. CBC News covered the fate of Charlottetown's:
+
+> "A train caboose many Islanders might remember as a birthday party place at McDonald's in Charlottetown decades ago has found a new life at Elmira Train Museum."
+> "It was used until the 1980s when it was purchased by McDonald's. When the restaurant expanded in 1997 it was donated to the P.E.I. Railway Heritage Association in Kensington, P.E.I."
+> Photo caption: "McDonald's removed the caboose in 1997 to make room for an expansion."
+> — Shane Ross, CBC News, "McDonald's old party caboose finds new life in Elmira" (June 29, 2019) — https://www.cbc.ca/news/canada/prince-edward-island/pei-caboose-elmira-railway-museum-1.5194215
+
+The caboose itself was built in 1912, ran for Grand Trunk then Canadian National from 1923, and is now restored and open to the public at the Elmira Railway Museum (same article) — a ready-made B-roll destination and a perfect "what happened to it" micro-story.
+
+Supporting colour (label as heritage-account thread, not news): illustrator/author Andrew King's widely-shared X thread documents cabooses across Ontario — "The McDonald's Kids Party Caboose. A feature of many McDonald's' across North America in the 1970/80s were real, old railway cabooses converted into birthday party playhouses…" — https://x.com/twitandrewking/status/1897668077589770483. Ottawa Rewind (the same author's blog) covers the two Ottawa cabooses — https://ottawarewind.com/2024/04/.
+
+**No formal "end of birthday parties" announcement exists** — treat the decline as documented-by-absence plus the caboose removals ("Beginning in the 1990s" per the King thread; 1997 in Charlottetown per CBC). Do not invent an end-date.
+
+## 1.5 Self-serve fountains, kiosks and table service — the experience swap
+
+**Self-serve drink stations (post-2020 removal trend):**
+
+> Headline: "McDonald's is getting rid of self-serve soda machines" — CTV News (Sept 12, 2023) — https://www.ctvnews.ca/business/article/mcdonalds-is-getting-rid-of-self-serve-soda-machines/
+
+The stated timeline — phasing out self-service drink stations across the US by 2032 — is documented in US coverage: CBS8/AP, "McDonald's is phasing out self-service drink stations as it aims to remove feature by 2032" — https://www.cbs8.com/article/news/nation-world/mcdonalds-self-service-drink-stations-removal/507-3f912c45-2369-4c70-a57e-b99517932a07. Canadian trade press has tracked the same shift here: CCentral (Convenience Central), "McDonald's slowly phasing out self-serve soft drinks" — https://ccentral.ca/mcdonalds-slowly-phasing-out-self-serve-soft-drinks. On-air caution: the 2032 target is a US-announced plan; describe the Canadian side as "the same behind-the-counter model showing up in Canadian rebuilds" per CCentral, not as a McDonald's Canada dated commitment.
+
+**Kiosks + table service ("Experience of the Future") — Canadian rollout dates:** Global News (March 17, 2016), on the Alberta rollout: the redesign included self-order kiosks, "Create Your Taste" custom burgers, and "dedicated wait staff who will deliver orders from self-order kiosks directly to customers seated at tables," with changes "expected to be in place by the end of 2017," plus Shelly Hansen (Regional VP, Western Canada) quoted: "We're proud of the more than 9,500 people we employ in Alberta who, along with our newest employees, are helping us keep up with the demand as we innovate and deliver an unmatched guest experience." — https://globalnews.ca/news/2582516/mcdonalds-unveils-so-called-restaurant-experience-of-the-future. Company release for Manitoba: "McDonald's Canada Launches Restaurant Experience of the Future across Manitoba" — https://www.newswire.ca/news-releases/mcdonalds-canada-launches-restaurant-experience-of-the-future-across-manitoba-591077291.html
+
+**All-day breakfast Canada — a complete arc in three years:**
+
+Launch (company + CBC, both dated):
+> "McDonald's previously announced plan to offer all-day breakfast started Tuesday, with more than 1,100 locations across Canada serving foods such as hash browns and breakfast sandwiches until closing."
+> "'We're now excited to offer our guests our world famous breakfast whenever they want it,' McDonald's Canada president John Betts said in a release."
+> — Pete Evans, CBC News, "All-day breakfast starts at most McDonald's across Canada" (Feb 21, 2017) — https://www.cbc.ca/news/business/mcdonalds-breakfast-1.3991977
+Company release: "Get Egg-Cited! McDonald's Canada is launching All-Day Breakfast Nationwide" — https://www.newswire.ca/news-releases/get-egg-cited-mcdonalds-canada-is-launching-all-day-breakfast-nationwide-611842455.html
+
+End: pulled in March 2020 "to simplify operations" during the pandemic and never restored (Fortune, March 26, 2020 — https://fortune.com/2020/03/26/mcdonalds-coronavirus-all-day-breakfast). The oft-quoted spokesperson line — "We removed All Day Breakfast from the menu to simplify operations in our kitchens, which we saw provided better speed of service and order accuracy" — is a McDonald's USA statement (via https://www.thedailymeal.com/1129342/can-you-still-find-mcdonalds-all-day-breakfast/); label it as such. Canada today: breakfast ends 10:30/11:00 a.m. per the official menu page — https://www.mcdonalds.com/ca/en-ca/full-menu/breakfast.html. Clean on-air line: "It launched here February 21, 2017. It quietly died in the spring of 2020. It never came back."
+
+## 1.6 McLobster — Atlantic Canada's seasonal legend (with an on-record death certificate)
+
+> "There will be no lobster rolls at McDonald's this year. The McLobster had been an annual staple on the menu at east coast restaurants during the summer lobster season. 'Unfortunately, we will not be serving McLobster as part of our menu across Atlantic Canada,' said Adam Grachnik of McDonald's, in an email to CBC News. 'The increased price of lobster per pound means that we are currently unable to offer this menu item at a reasonable price for our guests.'"
+> — Kevin Yarr & Steve Bruce, CBC News, "Feeling the pinch: McLobster pushed out of the market by high prices" (June 6, 2017) — https://www.cbc.ca/news/canada/prince-edward-island/pei-mclobster-1.4147829
+
+Context from the same CBC piece: PEI fishermen were getting $6.00–$7.50/lb, "the highest [the P.E.I. Seafood Processors Association] has ever seen." Bonus era document: in 2013 McDonald's Canada proudly EXPANDED it — company release "McDonald's Canada is on a (lobster) roll this summer" — https://www.newswire.ca/news-releases/mcdonalds-canada-is-on-a-lobster-roll-this-summer-512750241.html. Arc: promoted in 2013, priced off the menu by 2017 — a rare discontinuation where the company said the quiet part (input costs) out loud.
+
+## 1.7 Poutine — the thing Canada GAINED (balance beat, dated)
+
+> Release date Dec 4, 2013. "We're thrilled to offer a McDonald's favourite in Quebec to our customers across Canada," said Anne Parks, director of Menu Management, McDonald's Canada. Description: World Famous Fries "topped with real Quebec cheese curds and gravy," "Starting at $3.99 plus tax," after more than a decade Quebec-only.
+> — McDonald's Canada / CNW, "McDonald's Canada asks: 'Would You like Poutine with that?'" — https://www.newswire.ca/news-releases/mcdonalds-canada-asks-would-you-like-poutine-with-that-513371771.html
+> CBC coverage: "McDonald's poutine hitting menus across Canada" (Dec 2013) — https://www.cbc.ca/news/business/mcdonald-s-poutine-hitting-menus-across-canada-1.2454323
+
+Use this to keep the "balance" section honest: the ledger isn't all losses — poutine went national in 2013 and remains Canada-only. Note the price for the price section: $3.99 in 2013.
+
+## 1.8 Smaller ledger entries (one-liners, all from Daily Hive's dated 2017 list)
+
+From Daily Hive, "6 items McDonald's Canada discontinued that were actually good" (Feb 13, 2017) — https://dailyhive.com/vancouver/mcdonalds-canada-discontinued-items-2017 :
+- **Fried Apple Pies** — "For those who loved McDonald's Fried Apple Pies, it's hard to be entirely content with the present-day baked variety."
+- **McHotDog** — sold at the Toronto Metro Zoo and SkyDome until 1999 (SkyDome hot-dog experiment from 1989 also noted on Wikipedia's McDonald's Canada page — https://en.wikipedia.org/wiki/McDonald%27s_Canada).
+- **Arctic Orange Shake** — "A combo of reduced-fat, vanilla ice cream, Arctic orange syrup, whipped topping, and maraschino cherry."
+- **Cinnamon Melts** — "These mini, sugary, bundles of joy have been discontinued from the McDonald's menu in Canada for about two years" (i.e., ~2015).
+
+---
+
+# PART 2 — PRICE NOSTALGIA (dated and sourced)
+
+## 2.1 1967: Canada's first McDonald's, Richmond BC — the 18-cent hamburger
+
+> "This McDonald's was the first to open outside the United States on June 1, 1967." … "customers lined up to order 18-cent hamburgers at the small drive-in" (a "small drive-in and walk-up business with two take-out windows"; "The original restaurant at this site was a reproduction of the hundreds of similar futurist-style McDonald's drive-ins that could be found across the United States.")
+> — Richmond Museum, "First McDonald's in Canada" — https://www.richmondmuseum.ca/locations/first-mcdonalds-in-canada/
+
+Who opened it: "George Tidball opens the first McDonald's outside America in Richmond, B.C., at the intersection of Granville Avenue and No. 3 Road." — Canadian Press timeline — https://www.kelownadailycourier.ca/news/national_news/article_918a72dd-1518-5f14-943c-3f3a61f59bb8.html. Tidball backstory (bought Western Canada rights for a $50,000 down payment; opened 32 stores; later founded The Keg): Langley Advance Times obituary — https://www.langleyadvancetimes.com/news/friends-and-family-remember-george-tidball-2462732
+
+**Anniversary math for the thumbnail:** 1967 hamburger = 18 cents. The 50th-anniversary promo price = 67 cents. Today's price = whatever your price-section agent documents. Three numbers, one product, one country.
+
+*Caution:* Richmond Sentinel (Feb 28, 2025 — https://www.richmondsentinel.ca/article-detail/54524/canadas-first-mcdonalds-restaurant) describes memorabilia showing "the Big Mac (listed at $.65), alongside $.26 French Fries and Apple Pies" — but the Big Mac didn't exist until 1968, so that menu board is early-1970s-era, not opening-day. Don't caption it "1967 prices."
+
+## 2.2 2017: the 67-cent birthday hamburger (McDonald's Canada's own nostalgia play)
+
+> "McDonald's Canada will be selling hamburgers for 67 cents this Wednesday to celebrate the opening of its first restaurant 50 years ago. … limited to three per customer … The fast-food chain serves nearly three million customers in Canada every day."
+> — CBC News, "McDonald's Canada marking 50th birthday with 67-cent hamburgers" (Aug 14, 2017) — https://www.cbc.ca/news/business/mcdonalds-canada-birthday-hamburgers-1.4246955
+
+> "It's amazing to think that a single BC location that started in 1967 has grown to over 1,400 restaurants across Canada," said John Betts, President and CEO, McDonald's Canada. (Promotion: Aug 16, 2017, 11 a.m.–7 p.m., "in recognition of its 1967 birthday.")
+> — McDonald's Canada / CNW, "Get ready Canada: 67¢ McDonald's hamburgers on August 16th" (Aug 14, 2017) — https://www.newswire.ca/news-releases/get-ready-canada-67-mcdonalds-hamburgers-on-august-16th-640276583.html
+
+## 2.3 2006: the $1.39 "Value Picks" menu
+
+The Globe and Mail reported the launch on April 24, 2006: "McDonald's launches 'Value Picks' menu today" — bacon cheeseburgers, small fries and Sausage McMuffins at $1.39, across ~1,400 Canadian locations, positioned against Wendy's Super Value Menu — https://www.theglobeandmail.com/report-on-business/mcdonalds-launches-value-picks-menu-today/article707650/. (Globe is paywalled; the headline and date are the citable anchor — pull exact body wording through a library archive before putting a full sentence on screen.) The brief's "$1.39 value picks" memory is REAL but it is 2006, not the 1990s.
+
+## 2.4 The value-menu descent: Value Picks → McPicks → McValue
+
+- **McPicks era:** Trend Hunter documented the McPicks value menu launch ("Low-Cost QSR Value Menus: The McDonald's Canada McPicks") — https://www.trendhunter.com/trends/mcpicks-value-menu. By January 2023 the tiers ran $1.79–$3.19 (per menu-tracking sites, secondary quality — verify current wording).
+- **2026:** the official rebrand: "McDonald's Canada Unveils 'McValue® Menu' and Exciting New Menu Items" — $5 Meals and $1 Coffee "locked in for 12 months" — https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Unveils--McValue--Menu--and-Exciting-New-Menu-Items.html ; CP24 segment: https://www.cp24.com/video/2026/01/13/mcdonalds-canada-mcvalue-menu/
+- **Dollar Drink Days → Summer Drink Days:** the beloved any-size-$1 summer pop promo now covers small only: NOW Toronto (May 13, 2026) — "its iconic $1 (plus tax) small fountain drinks and iced coffee, which returns on May 19." — https://nowtoronto.com/culture/mcdonalds-canadas-new-summer-drinks/. The any-size-to-small shrink is a clean, documentable "the deal got smaller" beat (RedFlagDeals threads chronicle the community reaction: https://forums.redflagdeals.com/tags/dollar%20drink%20days/ — label as forum sentiment, not fact source).
+
+## 2.5 Archival 1970s–80s Canadian ad prices
+
+The Retrontario/RetroWinnipeg spots in Part 3 contain on-screen prices in several cases (e.g., the 1990 Value Menu ad). Screenshot prices directly from those ads and cite the ad itself — that is airtight sourcing ("this is a McDonald's ad as it aired on Canadian TV in 1990"). No reliable text source for a full 1970s Canadian menu price list was found — see DO-NOT-USE.
+
+---
+
+# PART 3 — VINTAGE CANADIAN McDONALD'S TV ADS ON YOUTUBE (real, live links)
+
+All links returned by live YouTube search September 11, 2026; ad #1 additionally verified by metadata pull. **Retrontario** is the well-known archive of Toronto/Ontario broadcast tape — its clips are ads as they actually aired on Ontario television (a mix of Canadian-made spots and US network spots that ran in Canadian markets). **RetroWinnipeg** is the Winnipeg equivalent. For rights: these are archival off-air recordings — use short clips under fair-dealing commentary as per your usual practice.
+
+1. **McDonalds MCPIZZA [Howie Mandell] (1993)** — Retrontario — 31s — https://www.youtube.com/watch?v=ieEUS0m7_HY — The Canadian McPizza campaign spot fronted by Howie Mandel. Verified live (4,515 views; uploaded June 11, 2025). THE centrepiece clip for the McPizza segment.
+2. **MCDONALDS BIRTHDAY PARTIES (1984)** — Retrontario — 31s — https://www.youtube.com/watch?v=sdJz_zBIk7s — In-store birthday party promo as aired in Ontario; primary-source proof of the party era. (~8,500 views.)
+3. **McDonalds Menu Song 1989** — Retrontario — 31s — https://www.youtube.com/watch?v=votLu2X3DBI — The rapid-fire full-menu jingle; instant 50+ recognition. (~64,500 views.)
+4. **Winnipeg — McHappy Day with Laurie Mustard & Morris Lukowich (1984)** — RetroWinnipeg — 31s — https://www.youtube.com/watch?v=o6rBwgORF1Q — Local McHappy Day spot with Winnipeg Jets winger Morris Lukowich; proves McHappy Day's local-celebrity tradition. (~3,500 views.)
+5. **Peter Gross McDonalds McHappy Day (1984)** — Retrontario — 3:34 — https://www.youtube.com/watch?v=bpoZVZvFs7U — Toronto CityPulse news segment covering McHappy Day 1984; news footage, not an ad — ideal documentary B-roll. (~1,300 views.)
+6. **McDonalds Super Crew (1990)** — Retrontario — 31s — https://www.youtube.com/watch?v=5NV4jXG4AOI — Crew-recruitment spot; the era when McDonald's was every Canadian teen's first job. (~1,800 views.)
+7. **Play Atari at McDonalds 1982** — Retrontario — 39s — https://www.youtube.com/watch?v=4fqX1CJ8Qc4 — In-store Atari promotion; strong "the restaurant used to be a destination" beat. (~2,300 views.)
+8. **McDonaldland Cheeseburger Chase 1987** — Retrontario — 31s — https://www.youtube.com/watch?v=F5uI3s64uM8 — Full McDonaldland cast (Ronald, Hamburglar, Grimace) as aired in Ontario. (~221,000 views — the archive's biggest McDonald's clip.)
+9. **McDonalds NEW Chicken McNuggets "They're Here!" 1983** — Retrontario — 31s — https://www.youtube.com/watch?v=sy399X7fx7A — McNuggets launch-era spot. (~75,800 views.)
+10. **McDonalds Christmas Gift Certificates (1986)** — Retrontario — 31s — https://www.youtube.com/watch?v=TjxnaY0B0WA — The stocking-stuffer gift-certificate books. (~2,400 views.)
+11. **McDonald's Canada Value Menu Commercial 1990** — Nostalgia Canadiana — 31s — https://www.youtube.com/watch?v=gscUIFuaNQQ — Explicitly Canadian value-menu spot with era pricing on screen; screenshot for the price section. (~360 views.)
+12. **McDonalds McMillions Expo 1986** — Retrontario — 31s — https://www.youtube.com/watch?v=6nFzLy3zL-o — Expo 86 tie-in contest ad; uniquely Canadian moment (Vancouver world's fair). (~3,400 views.)
+13. **McDonald's McHappy Day — "Families"** — McDonald's Canada (official channel) — 1:50 — https://www.youtube.com/watch?v=fwPiaWYIQO8 — The company's own McHappy Day film (~1.17M views); useful as the "what McHappy Day means" modern contrast.
+14. **70's Ads: McDonald's You Deserve A Break Today 1971** — PhakeNam — 1:01 — https://www.youtube.com/watch?v=0fp3co77MQw — The original campaign spot (~118,700 views). LABEL CAREFULLY: this is the US-produced national campaign; the jingle ran in Canada too, but this upload is not verified as a Canadian airing. A confirmed Canadian-airing copy was not found — see DO-NOT-USE.
+15. **McDonalds Breakfast (1984)** — Retrontario — 31s — https://www.youtube.com/watch?v=LRMXeRiSqOE — Breakfast-era spot for the all-day-breakfast arc bookend. (~17,000 views.)
+
+**Not found despite targeted searching:** a vintage Canadian ad with the Orange Drink cooler/jug visible, and a 1970s McHappy Day Canadian TV spot. Don't claim them; the SmartCanucks memories + the 1984 McHappy news segment carry those beats instead.
+
+---
+
+# PART 4 — CULTURAL HISTORY BEATS (new material; light-touch)
+
+## 4.1 McHappy Day — born in Canada, 1977 (with a numbering wrinkle to avoid)
+
+> "This year marks the 20th McHappy Day, which has raised more than $38 million for children's charities since its inception in 1977."
+> George Cohon, Founder of McDonald's Canada: "McHappy Day represents a dream come to life. This special day began as a vision of people coming together for an important cause."
+> — McDonald's Canada / CNW, "McDonald's Canada celebrates milestone with 20th McHappy Day" (May 8, 2013) — https://www.newswire.ca/news-releases/mcdonalds-canada-celebrates-milestone-with-20th-mchappy-day-512385081.html
+
+RMHC Canada's partner page states McHappy Day was established in 1977 by Cohon and that it was "first celebrated in Canada" before going worldwide — https://www.ronaldmcdonaldhouse.ca/en/ways-to-support/mcdonalds-our-forever-partner (page blocked automated access in this session; confirm exact wording in a browser). **Wrinkle:** company releases number the event inconsistently (2013 = "20th," 2021 = "27th" — https://www.mcdonalds.com/ca/en-ca/newsroom/article/2021/today-mcdonalds-canada-celebrates-its-27th-mchappy-dayr.html — implying an annual count from ~1994/95, even while the same materials say "since its inception in 1977"). Safe line: "McHappy Day began in Canada in 1977 — a Canadian invention that went global." Avoid "the 47th annual."
+
+## 4.2 Ronald McDonald House Canada — Toronto, April 1981
+
+RMH Toronto's own 40th-anniversary history records that the first Canadian House opened in April 1981 at 365 Dundas Street West with 19 bedrooms, after McDonald's of Canada flew Toronto parents to see the Philadelphia-inspired Chicago House in 1975 — "40 years of keeping families together," Ronald McDonald House Toronto — http://ronaldmcdonaldhousetoronto.ca/news-stories/40-years-of-keeping-families-together/. The 2011 rebuild made Toronto's the largest Ronald McDonald House in the world at the time (Government of Canada archive, PM event, Dec 2011 — https://www.canada.ca/en/news/archive/2011/12/ronald-mcdonald-house-toronto.html). Today there are Houses across Canada; per RMHC/company materials McHappy Day has raised over $100 million for Canadian children's charities since 1977 (verify current figure on the RMHC page before air).
+
+## 4.3 George Cohon — the Cohon-era goodwill story, from CBC's obituary (verbatim)
+
+> "Canadian businessman George Cohon, who founded McDonald's Canada and helped open the fast-food company's first franchise in the Soviet Union, has died… He was 86."
+> "[He] borrow[ed] $70,000 to buy" the Eastern Canada franchise rights, and "in November 1968, Cohon would open his first McDonald's location in London, Ont. — a year after the fast-food chain expanded north of the border with its first Canadian location in Richmond, B.C."
+> "He became a Canadian citizen in 1977."
+> Trudeau: he "was an accomplished businessman who never stopped giving back, and who dedicated himself to lifting others up."
+> — CBC News, "George Cohon, founder of McDonald's Canada who brought Big Mac to Soviet Union, dead at 86" (posted Nov 26, 2023) — https://www.cbc.ca/news/business/george-cohon-mcdonalds-obit-1.7040379
+
+Same obit: Order of Canada 1988, promoted to Companion 2020; chairman/president/CEO of McDonald's Canada until 1992; founded RMHC Canada. The Moscow Pushkin Square opening (January 1990) was run through **McDonald's Canada** — a genuinely great "Canada's McDonald's mattered to the world" beat. The famous origin story — at the 1976 Montreal Olympics Cohon had a bus nicknamed "Big Mac" ferrying athletes and a chance encounter with the Soviet delegation started his 14-year quest, told in his memoir "To Russia With Fries" — is documented in Legacy.com's obituary feature (https://www.legacy.com/news/celebrity-deaths/george-cohon-1937-2023-founder-of-mcdonalds-canada/) and Fred Langan's remembrance (https://fredlangan.substack.com/p/panama-electric-car-sales-masters); pull the exact sentence you want on-screen from whichever you display.
+
+## 4.4 The 2017 50th anniversary — what the company did and said
+
+Three documented elements: (1) the 67-cent hamburger day (Part 2.2, with Betts quote); (2) the rebuild and re-opening of the original Richmond restaurant on June 23, 2017 — "The original location opened for business on June 1, 1967, and now it will re-open on June 23, 50 years later," with the restored original Golden Arches "deemed 'heritage' by Richmond," and original 1967 red-and-white tiles found in demolition preserved at the entrance — Daily Hive (June 22, 2017) — https://dailyhive.com/vancouver/first-mcdonalds-canada-richmond-grand-reopening-2017 ; (3) the earlier community campaign to save the original arches sign — Global News, "Effort being made to preserve Canada's 1st McDonald's golden arches sign" (2016) — https://globalnews.ca/news/3156168/effort-being-made-to-preserve-canadas-1st-mcdonads-golden-arches-sign/. The heritage-tiles detail is a gorgeous closer image: the company itself treats 1967 Richmond as sacred ground.
+
+## 4.5 Collector-glass / tray-liner / Happy-Meal-artifact era
+
+- **1981 Great Muppet Caper glasses**: McDonald's sold a four-glass set (Kermit on a bicycle, Miss Piggy on a motorcycle, etc.), illustrated by Daryl Cagle — documented at Muppet Wiki, "The Great Muppet Caper glasses (McDonald's)" — https://muppet.fandom.com/wiki/The_Great_Muppet_Caper_glasses_(McDonald%27s). A period TV commercial for the glasses exists: https://www.youtube.com/watch?v=kLSXy6F0Djw ("McDonald's – 'Great Muppet Caper Glasses' (Commercial, 1981)"). CAUTION: Canadian-market distribution of this specific promo is not separately documented — say "McDonald's" not "McDonald's Canada," or verify. (A contemporaneous US safety controversy about these glasses exists; EXCLUDED under the no-health-claims rule.)
+- **2024 nostalgia sequel (documented, official):** McDonald's brought back collector cups on August 13, 2024, themed on past collectibles (Beanie Babies, Barbie/Hot Wheels, Shrek, etc.) — official: "McDonald's Launches Collector's Edition Cups Inspired by Iconic Collectibles" — https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-launches-collectors-edition-cups-inspired-by-iconic-collectibles.html ; resale frenzy documented by Entrepreneur — https://www.entrepreneur.com/franchises/heres-how-much-mcdonalds-collectors-cups-are-reselling/478651. (Reports that Canada got glass versions vs. plastic elsewhere are secondary — verify before using.) This pairs perfectly with Orange Dream as the "monetizing the memory" motif.
+
+## 4.6 One correction that saves the episode from an embarrassing error
+
+**The Kandahar story is Tim Hortons, not McDonald's.** The famous Canadian-Forces outlet at Kandahar Airfield (2006–2011) was a Tim Hortons: CBC, "Tim Hortons Kandahar location to close" — https://www.cbc.ca/news/business/tim-hortons-kandahar-location-to-close-1.1016896 ; Canadian War Museum — https://www.warmuseum.ca/remembrance-day-resources/remembrance-day-at-tim-hortons-kandahar-afghanistan. No sourced McDonald's-Kandahar story exists. Do not use in this episode.
+
+---
+
+# PART 5 — STRUCTURE NOTES (weaving the ledger through a thesis essay for 50+ retention)
+
+The reference format is a thesis essay in sections (price → quality/consistency → app → balance → close), not a countdown. Four concrete recommendations:
+
+**1. Don't build a separate "what Canada lost" section — assign each nostalgia beat to the argument section it PROVES, and keep one short "Canadian memory palace" montage as the cold-open hook.** A dedicated 10-minute nostalgia block front-loads the emotional payload and leaves the back half dry (retention cliff for the sections that carry the thesis). Instead: 18-cent hamburger + 67-cent birthday burger + Value Picks $1.39 → the PRICE section (the emotional "then" against today's receipt); McPizza's 11-minute prep time and the January 2000 pull → the QUALITY/CONSISTENCY section (the company itself chose speed over the beloved item — that's the thesis in miniature); Dollar-Drink-Days-any-size-to-small and self-serve fountain removal → the APP/experience section (the deal and the experience both moved behind a login and a counter); poutine 2013, Pizza Bites 2025, Orange Dream 2026, McHappy Day/RMHC → the BALANCE section (documented gains and genuine goodwill, which the 50+ audience will punish you for omitting).
+
+**2. Open cold on the Retrontario birthday-party ad (1984), not on a price chart.** Fifteen seconds of the actual ad, then the turn: "That was a real McDonald's commercial on Ontario TV in 1984. Here's what that same restaurant looks like today." For a 50+ audience the archival footage IS the hook — it out-performs any thumbnail-restating intro, and it establishes your documentary credibility (real tape, real dates) in the first 30 seconds. Use the remaining ads as 5–10-second section-transition "palate cleansers" — one era-appropriate ad at the top of each section (Menu Song 1989 into the price section; McPizza/Howie into quality; Super Crew 1990 into the app/labour-of-experience section) — recurring proof-of-era that resets attention at exactly the points where essay videos shed viewers.
+
+**3. Give the Party Caboose the "one object, whole story" treatment as the emotional peak, placed late (roughly the 70% mark, end of the app/experience section).** It's the file's best arc: built 1912 → Grand Trunk → CN 1923 → bought by McDonald's in the 1980s → birthday parties in the '90s → removed 1997 for an expansion → restored museum piece in Elmira, PEI, all on the record from a single CBC article. One caboose stands in for every removed PlayPlace, party room and cooler jug — concrete, sourced, and conspiracy-proof. Then the close can land on the Richmond heritage tiles (the company preserving its own 1967 floor) as the mirror image: "even McDonald's is nostalgic for McDonald's."
+
+**4. Build two on-screen "fact-check" moments into the script — they're retention features, not corrections.** (a) "The famous last McPizza stores? Not in Canada — Pomeroy, Ohio and Spencer, West Virginia, August 2017. Canada lost it in 2000." (b) "The 2017 'orange drink cancelled' headlines? That was America's Hi-C. Ours slipped away quietly around 2009." A 50+ documented-commentary audience rewards a channel that corrects the internet's sloppy version of their own memories — it converts nostalgia into trust, differentiates from every US-centric nostalgia video in the niche, and both corrections are fully sourced above.
+
+---
+
+# QUARANTINE — FOLKLORE / MEMORY-CULTURE (label on screen as memory, never as fact)
+
+- All SmartCanucks reader comments in 1.2 (Brownies cooler jug, sports-day orange drink, rentable "keg" of orange drink) — genuine 2010 reader memories, not reporting. Present as "here's how Canadians remember it."
+- Andrew King's caboose thread details (Orange Drink "from a plastic drum" at caboose parties; the list of Ontario towns) — heritage-enthusiast documentation, corroborated in outline by CBC but not itself news.
+- "You could rent the McDonald's orange-drink cooler for your community event" — abundantly attested in memory threads; no corporate documentation found. Say "Canadians remember borrowing the cooler," not "McDonald's ran a cooler-loan program."
+- RedFlagDeals/Beyond.ca forum threads on orange drink and Dollar Drink Days — sentiment colour only.
+- "McPizza took 11 minutes and that killed it" — reported by Daily Hive and (as a claimed company statement) by Foodgressing (https://foodgressing.com/mcdonalds-pizza-canada-mcpizza/: "the preparation time was about 11 minutes—which was way too long for us," attributed to a 2012 statement). The CP timeline independently gives "takes too much time to make" as the reason, so the reason is solid; the precise "11 minutes" figure rides on secondary sources — attribute it ("reported prep time of about 11 minutes").
+
+# UNVERIFIED / DO-NOT-USE LIST
+
+1. **DO NOT USE: "CBC/Global/HuffPost Canada covered the orange drink's Canadian removal in ~2017."** Extensive searching found no such Canadian-outlet story. The 2017 coverage was US Hi-C Orange Lavaburst (Today, Fortune, etc.). The brief's premise is a conflation — use the corrected version in 1.2.
+2. **DO NOT USE: any McDonald's/Kandahar story.** Kandahar was Tim Hortons (CBC, Canadian War Museum). No sourced McDonald's equivalent exists.
+3. **DO NOT USE AS-IS: "Big Mac cost 65 cents when Richmond opened in 1967."** The Richmond Sentinel memorabilia menu is anachronistic (Big Mac debuted 1968). Opening-day sourced price is the 18-cent hamburger (Richmond Museum).
+4. **DO NOT USE: "the 47th/annual-since-1977 McHappy Day."** Company ordinal numbering contradicts the 1977 inception date (2013="20th", 2021="27th"). Say "began in 1977" only.
+5. **VERIFY BEFORE AIR: "633 locations / largest pizza chain in Canada in 1992."** Reported by blogTO but the article was inaccessible to capture verbatim; corroboration currently only via a Facebook archival account.
+6. **VERIFY BEFORE AIR: Globe and Mail Value Picks body text** (April 24, 2006; $1.39 items) — headline/date confirmed, full text paywalled.
+7. **VERIFY BEFORE AIR: RMHC Canada partner-page wording** ("established in 1977 by… George Cohon"; "$100 million" total) — page blocks automated access; confirm in a browser.
+8. **DO NOT CLAIM: a Canadian-airing copy of "You Deserve a Break Today."** The 1971 uploads found are US network spots; the campaign ran in Canada but no verified Canadian-broadcast upload was located.
+9. **DO NOT CLAIM: an orange-drink-visible vintage Canadian ad or a 1970s Canadian McHappy Day TV spot** — searched, not found.
+10. **DO NOT USE: a Canada-specific "self-serve fountains gone by 2032" commitment.** The 2032 target is US-announced (CBS8/AP); the Canadian trend is documented separately (CCentral) without a dated national commitment. Likewise the "crew-poured by 2032 / dirty-soda rollout May 2026" detail circulating on Facebook groups — no quality source found.
+11. **DO NOT USE: "Muppet glasses were a McDonald's CANADA promotion"** — North American promo documented (Muppet Wiki), Canadian distribution not separately verified. (And the related 1981 safety story is excluded entirely under the no-health-claims rule.)
+12. **DO NOT USE: a formal end-date for in-store birthday parties or a "PlayPlace removal program" announcement** — neither exists in the record; use the documented-trend framing in 1.3/1.4.
+13. **VERIFY BEFORE AIR: "Canadian collector cups (Aug 2024) were glass while other markets got plastic"** — secondary sourcing only (DesignRush et al.).
+14. **DO NOT USE: "All-day breakfast statement by McDonald's Canada."** The "simplify operations" spokesperson quotes on the 2020 removal are McDonald's USA statements; the Canadian end is documented by launch coverage + current Canadian breakfast-hours pages, not by a Canadian company statement.

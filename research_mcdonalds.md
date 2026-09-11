@@ -216,3 +216,294 @@ Source: https://www.newswire.ca/news-releases/mcdonald-s-canada-puts-beverages-c
 10. **1,450 vs 1,500 restaurants; 1M vs 2M daily guests** — both are McDonald's Canada's own numbers from releases six months apart; on screen, attribute the specific release you cite.
 11. **Reddit/RedFlagDeals posts quoted directly** — use only complaints as quoted *by* Narcity/iPhone in Canada/Rewards Canada, with the outlet named.
 12. **Any implication the loyalty changes, price levels, or sourcing claims involve deception or wrongdoing** — nothing in this file supports it; complaints are reported-as-reported, and company claims are presented as claims.
+
+---
+
+# PART 2 — PRICES AND ECONOMICS (prices/economics agent dossier, verbatim)
+
+---
+
+# PRICES + ECONOMICS DOSSIER
+## "Something Is Seriously Wrong at McDonald's... Canada Is Starting to Notice"
+**Prepared for: Canadian Counter (documented-commentary video) — Research date: September 11, 2026. All URLs accessed September 11, 2026 unless noted. No health claims anywhere in this document. Every figure carries a source, URL and date. All arithmetic is shown.**
+
+---
+
+## SECTION 1 — THE STAR EXHIBIT: THE BIG MAC PRICE IN CANADA, 2000 → 2026
+
+**Primary source:** The Economist Big Mac Index open dataset, GitHub repository `TheEconomist/big-mac-data`, file `source-data/big-mac-source-data-v2.csv` and `output-data/big-mac-full-index.csv`, repo cloned 2026-09-11 at commit `0d97104` (last repo update: "July 2026 update", committed 2026-08-04).
+URL: https://github.com/TheEconomist/big-mac-data
+The `local_price` column is The Economist's surveyed price of one Big Mac in local currency (CAD for Canada), à la carte, at each edition date.
+
+### 1.1 The full Canada series (every published edition)
+
+| Edition date | Big Mac price (CAD) | | Edition date | Big Mac price (CAD) |
+|---|---|---|---|---|
+| 2000-04-01 | $2.85 | | 2015-01-01 | $5.70 |
+| 2001-04-01 | $3.33 | | 2015-07-01 | $5.85 |
+| 2002-04-01 | $3.33 | | 2016-01-01 | $5.84 |
+| 2003-04-01 | $3.20 | | 2016-07-01 | $6.00 |
+| 2004-05-01 | $3.19 | | **2017-01-01** | **$5.98** |
+| 2005-06-01 | $3.28 | | 2017-07-01 | $5.97 |
+| 2006-01-01 | $3.52 | | 2018-01-01 | $6.55 |
+| 2006-05-01 | $3.52 | | 2018-07-01 | $6.65 |
+| 2007-01-01 | $3.63 | | 2019-01-01 | $6.77 |
+| 2007-06-01 | $3.88 | | 2019-07-09 | $6.77 |
+| 2008-06-01 | $4.09 | | 2020-01-14 | $6.77 |
+| 2009-07-01 | $3.89 | | 2020-07-01 | $6.88 |
+| 2010-01-01 | $4.12 | | 2021-01-01 | $6.77 |
+| 2010-07-01 | $4.17 | | 2021-07-01 | $6.77 |
+| 2011-07-01 | $4.73 | | 2022-01-01 | $6.77 |
+| 2012-01-01 | $4.73 | | 2022-07-01 | $5.88 * |
+| 2012-07-01 | $5.12 | | 2023-01-01 | $6.11 * |
+| 2013-01-01 | $5.41 | | 2023-07-01 | $7.05 |
+| 2013-07-01 | $5.53 | | 2024-01-01 | $7.47 |
+| 2014-01-01 | $5.54 | | 2024-07-01 | $7.62 |
+| 2014-07-01 | $5.64 | | 2025-01-01 | $7.81 |
+| | | | 2025-07-01 | $7.50 * |
+| | | | 2026-01-01 | $7.70 |
+| | | | **2026-07-01** | **$8.17** |
+
+\* See data caveats in 1.4 — use with the caveat on screen, or avoid.
+
+### 1.2 The headline math (all arithmetic shown)
+
+**Jan 2017 → July 2026 (latest edition):**
+- Jan 2017 price: **CAD $5.98** (Economist Big Mac Index, edition 2017-01-01)
+- July 2026 price: **CAD $8.17** (Economist Big Mac Index, edition 2026-07-01)
+- Change: 8.17 − 5.98 = **$2.19 more per Big Mac**
+- Percentage: 8.17 ÷ 5.98 = 1.36622 → **+36.6%**
+
+**The long view, April 2000 → July 2026:**
+- April 2000: **CAD $2.85** → July 2026: **CAD $8.17**
+- 8.17 ÷ 2.85 = 2.8667 → the Big Mac costs **2.87× what it did in 2000**, i.e. **+186.7%**
+
+**The post-2023 acceleration (clean segment, no caveated data points):**
+- July 2023: $7.05 → July 2026: $8.17 → 8.17 ÷ 7.05 = 1.1589 → **+15.9% in three years**
+- Jan 2026: $7.70 → July 2026: $8.17 → 8.17 ÷ 7.70 = 1.0610 → **+6.1% in six months**
+- July 2025: $7.50 → July 2026: $8.17 → 8.17 ÷ 7.50 = 1.0893 → **+8.9% year over year** (but see caveat on the July 2025 point)
+
+**A narratively useful flat stretch:** The Economist recorded the identical CAD $6.77 in Jan 2019, July 2019, Jan 2020, Jan 2021, July 2021 and Jan 2022 (with one $6.88 blip in July 2020). The visible price escalation in this dataset is essentially a post-2022 phenomenon: $6.77 (Jan 2022) → $8.17 (July 2026) = 8.17 ÷ 6.77 = 1.2068 → **+20.7% in 4.5 years**, after roughly three years of a near-frozen surveyed price.
+
+**Currency context (same dataset, `dollar_ex` column):** at the July 2026 edition the exchange rate on file is 1.40515 CAD/USD, so the Canadian Big Mac = 8.17 ÷ 1.40515 = **US$5.81**, versus the surveyed US price of **US$6.22** (USA row, 2026-07-01). The US price went US$4.50 (Jan 2017) → US$6.22 (July 2026) = +38.2% — Canada's +36.6% in CAD is nearly identical in percentage terms.
+
+### 1.3 Cross-check against 2025–26 public mentions
+
+- Third-party Big Mac Index mirror **bigmacindex.app** (accessed 2026-09-11) states: "Canada Big Mac Price 2026: $8.17 ($5.81 [USD])... As of July 2026" — exactly matches the dataset. URL: https://bigmacindex.app/country/canada/ (secondary source; it simply republishes The Economist data — cite the GitHub dataset on screen, not this site).
+- Menu-price aggregator **PriceMyMeal** ("McDonald's Canada Menu & Prices, Updated August 13, 2026") reported a Big Mac in Toronto at **$8.39 as of August 6, 2026** — directionally consistent with (slightly above) the Economist's national survey figure. URL: https://pricemymeal.com/mcdonalds/canada/ — **this is an unofficial crowd/aggregator source; if used on screen, label it "menu aggregator, Toronto, Aug 6, 2026 — unofficial."** McDonald's Canada restaurants are franchisee-priced, so location variance is real and expected.
+
+### 1.4 Data caveats (be honest on screen — this protects the video)
+
+1. **Revision at July 2022.** The repo's original (now frozen) file `big-mac-source-data.csv` lists Canada July 2022 = $6.77, while the current `big-mac-source-data-v2.csv` (used for all published outputs) lists July 2022 = **$5.88** — a downward revision of 89 cents between file versions, both visible in the same repo at commit `0d97104`. The $5.88 (Jul 2022) and $6.11 (Jan 2023) points sit oddly below both the preceding $6.77 plateau and the following $7.05. Recommendation: **don't build a "price dropped in 2022" beat on these two points**; skip them or footnote the revision.
+2. **The July 2025 dip ($7.81 → $7.50) is a single survey point**, possibly reflecting the value-menu period; don't over-read a "price cut" from it — Jan 2026 ($7.70) and July 2026 ($8.17) resumed the climb.
+3. The Economist surveys **one à-la-carte Big Mac price per country per edition**; it is not a Canada-wide average across all franchisees, and it is not a combo price.
+
+---
+
+## SECTION 2 — STATCAN CPI: RESTAURANT FOOD vs EVERYTHING ELSE (RE-VERIFIED)
+
+**Primary source:** Statistics Canada, Table 18-10-0004-01 (CPI, monthly, not seasonally adjusted, 2002=100), retrieved via the StatCan Web Data Service REST API on 2026-09-11 (`getDataFromVectorsAndLatestNPeriods` / `getDataFromVectorByReferencePeriodRange`).
+Table URL: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401
+Latest month available on 2026-09-11: **July 2026** (August 2026 CPI not yet released).
+
+| Series (Canada) | Vector | Jan 2017 | Jul 2026 | Arithmetic | Change |
+|---|---|---|---|---|---|
+| **Food purchased from restaurants** | v41691046 | 144.3 | **207.5** | 207.5 ÷ 144.3 = 1.43798 | **+43.8%** |
+| **All-items CPI** | v41690973 | 129.5 | **169.9** | 169.9 ÷ 129.5 = 1.31197 | **+31.2%** |
+
+- **The prior research finding (restaurants +43.8% vs all-items +31.2%, Jan 2017 → Jul 2026) is re-verified exactly.** July 2026 remains the latest month; index values pulled fresh from StatCan on 2026-09-11 (restaurants: 206.2 Apr, 206.9 May, 206.7 Jun, 207.5 Jul 2026; all-items: 168.0 Apr, 169.6 May, 169.0 Jun, 169.9 Jul 2026).
+- Gap: 43.8 − 31.2 = **12.6 percentage points** — restaurant meals have outrun overall inflation by a wide margin since January 2017.
+- Concrete translation: a restaurant order that cost **$10.00 in January 2017** costs, at the average pace of the restaurant-food CPI, 10.00 × 1.43798 = **$14.38 in July 2026**.
+- Positioning check: the Economist's Canadian Big Mac (+36.6% over the same window, Section 1) rose faster than all-items CPI (+31.2%) but slower than the overall restaurant-food basket (+43.8%).
+
+---
+
+## SECTION 3 — MINUTES OF MINIMUM-WAGE WORK PER BIG MAC: 2017 vs TODAY
+
+### 3.1 Wage inputs (all official / officially-documented)
+
+**Current general minimum wages (as of September 11, 2026):**
+
+| Province | Rate | Effective | Source (accessed 2026-09-11) |
+|---|---|---|---|
+| Ontario | **$17.60/hr** | Oct 1, 2025 (rises to $17.95 on Oct 1, 2026) | Ontario ESA guide: https://www.ontario.ca/document/your-guide-employment-standards-act-0/minimum-wage |
+| Quebec | **$16.60/hr** | May 1, 2026 | CNESST: https://www.cnesst.gouv.qc.ca/en/working-conditions/wage-and-pay/wages/minimum-wage |
+| British Columbia | **$18.25/hr** | Jun 1, 2026 | Gov. of BC: https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/wages/minimum-wage |
+| Alberta | **$15.00/hr** | Oct 1, 2018 (unchanged since) | Alberta.ca: https://www.alberta.ca/minimum-wage ; effective date per Stikeman Elliott summary of the 2016–18 schedule: https://stikeman.com/en-ca/kh/canadian-employment-labour-pension-law/alberta-minimum-wage-rising-to-15-per-hour-by-october-2018 |
+
+**Minimum wages in effect January 2017** (matching the Jan 2017 Big Mac price date):
+
+| Province | Rate (Jan 2017) | In effect from | Source |
+|---|---|---|---|
+| Ontario | $11.40/hr | Oct 1, 2016 | Ontario government increase documented by Mathews Dinsdale (law firm) and Global News, Oct 2016: https://mathewsdinsdale.com/ontario-government-minimum-wage-increase/ ; https://globalnews.ca/news/2971449/ontario-minimum-wage-bumps-up-to-11-40-on-saturday |
+| Quebec | $10.75/hr | May 1, 2016 (rose to $11.25 May 1, 2017) | CBC, May 2016: https://www.cbc.ca/lite/story/1.3561233 |
+| British Columbia | $10.85/hr | Sep 15, 2016 | Official BC government news release, 2016: https://news.gov.bc.ca/releases/2016JTST0139-001691 |
+| Alberta | $12.20/hr | Oct 1, 2016 | Alberta official minimum-wage profile PDF (open.alberta.ca): https://open.alberta.ca/dataset/3027b65e-16f4-4442-bfa4-0ea73a73ec49/resource/3805bf58-b21d-499e-b9e3-15c41cf9ce4c/download/alberta-minimum-wage-profile.pdf |
+
+### 3.2 The math — minutes of work to buy one Big Mac (à la carte)
+
+**Assumptions (label on screen):** (a) Big Mac price = The Economist's national survey figure (Jan 2017: $5.98; July 2026: $8.17) — not a combo, pre-tax; (b) gross wages, ignoring payroll deductions and sales tax; (c) "today" pairs the July 2026 Big Mac price with the minimum wage in force September 2026. Formula: minutes = (price ÷ hourly wage) × 60.
+
+| Province | 2017: (5.98 ÷ wage) × 60 | 2026: (8.17 ÷ wage) × 60 | Change |
+|---|---|---|---|
+| Ontario | 5.98 ÷ 11.40 × 60 = **31.5 min** | 8.17 ÷ 17.60 × 60 = **27.9 min** | −3.6 min |
+| Quebec | 5.98 ÷ 10.75 × 60 = **33.4 min** | 8.17 ÷ 16.60 × 60 = **29.5 min** | −3.9 min |
+| British Columbia | 5.98 ÷ 10.85 × 60 = **33.1 min** | 8.17 ÷ 18.25 × 60 = **26.9 min** | −6.2 min |
+| **Alberta** | 5.98 ÷ 12.20 × 60 = **29.4 min** | 8.17 ÷ 15.00 × 60 = **32.7 min** | **+3.3 min** |
+
+**The honest takeaway (use it — it strengthens credibility):** for minimum-wage earners in ON, QC and BC, a Big Mac actually takes **slightly fewer minutes** of work than in 2017, because statutory minimum wages rose faster (+54.4% ON: 17.60 ÷ 11.40 = 1.544; +54.4% QC: 16.60 ÷ 10.75 = 1.544; +68.2% BC: 18.25 ÷ 10.85 = 1.682) than the Big Mac (+36.6%). **Alberta is the exception**: the minimum wage has been frozen at $15.00 since October 1, 2018 (+23.0% vs 2017: 15.00 ÷ 12.20 = 1.230), so an Albertan on minimum wage works **3.3 minutes longer** per Big Mac than in 2017. The squeeze story for the other provinces is about everyone **not** on minimum wage, and about the full combo/order — see the restaurant CPI (+43.8%) in Section 2.
+
+---
+
+## SECTION 4 — McDONALD'S CORP: THE MONEY (SEC FILINGS)
+
+### 4.1 Full-year headline numbers
+
+**Source:** McDonald's Corporation Form 10-K for fiscal year ended Dec 31, 2025, filed with the SEC 2026-02-24 (accession 0000063908-26-000035, primary document `mcd-20251231.htm`), retrieved from EDGAR 2026-09-11: https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm — and Q4/FY2025 earnings release, 2026-02-11: https://mcdonalds.mediaroom.com/2026-02-11-McDONALDS-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS
+
+- **FY2025 total revenues: $26,885 million** (~$26.9B), up from $25,920M (FY2024) and $25,494M (FY2023) — 10-K operating results table.
+- **FY2025 net income: $8,563 million** (~$8.6B) (FY2024: $8,223M — FY2024 earnings release, 2025-02-10: https://mcdonalds.mediaroom.com/2025-02-10-McDONALDS-REPORTS-FOURTH-QUARTER-AND-FULL-YEAR-2024-RESULTS).
+- Net margin check: 8,563 ÷ 26,885 = **31.8% of revenue kept as net income**.
+- **Systemwide sales (all restaurants incl. franchised): $129,675 million in 2025** vs $120,933M in 2024 (10-K franchised-sales table) — money customers spent, most of which flows to franchisees; McDonald's Corp's revenue is largely rent + royalties: **franchised revenues $16,548M vs company-operated sales $9,690M** (10-K).
+- **Restaurant count (10-K, Dec 31, 2025): 45,356 systemwide** (2024: 43,477; 2023: 41,822). Breakdown: 43,317 franchised + 2,039 company-owned → 43,317 ÷ 45,356 = **95.5% franchised** ("Of the 45,356 McDonald's restaurants at year-end 2025, approximately 95% were franchised" — 10-K, verbatim). Segment franchising: **U.S. 95%, International Operated Markets 89%, IDL 99%** (10-K). 2,116 restaurants opened, 461 closed in 2025 (10-K).
+- **Canada's place in the filings:** Canada is not broken out; it sits inside the **International Operated Markets (IOM) segment** — 10-K verbatim: the segment is "comprised of markets, or countries in which the Company owns and operates and franchises restaurants, including Australia, **Canada**, France, Germany, Italy, Poland, Spain and the U.K." Any IOM comp number on screen must be labelled "includes Canada — Canada not separately disclosed."
+
+### 4.2 Comparable sales ("same-store sales"), quarter by quarter
+
+**Sources:** SEC 8-K earnings-release exhibits, retrieved from EDGAR 2026-09-11 (accessions in parentheses), plus the mediaroom releases dated as shown. Q1'24: exhibit991-33124xq1.htm (0000063908-24-000089); Q2'24: exhibit991-6302024.htm (0000063908-24-000119); Q3'24: exhibit991-9302024.htm (0000063908-24-000152); Q4/FY24 release 2025-02-10; Q1'25: exhibit991-33125xq1.htm (0000063908-25-000021); Q2'25 release 2025-08-06; Q3'25 release 2025-11-05; Q4/FY25 release 2026-02-11; Q1'26: exhibit991-33126xq1.htm (0000063908-26-000048); Q2'26: exhibit991-6302026.htm (0000063908-26-000067).
+
+| Quarter | Global | U.S. | IOM (incl. Canada) | IDL |
+|---|---|---|---|---|
+| Q1 2024 | +1.9% | +2.5% | +2.7% | −0.2% |
+| Q2 2024 | −1.0% | −0.7% | −1.1% | −1.3% |
+| Q3 2024 | −1.5% | +0.3% | −2.1% | −3.5% |
+| Q4 2024 | +0.4% | −1.4% | +0.1% | +4.1% |
+| **FY2024** | **−0.1%** | **+0.2%** | **−0.2%** | **−0.3%** |
+| Q1 2025 | −1.0% | −3.6% | −1.0% | +3.5% |
+| Q2 2025 | +3.8% | +2.5% | +4.0% | +5.6% |
+| Q3 2025 | +3.6% | +2.4% | +4.3% | +4.7% |
+| Q4 2025 | +5.7% | +6.8% | +5.2% | +4.5% |
+| **FY2025** | **+3.1%** | **+2.1%** | **+3.2%** | **+4.6%** |
+| Q1 2026 | +3.8% | +3.9% | +3.9% | +3.4% |
+| Q2 2026 | +1.3% | +0.8% | +1.5% | +1.9% |
+
+**Company's own words on the traffic problem (verbatim from the 8-K exhibits):**
+- Q2 2024, U.S.: "Comparable sales results were driven by **negative comparable guest counts**, partly offset by average check growth due to strategic menu price increases."
+- Q1 2025, U.S.: "Comparable sales results were **primarily driven by negative comparable guest counts**." (U.S. −3.6% — worst U.S. quarter since 2020.)
+- Q2 2026, U.S.: "Comparable sales results were driven by positive check growth, including favorable product mix, **partly offset by negative comparable guest counts**." — even in a positive-comp quarter, fewer customers are walking in; the growth is coming from bigger checks.
+- Q4 2025, U.S. (+6.8%): driven by "positive check and guest count growth primarily from successful marketing promotions" (Q4/FY25 release via mediaroom, 2026-02-11).
+
+**2026 quarters, money figures (8-K exhibits):** Q1 2026 revenues $6,517M, net income $1,983M; Q2 2026 revenues $7,099M, net income $2,362M (+5%); H1 2026 revenues $13,616M, net income $4,345M.
+
+---
+
+## SECTION 5 — VALUE ARCHITECTURE: WHAT THEY PROMISED, WHAT IT COSTS THEM
+
+### 5.1 McValue platform — U.S., launched January 7, 2025
+
+**Company source:** McDonald's USA press release via PR Newswire, "McDonald's Launching McValue Platform in US Restaurants in 2025" (announced Nov/Dec 2024; national launch Jan 7, 2025): https://www.prnewswire.com/news-releases/mcdonalds-launching-mcvalue-platform-in-us-restaurants-in-2025-302313864.html and https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-launching-mcvalue-platform-inus-restaurants-in2025.html
+Promised components (per the company materials, as summarized in the release coverage): the **$5 Meal Deal** (McDouble or McChicken + small fries + 4-pc McNuggets + small soft drink) extended "through next summer"; a new **"Buy One, Add One for $1"** offer across breakfast/lunch/dinner; in-app exclusive offers; and franchisee flexibility for local deals. (Launch date Jan 7, 2025 per Restaurant Dive: https://www.restaurantdive.com/news/mcdonald-mcvalue-nationwide-launch-january-7/733699/, Dec 2024.)
+
+### 5.2 Extra Value Meals — U.S., relaunched September 8, 2025
+
+**Company source:** "McDonald's Celebrates the Return of Extra Value Meals with $5 Sausage McMuffin with Egg Meal and $8 Big Mac Meal," corporate.mcdonalds.com, announced Sept 2, 2025, launched Sept 8, 2025: https://corporate.mcdonalds.com/corpmcd/our-stories/article/extra-value-meals-sausage-mcmuffin-big-mac.html
+- Promise: **"about 15% savings"** versus buying the entrée + fries + drink separately (company statement, as reported by CNBC, 2025-09-02: https://www.cnbc.com/2025/09/02/mcdonalds-value-menu-combo-meals.html).
+- **Eight combo meals** including Big Mac, Chicken McNuggets, Egg McMuffin, Quarter Pounder; limited-time anchors **$8 Big Mac Meal** (medium fries + medium drink) and **$5 Sausage McMuffin with Egg Meal** (Axios, 2025-09-08: https://www.axios.com/2025/09/08/mcdonalds-extra-value-meals-menu-launch).
+- Context: Extra Value Meals is a category McDonald's had **eliminated in 2019** (CNN Business, 2025-09-08: https://www.cnn.com/2025/09/08/food/mcdonalds-extra-value-menu-launch).
+
+### 5.3 Attributed analyst / trade-press commentary on the discount economics
+
+- **Restaurant Business** ("McDonald's will discount its combo meals to jumpstart traffic," 2025): McDonald's "convinced franchisees to cut the cost of meal deals by 15%"; corporate backed it with "a **$40 million marketing investment**, promised help when franchisees lose money on the effort, plus other concessions." URL: https://www.restaurantbusinessonline.com/financing/mcdonalds-will-discount-its-combo-meals-jumpstart-traffic (attribute to Restaurant Business).
+- **CNBC** ("Value is the key to McDonald's growth plans, but it's creating tensions with some franchisees," 2026-02-11): analyst **Mark Kalinowski's** franchisee survey rated the franchisee–corporate relationship **1.37 out of 5** (down from 1.71 in October 2025); an independent operator group adopted a "Franchisee Bill of Rights" including "the ability to set prices without fear of recourse." Corporate support for the discounts was slated to end "by the end of the first quarter of 2026." URL: https://www.cnbc.com/2026/02/11/mcdonalds-value-franchisees.html (attribute to CNBC / Kalinowski survey).
+- **Restaurant Dive** ("McDonald's updates franchising standards over value," 2026): new franchising standards would assess "if operators' prices are too high," tied to traffic and customer-satisfaction scores. URL: https://www.restaurantdive.com/news/mcdonalds-updates-franchising-standards-value-pricing/807422/ (attribute to Restaurant Dive).
+- **TheStreet** covered the pricing shift as "McDonald's quietly makes major pricing change, adds value meals": https://www.thestreet.com/restaurants/mcdonalds-quietly-makes-major-pricing-change-adds-value-meals (attribute to TheStreet).
+
+### 5.4 CANADA-SPECIFIC value offer — the big one for this video
+
+**Company source (verbatim):** McDonald's Canada press release, **January 13, 2026** — "McDonald's Canada Announces One-Year Price Promise on $5 McValue® Meals and $1 small McCafé® Coffee." Newsroom URL: https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Announces-One-Year-Price-Promise-on--5-McValue--Meals-and--1-small-McCaf---Coffee-.html (mirrored at Yahoo Finance: https://finance.yahoo.com/news/mcdonalds-canada-announces-one-price-100000522.html; both accessed 2026-09-11 — the mcdonalds.com/ca site intermittently returned 503 to our fetches; verbatim quotes below were captured from the Yahoo-hosted copy of the release).
+- Verbatim: **"Effective today, McDonald's Canada is making a one-year price promise on two of its flagship offerings: McValue® Meals, now priced at $5 and including breakfast items, and small McCafé® coffee, still only $1."**
+- Verbatim: **"The company is committing to keeping the price of small McCafé coffee at just $1 for the entire year, with no minimum purchase."**
+- The $5 (+tax) McValue Meals listed: McDouble, Junior Chicken, Chicken Snack Wrap (lunch/dinner); Sausage McMuffin, Sausage McGriddles, Breakfast Burrito, Bagel with Cream Cheese Product (breakfast — each with hash brown + small McCafé coffee).
+- Verbatim executive quote — **Annemarie Swijtink, President and CEO, McDonald's Canada**: "Today, we make a commitment to Canadians: no matter the time of day, every day of the year, you can count on McDonald's for delicious food at a great price."
+- Canadian-supply line (verbatim): "More than 90 per cent of the food and paper purchased by McDonald's restaurants in Canada last year came from Canadian suppliers."
+- Independent Canadian media confirmation: **CTV News**, January 13, 2026 — "McDonald's Canada freezes price of small coffee, McValue meals for one year": https://www.ctvnews.ca/business/article/mcdonalds-canada-freezes-price-of-small-coffee-mcvalue-meals-for-one-year/
+- **Narrative note (fair framing):** a company publicly freezing prices for a year — described in coverage as the first such public price-lock commitment by McDonald's Canada in over a decade — is itself evidence of how central the affordability complaint has become.
+
+---
+
+## SECTION 6 — CosMc's: LAUNCHED 2023, GONE BY JULY 2025 (VERIFIED PRECISELY)
+
+- **Launch:** first CosMc's — McDonald's beverage-led small-format spinoff — opened in **Bolingbrook, Illinois in December 2023** (ABC7 Chicago, 2025-05: https://abc7chicago.com/post/cosmcs-mcdonalds-closing-spin-off-restaurants-including-first-location-chicago-suburbs/16524571/ ; Fox 32 Chicago: https://www.fox32chicago.com/news/mcdonalds-close-cosmcs-locations-bolingbrook-original). The pilot grew to a handful of units in Illinois and Texas; **three Texas units were closed in January 2025** (Restaurant Dive, 2025-05-27).
+- **Wind-down:** announced **Friday, May 23, 2025**; McDonald's statement as quoted by Fox 32 Chicago (2025-05): **"Bolingbrook's CosMc's will close in late June – as will the other standalone CosMc's."** The remaining **five locations (four in Texas, one in Illinois)** closed at the end of June 2025; the standalone **CosMc's app and loyalty program were also discontinued** (loyalty/app/online ordering stopped June 23, 2025 — Bolingbrook Patch: https://patch.com/illinois/bolingbrook/mcdonalds-closing-cosmcs-chain-including-bolingbrook-location ; CNN Business, 2025-05-24: https://www.cnn.com/2025/05/24/food/mcdonalds-cosmcs-spinoff-closure ; Restaurant Dive, 2025-05-27: https://www.restaurantdive.com/news/cosmcs-mcdonalds-drinks-test-grows-stores-shut-down/748966/).
+- **Company framing of what survives:** CosMc's-inspired drinks (e.g., matcha iced lattes, prickly pear slushes) to be "tested at hundreds of U.S. McDonald's locations" as part of a beverage push (Restaurant Dive, 2025-05-27; Yahoo/AP: https://finance.yahoo.com/news/mcdonalds-closing-cosmcs-restaurants-plans-205318603.html).
+- Lifespan math: first store December 2023 → closures late June 2025 = **~18–19 months**.
+- **Canada note:** CosMc's never operated in Canada — frame it as a signal about corporate strategy and the beverage/value pivot, not as a Canadian consumer event.
+
+---
+
+## SECTION 7 — "COOK IT YOURSELF" CONTEXT SERIES (PURELY PRICE-BASED)
+
+**Primary source:** Statistics Canada, Table 18-10-0245-01, "Monthly average retail prices for selected products," Canada, full-table CSV downloaded from StatCan 2026-09-11 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501 ; CSV: https://www150.statcan.gc.ca/n1/tbl/csv/18100245-eng.zip). Series begin January 2017; latest month July 2026. These are national average **grocery-store** retail prices.
+
+| Product (StatCan wording) | Vector | Jan 2017 | Jul 2026 | Arithmetic | Change |
+|---|---|---|---|---|---|
+| **Ground beef, per kilogram** | v1353834274 | $9.12 | **$16.49** | 16.49 ÷ 9.12 = 1.808 | **+80.8%** |
+| **Roasted or ground coffee, 340 g** | v1353834333 | $4.59 | **$9.54** | 9.54 ÷ 4.59 = 2.078 | **+107.8%** |
+| Block cheese, 500 g | v1353834288 | $5.82 | $7.11 | 7.11 ÷ 5.82 = 1.222 | +22.2% |
+| White bread, 675 g | v1353834326 | $2.78 | $3.60 | 3.60 ÷ 2.78 = 1.295 | +29.5% |
+| Tomatoes, per kilogram | v1353834301 | $4.48 | $4.98 | 4.98 ÷ 4.48 = 1.112 | +11.2% |
+| Iceberg lettuce, unit | v1353834318 | $1.73 | $2.78 | 2.78 ÷ 1.73 = 1.607 | +60.7% |
+
+**Beats you can build (price-only, no nutrition framing):**
+- **The coffee beat:** grocery coffee **more than doubled** (+107.8%) since Jan 2017 — which makes McDonald's Canada's "$1 small McCafé coffee, frozen for all of 2026" (Section 5.4) a genuinely striking counter-fact. Both statements are fully sourced.
+- **The burger-input beat:** the raw material of a burger — ground beef — is up **+80.8%** at the grocery store since Jan 2017, i.e., roughly double the Big Mac's own +36.6% (Section 1) and well above restaurant-food CPI +43.8% (Section 2). Home-cooking the patty hasn't escaped inflation either; the "cook it yourself" comparison cuts both ways and saying so on camera is honest and defensible.
+- A rough at-home burger-parts basket from the table (beef + cheese + bread + tomato + lettuce, at the listed pack sizes): Jan 2017: 9.12 + 5.82 + 2.78 + 4.48 + 1.73 = $23.93; Jul 2026: 16.49 + 7.11 + 3.60 + 4.98 + 2.78 = $34.96 → 34.96 ÷ 23.93 = 1.461 → **+46.1%** — label clearly as "a basket of burger ingredients at StatCan pack sizes," not a per-burger cost.
+
+---
+
+## SECTION 8 — RESTAURANTS CANADA / INDUSTRY DATA ON QSR IN CANADA, 2024–26
+
+All figures below are Restaurants Canada's own published numbers (attribute on screen to "Restaurants Canada"), accessed 2026-09-11.
+
+**A. Restaurants Canada, "Canadian Foodservice Sales Moderate at Year-End, Slower Growth Ahead," published Feb 27, 2026** — https://www.restaurantscanada.org/research/canadian-foodservice-sales-moderate-at-year-end-slower-growth-ahead/
+- December 2025: "quick-service restaurants saw a more modest increase of 2.6%" year-over-year, and "after adjusting for menu price inflation, real sales were essentially flat, increasing by just 0.1%."
+- Full-year 2025: "total foodservice sales for 2025 increased by a solid 5.6% compared to 2024."
+- Forecast: "total foodservice sales are projected to grow by just 2.1% in 2026," stabilizing "at 3.4% in 2027."
+
+**B. Restaurants Canada, "High operating costs and uneven consumer spending put Canada's restaurant sector – a key economic engine – under pressure," published May 4, 2026** — https://www.restaurantscanada.org/high-operating-costs-and-uneven-consumer-spending-put-canadas-restaurant-sector-a-key-economic-engine-under-pressure/ (also on GlobeNewswire, 2026-05-04: https://www.globenewswire.com/news-release/2026/05/04/3286543/0/en/)
+- **"81% [of quick-service operators] reporting declining profitability (vs. 70% full-service)"** — the QSR segment is the hardest-hit.
+- 49% of operators reported lower sales in early 2026; **54% report fewer customers** (reduced guest traffic).
+- **"69% report customers dining out less due to affordability constraints."**
+- **"36% of operators are operating at a loss or breaking even, which is triple the levels from 2019."**
+- Cost pressure: food costs cited by 91% of operators; labour by 87%.
+- 2026 outlook: **real (inflation-adjusted) commercial foodservice sales projected to decline 0.2% in 2026**, after +2.3% in 2025.
+- Sector scale: "23 million" daily restaurant visits, "$125 billion in annual sales, equal to 3.9% of GDP."
+
+**C. Corroborating Canadian coverage:** CBC News, "As Canadians feel crunched by the cost of living, quick-service restaurants are taking a bigger hit" — https://www.cbc.ca/news/business/quick-service-restaurants-struggling-9.7188698 (CBC blocked our direct fetch; per search-index summaries it reports full-service real sales +4.6% in January [2026] year-over-year while quick-service sales **declined 2%** — verify the exact lines against the live article before quoting on screen).
+
+---
+
+## SYNTHESIS — THE FIVE NUMBERS FOR THE SCRIPT (each fully sourced above)
+
+1. **$5.98 → $8.17**: Canada's Big Mac, Jan 2017 → Jul 2026 = **+36.6%**; since 2000, **2.87×** (The Economist Big Mac Index dataset, GitHub, July 2026 edition).
+2. **+43.8% vs +31.2%**: restaurant food vs everything, StatCan CPI, Jan 2017 → Jul 2026 — eating out has outrun overall inflation by 12.6 points.
+3. **$8.56 billion**: McDonald's Corp FY2025 net income (10-K), on $26.9B revenue — 31.8¢ of every revenue dollar — while its own releases repeatedly cite "negative comparable guest counts" in the U.S.
+4. **81%**: share of Canadian quick-service operators telling Restaurants Canada (May 2026) their profitability is falling — the squeeze is hitting the sellers too.
+5. **$5 meals and $1 coffee frozen for one year** (McDonald's Canada, Jan 13, 2026) — the company's own answer to a problem big enough that it locked prices publicly for the first time in over a decade.
+
+---
+
+## UNVERIFIED / DO-NOT-USE LIST
+
+**Do not put these on screen without further verification:**
+
+1. **Any current Canadian Big Mac COMBO price.** No official, dated Canadian combo price was found. PriceMyMeal's Toronto figures (Big Mac $8.39, Aug 6, 2026) come from an unofficial aggregator with unstated methodology; other aggregators (themcdonaldsmenu.com — which showed an implausible "C$4.49" Big Mac — froqel.com, mcdon-menu.com, savealoonie.com) are **not reliable** and one is demonstrably wrong. The US "$8 Big Mac Meal" is a **US-only** offer — do not present it as Canadian. Minutes-of-work math in Section 3 deliberately uses the à-la-carte Economist price only.
+2. **The Economist data points for July 2022 ($5.88), January 2023 ($6.11) and July 2025 ($7.50).** The 2022 point was revised down from $6.77 between dataset file versions (documented in Section 1.4); all three sit oddly against neighbours. Skip or footnote; never build a "McDonald's cut prices" claim on them.
+3. **"Restaurants Canada says QSR traffic grew 4.3% in the most recent quarter"** — this figure surfaced in third-party blog summaries (revenuemanage.com, restroworks.com), not in a Restaurants Canada release we could verify. Use only the directly-fetched Restaurants Canada figures in Section 8.
+4. **CBC's "+4.6% full-service vs −2% quick-service (January)" comparison** — plausible and CBC-attributed, but the article body could not be fetched directly (403). Verify against the live CBC page before use.
+5. **Exact CosMc's peak location count and per-store economics** — never disclosed by McDonald's; reported counts vary (up to ~8 opened, 5 at closure). Say "a handful of pilot locations; five remained at the May 2025 announcement."
+6. **Canada-specific McDonald's comparable sales, guest counts or revenue** — McDonald's does not disclose Canada separately; it is inside the IOM segment. Any sentence implying "McDonald's Canada sales rose/fell X%" is unsupportable from public filings.
+7. **Average-wage minutes-per-Big-Mac** — we verified minimum wages only. Do not extend the minutes math to "the average Canadian worker" without pulling StatCan average-hourly-earnings data first.
+8. **statbase.org, eatmyindex.com, worldpopulationreview.com, Truflation, bigmacindex.com** Big Mac figures — mirrors/derivatives of varying quality; cite the Economist GitHub dataset directly instead.
+9. **The Narcity price snapshots** ($6.49 Big Mac, 2023; $6.01, Feb 2022) — fine as dated historical colour with on-screen labels, but they are journalist spot-checks of single locations, not surveys; do not chart them against the Economist series as if comparable.
+10. **"First price lock of this kind in over a decade"** (re: the Jan 2026 Canada price promise) — this phrasing appeared in deal-blog coverage; it was not verbatim in the press-release text we captured. Confirm against the full official release before using the "first in a decade" superlative.

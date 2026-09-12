@@ -288,6 +288,338 @@ All others: **no published values found — every bird's label gets an on-camera
 
 ---
 
+# PART 2 — LAW AND ECONOMICS (law/economics agent dossier, verbatim)
+
+# LAW + ECONOMICS DOSSIER — "Cooked Costs LESS Than Raw": The Rotisserie Chicken Investigation
+
+**Prepared for:** Canadian Counter (store-comparison episode: 9 rotisserie chickens — Costco, Loblaws, Walmart & more)
+**Date compiled:** September 12, 2026
+**House-rule compliance:** No health claims are made anywhere in this dossier. Every claim carries a verbatim quote and/or URL with a date. Loss-leader pricing is lawful in Canada and is described as such throughout; nothing herein implies wrongdoing by any retailer. An UNVERIFIED / DO-NOT-USE list closes the document.
+
+---
+
+## SECTION 1 — LOSS-LEADER ECONOMICS, ON THE RECORD
+
+### 1.1 The Costco US $4.99 chicken: the price that hasn't moved
+
+**Price history.** The Hustle (author Zachary Crockett, published June 24, 2024) reports the $4.99 price has held since 2009, when Costco returned it to that level after a brief increase during the 2008 financial crisis; the bird launched around 2000 at $4.99.
+Source: https://thehustle.co/the-economics-of-costco-rotisserie-chicken
+
+CNN Business (Nathaniel Meyersohn, October 11, 2019; syndicated verbatim by WTVR and other CNN affiliates) documented that Costco held at $4.99 while competitors moved to $5.99.
+Source (CNN syndication, full text accessible): https://www.wtvr.com/2019/10/11/costco-builds-giant-poultry-complex-to-keep-its-rotisserie-chickens-at-4-99
+
+### 1.2 CFO Richard Galanti, on the record
+
+**The famous 2015 quote (analyst call, as reported by Fortune, Benjamin Snyder, May 29, 2015):**
+
+> "I can only tell you what history has shown us: When others were raising their chicken prices from $4.99 to $5.99, we were willing to eat, if you will, $30 to $40 million a year in gross margin by keeping it at $4.99"
+
+Source: https://fortune.com/2015/05/29/costco-chicken-prices — Fortune's headline framing: "This surprising thing is costing Costco $40 million per year." The CNN 2019 piece carries the companion line, attributed to Galanti: **"That is what we do for a living."** (WTVR/CNN, Oct 11, 2019, URL above.)
+
+**Galanti in 2014, on why the price was worth defending (as quoted in the same CNN Business story):**
+
+> "As prices changed dramatically and we saw the competition raising the price, it was a hot price."
+
+**Galanti in 2023 (earnings call, reported by Fox Business, Daniella Genovese, March 3, 2023):** Galanti said the warehouse club kept its rotisserie chicken at $4.99 because it
+
+> "is an investment in low prices to drive membership – to drive the sales in a big way."
+
+Source: https://www.foxbusiness.com/lifestyle/costco-maintaining-rotisserie-chicken-prices (article dated March 3, 2023, quoting "the retailer's earnings call this week" — Costco's Q2 FY2023 call was held March 2, 2023; verify quarter label before naming it on screen).
+
+### 1.3 The Nebraska play: Costco built its own chicken plant to protect the price
+
+CNN Business, October 11, 2019 ("Costco builds giant poultry complex to keep its rotisserie chickens at $4.99," Nathaniel Meyersohn; syndicated at WTVR, URL above) — key on-record facts:
+
+- **$450 million** investment; plant in **Fremont, Nebraska** (operated by Lincoln Premium Poultry); **nearly 400,000 square feet; 950 workers**; capacity **~2 million birds a week / ~100 million chickens a year — about 40% of Costco's annual chicken needs**.
+- **Jeff Lyons, Costco Senior VP of Fresh Foods**, on annual rotisserie volume: *"We're right about 100 million right now."* And on why Costco specifies a smaller bird than the US industry norm: *"We couldn't take a seven-pound bird or an eight-pound bird and make it work."*
+- Costco sold **91 million rotisserie chickens in 2018** (per the same article).
+
+Trade-press corroboration: WATT Poultry, "Inside Costco's new, $450 million chicken operation" — https://www.wattagnet.com/broilers-turkeys/article/15530623/inside-costcos-new-450-million-chicken-operation-wattagnet — Lincoln Premium Poultry opened September 2019; ~1,200 team members; ~2 million chickens/week; 400,000 sq ft plant + 90,000 sq ft hatchery + feed mill (figures as summarized by Greater Omaha Chamber and WATT coverage; see also https://www.omahachamber.org/lincoln-premium-poultry-building-a-generational-success-story-in-nebraska/).
+
+The Hustle (June 24, 2024, URL above) adds, attributed to its own reporting: the Nebraska complex fulfills roughly **43% of Costco's rotisserie supply and 33% of its raw chicken supply**, with projected savings of **up to $0.35 per rotisserie chicken**; and quotes **John Longo, professor at Rutgers Business School**, on the loss-leader logic:
+
+> "Very few people simply buy the chicken and leave. They probably shop for other items that provide higher profit margins."
+
+### 1.4 Costco's chicken volumes, year by year (all attributed)
+
+| Fiscal year | Rotisserie chickens sold | Source (dated) |
+|---|---|---|
+| 2018 | 91 million | CNN Business, Oct 11, 2019 (WTVR syndication, URL above) |
+| 2019 | ~100 million ("right about 100 million" — Jeff Lyons, SVP Fresh Foods) | same |
+| 2020 | 101 million (globally) | CBC Cost of Living, Apr 19, 2022 (photo caption): "In 2020, Costco sold 101 million rotisserie chickens globally." https://www.cbc.ca/radio/costofliving/rotisserie-chicken-secrets-1.6418773 |
+| 2021 | 106 million — "Costco alone said it sold 106 million rotisserie chickens globally in the 2021 fiscal year." | CBC Cost of Living, Apr 19, 2022 (verbatim from article) |
+| 2023 | 137 million | Seattle Times, "Hot dogs and chickens by the millions: Just how big was Costco's 2023?" (Dec 2023) https://www.seattletimes.com/business/hot-dogs-and-chickens-by-the-millions-just-how-big-was-costcos-2023/ (figure widely reported from Costco's December 14, 2023 Q1-FY24 earnings call; see caveat in Section 8) |
+| 2025 | 157.4 million (globally) | Tasting Table, Jaimie Mackey, July 10, 2026: "Costco sold 157.4 million rotisserie chickens globally in 2025," citing Costco's annual shareholders report; same article: 245.1 million hot dog/soda combos and $269.9 billion total FY2025 sales. https://www.tastingtable.com/2207713/how-many-rotisserie-chickens-costco-sold-2025/ |
+
+### 1.5 The Canadian record: CBC's Cost of Living investigation (the single best Canadian source for this episode)
+
+CBC Radio, *The Cost of Living*, "Why prepared rotisserie chickens are cheaper than ones you cook yourself," **producer Danielle Nerman, posted April 19, 2022**: https://www.cbc.ca/radio/costofliving/rotisserie-chicken-secrets-1.6418773
+
+Verbatim, on-record findings (all from the article):
+
+- **Canadian price landscape:** "The pre-cooked birds are priced between $8 to $12 at larger grocery chains in Canada, but barring a sale in the meat department, raw chickens can often cost more per bird at those same grocery outlets."
+- **Costco Canada price, dated:** "Rotisserie chickens from a Costco warehouse in Calgary cost $7.99 a cluck." (photo caption, Anis Heydari/CBC)
+- **CBC's own per-kilogram math (Calgary Costco):** rotisserie chicken $7.99; cooked weight 1.35 kg; adding 25% for cooking shrinkage gives "a theoretical pre-rotisserie weight of 1.64 kg… At $7.99 for 1.64 kg, the rotisserie bird would be priced at $4.88 per kilogram. This compares to $6.49 per kilogram for a raw, whole chicken at the same store. Buying a whole uncooked chicken at Costco will cost you 33 per cent more per kilogram than buying a rotisserie chicken from the same outlet."
+- **The chains stayed silent:** "Major Canadian chains, including Loblaws, Sobeys, Save-On-Foods, Costco and Metro declined to comment on pricing strategies for their chickens."
+- **Smaller birds on the spit (Rowe Farms, Ontario grocer, on record):** "Raw birds in the cooler section usually weigh between 1.6 and 1.8 kilograms, while chickens destined for the rotisserie spit are about 1.2 kg."
+- **Loss leader, said plainly and attributed:** "Rotisserie chickens are also a loss leader according to retailers such as Rowe Farms. This means grocers actually lose money on them, and sell them below cost as a way to get customers into stores to ostensibly buy more items."
+- **Calgary Co-op, named spokesperson on record (Barb Munro, corporate communications adviser):** "Our rotisserie chickens are priced the way they are as a convenience to our members. An oven roasted chicken is a fast and easy dinner option, and our members are likely going to fill their baskets with other items while they are buying a chicken… It's a win-win for our members and our stores."
+- **Named academic — food economist Andreas Boecker, University of Guelph (professor and chair, Dept. of Food, Agricultural and Resource Economics):** "When people are under time stress, they take a lot of mental shortcuts. And they often do not do price comparisons… So that leaves the opportunity for the retailer. They can even design the store in a way that after you pick the rotisserie chicken, you see other items in the store and things that are complementary to it."
+- **Named academic — Casey Owens, professor of poultry science, University of Arkansas**, on why rotisserie birds are uniform and smaller: "If they [grocery stores] get a carcass or chicken that's a little bit larger than that, it may not reach that temperature in the the right amount of time. So it's going to be very important that those chickens that they're rotissering are very uniform in size for food safety purposes."
+
+### 1.6 Loss-leader pricing is lawful — say it exactly this way
+
+Selling an item below cost to draw traffic is a normal, legal retail practice in Canada. The Competition Bureau's **Abuse of Dominance Enforcement Guidelines** (published March 7, 2019) reserve concern only for a narrow, dominant-firm scenario, and state verbatim:
+
+> "Vigorous competition on the merits (e.g., offering superior services at a lower price) may force competitors to be more effective or result in their exit from a market, but does not engage the abuse of dominance provisions."
+
+The same guidelines define the conduct that *would* raise questions — deliberately pricing below cost "to eliminate, discipline, or deter entry or expansion of a competitor, in the expectation that the firm will thereafter recoup its losses by charging higher prices" — a fact pattern nobody alleges of grocery rotisserie programs.
+Source: https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/abuse-dominance-enforcement-guidelines
+
+Suggested on-air phrasing: *"Loss-leader pricing is perfectly legal — the Competition Bureau only worries about below-cost pricing in rare dominant-firm situations, and low prices that pull you in the door aren't one of them."*
+
+---
+
+## SECTION 2 — THE TAX TWIST (verified against the statute and CRA's own memorandum)
+
+**This is the GOLD beat, and it checks out: a HOT rotisserie chicken carries GST/HST; the SAME chicken, cooked, chilled and sold from the cooler, is zero-rated basic groceries. The raw bird is always zero-rated.**
+
+### 2.1 The statute — Excise Tax Act, Schedule VI, Part III ("Basic Groceries"), section 1 (verbatim, laws-lois.justice.gc.ca, accessed September 12, 2026)
+
+> "1 Supplies of food or beverages for human consumption (including sweetening agents, seasonings and other ingredients to be mixed with or used in the preparation of such food or beverages), other than supplies of …
+> **(o) food or beverages heated for consumption;**
+> (o.1) salads not canned or vacuum sealed;
+> (o.2) sandwiches and similar products other than when frozen;
+> (o.3) platters of cheese, cold cuts, fruit or vegetables and other arrangements of prepared food;
+> (o.4) beverages dispensed at the place where they are sold;
+> (o.5) food or beverages sold under a contract for, or in conjunction with, catering services; …"
+
+Source: Excise Tax Act, R.S.C. 1985, c. E-15, Schedule VI, Part III, s. 1 — https://laws-lois.justice.gc.ca/eng/acts/e-15/page-140.html
+
+Translation for the script: zero-rated means 0% GST/HST. A raw whole chicken is basic groceries → 0%. "Food … heated for consumption" is carved OUT of zero-rating → taxable at 5% GST (or 13–15% HST depending on province).
+
+### 2.2 CRA's own words — GST/HST Memorandum 4.3, *Basic Groceries* (January 2007; replaces the November 1997 edition)
+
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html
+
+> **Paragraph 102:** "Food or beverages heated for consumption are excluded from zero-rating under paragraph 1(o) of Part III of Schedule VI."
+
+> **Paragraph 103 (verbatim, in full):** "Food or beverages heated for consumption include food and beverages supplied by establishments (e.g., grocery stores or restaurants) that sell hot food and beverages that have been heated or kept hot so that they can be consumed hot. The tax status of any cooked foods depends on the way they are sold. For example:
+> - if they are sold from a heated cabinet, they are taxable;
+> - if the establishment has a separate take-out counter, any hot foods sold from this counter are taxable; or
+> - if the food and beverages are purchased and heated at the point of purchase, they are taxable.
+>
+> If the cooked foods are cold and are sold from unheated or refrigerated shelves at other counters to be subsequently re-heated prior to consumption, they are zero-rated."
+
+**So, per CRA's published administrative position:**
+- Rotisserie chicken in the heated cabinet or hot counter → **taxable** ("sold from a heated cabinet, they are taxable").
+- The same cooked chicken, cooled and sold from the refrigerated case to be re-heated at home → **zero-rated** ("cold and … sold from unheated or refrigerated shelves … to be subsequently re-heated prior to consumption, they are zero-rated").
+- The raw whole chicken → zero-rated basic groceries throughout.
+
+**What the tax is worth on camera:** on a $8.99 hot chicken — Ontario (13% HST): **$1.17**; Alberta/territories (5% GST): **$0.45**; Atlantic HST provinces (15%): **$1.35**; Quebec (5% GST + 9.975% QST — QST broadly parallels the GST rules on prepared food): ≈ **$1.35**. (Arithmetic is ours; verify each till receipt on camera — the receipts themselves are the best prop.)
+
+### 2.3 The Ontario "$4-or-less" rebate — real, but irrelevant to a chicken
+
+Ontario runs a point-of-sale rebate of the provincial part of the HST on cheap prepared food. CRA GST/HST Info Sheet **GI-064**, "Harmonized Sales Tax for Ontario — Point-of-Sale Rebate on Prepared Food and Beverages" (July 2010), verbatim:
+
+> "The Government of Ontario provides a point-of-sale rebate of the provincial part of the HST payable on qualifying prepared food and beverages." … the condition: "The total price, excluding HST, must not be more than $4 for all qualifying prepared food and beverages sold to a person at a particular time."
+
+Source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
+
+No rotisserie chicken in this episode sells for $4.00 or less, so in Ontario the hot bird pays the **full 13%**, not the reduced 5%. Clean one-liner: *"Ontario forgives the provincial tax on prepared food — but only up to four dollars. Your chicken blew past that in 2009."*
+
+### 2.4 The two months the twist vanished (great dated aside)
+
+Under the federal GST/HST holiday, **"December 14, 2024, to February 15, 2025,"** no GST/HST was charged on qualifying items, including — verbatim from the Government of Canada page (now marked closed) — **"Prepared foods including sandwiches, salads, vegetable or cheese platters, and pre-made meals."** Hot grocery chicken briefly rode tax-free; the break has ended.
+Source: https://www.canada.ca/en/services/taxes/child-and-family-benefits/gst-hst-holiday-tax-break.html (see also Dept. of Finance, "More money in your pocket," Nov 21, 2024: https://www.canada.ca/en/department-finance/news/2024/11/more-money-in-your-pocket.html)
+
+---
+
+## SECTION 3 — SUPPLY MANAGEMENT: WHY CANADIAN CHICKEN IS PRICED THE CANADIAN WAY
+
+### 3.1 The system, in the industry's own words
+
+Chicken Farmers of Canada (CFC), "How Does It Work?" (accessed September 12, 2026) — https://www.chickenfarmers.ca/how-does-it-work/ — verbatim:
+
+- The three pillars: **"production planning, import control, and producer pricing."**
+- Setting supply: **"Chicken Farmers of Canada Directors meet every eight weeks to determine how much chicken must be produced"** — considering "provincial requests, indications from industry stakeholders, market forces, and how much chicken Canadians are eating."
+- Quota: **"Regulated chicken farmers buy quota in order to grow chicken that will then be shipped to processors."**
+- Imports: the system relies on **"tariff rate quotas with effective over-quota tariffs to control imports of chicken products in all their forms."**
+- Pricing: **"Canadian chicken farmers collectively negotiate a minimum farm gate price – what they receive when their products leave the farm – which is based on the cost of production."**
+- The pitch: farmers get "a fair return," processors "a reliable supply," and Canadians "a consistent choice of excellent and high-quality chicken at reasonable prices – all without government subsidies."
+
+### 3.2 Scale of the industry (Government of Canada figures)
+
+Agriculture and Agri-Food Canada, "Canada's chicken industry" (page last updated June 24, 2026) — https://agriculture.canada.ca/en/sector/animal-industry/poultry-and-egg-market-information/chicken — verbatim: **"the 2,834 regulated chicken producers in Canada produced 1.4 billion kilograms"** of chicken (eviscerated weight) in 2025; chicken production generated **$4 billion** in farm cash receipts in 2025.
+
+Statistics Canada, The Daily, "Poultry and egg statistics, May 2024 and annual 2023" (released May 30, 2024) — verbatim: **"Total Canadian chicken production (that includes stewing hens) rose 3.3% year over year to 1.4 billion kilograms in 2023."**
+Source: https://www150.statcan.gc.ca/n1/daily-quotidien/240530/dq240530c-eng.htm
+
+### 3.3 The over-quota tariff wall (primary source: the Customs Tariff itself)
+
+CBSA, **Customs Tariff — Schedule, Chapter 2 (2026 edition, revised/issued January 1, 2026)** — https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch02-2026-eng.pdf — verbatim rates:
+
+- **Whole chicken, fresh/chilled or frozen, over access commitment** (tariff items 0207.11.92 / 0207.12.92): **"238% but not less than $1.67/kg"**
+- Within access commitment (0207.11.91 / 0207.12.91): "5% but not less than 4.74¢/kg or more than 9.48¢/kg"
+- **Chicken cuts, over access** (0207.13.92 bone-in / 0207.13.93 boneless): **"249% but not less than $3.78/kg"** (bone-in) and **"249% but not less than $6.74/kg"** (boneless)
+- And for **prepared/cooked chicken** — the rotisserie-relevant line — Chapter 16 (2026 edition): tariff items 1602.32.94/95, over access commitment: **"249% but not less than $5.81/kg"** (bone-in) and **"249% but not less than $10.36/kg"** (boneless). Source: https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch16-2026-eng.pdf
+
+How much gets in at the low rate: Global Affairs Canada, Notice to Importers No. 878, "Chicken and Chicken Products" (September 30, 2016 — structure current, but confirm the current serial before broadcast): the TRQ access level is the **greater of 39,900,000 kg (WTO) or 7.5% of the previous year's domestic production** (originally negotiated under NAFTA); imports outside a shipment-specific permit "will be subject to the higher over access rate of duty."
+Source: https://www.international.gc.ca/controls-controles/prod/agri/chicken-poulet/notices-avis/878.aspx?lang=eng
+
+Suggested neutral framing on why Canadian and US shelf prices differ: Canada plans supply and negotiates farm-gate prices on cost of production (CFC, above) and keeps a 238–249% tariff wall on over-quota imports (Customs Tariff, above); the US market is unmanaged. State the mechanics; let viewers draw conclusions.
+
+### 3.4 StatCan retail price series — Table 18-10-0245-01, Canada level (computed from the full-table CSV, downloaded September 12, 2026)
+
+Table: "Monthly average retail prices for selected products" — https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
+
+| Product (vector) | Jan 2017 | Jul 2026 (latest) | Change | Series peak |
+|---|---|---|---|---|
+| **Whole chicken, per kilogram** (v1353834277) | $5.15 | $7.62 | **+48.0%** | $8.57 (Feb 2026) |
+| **Chicken breasts, per kilogram** (v1353834278) | $11.38 | $14.68 | **+29.0%** | $15.94 (Jul 2022) |
+| Chicken drumsticks, per kilogram (v1353834313) | $5.99 | $6.69 | +11.7% | $8.26 (Dec 2023) |
+
+(Percent changes are our arithmetic on StatCan values; the CSV is archived for the production file.)
+
+**US comparison (for context, native units):** US Bureau of Labor Statistics average price series APU0000706111, "Chicken, fresh, whole, per lb., U.S. city average": **US$2.012/lb in August 2026** (≈ US$4.44/kg; conversion ours). Source: https://data.bls.gov/timeseries/APU0000706111 (retrieved via BLS public API, September 12, 2026). Any CAD conversion moves with the exchange rate — quote both currencies rather than converting on air.
+
+**Landing the episode thesis with public numbers:** StatCan's average whole raw chicken in July 2026 is **$7.62/kg**. A $7.99–$8.99 rotisserie chicken weighing ~1.2–1.35 kg cooked is at or below the *average national raw price for the meat alone* — before spices, labour, energy and packaging. Pair with CBC's 2022 Calgary math ($4.88/kg cooked-equivalent vs $6.49/kg raw at the same Costco, Section 1.5).
+
+---
+
+## SECTION 4 — LABELLING LAW FOR THE BIRD
+
+### 4.1 Solution-added ("seasoned") poultry — the ham regime applies to chicken too
+
+**Food and Drug Regulations (C.R.C., c. 870), current to 2026-07-21, last amended 2026-06-17** (laws-lois.justice.gc.ca):
+
+> **B.01.090 (1)** "No person shall offer for sale at retail any solid cut meat or solid cut poultry meat to which phosphate salts or water has been added, unless that meat or poultry meat is contained in a package and carries a label."
+> **B.01.090 (2)** "The label referred to in subsection (1) shall contain a statement of the minimum percentage of meat protein as part of the common name of the product on the principal display panel of the package in type that is as legible and conspicuous as any other type on that display panel, and in letters that are at least one half of the size of the letters used in the common name of the product but that are not less than 1.6 mm in height."
+> Source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.090.html
+
+> **B.01.091** "The label of any solid cut meat or solid cut poultry meat that has had phosphate salts or water added to it, that is not cured and that is prepackaged at retail shall contain a statement of the ingredients contained in the food in accordance with subsections B.01.008.2(1) to (5) and (7)." — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.091.html
+
+> **B.01.092** "Sections B.01.090 and B.01.091 do not apply in respect of side bacon, Wiltshire bacon, pork jowls, salt pork or salt beef." (i.e., chicken gets no exemption) — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.092.html
+
+**Poultry-specific minimums — Division 22 (Poultry):**
+
+> **B.22.012 (1)** "No person shall sell solid cut poultry meat to which food additives or water have been added unless (a) in the case where the meat is cooked, it has a meat protein content of at least 12 per cent; and (b) in the case where the meat is uncooked, it has a meat protein content of at least 10 per cent. (2) A bone or visible fat layer is excluded in calculating the meat protein content." — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.22.012.html
+
+> **B.22.013** "No person shall sell the whole or any part of a dressed poultry carcass that has been placed in a chilling tank containing fluids to which phosphate salts or lactate salts have been added." — https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.22.013.html
+
+**"Seasoned" on the carcass label — Safe Food for Canadians Regulations, via CFIA:** CFIA's "Labelling requirements for meat and poultry products" (inspection.canada.ca, accessed September 2026), verbatim: **"When interprovincially traded, imported or exported, the label of a consumer prepackaged poultry carcass that is dressed or partially dressed and has been graded and seasoned must be labelled with the words 'Seasoned' / 'assaisonné' [293, SFCR]."**
+Source: https://inspection.canada.ca/en/food-labels/labelling/industry/meat-and-poultry-products
+
+Practical episode use: many rotisserie programs inject or tumble birds with a salt/phosphate solution before roasting. If a *prepackaged raw* seasoned bird is sold at retail, the protein-percentage-in-the-name regime above is what forces names like "seasoned young chicken, minimum X% meat protein." Read the 9 labels against this.
+
+### 4.2 What the hot-counter chicken must show — and the Nutrition Facts exemption
+
+**In-store cooked (rotisserie/BBQ) product labels** — CFIA, same page, verbatim:
+
+> "Meat and poultry products barbecued, roasted or broiled on the retail premises where sold must be labelled to inform the consumer about the safe storage requirements for cooked meats, poultry and their by-products [B.01.003(1)(b) to (c), FDR]. These labels must include, the common name of the product on the principal display panel, the name and principal place of business of the distributor, the packaging date and the net quantity (by weight) of the meat or poultry product being sold."
+
+**Why there's no Nutrition Facts table on many store-made birds** — FDR **B.01.401(2)** (verbatim, laws-lois, current to 2026-07-21): "Subsection (1) does not apply to a prepackaged product if … (b) the product is …
+
+> **(v)** sold only in the retail establishment where the product is prepared and processed from its ingredients, including from a pre-mix if an ingredient other than water is added to the pre-mix during the preparation and processing of the product,
+> …
+> **(vii)** an individual serving that is sold for immediate consumption and that has not been subjected to a process to extend its durable life, including special packaging …"
+
+Also relevant: **B.01.401(2)(b)(iii)** exempts "a raw single ingredient meat, meat by-product, poultry meat or poultry meat by-product" — which is why the plain raw bird has no Nutrition Facts table either (note **B.01.401(3)(d)**: ground meat/poultry loses that exemption).
+Source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/section-B.01.401.html
+
+Episode beat: a chicken roasted in-store and sold there can legally carry no Nutrition Facts table (prepared-and-sold-on-premises exemption), while a nationally distributed prepackaged cooked chicken generally must carry one. Compare the 9 packages.
+
+**Bonus label to hunt for:** "previously frozen" — FDR B.01.080(2), via CFIA (same page, verbatim): thawed meat/poultry "must declare the words 'previously frozen' … on their principal display panel or on a sign displayed adjacent to the food in letters that are easily visible and legible."
+
+### 4.3 Canada A grading — who grades and what it means
+
+**Canadian Grade Compendium: Volume 1 – Poultry Carcasses** (incorporated by reference under the Safe Food for Canadians Regulations; CFIA page last modified April 28, 2021): poultry grades are **"Canada A, Canada Utility and Canada C."** Canada A requirements (as summarized from the Compendium's tables for chicken): carcass "not deformed except for a slightly crooked keel bone," "moderately plump breasted" with prescribed fat cover, "no prominent discolourations exceeding an area of 1.6 cm² in the aggregate on the breast," minimal skin tears, "no broken or dislocated bones."
+Source: https://inspection.canada.ca/en/about-cfia/acts-and-regulations/list-acts-and-regulations/documents-incorporated-reference/canadian-grade-compendium-volume-1
+
+Who applies the grade: per CFIA's meat labelling page (Section 4.2 source), under the SFCR the grade mark is applied by **"a grader, or the licence holder under the direct supervision of a grader."**
+
+Key nuance for the script: **grade = appearance/conformation of the carcass, not taste and not a food-safety tier.** CFIA, "Grades for food" (inspection.canada.ca, accessed September 2026), verbatim: "Grades establish product quality requirements depending on the food commodity, which may include parameters such as flavour, aroma, texture, colour, moisture, size, maturity, firmness, shape, cleanliness, density, clarity, fat content, condition…" — https://inspection.canada.ca/en/food-labels/labelling/industry/grades-food
+
+---
+
+## SECTION 5 — THE ECONOMICS OF THE COMPARISON
+
+### 5.1 Chicken is Canada's most available meat (StatCan, primary data)
+
+Statistics Canada **Table 32-10-0054-01, "Food available in Canada"** (full-table CSV downloaded September 12, 2026) — https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210005401 — 2025 values, kilograms per person, per year:
+
+| Meat | Food available, 2025 | Adjusted for losses (boneless), 2025 |
+|---|---|---|
+| **Chicken** (eviscerated weight v108802 / boneless v20808613) | **35.64 kg** (eviscerated); 21.45 kg boneless | 17.51 kg |
+| Beef (carcass v108859 / boneless) | 22.92 kg (carcass); 14.19 kg boneless | 10.86 kg |
+| Pork (carcass v108847 / boneless) | 19.27 kg (carcass); 14.09 kg boneless | 9.56 kg |
+| Turkey (eviscerated v108824) | 3.31 kg | 1.64 kg |
+
+On any of these bases, chicken leads by a wide margin. Industry corroboration: Chicken Farmers of Canada states "chicken is the most consumed meat in Canada" (chickenfarmers.ca, accessed September 2026); CBC's 2022 piece: "According to poultry producers, chicken has been the most consumed meat in Canada, as well as the United States, for years."
+
+### 5.2 The HMR (home-meal-replacement) boom — and the chicken at the centre of it
+
+- **Canadian Grocer** (Rebecca Harris, November 28, 2025), "Consumers crave more from home-meal replacements," citing **NielsenIQ**: HMR dollar sales **rose 3.1%** in the year ended April 25, 2025; category breakdown — sushi/specialty Japanese **+8.1%**, deli meals **+5.8%**, prepackaged sandwiches **+3.4%**, **cooked chicken +2.4%**, deli pizza +1.7%. Citing **Mintel** (Joel Gregoire, associate director, food and drink): asked what they typically buy among prepared meals, **"Roast chicken was the winner by a substantial margin."** https://canadiangrocer.com/consumers-crave-more-home-meal-replacements
+- **Canadian Grocer / The Canadian Press** (Rosa Saba, March 17, 2025): per NielsenIQ, **92% of Canadians** bought a grocery-store meal in the past year; Canadians spent **$3.6 billion** on grocery meals — about **420 million meals**, averaging **$8.55 per meal**. **Carman Allison, VP business development, NielsenIQ Canada**, described rotisserie chicken as a staple of grocery-store meals that "drives a lot of traffic" (per the article). https://canadiangrocer.com/grocers-ramp-ready-made-meals-canadians-balance-convenience-and-costs
+- Nice symmetry for the script: the average grocery meal ($8.55, NielsenIQ) costs almost exactly what most of your nine chickens cost.
+
+### 5.3 The clean explanation of "cooked costs less than raw" — every leg documented
+
+1. **Smaller, uniform birds on the spit** — Rowe Farms: raw cooler birds 1.6–1.8 kg vs ~1.2 kg rotisserie (CBC, Apr 19, 2022); Costco's Lyons: "We couldn't take a seven-pound bird or an eight-pound bird and make it work" (CNN, Oct 11, 2019).
+2. **Deliberate loss-leader/traffic pricing** — Rowe Farms ("loss leader"), Calgary Co-op's Munro ("fill their baskets with other items"), Costco's Galanti ("willing to eat … $30 to $40 million a year in gross margin"), Rutgers' Longo ("They probably shop for other items that provide higher profit margins").
+3. **Scale and vertical integration** — 157.4 million birds in FY2025 (Tasting Table, Jul 10, 2026); $450M Nebraska complex covering ~40% of needs (CNN, Oct 11, 2019).
+4. **Shopper psychology** — Guelph's Boecker: time-stressed shoppers "often do not do price comparisons" (CBC, Apr 19, 2022).
+5. **And the tax asymmetry cuts the other way** — the hot bird is the one carrying GST/HST (Section 2), which strengthens the honesty of the comparison: even *with* tax added, the cooked bird often still undercuts the raw one per kilogram.
+
+---
+
+## SECTION 6 — COMPETITION BUREAU / REGULATORY MATTERS ON CHICKEN
+
+- **Chicken-specific pricing cases: none found.** A search of Competition Bureau news and enforcement materials (September 12, 2026) surfaced **no Competition Bureau investigation, prosecution or settlement concerning chicken or poultry pricing in Canada**. State it that way: "none found," not "none exists."
+- **Do not import the bread case.** The Bureau's long-running packaged-bread price-fixing matter (Weston/Loblaw immunity; record fine against Canada Bread) is about **bread**, and this episode must not borrow it for chicken.
+- **Relevant and current, food-wide:** the Bureau announced on **June 16, 2026** a market examination of competition across Canada's food supply chain — "Behind the price tag: Examining the food supply chain" — covering production/processing, transportation/distribution, and retail pricing practices. Sources: https://www.canada.ca/en/competition-bureau/news/2026/06/competition-bureau-to-examine-competition-across-canadas-food-supply-chain.html and https://competition-bureau.canada.ca/en/how-we-foster-competition/notice-behind-price-tag-examining-food-supply-chain
+- **US, for context only (not Canada, use with care or omit):** US broiler-chicken price-fixing civil litigation and the class action over Costco chicken marketing claims exist in US courts (e.g., CBC News coverage of the US preservative-claims lawsuit, "Costco's beloved rotisserie chicken gets roasted in lawsuit over preservatives," https://www.cbc.ca/news/world/costco-chicken-lawsuit-9.7070891). These are allegations in ongoing/foreign proceedings — if mentioned at all, say "alleged" and note Costco disputes them ("fatally flawed," per company lawyers: https://www.cbc.ca/news/world/costco-chicken-9.7237331).
+
+---
+
+## SECTION 7 — QUICK-GRAB FACT CARD FOR THE SCRIPT
+
+- $4.99 in the US since 2009 (The Hustle, Jun 24, 2024); $7.99 at a Calgary Costco (CBC, Apr 19, 2022).
+- Galanti, 2015: "…willing to eat, if you will, $30 to $40 million a year in gross margin…" (Fortune, May 29, 2015).
+- 157.4 million Costco rotisserie chickens worldwide, FY2025 (Tasting Table, Jul 10, 2026, citing Costco's shareholders report).
+- Hot chicken = taxable; same chicken cold from the cooler = zero-rated (ETA Sch VI Pt III 1(o); CRA Memo 4.3 paras 102–103, Jan 2007).
+- Over-quota import tariff on whole chicken: "238% but not less than $1.67/kg" (Customs Tariff 2026, item 0207.11.92/12.92); cooked/prepared chicken over-quota: "249% but not less than $5.81/kg" bone-in (item 1602.32.94).
+- CFC directors set national production "every eight weeks" (chickenfarmers.ca).
+- StatCan whole raw chicken: $5.15/kg (Jan 2017) → $7.62/kg (Jul 2026), +48%; breasts $11.38 → $14.68, +29% (Table 18-10-0245-01).
+- Chicken availability 2025: 35.64 kg/person eviscerated — far ahead of beef and pork (Table 32-10-0054-01).
+- HMR: $3.6B, 420 million grocery meals, $8.55 average (NielsenIQ via Canadian Grocer/CP, Mar 17, 2025); "Roast chicken was the winner by a substantial margin" (Mintel via Canadian Grocer, Nov 28, 2025).
+
+---
+
+## SECTION 8 — UNVERIFIED / DO-NOT-USE LIST
+
+**Do not air these without further verification; each item states why.**
+
+1. **"Costco sells X% of all US rotisserie chickens" / "9 billion rotisserie chickens consumed in the US annually."** The Hustle-derived aggregates came back internally inconsistent in our extraction (a "900 million of 9 billion" figure that cannot be reconciled). DO NOT USE any US total-market rotisserie figure without re-pulling it from a named primary (NCC or Circana).
+2. **Exact venue of the 137-million FY2023 figure.** Widely reported (Seattle Times, Dec 2023) as coming from Costco's December 14, 2023 Q1-FY24 earnings call, but the Seattle Times page was paywalled to us and we did not read the call transcript directly. Verify the transcript before putting "Galanti said on the December 2023 call" on screen; otherwise attribute to "Costco, as reported by the Seattle Times, December 2023."
+3. **Exact venue/speaker for the FY2025 figure of 157.4 million.** Tasting Table (Jul 10, 2026) attributes it to "its annual shareholders report" without naming a speaker. Attribute to Costco investor communications via Tasting Table, or verify against Costco's January 2026 annual meeting materials.
+4. **The Fox Business "brand promise" quote's precise earnings call.** Article (Mar 3, 2023) says only "the retailer's earnings call this week" (Q2 FY2023 was Mar 2, 2023). Do not caption it "Q1 2023 call" (some aggregators do) without checking the transcript.
+5. **Any Sylvain Charlebois quote on rotisserie chickens as loss leaders.** Searched; **no specific on-record Charlebois rotisserie quote found.** Do not paraphrase him into the episode. (Use Boecker/Longo/Allison, who are on record, or interview Charlebois fresh.)
+6. **Current Costco Canada price ($7.99 vs $8.99 in 2026).** Our only dated documentation is CBC's $7.99 (Calgary, April 2022). Social posts suggesting later changes are unsourced. Use your own dated till receipts from the 9-store shoot as the on-air source.
+7. **"Loblaws charges tax on rotisserie chicken" from its website.** Search snippets suggested "Plus tax" wording on Loblaws.ca prepared-chicken listings, but we could not render those JS pages to confirm. Prove it with your own receipts, which is better television anyway.
+8. **Chicken TRQ notice currency.** GAC Notice to Importers No. 878 is dated September 30, 2016 and cites NAFTA; confirm the current serial (CUSMA-era) before quoting the 39.9M kg / 7.5% access formula on air. The tariff percentages themselves are verified from the 2026 Customs Tariff and are safe.
+9. **"2,800 farmers" from CFC's 2023 annual report.** Came through a search summary of a PDF we did not open. Use instead the verified AAFC line: "the 2,834 regulated chicken producers in Canada" (agriculture.canada.ca, updated Jun 24, 2026).
+10. **Canada Grade A requirement wording.** Our Canada A criteria are extracted summaries of the Compendium's technical tables, not continuous verbatim text. Pull the exact table cells from Canadian Grade Compendium Volume 1 before quoting them as law on screen.
+11. **US class-action allegations about Costco chicken (preservative claims; animal-welfare suits).** Allegations only, in US courts, contested by Costco. If used at all, heavy "alleged/US-only" framing; safer to omit entirely — it is not needed for the economics story and risks the "implying wrongdoing" line.
+12. **QST treatment nuance in Quebec.** We asserted QST "broadly parallels" GST on prepared foods; that is the general design of the QST but we did not pull Revenu Québec's own bulletin. Verify (Revenu Québec IN-216) before a Quebec-specific tax graphic.
+13. **Any implication that any retailer's below-cost pricing is unlawful or under investigation.** It is not, and this dossier documents the opposite (Section 1.6). Keep the "perfectly legal" framing in every cut.
+
+---
+
+**Archived working files** (for the production record, in the session scratchpad `/tmp/claude-0/-home-user-Food/63b91656-26a4-59d5-baf9-bd65edc4c0dd/scratchpad/`): StatCan full tables `18100245.csv` (retail prices) and `32100054.csv` (food availability) with computed series in `chick_prices.csv`; CBSA Customs Tariff PDFs `ch02-2026.pdf` / `ch16-2026.pdf` with extracted text; Justice Laws HTML for ETA Schedule VI (`eta_page-140.html`) and FDR sections B.01.090–.092, B.01.401, B.22.012–.013; CBC article capture `cbc_rot.html`; BLS series `bls_chicken.json`.
+
+---
+
 # PART 3 — POPULARITY ORDER AND HISTORY (popularity/history agent dossier, verbatim)
 
 # POPULARITY ORDER + HISTORY/NOSTALGIA DOSSIER

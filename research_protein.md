@@ -445,3 +445,180 @@ Comment-engine prompts: "Post your price per kg and your city" / "Which disconti
 2. Mainstream conquest: Tim Hortons protein latte, protein-washing everywhere.
 3. What Canadians actually buy: Kirkland/Costco value story, ON Gold Standard default, Popeye's vs GNC's retreat, Canadian brand roster.
 4. Heritage close: two brothers, a garage on Coloniale Street, a rented theatre in 1946, Crash Weight Gain #7, Arnold's plane ticket, an Order of Canada, and a Napoleon collection at the Montreal Museum of Fine Arts. "The entire modern supplement industry was built by two brothers from Montreal — and one of them never left."
+
+---
+
+# PART 2: LAW, ECONOMICS, TAX, PUBLIC RECORD
+
+*Research date: September 12, 2026. All quotes verbatim from cited sources. Jurisdiction labelled on every regulatory/legal item.*
+
+---
+
+## 1. THE TAX TWIST (centrepiece)
+
+### 1.1 The statute — Excise Tax Act, Schedule VI, Part III, s. 1 (Canada, federal)
+Zero-rating chapeau: "Supplies of food or beverages for human consumption (including sweetening agents, seasonings and other ingredients to be mixed with or used in the preparation of such food or beverages), other than supplies of" — (e) "candies, confectionery that may be classed as candy, or any goods sold as candies, such as candy floss, chewing gum and chocolate"; (n) "beverages (other than unflavoured milk)... except... (ii) when sold in multiples, prepackaged by the manufacturer or producer, of single servings, (iii) when the cans, bottles or other primary containers... contain a quantity exceeding a single serving" — https://laws-lois.justice.gc.ca/eng/acts/E-15/section-sched201390.html
+
+Structural point: protein powder is NOT on the exclusion list — CRA's position is that a dietary supplement is not "food" at all, so it never enters the zero-rated gate.
+
+### 1.2 CRA GST/HST Memorandum 4.3, Basic Groceries (January 2007) — exact federal wording
+(HTML: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html)
+
+**Para. 148 (dietary supplements taxable):**
+> "Products commonly referred to as dietary supplements are consumed for their therapeutic or preventative effects (e.g., to correct actual or perceived health problems), or to achieve specific beneficial effects related to performance or physique. ... Products commonly referred to as dietary supplements are not considered to be basic groceries and are not within the scope of section 1 of Part III of Schedule VI. As such, these products are taxable."
+
+**Para. 150 (protein named):**
+> "Dietary supplements may be made from natural or synthetic ingredients and include products such as vitamins, minerals, tonics, fibre, protein, amino acids, fatty acids, enzymes, herbal supplements, or compounds derived from plant or animal products. Dietary supplements are available in various forms including, but not limited to, tablet, pill, capsule, powder, liquid, gel, wafer and concentrates."
+
+**Para. 156 (label indicators):** "(b) Claims that the product • has a therapeutic or preventive effect, • enhances mental or physical performance, or • enhances physique. For example, 'Protein Product X builds muscle mass' ... (c) Emphasis on particular nutrient(s) not commonly regarded by a consumer as an ingredient (e.g. whey protein isolate)."
+
+**CRA's own whey-jug example — "Example 1, Not an ingredient – taxable" (after para. 159):**
+> "Protein Isolate and Phosphate Compound is a powdered combination of protein isolates and phosphate compounds. The product comes in strawberry, vanilla and chocolate flavours. It is labelled, marketed and promoted as a bodybuilding dietary enhancement. ... The resulting mixture has an appearance, texture and taste similar to that of a milkshake. ... The fact that Protein Isolate and Phosphate Compound is mixed with milk and ingested into the body by drinking does not mean that it is an ingredient used in the preparation of a beverage; rather, it is added to milk as a means of ingestion. ... Although the final product may have a pleasant taste, an average consumer would not purchase this product as a food or beverage."
+
+**Paras. 160-162 (meal replacements ZERO-RATED):**
+> "160. Meal replacement products, nutritional supplements and formulated liquid diet products that qualify as meal replacements, nutritional supplements (and not dietary supplements), and formulated liquid diet products under the Food and Drugs Act and Regulations are considered to be zero-rated basic groceries. All supplies of meal replacements, nutritional supplements and formulated liquid diet products are zero-rated except when sold from a vending machine."
+> "162. Energy bars and protein bars that qualify as meal replacements or nutritional supplements are zero-rated except when sold from vending machines. Supplies of other energy bars and protein bars are generally taxable..."
+
+**Food and Drug Regulations definitions (C.R.C., c. 870, s. B.01.001):**
+> "meal replacement means a formulated food that, by itself, can replace one or more daily meals"
+> "nutritional supplement means a food sold or represented as a supplement to a diet that may be inadequate in energy and essential nutrients"
+
+Mechanic for script: the jug of whey is a "dietary supplement" (taxable, full GST/HST); the bottle formulated and labelled to the FDR meal-replacement/nutritional-supplement standard — the category Ensure and Boost occupy — is a zero-rated basic grocery. Abbott's Canadian Ensure Plus page: "can be used with or between meals or, in appropriate amounts, as a meal replacement" (https://www.nutrition.abbott/ca/en/adult/ensure-plus). Bonus: even Ensure loses zero-rating "when sold from a vending machine."
+
+### 1.3 Protein BARS
+- Memo 4.3 para. 52: "Many bars on the market are labelled as energy bars or protein bars. These types of bars are generally taxable unless they qualify as meal replacements or nutritional supplements..."
+- **The "candy" ruling is real** — CRA GST/HST Ruling 44625 (June 25, 2003) (https://taxinterpretations.com/content/670691): "the product is promoted as an alternative to candy and has a coating that makes the bar similar in texture and substance to a chocolate bar. As such, the product falls under this exclusion and is taxable."
+- CRA Info Sheet GI-020 "Bars" confirms the scheme.
+
+### 1.4 RTD protein shakes — which side of the line?
+1. If the RTD qualifies as a meal replacement/nutritional supplement under the FDR (label says so): zero-rated under para. 160 regardless of bottle size (CRA Info Sheet GI-036 "Beverages").
+2. If it's just a beverage: para. 1(n) single-serving rule — memo 4.3 para. 28: "For GST/HST purposes, a single serving for beverages includes all servings under 600 mL in volume. Manufacturers' packages of two or more single servings are zero-rated, as are all servings larger than a single serving."
+So a lone 473 mL RTD at the gas station: taxable. The 12-pack of the same shake at Costco: zero-rated (if a beverage) — and zero-rated either way if labelled a meal replacement.
+
+### 1.5 Modern confirmation — CRA Ruling 204902 (Feb 24, 2022), plant-based protein powders
+(https://taxinterpretations.com/content/658662):
+> "Products A, B and C are not zero-rated basic groceries under section 1 of Part III of Schedule VI."
+> "Products that are consumed for the primary purpose of providing expected health benefits to the body do not fall within the meaning of a 'food' or 'beverage' simply because they are ingested into the body."
+> "the Products are not ingested as food, but rather are consumed with food and beverages simply as a means to aid ingestion and absorption by the body."
+
+### 1.6 The math on a $60 jug (September 2026 rates)
+| Province | Rate | Tax on $60 | Total |
+|---|---|---|---|
+| Alberta (GST only) | 5% | $3.00 | $63.00 |
+| Ontario (HST) | 13% | $7.80 | $67.80 |
+| Nova Scotia (HST — cut from 15% to 14% April 1, 2025) | 14% | $8.40 | $68.40 |
+| NB / NL / PEI (HST) | 15% | $9.00 | $69.00 |
+
+NS rate change verified: https://news.novascotia.ca/en/2024/10/23/nova-scotias-hst-drop-2025. The same $60 of Ensure or a qualifying meal-replacement product: $0 tax in every province.
+
+---
+
+## 2. FOOD vs NHP CLASSIFICATION ODDITY (protein-specific only)
+
+### 2.1 The interface guidance (Health Canada)
+"Guidance Document: Classification of products at the food–natural health product interface: products in food formats" — current version effective January 3, 2017 (https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/legislation-guidelines/guidance-documents/classification-products-at-food-natural-health-product-interface.html).
+> "These types of products may contain ingredients such as, but not limited to, vitamins and minerals, protein or protein isolates (for example, whey, soy, rice proteins), amino acids." (s. 4.0)
+Four factors: composition, representation, format ("Products in conventional food formats, as well as prepackaged, ready-to-consume drink products are commonly consumed ad libitum, which is consistent with most foods"), public perception/history.
+
+**What the viewer can check on the label:** a protein powder regulated as a FOOD carries a Nutrition Facts table; one licensed as an NHP carries an NPN number and a "Medicinal ingredients" panel; a supplemented food carries a Supplemented Food Facts table and possibly the exclamation-mark caution identifier. Same aisle, three different federal regimes.
+
+### 2.2 The migration is real: sports electrolytes reclassified as foods
+Health Canada Public Notice (dated 2026-04-23): "sports electrolyte products meet the definition of a food and are being classified as such"; NPN holders to "transition by December 31, 2027" (https://www.canada.ca/en/health-canada/services/food-nutrition/supplemented-foods/public-notice-classification-sports-electrolyte-products-foods.html). **Protein products are not mentioned — shows direction of travel only, do not overclaim.**
+
+### 2.3 Supplemented Foods Regulations (2022) — caution-box regime
+- FDR Division 29 published Canada Gazette Part II July 20, 2022; TMA products had "until December 31, 2025, to come into compliance" — from January 1, 2026 every supplemented food must wear the new labels.
+- CFIA: "SFs must carry a Supplemented food caution identifier (SFCI) on their principal display panel when the SF requires one or more cautionary statements on its label" (https://inspection.canada.ca/en/food-labels/labelling/industry/supplemented-foods)
+- Health Canada infographic: "The supplemented food caution identifier on the front of the package tells you there are cautions on the back of the package."
+- Guidance s. 4.2.11: "Only the L-isomers of amino acids are considered appropriate for addition to SFs as per the List of Permitted Supplemental Ingredients."
+- Nov 25, 2025: List modified to extend permitted caffeine uses to solid supplemented foods incl. protein-isolate-based bars.
+
+---
+
+## 3. PUBLIC RECORD FILE
+**Framing rule: allegation ≠ finding ≠ settlement. All US items are US litigation about US-sold products.**
+
+### 3.1 US "protein spiking" class actions (c. 2014-2016)
+Alleged (US courts): some manufacturers counted nitrogen from added free-form amino acids, creatine, glycine or taurine toward the label's "protein" grams (the standard federal test infers protein from nitrogen).
+
+**Durnford v. MusclePharm Corp., 907 F.3d 595 (9th Cir., Oct. 12, 2018):** complaint alleged "Iron Mass" overstated protein (label 40g; alleged testing 19.4g — complaint allegation, never proven). Ninth Circuit: FDCA preempts state-law claims about the AMOUNT measured by the federal nitrogen method, but does NOT preempt a claim "premised on the label's allegedly false or misleading implication that the supplement's protein came entirely from two specifically named, genuine protein sources." The court never ruled anyone's protein count was false. Outcome: mediated settlement of $0.15 million (MusclePharm 10-K FY2019 — https://www.sec.gov/Archives/edgar/data/1415684/000165495420009485/mslp_10k.htm).
+
+**Iovate (MuscleTech / Six Star / EPIQ / fuel:one) — US$2.5M settlement, Nov 2015:** class claims alleging protein spiking; up to $300/household (Law360: https://www.law360.com/articles/725630/iovate-settles-spiked-protein-accusations-for-2-5m). Per coverage, Iovate also "agreed to modify the testing, labeling, packaging, and advertising for its protein products to ensure that the nitrogen content attributed to amino acids, creatine, and other non-protein substances are not included in the protein calculation." **Settlement, explicitly not an admission or finding of wrongdoing.** US suit; US-sold products.
+
+**The essential caveat (PricePlow, Aug 23, 2026 — https://blog.priceplow.com/industry-news/protein-lawsuits):**
+> "No court in this corpus has adjudicated, on the merits, whether a challenged finished product actually contained less protein than its label represented."
+> Testing tables in complaints "are allegations taken from the complaints' testing tables, not judicial findings."
+A 2025-2026 second wave exists (PEScience, Huel, OWYN — all US, all allegations).
+
+### 3.2 Canadian equivalent?
+No Canadian protein-powder class action located. Closest: Actis Law Group investigating a proposed Quebec class action against Beyond Meat — "The labels and related marketing of Beyond Meat products are alleged to overstate the protein content and quality" (https://actislaw.org/class-actions/beyond-en). Investigation stage; adjacent; allegations only.
+
+### 3.3 Health Canada / CFIA recalls involving protein products (factual notices, no wrongdoing implied)
+- "Vega brand Organic Protein + Supergreens Vanilla Flavoured Drink Mix recalled due to pieces of plastic" — July 9, 2025; company Sequel Naturals, ULC; Class 3; online sales AB, BC, ON, QC (https://recalls-rappels.canada.ca/en/alert-recall/vega-brand-organic-protein-supergreenstm-vanilla-flavoured-drink-mix-recalled-due)
+- "Believe Supplements products recall: Contamination (milk derived proteins)" — March 26, 2025 (https://recalls-rappels.canada.ca/en/alert-recall/believe-supplements-products-recall-contamination-milk-derived-proteins)
+- Amplify "Peach Mango" powder — March 26, 2025, same issue class.
+- "Gummy Gainz Protein Candy" — July 7, 2026, "improperly declared milk" — a protein CANDY (callback to the 1(e) tax rule).
+- Historical: CFIA March 2011 Vitalabs whey warning (possible Salmonella); CFIA March 2012 BioX alert — **RESCINDED April 2012** when CFIA determined products did not contain egg. If BioX is used, the rescindment MUST be used.
+
+### 3.4 Competition Bureau / Ad Standards
+No enforcement action or adjudication specifically about protein-content claims on protein powders located. Report as "nothing located," not "nothing exists."
+
+### 3.5 Allmax file (brand appears clean in official records — handle with care)
+- No CFIA/Health Canada recall located. No FDA recall/import alert/warning letter located ("Allimax US" 2021 letter is a DIFFERENT company).
+- US private litigation (allegations only, competitor suit): Hi-Tech Pharmaceuticals v. HBS International Corp., No. 17-13884 (11th Cir., Dec. 4, 2018) — Hi-Tech alleged the AllMax HexaPro label overstated protein. Court affirmed dismissal of state-law claim as preempted; revived the Lanham Act claim — procedural ruling, expressly NOT a finding the label was false. Final disposition after remand NOT verified. NSF public notice re ALLMAX returned 403 — contents unknown, do not characterize.
+
+---
+
+## 4. WHEY ECONOMICS
+
+### 4.1 The mechanism (verified)
+Whey is the liquid left over from cheesemaking. Under supply management, milk output — thus cheese output, thus whey output — is quota-constrained. Global News (June 10, 2026): "Whey protein concentrate — for decades a cheap byproduct of cheese manufacturing...has become the most sought-after, strategically contested ingredient." Calgary owner Aelie Swift: "Whey has gone up about 100 per cent in cost over the last few years."
+
+### 4.2 The tariff-wall hole (verified, exact tariff items)
+- CBSA Memorandum D10-18-7: heading 04.04 covers whey; "Milk albumins of 35.02, including: Concentrates of two or more whey proteins containing 80% or more whey proteins (calculated on the dry matter)" sit OUTSIDE Chapter 4 entirely.
+- Customs Tariff rates: 0404.10.21 powdered whey within access: MFN 3.32¢/kg; **0404.10.22 over access: "208% but not less than $2.07/kg"** (the supply-management wall); **0404.10.10 whey protein concentrate: MFN 4.94¢/kg — own tariff item, no over-access rate**; 0404.90.20 other milk constituents over access: "270% but not less than $3.15/kg"; **3502.20.00 "Milk albumin, including concentrates of two or more whey proteins" (whey protein isolate territory, >80% protein): MFN 6.5%, duty-free under UST/CPTPP/CEUT — no TRQ.**
+- Translation: the more protein-concentrated the milk fraction, the easier it historically walked past the 208-270% dairy wall.
+
+### 4.3 Diafiltered milk / Class 7 (ADJACENT — flag)
+Same hole powered the diafiltered-milk saga; Canada created Class 7 pricing in 2017; USMCA required Canada to eliminate Classes 6 and 7 (CRS IF11149). Adjacency flag: that fight was about cheesemaking inputs (MPC/SMP), not retail powder — the honest connection is the MECHANISM.
+
+### 4.4 September 2026: the hole slams shut (very current)
+- US imposed Section 338 tariffs on dairy (proclamations July 20, 2026). Note: "the last USMCA panel on the subject, in November 2023, sided with Canada" (UW-Madison Extension).
+- Canada retaliated: Department of Finance, "List of products from the United States subject to counter-tariffs effective September 8, 2026" (https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html): 50% tariffs on "0404.10.10 | Whey protein concentrate", "0404.10.21 / 0404.10.22 | Powdered whey", "3502.20.00 | Milk albumin, including concentrates of two or more whey proteins", "3504.00.11 / 3504.00.12 / 3504.00.90 | Milk protein substances". Instrument: United States Surtax Order (2026); CBSA Customs Notice 26-23. Canada's counter-tariffs cover $27.6 billion of US imports.
+- Scale: "U.S. exports of whey protein concentrate to Canada were about 12,800 metric tons in 2025," ~US$82M incl. MPC (UW-Madison Extension).
+
+### 4.5 "The whey in your jug is mostly foreign milk" — VERDICT: SOFTEN, don't kill
+Verified: constrained domestic whey stream; ~12,800 MT US WPC to Canada 2025; WPI enters duty-free as "milk albumin." NOT verified: an official "majority" share statistic. Safe line: "much of the whey in Canadian jugs starts as foreign milk — and Canada's own tariff schedule long waved it through." Never "most."
+
+---
+
+## 5. MARKET ECONOMICS
+### 5.1 Market size — private firms diverge 4x; use with caveat or not at all
+Grand View: USD 1,327.9M (2025); Spherical Insights: USD 316.8M (2024); Mordor: USD 0.73B. No StatCan series located.
+
+### 5.2 The whey price surge (documented)
+- DCA Market Intelligence, April 29, 2026: "Prices for food-grade whey powder have risen to approximately €1,700 per tonne, the highest level on record." "Since the start of the year, prices have increased by more than 50%." "Whey is moving from a by-product to an ingredient with active demand."
+- US benchmark: dry whey above US$0.60/lb since September 2025 (corroborated via search; double-check before air). US high-protein whey exports record 77,811 MT in 2025.
+- Demand drivers (Global News): mainstream protein-washing plus GLP-1 users, "particularly among women over 35."
+- Canada kicker: on top of a record global whey market, Canadian importers of US whey now pay a 50% surtax as of September 8, 2026.
+
+---
+
+## 6. CROSS-BORDER PRICE CHECK (Sept 12, 2026)
+- Canada: SupplementSource.ca lists ON Gold Standard 5 lb at CAD $114.99 (sale; regular CAD $159.95). Note: Popeye's Ontario lists the product as **4.65 lb** — the Canadian "5 lb" jug has shrunk at some retailers (https://popeyesonlineorders.com/products/optimum-nutrition-100-gold-standard-whey-5lb).
+- US: ON's own US site lists 2 lb at USD $74.49 (re-confirm manually). Current US 5-lb street price NOT verified — do not air a current-gap percentage without pinning a same-week US price.
+- Exchange: ~1.38 CAD/USD (Bank of Canada, Sept 8: 1.37834).
+- The verifiable kicker: at Ontario checkout the CAD $114.99 jug takes 13% HST = **$14.95 of tax** (total $129.94) because it's a dietary supplement, not a basic grocery.
+
+---
+
+## PART 2 — UNVERIFIED / DO-NOT-USE
+1. DO NOT USE: any health/safety commentary — including the CBC lead-in-protein-powders story and Consumer Reports-type testing (implies products unsafe; off-limits per house rules).
+2. UNVERIFIED: "most" of Canada's whey protein is imported — use "much," never "most," until StatCan CIMT data (HS 0404.10, 3502.20) is pulled.
+3. UNVERIFIED: current US street price of ON Gold Standard 5 lb.
+4. UNVERIFIED: final disposition of Hi-Tech v. HBS (AllMax) after 2018 remand; NSF public notice re ALLMAX (403 — contents unknown, do not characterize).
+5. CAUTION: CRA Interpretation 30657 (Dec 27, 2000) predates the 2007 memorandum and 2022 ruling — do not use as current law.
+6. UNVERIFIED: exact supplemented-food cautionary phrases beyond "High caffeine content."
+7. Date discrepancy: Calgary retailer's "50 per cent increase in cost" (June 2026) predates the Sept 8 surtax — refers to price inflation, not the tariff. Don't conflate.
+8. Market-size figures diverge 4x — state only with the caveat.
+9. Allegation-labelling: Durnford (19.4g) and Hi-Tech HexaPro (17.914g) figures are complaint allegations, never judicially found. Iovate ($2.5M) and MusclePharm ($150K) are settlements without admission. The PricePlow line must accompany any lab numbers from complaints.
+10. Confirm the sports-electrolyte public notice date (2026-04-23) on the page before citing.

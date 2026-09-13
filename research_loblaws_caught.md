@@ -219,3 +219,101 @@ Sources: Loblaw Q4 releases (loblaw.ca; Feb 25, 2026 release via GlobeNewswire).
 11. Claims the Oct 2023 stabilization plans lowered prices — unverified; "promises on paper."
 12. PC/No Name brand revenue figures — no primary source.
 13. August 2026 CPI — not yet released as of Sept 13; re-check before final cut.
+
+---
+
+# PART 1: THE PUBLIC RECORD FILE
+*Research date: September 13, 2026. Tier labels: (a) ADMITTED/CONVICTED · (b) REGULATOR FINDING/STUDY · (c) LIVE ALLEGATION/PROCEEDING · (d) DOCUMENTED CONSUMER RECORD. Company defence quoted wherever one exists.*
+
+## FILE 1 — THE BREAD PRICE-FIXING FILE (the anchor)
+
+### 1.1 The arrangement — tier (a) for Loblaw/Weston's admission; tier (c) for the "15 increases" scope
+- Loblaw/Weston's own Dec 19, 2017 release: "George Weston and Loblaw announce actions taken to address role in industry-wide price-fixing arrangement involving certain packaged bread products" — period admitted: "late 2001 to March 2015." (https://www.loblaw.ca/en/george-weston-and-loblaw-take-action-to-address-industry-wide-anti-competitive-activity/)
+- The "~15 coordinated increases / ~$1.50 per loaf" figures come from Competition Bureau ALLEGATIONS in an ITO search-warrant filing (unsealed 2018) and plaintiffs' pleadings — NOT court findings. CBC on the court docs: increases "on at least 15 separate occasions," 7¢ wholesale → 10¢ retail per round (https://www.cbc.ca/news/business/bread-price-fixing-1.4728360). SCRIPT RULE: attribute to court filings/reporting, never as adjudicated fact.
+
+### 1.2 Dec 19, 2017 — admission and immunity — tier (a)
+- Company release: "As a result of their admission that they participated in the arrangement and their cooperation with the Competition Bureau's investigation, the Companies will not face criminal charges or penalties."
+- Galen G. Weston: "This sort of behaviour is wrong and has no place in our business or Canada's grocery industry. This should never have happened."
+- Bureau (June 21, 2023): "In exchange for their full cooperation with the Competition Bureau's investigation, Weston, Loblaw and GWL received immunity from prosecution."
+- The $25 Loblaw Card: company expected "between $75 and $150 million depending on customer take-up and to be an offset against civil liability Loblaw may face in this matter." ACTUAL: ~3.84 million Canadians registered; ~$96 million paid (CBC: https://www.cbc.ca/news/business/loblaw-25-gift-card-bread-price-fixing-1.4549723) — and the $96M was later credited against the civil settlement, exactly as designed.
+
+### 1.3 June 21, 2023 — Canada Bread pleads guilty, $50M — tier (a)
+Bureau release verbatim (https://www.canada.ca/en/competition-bureau/news/2023/06/canada-bread-sentenced-to-50-million-fine-after-pleading-guilty-to-fixing-wholesale-bread-prices.html):
+- "Canada Bread Company, Limited was fined $50 million today by the Ontario Superior Court after pleading guilty for its role in a criminal price-fixing arrangement."
+- "Canada Bread admitted that it arranged with its competitor, Weston Foods (Canada) Inc., to increase prices... The price-fixing resulted in two price increases, one in 2007 and one in 2011."
+- "The fine is the highest price-fixing fine imposed by a Canadian court to date."
+- Commissioner Matthew Boswell: "Fixing the price of bread — a food staple of Canadian households — was a serious criminal offence."
+- "At the time of the price-fixing, Canada Bread was under the ownership of Maple Leaf Foods."
+Ownership timeline: Maple Leaf held ~90% during the plea-covered conduct; Grupo Bimbo bought Canada Bread in 2014 for ~$1.83B. Canada Bread (Dec 2023 filings) claims conduct "was at the direction and to the benefit of its then-majority owner Maple Leaf Foods"; Bimbo alleges Maple Leaf "deliberately withheld knowledge of it... during the sales process." MAPLE LEAF DEFENCE (must quote if raised): Michael McCain — "Maple Leaf Foods and its officers acted appropriately at all times"; called the claim "meritless," "an abuse of judicial process"; Maple Leaf counter-sued for defamation Nov 2024. All tier (c) civil allegations, contested, untried.
+
+### 1.4 The $500M civil settlement — tier (a) court-approved settlement
+- July 25, 2024 company release: "...Announce Settlement of Class Action Lawsuits Concerning their Involvement in Historical Industry-Wide Bread Price-Fixing Arrangement" (https://www.loblaw.ca/en/george-weston-limited-and-loblaw-companies-limited-announce-settlement-of-class-action-lawsuits-concerning-their-involvement-in-historical-industry-wide-bread-price-fixing-arrangement/)
+- Split VERIFIED: $500M = $404M new cash + $96M credit for the card program. GWL pays $247.5M; Loblaw $252.5M ($156.5M cash + $96M credit).
+- Galen G. Weston: "On behalf of the Weston group of companies, we are sorry for the price-fixing behaviour we discovered and self-reported in 2015."
+- Approvals: Ontario (Justice Ed Morgan) May 7, 2025; Quebec judgment Aug 11, 2025. Claims closed Dec 12, 2025. Payouts began May 2026: $49.11 per claimant, or $24.11 for those who took the $25 card; cheques $2 less (Global News: https://globalnews.ca/news/11851421/bread-price-fixing-settlement-loblaw/). Administrator: canadianbreadsettlement.ca. Class period Jan 1, 2001 – Dec 31, 2021. Class counsel: "the largest anti-trust settlement in Canadian history."
+- STILL LIVE — tier (c): actions continue against Canada Bread, Sobeys, Metro, Walmart Canada, Giant Tiger (Ontario action certified ~$5B). DENIALS: Metro (Dec 2023 filing): "Metro has suffered, and continues to suffer, significant and unjustifiable damage to its reputation, having been falsely painted as involved in a criminal price-fixing conspiracy when it was not," alleging Loblaw/Weston sought to "spread the blame across the industry." Loblaw's reply: Metro's allegations are "simply ridiculous and utterly untrue, as will be made clear in court." (Global News: https://globalnews.ca/news/10183508/metro-accuses-loblaw-implications-alleged-bread-price-fixing/). Walmart "denies conspiring to fix the price of bread"; Sobeys says it was "falsely implicated"; Giant Tiger "denies participating in or knowing about the alleged conspiracy."
+
+### 1.5 Bureau criminal investigation status — tier (b)/(c)
+Bureau June 2023: "The Bureau continues to investigate alleged price-fixing by other companies, including Metro Inc., Sobeys Inc., Wal-Mart Canada Corporation, Giant Tiger Stores Limited, and Maple Leaf Foods Inc." As of the Bureau's June 16, 2026 food-sector summary: still continuing, NO charges against any of them (https://www.canada.ca/en/competition-bureau/news/2026/06/competition-bureaus-work-in-the-food-sector.html). Nine years in: two outcomes total — immunity (Loblaw/Weston/GWL) and one guilty plea (Canada Bread).
+
+## FILE 2 — PROPERTY CONTROLS
+### 2.1 June 27, 2023 market study — tier (b)
+"Canada Needs More Grocery Competition" (https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/canada-needs-more-grocery-competition), verbatim:
+- "Canada's grocery industry is concentrated. Most Canadians buy groceries in stores owned by a handful of grocery giants."
+- "In 2022, Canada's three largest grocers—Loblaws, Sobeys, and Metro—collectively reported more than $100 billion in sales and earned more than $3.6 billion in profits."
+- "Canadian grocers' food gross margins have generally increased over the last five years by a modest yet meaningful amount."
+- "A one percentage point increase in gross margins at grocery stores could add over $1 billion to Canadians' food bills each year."
+- Recommendation: "Take measures to limit property controls in the grocery industry, including, if warranted, to ban their use." CAVEAT: market study, not a finding of law-breaking.
+### 2.2 June 11, 2024 court orders — tier (c)
+Bureau: "Competition Bureau advances investigations into Sobeys and Loblaw's use of property controls" — Federal Court orders compel George Weston and Empire records; initial focus Halifax. "Property controls limit how real estate can be used... They can harm competition by making it difficult, or even impossible, for businesses to open new stores." MANDATORY: "There is no conclusion of wrongdoing at this time."
+Loblaw/GWL defence: "Restrictive covenants are very common in many industries, including retail. They help support property development investments, encouraging opening of new stores and capital risk-taking." Empire called the process "invalid and unlawful."
+### 2.3 Resolution track (dated)
+- Jan 2025: Sobeys removed a property control in Crowsnest Pass, Alberta after Bureau action.
+- June 12, 2025: LOBLAW COMMITS TO END PROPERTY CONTROLS (voluntary commitment, Bureau "monitoring" — NOT a consent agreement or finding): removing restrictive covenants from land titles or not enforcing them, no new ones, waiving exclusivity in Halifax and sole-grocer communities. Boswell: "The steps Loblaw is taking towards eliminating property controls will allow for healthier competition in the grocery sector." (https://www.canada.ca/en/competition-bureau/news/2025/06/competition-bureau-monitors-loblaws-commitment-to-end-property-controls.html)
+- June 22, 2026: Bureau expanded the Sobeys/Empire probe NATIONWIDE (new court orders; same no-wrongdoing line). July 21, 2026: Empire announced it will stop using/enforcing certain property controls.
+- Bonus (Bureau's own page): its earlier probe of Loblaw's supplier practices closed 2017 after "Loblaws ended many of the negative business practices that it had historically engaged in."
+
+## FILE 3 — GROCERY CODE OF CONDUCT
+- Dec 7, 2023: GALEN WESTON (not Bank) told the House committee Loblaw wouldn't accept the code as drafted; cited Australia — food industry groups AND the Australian code's Independent Reviewer publicly called the Australia claim inaccurate (Globe: https://www.theglobeandmail.com/business/article-food-groups-accuse-loblaws-chairman-galen-weston-of-misinformation/).
+- Loblaw spokesperson Catherine Thomas, Dec 13, 2023: "We remain aligned to a code of conduct, but will not sign one that is not in the best interest of our customers." The ">$1 billion" price-impact claim is Loblaw's, via reporter paraphrase — attribute as such, never in quotes.
+- Feb 2024: Commons committee told Loblaw and Walmart to sign or face legislation.
+- May 16, 2024 (two weeks into the boycott): Per Bank — "The code now is fair, and it will not lead to higher prices." Bank said the decision had nothing to do with the boycott — quote that too.
+- Status: all five majors committed July 18, 2024; Karen Proud first President/Adjudicator from March 17, 2025; code effective June 1, 2025; FULL enforcement from January 1, 2026. No public adjudicated complaints found as of research date.
+
+## FILE 4 — OTHER "CAUGHT" CANDIDATES (verified)
+### 4.1 Underweighted meat — tier (a) admitted error + tier (c) proposed class action
+- CBC investigation (published Jan 2025): underweighted meat — packaging weight effectively included in priced weight, contrary to federal net-weight rules — across as many as 80 stores in Western Canada, period ending December 2023; CBC store tests found prices inflated ~4-11% (https://www.cbc.ca/news/business/grocers-customers-meat-underweight-1.7405639).
+- Loblaw verbatim (Catherine Thomas): "Unfortunately, the error happened as we were converting our meat trays to a more environmentally friendly format and was corrected when discovered." ... "We apologize for these errors." ("Isolated incident" NOT said — never quote it.)
+- 2025 follow-ups: CBC found underweighted meat again at Loblaw and Sobeys-affiliated stores ("overcharging for underweight meat — again"). July 2025: PROPOSED Manitoba class action — unproven, not certified.
+### 4.2 No Name price freeze (Oct 2022) — tier (d) + attributed analysis
+- Loblaw release Oct 17, 2022: "Loblaw hits the brakes on food inflation by freezing prices on 1,500 no name products" (to end of Jan 2023).
+- CBC-reported expert framing: a "PR strategy"; No Name items had seen big increases beforehand; Metro: "it is an industry practice to have a price freeze from Nov. 1 to Feb. 5 for all private label and national brand grocery products." SCRIPT RULE: "raised prices first" is attributed media/expert analysis; no regulator ruled.
+### 4.3 "T" tariff symbol + maple washing — tiers (a)/(d)/(b)
+- March 13, 2025 launch, Loblaw verbatim: "To help our customers identify them, we're introducing a new tariff symbol, 'T', to our shelf labels."
+- Shopper accuracy complaints (consumer record only): "Everything has been jacked up, with very few tariff symbols being used."
+- CFIA "maple washing" administrative penalties — REAL, tier (b): $47,000 in fines to five businesses since April 1, 2025, including two $10,000 penalties in early 2026 on Loblaw-owned Ontario stores (a Fortinos in Etobicoke displaying French-made Président cheese under a maple-leaf tag; a Real Canadian Superstore in Toronto) (Global: https://globalnews.ca/news/11739168/maple-washing-canada/; CP24). Administrative monetary penalties, not criminal.
+- Aug 2025: Loblaw backtracked on dropping country-of-origin produce labels after backlash. Aug 25-26, 2026: T symbol reinstated; Bank: "Where tariffs increase our cost, any resulting increase on our shelves will reflect that impact—penny for penny."
+### 4.4 50%-off sticker retreat (Jan 2024) — tier (a) corporate action, reversed
+Loblaw ended 50% best-before discounts mid-Jan 2024, reversed Jan 19: "We've listened to the feedback from our customers and colleagues and are reverting..." NDP MP's coordination suggestion = politician's allegation, never investigated to a finding — not fact.
+### 4.5 PC Optimum — tier (b) OPC FINDING + tier (d)
+- Privacy Commissioner of Canada, PIPEDA Findings #2026-001 (March 5, 2026): Loblaw "failed to respond to all inquiries, contravening Principle 4.10 of PIPEDA" (well-founded and resolved); on retention, "Loblaw is retaining personal information no longer needed," and Loblaw did not demonstrate "that the information it retains is effectively anonymized" (well-founded and conditionally resolved). Loblaw disagreed with the anonymization finding but committed to an independent third-party assessment within 12 months. (https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-001/)
+- CBC Go Public: member locked out of an account holding ~$43K in points "without warning or explanation"; dozens reporting frozen points.
+- Multi-buy/member-pricing Bureau action: KILLED — none found.
+### 4.6 Shrinkflation — tier (d) + OFFICIAL StatCan acknowledgement (the spine)
+- StatCan (Feb 2025): from 2021 to 2023, 29.6% of eligible grocery items tracked in the CPI experienced shrinkflation; nearly half of instances in 2022 (grocery inflation +9.8%, 41-year high). StatCan defines shrinkflation as "selling a smaller quantity of a product at the same price as the previously offered larger size." (https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2025016-eng.htm)
+- PC examples (media/consumer documentation, attributed): CBC found "a dozen President's Choice products with reduced sizes on the company's website since January 2024" (oatmeal pouches, hot chocolate 50g lighter); PC frozen berries 600g → 300g (blogTO).
+
+## PART 1 — UNVERIFIED / DO-NOT-USE
+1. "~15 increases / ~$1.50" as proven fact — allegation in ITO/pleadings; convicted conduct = Canada Bread's two increases (2007, 2011); admitted conduct = Loblaw/Weston 2001-2015 participation. Attribute.
+2. "Loblaw was fined for bread price-fixing" — FALSE. Immunity; never charged or fined. The fine is Canada Bread's. The $500M is a civil settlement.
+3. "Metro/Sobeys/Walmart/Giant Tiger/Maple Leaf fixed bread prices" — never say it. All deny; no charges as of June 2026; civil case untried.
+4. "$1 billion code cost" in quotes or attributed to Per Bank — the Dec 2023 testimony was Weston's; the figure is a reporter's paraphrase of Loblaw's claim.
+5. "Isolated incident" (meat) — not said. Use "error" / "we apologize for these errors." Reporting broke Dec 2024-Jan 2025 re: period ending Dec 2023 — don't misdate.
+6. "Raised No Name prices right before the freeze" — attributed analysis only.
+7. Grupo Bimbo damages figure — conflicting ($1.4B vs >$2B); verify from the claim before using.
+8. "Bureau found T symbols inaccurate" — no such finding; CFIA fines are a separate maple-washing matter.
+9. Bureau action on multi-buy/member pricing — none; kill.
+10. Old Marketplace "best-before tampering" item — do not use without pulling the original episode.
+11. Manitoba meat class action — proposed, uncertified, unproven; caveat mandatory.
+12. "Property controls investigation found Loblaw guilty" — no; voluntary commitment being "monitored"; Bureau's "no conclusion of wrongdoing at this time" must accompany Empire/Sobeys mentions.
+13. Health/safety claims — banned.

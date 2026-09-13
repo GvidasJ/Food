@@ -116,3 +116,106 @@ Comment-engine prompts: (1) "Did you claim your $25 Loblaw Card in 2018 — or r
 - "Canada's biggest bakery by [specific year]" — only "by the turn of the century" is supported.
 - Big Three market-share percentages — only with the Bureau's 2023 study as citation.
 - Galen G. Weston's CURRENT 2026 role/titles — verify before any present-tense line about who runs Loblaw today.
+
+---
+
+# PART 2: THE BOYCOTT, THE MONEY, AND THE CURRENT MOMENT
+*Compiled September 13, 2026. "Greedflation" is a critics' label — attributed wherever it appears. Nothing here alleges unlawful conduct; high prices and profits are lawful; company denials quoted throughout.*
+
+## 1. THE BOYCOTT (May 2024)
+### Founding and growth
+- r/loblawsisoutofcontrol founded November 2023 by Emily Johnson, an Ontario mental health and addictions worker, later joined by eight organizers across Canada (blogTO: https://www.blogto.com/eat_drink/2024/05/loblaws-boycott-organizer-met-ceo/; The Hoser: https://www.thehoser.ca/posts/understanding-the-loblaw-boycott).
+- Member counts (dated): ~45,000 (Apr 2024) → ~56,000 on May 1, 2024 launch day (CBC) → ~77,000 at mid-May ("up from 56,000 on May 1" — Yahoo Finance) → 84,000+ late May (blogTO). NO reliable 2025-26 count — screenshot the live counter on filming day with a date stamp.
+### Launch and demands
+- Boycott of all Loblaw banners began May 1, 2024 — the same day Loblaw reported Q1 2024 revenue of $13.58 billion, up 4.5% (CBC).
+- Demands as reported: sign the Grocery Code of Conduct; cut prices 15%; price caps on essentials; no more 2024 price increases; no dividend increases; end member-only pricing; shrinkflation transparency (CBC, Globe, The Hoser).
+- Loblaw spokesperson at launch: "The last few years have been tough for Canadians, and we continue to do what we can to combat inflation at our stores."
+- Poll (May 2024, National Observer): 58% of Canadians supported the boycott; only 18% said their household joined.
+### Executive responses — VERBATIM (attribution is critical)
+- Galen G. Weston, Loblaw annual meeting, May 2, 2024: "As a well-known company and Canada's largest grocer, it is natural that Loblaw would be singled out as a focal point for media and government and of course consumer frustrations." He called the criticism "misguided" — THE "MISGUIDED" QUOTE IS WESTON'S, NOT PER BANK'S.
+- Weston, same meeting: "There's a group of people who have been relentlessly propagating a narrative that they know is false. And it is now being used to justify theft on a grand scale." MANDATORY CONTEXT: he was referring to shoplifting; he also argued the demanded 15% cut equated to roughly three times annual earnings. (Global News May 2, 2024: https://globalnews.ca/news/10465250/loblaw-boycott-leaders-criticism-reaction/; BNN/CP.)
+- Per Bank, same meeting: "Let me assure you that in every corner of the business, our colleagues are working hard to reduce costs and do things more efficiently."
+- Bank (April 2024, internal note via Global News): called boycott plans a response from "deeply unhappy" customers and blamed online "misinformation" (https://globalnews.ca/news/10456810/loblaw-may-boycott-per-bank/).
+- Emily Johnson met CEO Per Bank on May 2, 2024 (blogTO; CP).
+### Measurable effect — Loblaw's own words (Q2 2024, July 25, 2024)
+- Revenue $13,947M (+1.5%); net earnings available to common $457M (−10.0%), decline driven primarily by the bread class-action settlement charge; food same-store sales +0.2% vs +6.1% a year earlier (Loblaw release: https://www.loblaw.ca/en/loblaw-reports-2024-second-quarter-results/; CBC).
+- CFO Richard Dufresne: "We did notice a bit of an impact in certain stores in specific markets, but that said, at the end of the quarter, things have returned to normal."
+- CEO Per Bank: overall impact was "minor." Executives never said the word "boycott" on the call.
+- May 16, 2024 — two weeks into the boycott — Loblaw said it was ready to sign the Grocery Code of Conduct if competitors did; Bank said the decision had nothing to do with the boycott (CBC: https://www.cbc.ca/amp/1.7206278).
+### 2025-26 status
+- No major anniversary coverage; honest framing: the organized boycott faded from headlines while the behaviour went mainstream — Loblaw's own releases: "The Company's discount banners once again outperformed, reflecting continued consumer demand for value" (Q2 2026 release, July 30, 2026).
+
+## 2. THE GREEDFLATION HEARINGS
+### Galen Weston, House Agriculture Committee (AGRI No. 52, March 8, 2023)
+Hansard: https://www.ourcommons.ca/DocumentViewer/en/44-1/AGRI/meeting-52/evidence
+- "On a customer's $25 grocery basket, we earn just one dollar in profit."
+- "No matter how many times you read it on Twitter, the idea that grocers are causing food inflation is not only false, it's impossible."
+- "Food prices have increased 25 times faster than profit and, at Loblaw, none of those profits came from higher food margins."
+- "Our retail prices have not risen faster than our costs."
+- "We are actively losing money on core commodities. Milk, vegetable oil, butter, certain cheeses."
+- "Our profit doesn't go to me. It goes back into this country."
+- ACCURACY: the "$1 million a day in excess profits" line was JAGMEET SINGH'S charge, not Weston's defence: Singh: "Your company is making one million dollars a day in excess profits." / "How much is enough? You're making more than you've ever made, ever. And you've not contradicted that point because you know it's true."
+### The duelling data (attribute all)
+- Charlebois/Dalhousie: lab "failed to see any evidence of profiteering on all accounts"; margins 2-3%.
+- Jim Stanford (Centre for Future Work), committee brief: StatCan aggregate data show food-retail net margins above 3% since mid-2021 — more than double the 2015-2019 average; food retail profits "more than doubled since pre-pandemic norms." (https://centreforfuturework.ca/2023/12/10/new-data-on-continued-record-profits-in-canadian-food-retail/)
+### Committee report (June 13, 2023)
+- "Grocery Affordability: Examining Rising Food Costs in Canada" — if the Bureau found excess profits, government "should consider introducing a windfall profits tax on large, price-setting corporations."
+### September 2023 summons
+- Sept 18, 2023: Champagne and Freeland met the five CEOs; three-week deadline for price-stabilization plans; Trudeau warned of tax measures. October outcome: commitments to "more discounts, price freezes and price-matching campaigns" (CBC). No independent audit verified results — frame as "promises on paper, results contested." Champagne later wished grocers had been "more forthcoming."
+
+## 3. THE MONEY (company releases, dated)
+### Revenue and net earnings available to common shareholders
+| Fiscal year | Revenue | Net earnings (avail. to common) |
+|---|---|---|
+| FY2022 | $56,504M (+6.3%) | ~$1.91B (verify exact $M from release before on-screen) |
+| FY2023 | $59,529M (+5.4%) | $2,088M (+9.4%) |
+| FY2024 | $61,014M (+2.5%) | $2,155M (+3.2%) |
+| FY2025 (53 wks, ended Jan 3, 2026) | $63,903M | $2,667M |
+Sources: Loblaw Q4 releases (loblaw.ca; Feb 25, 2026 release via GlobeNewswire). Clean line: revenue up ~$7.4B 2022→2025; profit ~$1.9B → ~$2.7B (FY2025 had an extra week; company's comparable Q4 figure +10.9% adjusted EPS).
+### Gross margin
+- Retail gross profit 31.0% (FY2023) → 31.3% (FY2024); Q2 2024 hit 32.0% (+90 bps), company attribution: shrink improvement and Drug Retail mix.
+### Executive pay (proxy circulars)
+- Galen Weston: $8,423,455 from Loblaw in 2022 (up from $5,408,363 in 2021); combined Loblaw+GWL pay rose ~$1.2M to $11.79M in 2022 after boards hired Meridian Compensation Partners, whose review "suggested that Mr. Weston's total direct compensation was below the market median." (Globe: "Loblaw board says Galen Weston is underpaid, boosts compensation"; CBC.) Timing optics — weeks after the "$1 per $25" testimony — characterize as "criticized by observers."
+- Per Bank: 2023 total $22.14M (incl. one-time $18M replacing forfeited prior-employer compensation); 2024 $11.63M.
+### Concentration (Competition Bureau, June 27, 2023 — "Canada Needs More Grocery Competition")
+- Big-3 in 2022: "more than $100 billion combined sales, more than $3.6 billion combined profits."
+- Bureau survey: of the 81% of Canadians who grocery-shop 1-3 times weekly, 49% shop at Loblaw banners.
+- Bureau: industry "concentrated," high entry barriers, margins rising "by a small but meaningful amount."
+- Loblaw ~29% market share = industry estimates (2022), NOT a Bureau-stamped number.
+### Food CPI (StatCan)
+- Food from stores: +9.8% in 2022 (largest since 1981), +7.8% in 2023, +2.2% in 2024. Cumulative July 2020→July 2025: +27.1%.
+- July 2026 print (released Aug 17, 2026): all-items +3.0%; food from stores +3.1%; 18th consecutive month grocery inflation outpaced all-items CPI (StatCan Daily: https://www150.statcan.gc.ca/n1/daily-quotidien/260817/dq260817a-eng.htm). August 2026 CPI lands ~Sept 15-16 — check before final cut.
+### The trade war (2025-26), their own words
+- Q1 2025: revenue $14.1B (+4.1%); Bank: "We recognize that Canadians care deeply about the region of the product they purchase..."; 30 new Canadian suppliers that quarter; Bank on Buy-Canadian durability: "Using my experience, maybe one-third of it would stick."
+- Bank: tariff-marked "T" items saw sales volumes fall 15-20%, up to 50% where alternatives existed (Yahoo Finance Canada).
+- By Q3 2025: 200+ new Canadian vendors added since start of year.
+
+## 4. THE CURRENT MOMENT (September 2026 hook — three dated events in two weeks)
+1. "T" symbol returns: first launched March 2025 (Per Bank LinkedIn: tariffs would "affect businesses, supply chains and the prices Canadians see on some products"); on August 26, 2026 Loblaw announced it is REINSTATING the "T" symbol as Canada's counter-tariffs take effect September 8, 2026, alongside maple-leaf markers (BNN/CP: https://www.bnnbloomberg.ca/tariffs/2026/08/26/loblaw-bringing-back-t-symbols-on-tariff-affected-items-as-trade-tensions-escalate/).
+2. September 1, 2026: ~$1.2B capex for rest of 2026 ($2.4B for the year; $10B five-year plan through 2030); ~75 new locations in 2026, focused on No Frills and Maxi hard discount; ~9,700 jobs. Bank: "Canadians are being thoughtful about every dollar they spend... we're putting that capital behind the parts of our business that meets the needs of Canadians." (GlobeNewswire Sept 1, 2026)
+3. September 3, 2026: Real Atlantic Superstore lowered prices on 4,000+ products, claiming families save "an estimated $300 a year." (GlobeNewswire)
+- Latest earnings (July 30, 2026, Q2 2026): revenue $15,270M (+4.1%); net earnings avail. to common $751M; adjusted diluted EPS +11.9%; food same-store +1.6%; e-commerce +19.3%. Bank: "Customers continue to reward us for delivering on their needs through increased traffic, basket size and topline sales." / "The Company's discount banners once again outperformed, reflecting continued consumer demand for value and greater access to Maxi and No Frills stores."
+- Wrinkle: Bank's Feb 2026 quote credits "leading digital engagement and adoption of Agentic AI."
+- Counter-beat: the ultra-discount No Name store pilot (3 stores, Sept 2024) largely failed — St. Catharines closed July 2025, LaSalle closed Oct 25, 2025, only Brockville remains; Loblaw: the Windsor-area store "hasn't built the customer base needed to remain sustainable long-term." (CBC/CTV)
+
+## 5. STRUCTURE FACTS (empire graphic)
+- Network ~2,500 stores incl. 1,307 Shoppers Drug Mart/Pharmaprix.
+- Shoppers deal: announced July 15, 2013, ~$12.4B, completed March 28, 2014; Bureau required divestiture of 18 stores + 9 pharmacies; largest Canadian retail acquisition to that date.
+- PC Optimum: "more than 17 million active users," redeemed "over $1 billion in points in 2024" (Loblaw, Feb 2025 via CBC). NOT "38 million accounts."
+- Ownership chain: Wittington Investments (Weston family; Galen G. controlling shareholder since 2021) → ~63% of George Weston Limited → ~52% of Loblaw (per 2020 circular; pull current % from GWL 2026 proxy before air) → all banners + Shoppers + PC Financial + PC Optimum.
+- The honest weekly-spend framing (use these three sourced facts, never a single invented %): ~29% of grocery sales (industry est., 2022) ≈ $1 of every $3.50 at the grocery store; Bureau survey 49% of weekly shoppers at Loblaw banners; groceries + largest pharmacy chain + bank card + 17M-member points program all majority-controlled up the chain by one family's holding company.
+
+## PART 2 — UNVERIFIED / DO-NOT-USE
+1. "$1 million of profit... less than a penny on every dollar" as a WESTON quote — DO NOT USE. His framing: $1 profit per $25 basket. "$1 million a day" was SINGH'S charge. "Retailers are not the cause of food inflation" as an exact sentence: unconfirmed — use "not only false, it's impossible."
+2. "Per Bank called the boycott 'misguided'" — misattributed; the phrase is Galen Weston's (AGM, May 2, 2024).
+3. PC Optimum "38 million accounts" — DO NOT USE; verified: 17M+ active users.
+4. Loblaw "29%" share — only as "industry estimates (2022)."
+5. FY2022 net earnings exact figure — pull from release PDF before on-screen.
+6. GWL's current Loblaw stake — confirm from 2026 proxy.
+7. Weston "theft on a grand scale" — MUST carry the shoplifting context or not be used at all.
+8. Boycott's financial impact — never "cost Loblaw X"; use Loblaw's own "minor"/"bit of an impact" + the 0.2% vs 6.1% same-store contrast, attributed.
+9. Subreddit 2025-26 member counts — screenshot live with date stamp.
+10. "Greedflation proven/disproven" — neither; present Stanford vs Charlebois vs Bureau "small but meaningful," all attributed.
+11. Claims the Oct 2023 stabilization plans lowered prices — unverified; "promises on paper."
+12. PC/No Name brand revenue figures — no primary source.
+13. August 2026 CPI — not yet released as of Sept 13; re-check before final cut.

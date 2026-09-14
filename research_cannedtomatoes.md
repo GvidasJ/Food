@@ -172,3 +172,95 @@ SCRIPT FRAMING (verbatim from the dossier): "The betrayal axis here isn't 'forei
 ## PART 1 — UNVERIFIED / DO-NOT-USE
 KILLED: Sun-Brite dates 2016/2021 (real: 1997 / Aug 2006 from Kraft); Thomas' Utopia "Dresden" (Maidstone; receivership 2017); Aylmer owned by TreeHouse/Baxters (soup only) or BCI Foods; Emma = Norcan/Sager; Highbury packs store-brand canned tomatoes.
 UNVERIFIED (camera or further sourcing): who packs No Name/PC/Compliments/Great Value (use the label test, never name a packer); OFF crowd-sourced origins; exact Conagra-Aylmer acquisition date (2011 vs March 2012); Thomas' Utopia current status; all prices (some cached 2025); Emma DOP vs non-DOP SKUs (buy both); Kirkland SM DOP seal; consortium verbatim (site down); Sun-Brite "largest processor"/"180,000 tons" attributions; Ruggiero quote = 2011 US-market only; shelf ranking = editorial.
+
+---
+
+# PART 2: LAW, GRADES, ECONOMICS, AND THE PUBLIC RECORD
+*Compiled 2026-09-14. Verbatim quotes; allegation ≠ finding ≠ admission throughout.*
+
+## 1. THE CANADIAN LEGAL STANDARD (centrepiece)
+### Architecture (post-SOR/2024-244)
+Old FDR B.11 standards moved into: Canadian Food Compositional Standards (FCSD) Vol 10 (incorporated into FDR) and Canadian Standards of Identity Vol 4 — Processed Fruit or Vegetable Products (incorporated into SFCR, last amended 2024-12-18). Surviving FDR text: B.11.005 "No person shall sell canned tomatoes unless they have been obtained by heat processing fresh tomatoes."
+### THE BOMB — 50% drained tomato solids, federal law
+FCSD Vol 10, s. 10.2.4, verbatim: "Canned Tomatoes is the product made of properly prepared fresh ripe tomatoes; (a) may contain (i) a sweetening ingredient in dry form, (ii) salt, (iii) spice or other seasoning; (b) contains not less than 50% drained tomato solids, as determined by official method FO-18... and (c) contain mould filaments in not more than 25% of the microscopic fields..." (https://inspection.canada.ca/.../canadian-food-compositional-standards-0)
+Siblings: Tomato Paste ≥20% solids; Concentrated Paste ≥30%; Puree/Pulp specific gravity ≥1.050; Tomato Juice "by any method that does not add water."
+HONEST UK COMPARISON: Canada's baseline = at least 50% drained tomato solids for anything sold as "canned tomatoes," and the grading system layers 50/60/65% on top with grade labelling MANDATORY in import/interprovincial trade. Script line that survives fact-check: "In Canada, a tin of canned tomatoes must by federal standard be at least half tomato by drained weight — and the grade word printed on the label legally tells you whether it's 50, 60 or 65 per cent."
+### SFCR Standard of Identity Vol 4, s. 31 "Tomatoes" (verbatim, what applies to the can)
+"...prepared by heat processing clean, sound, ripe tomatoes of red or reddish varieties that are peeled and cored..." May contain: liquid from peeling/coring; liquid from other tomatoes; sweetening in dry form; salt; citric acid; spices; natural flavouring; "calcium chloride, calcium sulphate, calcium citrate or monocalcium phosphate, in an amount not more than (i) 0.045% total calcium ion... whole, almost whole or large pieces; or (ii) 0.080%... wedges, sliced, diced or chopped." Definitions: "whole," "almost whole," "large pieces" = ≥42.5 g. s. 32 Stewed Tomatoes (+ onions, celery, peppers; firming ≤0.026% Ca). s. 33: mould filaments ≤25% of fields.
+STANDARDIZED NAMES: Tomatoes (incl. diced/chopped pack styles), Stewed Tomatoes, Puree (≥12%), Pulp (≥12%), Paste, Concentrated Paste, Catsup/Ketchup, Chili Sauce, Tomato juice, Concentrated juice (21-25%). "CRUSHED TOMATOES" AND "PASSATA" ARE NOT STANDARDIZED NAMES — "diced" and "stewed" are federally defined words; "crushed" is marketing. No numeric salt max (limits are on calcium firming agents).
+
+## 2. THE FEDERAL GRADES (the receipts bomb)
+CORRECTION: Canadian Grade Compendium VOLUME 3 — Processed Fruit or Vegetable Products (not Vol 4). Vol 9 = import grade names.
+### s. 47 grades, verbatim
+- "Canada Fancy... (a) possess a very good tomato flavour typical of well-ripened tomatoes; (b) contain not less than 65% drained solids consisting of whole, almost whole or large pieces of tomato; (c) possess a practically uniform good red colour; and (d) are practically free from pieces of skin, core, black spots, sun scald and other defects."
+- "Canada Choice... good tomato flavour typical of fairly well-ripened tomatoes; not less than 60% drained solids... fairly good red colour... fairly free from..."
+- "Canada Standard... normal tomato flavour and odour; not less than 50% drained solids... reasonably good red colour... reasonably free from..."
+BROADCAST GOLD definitions: "practically uniform good red colour" = ≤10% off-colour, no green/yellow units; "fairly good red colour" = ≤30% off-colour, no green/yellow; "reasonably good red colour" means "to have a generally red or reddish colour, and to not have more than half of the units showing a greenish or yellowish hue" — CANADA STANDARD TOLERATES UP TO HALF THE TOMATOES GREENISH/YELLOWISH. Drained-solids method: ½ minute over a 12.7 mm mesh screen. Defect tolerances per 567 g: practically free ≤1.25 cm² skin / 2.84 g core / no blemish; reasonably free ≤9.68 cm² skin / 11.34 g core / ≤3.23 cm² blemished.
+### When the grade MUST be on the label (CFIA, verbatim)
+"All processed fruit or vegetable products for which grades are prescribed by the SFCR and that are interprovincially traded, imported or exported must be graded, must meet the grade requirements set out in the Compendium and must be labelled with the applicable grade name [306(1), SFCR]." Grading OPTIONAL for stewed tomatoes, puree, pulp, paste, ketchup, chili sauce [306(2)(d)]. Substandard escape hatch: label "Substandard" [306(3)(a)]. Grade names on the principal display panel, minimum type size, bilingual.
+IMPORT GRADE NAMES: "FANCY GRADE / CHOICE GRADE / STANDARD GRADE" — why Italian cans say CHOICE GRADE (Compendium Vol 9).
+796 ml receipt: Fancy ≈524 g drained / Choice ≈482 g / Standard ≈411 g — RE-VERIFY exact grams against the CFIA minimum-drained-weights table before graphic.
+BEAT, honestly framed: the grade words are legally load-bearing and almost nobody knows what they mean. Whether "most tins are Choice" = shelf audit on camera; do not assert from dossier.
+
+## 3. FORCED-LABOUR FILE (strict attribution — follow the hedges exactly)
+### BBC, December 2024
+BBC Eye/World Service "Blood on the Shelves," UK broadcast as Panorama Dec 2, 2024 (verify exact on-screen title against iPlayer before quoting). Commissioned Source Certain to test 64 tomato purées (UK/Germany/US); C4ADS data. BBC's own hedge (via Tomato News): "Italian" purées "appear to contain tomatoes grown and harvested in China with the use [of] forced labour"; "17 of them appeared to contain Chinese tomatoes." Supply claim: Antonio Petti group "received more than 36 million kg of tomato paste from the company Xinjiang Guannong and its subsidiaries between 2020 and 2023." Petti denied recent purchases, produced a 2020 invoice; BBC filmed barrels labelled "Xinjiang Guannong... prod date 2023-08-20"; Petti said it would stop importing Chinese tomato products. "All the supermarkets whose products were tested by BBC Eye Investigations dispute these findings." China "denies it forces people to work in the tomato industry and says workers' rights are protected by law." NONE of the flagged products were Canadian-shelf products — do not imply they were.
+### The US ban (government action — fact)
+US CBP, Jan 13, 2021, region-wide Withhold Release Order on "cotton products and tomato products produced in China's Xinjiang Uyghur Autonomous Region." "DHS will not tolerate forced labor of any kind in U.S. supply chains." Indicators: "debt bondage, restriction of movement, isolation, intimidation and threats, withholding of wages, and abusive living and working conditions." Since June 2022: UFLPA rebuttable presumption; tomatoes a priority sector.
+### Canada's law and record (the honest beat)
+- Customs Tariff item 9897.00.00 (July 1, 2020): prohibits goods "mined, manufactured or produced wholly or in part by forced labour" (child labour added Jan 1, 2024). CBSA D9-1-6 process via ESDC Labour Program reports.
+- Record: Globe headline: "Only shipment Canada has seized on suspicion of forced labour was released after challenge from importer." Baker McKenzie (Feb 2025): one violation found to date; ~50 solar-module shipments detained 2024, all released; enforcement "weak as compared to the billions of dollars of goods detained by" US CBP. Globe (Apr 1, 2026): USTR — "It does not appear that Canada is effectively enforcing its forced labor import prohibition"; since 2021 only TWO shipments ultimately blocked (textiles 2024, frozen seafood 2025). Carney: "Canada has a comprehensive legal framework around that. We take it very seriously."
+- Bill S-211 (in force Jan 1, 2024): a REPORTING statute, not a ban; annual reports by May 31; 5,650 reporting entities year one (Public Safety).
+### The Canadian-shelf reporting (attribute exactly)
+CBC Marketplace, Oct 29, 2021, headline verbatim: "Canada's grocery chains stocked with tomato products connected to Chinese forced labour" (note CBC's hedge "connected to"). Reported: Italian processor La Doria — maker of Sobeys' Compliments and Loblaws' President's Choice store-brand tomato products — "had purchased tomato paste from Xinjiang as recently as May 2021." Whole Foods removed its 365 paste "out of an abundance of caution." La Doria said it would "stop using tomato paste from Xinjiang." Loblaws: "shares concern about labour conditions throughout the global supply chain and takes these matters very seriously." C4ADS export records: Cofco Tunhe paste routed via Southeast Asia "exported under the Product of Philippines, Product of India or Product of Pakistan country origin labels."
+### THE ORIGIN-LABEL KICKER (ties law to the dark file)
+CFIA, verbatim: "For an imported prepackaged processed fruit or vegetable product, country of origin refers to the country where the product was packaged [274(1), SFCR]." Paste concentrated elsewhere, packed in Italy, can lawfully read "Product of Italy" on a Canadian shelf.
+NEVER say any specific tin currently on a Canadian shelf contains forced-labour tomatoes — no Canadian regulator has said so about any product.
+
+## 4. THE ONTARIO TOMATO ECONOMY
+### Production (OMAFRA/OPVG official dataset; SHORT tons)
+2014: 373,992 tons ($41.7M) → 2022: 604,070 ($77.5M) → 2023: 557,835 ($91.8M, $164.49/ton) → 2024: 546,935 ($84.5M) → 2025 RECORD: 671,062 tons (~609,000 tonnes) from 13,776 acres, ~$100.0M farm gate ($148.96/ton). OPVG all-crops farmgate: $162M (2023), $161M (2025); 335 growers.
+### The belt and the bargaining story (NOT supply management — say "marketing board price bargaining")
+Three canning processors: Highbury Canco (Leamington), Sun-Brite (Kingsville/Ruthven), Conagra (Dresden). OPVG negotiates under the Farm Products Marketing Act. 2016-17: deregulation push; minister fired the OPVG board and installed a trustee when Highbury Canco refused to negotiate; Regulation 440/17 rewrote the rules; Dec 2019 changes OPVG said would "devastate" farms. 2026 crop: Sun-Brite/Highbury growers "negotiated as individuals"; Conagra Dresden growers "settled their contracts as a group"; tomato "prices were down approximately 5-6%" (Keith Robbins, OPVG GM, The Grower).
+### Imports and tariffs
+- Comtrade 2023 (USD): HS 200210 whole/pieces — US$78.5M / 65,942 t (US $46.6M; ITALY $30.3M / 22,002 t; US+Italy ≈98%). HS 200290 — US$86.9M (US $63.2M; Italy $14.0M). Direct China imports negligible.
+- Customs Tariff ch. 20 (2026): 2002.10.00 and 2002.90.00 = 11.5% MFN; FREE under CUSMA (UST), CETA (CEUT), CPTPP, UKT. Italian and US cans enter duty-free; MFN origins (incl. China) pay 11.5%.
+- Counter-tariffs: March 4, 2025 list included ketchup/tomato sauces (2103.20) at 25% — removed Sept 1, 2025. Sept 8, 2026 list: NO tomato items.
+- The 10% provisional canned-vegetable safeguard surtax (June 19, 2026, SOR/2026-135, max 200 days) covers HEADING 2005 ONLY (corn, peas, beans, mixed) — CANNED TOMATOES (2002) ARE NOT COVERED. CITT report Sept 9, 2026; final decision pending — re-check before publication. Do not say tomatoes face the surtax.
+### Shelf price (StatCan Table 18-10-0245-01, "Canned tomatoes, 796 millilitres," annual averages)
+2017 $1.33 → 2019 $1.39 → 2021 $1.56 → 2022 $1.62 → 2023 $1.99 → 2024 $2.08 → 2025 $2.13 → Jul 2026 $2.27. Roughly +65% since 2017; biggest jump 2022→2023 (+23% in one year).
+
+## 5. THE CANNERY GRAVEYARD
+- CanGro 2008: Hamilton Spectator headline, June 28, 2008: "Canada's last fruit canning plant closes" (St. Davids, operating since 1897; ~150 jobs; Exeter ~130 weeks earlier). Union director Ray Bromley, verbatim: "Del Monte is going to China. We're going to be feeding our children peaches from China." Use the Spectator wording.
+- Heinz Leamington: CBC Nov 14, 2013: "Heinz closing Leamington, Ont., plant, 740 people out of work" — THE NUMBER IS 740, NOT 761. 105 years (opened 1909). Context: Berkshire/3G US$23.3B Heinz deal. Highbury Canco took over June 2014.
+- Today: Highbury Canco 2.1M sq ft, 600+ employees, 24 lines; Kraft Heinz deal extended through 2027 (~$1B in products; beans, tomato juice, Classico). Sun-Brite: "over 750,000 sq ft," "180,000 Tons of tomatoes per year" (company claims — attribute to Sun-Brite). Conagra Dresden continues. Thomas Canning: CFIA registration suspended Oct 19, 2016, cancelled July 20, 2017 "because the company ceased operations"; growers' $2.85M suit (CBC).
+- The beat: record 2025 harvest, and the canning of it rests on essentially three plants.
+
+## 6. PUBLIC RECORD
+### The canned-tomato prosecution (enforcement centrepiece)
+CFIA prosecution bulletin, Nov 10, 2017, verbatim title: "Thomas Canning (Maidstone) Limited Fined $40,000 for Offences under the Food and Drugs Act." CFIA "determined that between September 2013 and July 2015 the company falsely labelled some of its regular canned tomato products as 'organic' canned tomato products." Convicted by indictment Nov 6, 2017, under FDA s. 5(1): "no person shall label, package, treat, process, sell or advertise any food in a manner that is false, misleading or deceptive." (inspection.canada.ca prosecution bulletin)
+### Recalls
+Federal recall database search: NO Canadian recalls of plain canned tomato products found in visible results (database ~2011+). Honest line: "we searched the federal recall database and couldn't find a single recall of a tin of tomatoes."
+### Maple-washing era
+CFIA: "$47,000 in financial penalties since April 1, 2025" for origin claims (incl. two Loblaw-owned stores at $10,000 each); "Between Nov. 1, 2024, and Feb. 25, 2026, the CFIA identified 78 violations related to country-of-origin claims." NO canned-tomato case among named fines — the tomato tie-in is structural (the packed-country origin rule), not a named case.
+### Competition Bureau / Ad Standards
+Nothing Canadian on tomato origin claims. Live US litigation: California class action alleges Cento's "Certified San Marzano" claim is "false, misleading, and unfair" — Cento calls it meritless; allegation, US jurisdiction.
+
+## 7. GST CHECK — no twist, and one wrinkle
+Canned tomatoes = zero-rated basic groceries. Wrinkle: Memo 4.3 provides "tomato and vegetable juices in 540 mL sealed cans (i.e., cans without built-in opening devices) is zero-rated even though the volume is under 600 mL" — the steel can needing an opener "is not marketed as a single serving."
+
+## PART 2 — UNVERIFIED / DO-NOT-USE
+1. "761 jobs" Heinz — WRONG; use 740 (CBC).
+2. "Grade Compendium Volume 4" — wrong; Volume 3 (Vol 9 = import names).
+3. "Most tins are Canada Choice / don't declare a grade" — UNVERIFIED; shelf audit on camera first.
+4. 796 ml drained-weight grams (524/482/411) — re-verify against the CFIA table before any graphic.
+5. BBC material: never upgrade "appeared to contain" to "contained"; all supermarkets disputed; none of the products were Canadian-shelf.
+6. CBC Marketplace 2021: hedge is "connected to"; company responses ride along; never claim any current Canadian product contains Xinjiang tomatoes.
+7. "Only one shipment ever detained" — outdated; current record: two shipments blocked (textiles 2024, seafood 2025); the 2021 detention was RELEASED. Say "publicly reported."
+8. BPA / additive-safety framing — BANNED (incl. the US-only Feb 2024 Mutti recall; skip it).
+9. Calcium chloride/citric acid health effects — never; permitted-ingredient facts only.
+10. "Supply management for tomatoes" — inaccurate; marketing-board bargaining, partially individualized since 2017-19.
+11. Sun-Brite capacity figures — company claims; attribute.
+12. CITT safeguard covers heading 2005 only — NOT tomatoes; final decision pending, re-check.
+13. Comtrade figures are USD; don't mix with CAD on one graphic.
+14. Panorama on-screen title — verify against iPlayer before quoting on a graphic.

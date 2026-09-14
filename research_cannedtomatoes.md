@@ -85,3 +85,90 @@ Defensible order (say "based on shelf presence and processor scale," never "sale
 - BPA/citric-acid safety, lead/botulism history, water-bath vs pressure canning — health/safety territory, banned.
 - Leamington "2/3 of Canada's tomatoes by 1959" — blog source; find primary first.
 - Tomato Festival defunding date — confirm before stating.
+
+---
+
+# PART 1: BRANDS, OWNERSHIP, PACKERS, AND LABELS
+*Research date: September 14, 2026. Prices "at time of research"; all online grocery data to be re-verified in store on camera. Allegations labelled. No health commentary.*
+
+## 0. EXECUTIVE SUMMARY — WHAT SURVIVED VERIFICATION
+1. THE INVERSION HOLDS in refined form: the cheap unglamorous cans (Unico, Primo, Aylmer, Hunt's, Selection, likely No Name) are packed in TWO Ontario towns (Kingsville/Ruthven and Dresden) from Ontario-grown tomatoes, while the premium Italian-romance cans are imports. BUT "No Name/PC are packed by Sun-Brite" could NOT be verified — script it as a label-reading demonstration, never a named-packer claim.
+2. KILLED DATES: Sun-Brite bought Unico in 1997 (not ~2016) and Primo in August 2006 from Kraft (not ~2021).
+3. Thomas' Utopia = Maidstone (not Dresden), receivership 2017. Dresden = CONAGRA's plant, which packs HUNT'S and AYLMER from Ontario tomatoes. Better story: Hunt's, the "American" brand, is one of the most Canadian cans on the shelf.
+4. Aylmer: American-owned (Conagra, Chicago), Ontario-grown, Ontario-packed — clean ownership-vs-origin split.
+5. San Marzano: consortium president's 2011 claim (at most 5% of US "San Marzano" is genuine) is attributable; Canada has genuine DOP cans and "San Marzano TYPE" cans side by side.
+
+## 1. ROSTER + OWNERSHIP (shelf-audit ranking — say "shelf audit, not sales data" on screen)
+1 Unico — Sun-Brite/Iacobelli (Kingsville ON, Canadian; brand 1917). 2 Aylmer — Conagra (Chicago; packed Dresden ON). 3 Hunt's — Conagra (Canadian cans packed Dresden ON; "made in Canada since 1903" per Conagra Canada). 4 Primo — Sun-Brite (from Kraft 2006). 5 No Name/PC — Loblaw (packer not disclosed). 6 Compliments — Sobeys. 7 Selection — Metro ("Product of Canada" per listing). 8 Great Value — Walmart (origin camera check). 9 Mutti — Mutti S.p.A. (family, Parma, since 1899). 10 Emma — Jan K. Overweel Ltd (Canadian importer; Italian product). 11 Cirio — Conserve Italia co-op (14,000+ farmers). 12 Aurora — Aurora Importing (Pulla family, Mississauga). 13 San Marzano-labelled tier (Allessia, Favuzzi, Pastene, Emma DOP, Kirkland SM, Regina Molisana). 14 Kirkland — Costco (diced = California; SM = Italy). 15 Thomas' Utopia — receivership, status unknown.
+
+Verbatim anchors:
+- Unico: "Mediterranean Foods Since 1917" (unico.ca).
+- Aylmer (Conagra Canada): "Field to can in just 24 hours. Aylmer products use tomatoes grown in Ontario, Canada." ... "Except for Aylmer Fire Roasted tomatoes and Aylmer Crushed tomatoes, which are grown in California." (conagrabrands.ca/en/brands/aylmer) — on-camera label test: Aylmer Crushed vs Diced.
+- Hunt's (Conagra Canada): Early Harvest Heirloom Crushed "vine-ripened, handpicked and packed within 24 hours locally in Dresden, Ontario"; tomatoes "grown by real Canadian farmers in open-air farm fields across Southwestern Ontario" (page copy via capture — screenshot before air).
+- Mutti: "100% Italian tomatoes" (mutti-parma.com).
+- Aylmer chain: brand registered June 16, 1881; Canadian Canners → Del Monte Canada → ConAgra (2011-2012 — pin exact date); Baxters bought only the SOUP business (2007, Fasken deal page). KILLED: TreeHouse/Baxters-own-Aylmer-tomatoes; "BCI Foods owns Aylmer" (buybeaver.ca error).
+
+## 2. THE ONTARIO CANNERS — THE INVERSION ENGINE
+### Sun-Brite (Kingsville/Ruthven) — owns Unico AND Primo
+- "Sun-Brite was founded in 1973 by Onorio (Henry) Iacobelli and his wife, Lina, who bought an existing canning plant." "Sun-Brite purchased Unico (founded in 1917) in 1997." "The Primo company (founded in 1956), with its Toronto pasta factory, was acquired from Kraft in 2006." (Wikipedia; sun-brite.com history: "purchased Unico in 1997 and Primo in August 2006")
+- "They now contract largely within southwestern Ontario, including Harrow, Chatham, Leamington and Wallaceburg." (sun-brite.com)
+- "Its brand names include Unico and Primo, and its client list includes Campbell's and Heinz." (visitwindsoressex.com)
+- "Sun-Brite Foods can process as much as 180,000 Tons of tomatoes per year" (madeincanadadirectory.ca — secondary, re-verify).
+- Nugget (attributed, re-verify source): "As of 2025, Sun-Brite imports most of its cans from the United States" — the TIN is American, the tomato is Ontarian.
+### Conagra Dresden — makes "American" Hunt's Canadian
+- Dresden "has been preserving Ontario's local produce for over 75 years"; produces AYLMER, HUNT'S, RO*TEL; upgrade = "25% increase in tomato production"; ~425 employees in fresh-pack season. Paul Hogan, VP/GM: "This investment will create more jobs, increase our capacity..." (Conagra newswire; Canadian Grocer; Chatham Voice)
+### Thomas' Utopia — Maidstone; founded 1933 (Will and Grace Thomas); receivership June 2017 (CBC); reported facility buyer Golden Miles Foods (Richter reports); prior legal troubles = ALLEGATIONS (producer.com). Current brand status NOT VERIFIED — do not rank or list as active.
+### Highbury Canco — KILL for canned tomatoes: packs Heinz tomato juice, beans, Classico (renewed deal reported ~$1B); not a retail canned-tomato packer on available evidence. Context only.
+### VERIFY-OR-KILL: "No Name/PC Ontario-packed"
+- Open Food Facts (crowd-sourced label data): No Name diced w/ herbs — origin Canada 100%, processed Canada — POINTER ONLY, confirm on can.
+- Packer identity: NOT FOUND anywhere public.
+- THE CAMERA METHOD (CFIA dealer-name rule, verbatim): imported products must declare via "the statement 'imported for' / 'importé pour' or 'imported by' / 'importé par' followed by the name and principal place of business of the Canadian company" (inspection.canada.ca). So: "Prepared in Canada for Loblaws Inc." = domestically packed; "Imported for Loblaws Inc." = foreign-packed. Flip the can, read one line — that's the segment.
+
+## 3. ORIGIN LABELS — WHAT THE WORDS LEGALLY MEAN (CFIA, verbatim)
+- "A food product may use the claim 'Product of Canada' when all or virtually all major ingredients, processing, and labour used to make the food product are Canadian." ("all or virtually all" ≈ 98%.)
+- "When a food contains both domestic and imported ingredients, the label would state 'Made in Canada from domestic and imported ingredients.'"
+- Permitted process claims: "Roasted and blended in Canada", "Canned in Canada", "Packaged in Canada", "Processed in Canada".
+- Claims voluntary; once made, must not be false or misleading (FDA s.5(1); SFCA s.6(1)).
+SKU claims found (ALL need in-store camera confirmation): Unico diced "Product of Canada" (Metro); Selection diced "Product of Canada... prepared exclusively from Canadian tomatoes" (Metro); Hunt's sauce "Product of Canada" (Super C); Kirkland organic diced "Product of USA... Vine ripened California Roma tomatoes" (costco.ca); Kirkland San Marzano "Grown, harvested and produced in Italy" (blog — re-verify); Emma peeled "Product of Italy"; Mutti "100% Italian tomatoes"; Aylmer Ontario-grown EXCEPT Fire Roasted/Crushed (California).
+
+## 4. SAN MARZANO — DOP RULES, THE FRAUD QUOTE, CANADIAN SHELVES
+- DOP protection since 1996; grown only in the Agro Sarnese-Nocerino between Naples and Salerno; "San Marzanos are only certified whole or in fillets, peeled, and canned"; genuine cans carry "seals for both the DOP and the consorzio, as well as a certification number for the tin at the bottom" (TASTE: tastecooking.com/fake-rolex-canned-tomatoes; consortium site intermittently down — pull verbatim before filming).
+- ON-CAMERA RULE: any "San Marzano" that is DICED, CRUSHED or PASSATA cannot be DOP — DOP is whole/fillets only.
+- THE FRAUD QUOTE (attribute precisely): Edoardo Ruggiero, president of Consorzio San Marzano, 2011: "at maximum 5 percent of tomatoes sold in the U.S. as San Marzanos are real San Marzanos." (relayed by importer Gustiamo; quoted in TASTE). 2011, US-market, consortium president's claim — not a Canadian regulatory finding.
+- 2026 US lawsuit re "tomato fraud" — ALLEGATION, company calls it meritless; name the brand only after reading the filing (GMA/ABC).
+- Canadian-shelf DOP table: Emma Authentic SM DOP (jkoverweel.com) YES; Allessia SM D.O.P. 12x796 (Costco Business Centre) YES; Favuzzi SM P.D.O. YES; Pastene SM DOP — "Each can is individually stamped with this designation from the Consortium" YES; Kirkland SM — Italy-grown, DOP status camera check; Emma non-DOP "San Marzano Tomatoes" (Walmart) UNCLEAR — buy both Emma SKUs; Primo "San Marzano TYPE Tomatoes Packed in Purée" — NO, name-only and honest about it; Regina Molisana SM DOP (Amazon) labelled DOP.
+- MONEY SHOT: Primo's Ontario owner sells "San Marzano TYPE" at $2.99 next to $6.49-$7.49 DOP cans — a 2.2-2.5x premium for the name.
+
+## 5. NAME-BRAND OWNERSHIP CHAINS
+- Hunt's → Conagra (Chicago); Canadian retail tomatoes packed Dresden.
+- Mutti → founded 1899 Montechiarugolo (Parma) by Callisto and Marcellino Mutti; Francesco Mutti CEO since 1994; €11M (1995) → €185M (2011); Italian market leader from 2013.
+- Cirio → founded 1856 by Francesco Cirio; state-owned era; since 2004 part of Conserve Italia, a co-op "of over 14,000 farmers."
+- Aurora → founded 1954 by Nunzio Tumino; "owned by the Pulla family," President/CEO Joe Moscato; Canadian-owned importer, Italian product. (NOTE: Part 3 says founded 1955 per company history page vs 1954 per Emery Village Voice — pick one after checking aurora's own page; flag on-screen as "mid-1950s" if unresolved.)
+- Emma → Jan K. Overweel Limited (est. 1953); Emma named after Colombo Importing founder's firstborn. KILLED: "Norcan/Sager" guess.
+- Unico/Primo → Sun-Brite (above). Aylmer → Conagra (above).
+
+## 6. LABEL FILE (796 mL; online prices at time of research — RE-VERIFY IN STORE)
+| SKU | Declared ingredients (as captured) | Price | ¢/100 mL |
+|---|---|---|---|
+| Selection diced | camera check | $1.79 Metro | 22.5 |
+| Great Value diced | "Tomatoes, tomato juice, salt, calcium chloride, citric acid" | $1.97 Walmart | 24.7 |
+| No Name diced | herbs variant per OFF (crowd-sourced) — camera check | $2.00 No Frills / $2.29 Loblaws | 25.1-28.8 |
+| Compliments diced | "Tomatoes, Tomato juice, Salt, Calcium chloride, Citric acid" | $2.00 Voilà | 25.1 |
+| PC Blue Menu diced | camera check | $2.50 reg Loblaws | 31.4 |
+| Unico diced | camera check | $2.99 Metro | 37.6 |
+| Aylmer whole | camera check | $2.99 reg Metro | 37.6 |
+| Primo SM Type in purée | camera check | $2.99 Metro | 37.6 |
+| Mutti Pelati | "tomatoes and tomato juice" per capture — camera check | $4.79 Super C / $5.49 Metro | 60.2-69.0 |
+| Emma Italian peeled | camera check | $4.49-5.99 resellers — re-verify | 56-75 |
+| Pastene SM DOP | "San Marzano peeled tomatoes, San Marzano tomato juice, basil leaf, salt" | $6.29 Metro | 79.0 |
+| Allessia SM DOP | "whole peeled tomatoes, tomato puree, basil" | $6.49 Metro | 81.5 |
+| Favuzzi SM DOP | camera check | $7.49 Metro | 94.1 |
+SPREAD FOR SCRIPT: 22.5¢ to 94¢ per 100 mL — a 4.2x range across one shelf. Shortest declared lists: Mutti (2 ingredients per capture) and the DOP tier. Standard domestic diced: tomatoes, tomato juice, salt, calcium chloride, citric acid — declared facts, no commentary.
+
+## 7. WHO IS ACTUALLY CANADIAN — PAYOFF TABLE + THE INVERSION STATED CAREFULLY
+Unico/Primo: Canadian owner, Ontario tomatoes, Ontario-packed — fully Canadian (Italian name, Canadian everything). Aylmer/Hunt's: American owner, Ontario tomatoes, Dresden-packed — Canadian product, American owner (Hunt's = the sleeper twist). Selection: "exclusively Canadian tomatoes" per Metro, packer TBD. No Name/PC: likely Canadian per crowd-sourced labels — CONFIRM ON CAN. Compliments/Great Value: UNVERIFIED — camera check. Mutti/Cirio: fully Italian. Emma/Aurora: Canadian-owned importer brands, Italian product. Kirkland diced: fully American. Thomas' Utopia: do not rank.
+SCRIPT FRAMING (verbatim from the dossier): "The betrayal axis here isn't 'foreign factories making our store brands' (the UK story) — it's that the branding tells you nothing: the most Canadian can on the shelf might say 'Hunt's,' and the least Canadian might say nothing at all until you find 'Imported for...' in 6-point type."
+
+## PART 1 — UNVERIFIED / DO-NOT-USE
+KILLED: Sun-Brite dates 2016/2021 (real: 1997 / Aug 2006 from Kraft); Thomas' Utopia "Dresden" (Maidstone; receivership 2017); Aylmer owned by TreeHouse/Baxters (soup only) or BCI Foods; Emma = Norcan/Sager; Highbury packs store-brand canned tomatoes.
+UNVERIFIED (camera or further sourcing): who packs No Name/PC/Compliments/Great Value (use the label test, never name a packer); OFF crowd-sourced origins; exact Conagra-Aylmer acquisition date (2011 vs March 2012); Thomas' Utopia current status; all prices (some cached 2025); Emma DOP vs non-DOP SKUs (buy both); Kirkland SM DOP seal; consortium verbatim (site down); Sun-Brite "largest processor"/"180,000 tons" attributions; Ruggiero quote = 2011 US-market only; shelf ranking = editorial.

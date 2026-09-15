@@ -4,6 +4,719 @@ Slot: TBD (after Loblaws / canned tomatoes). Reference structure: The Hidden Men
 Format: cold open on a real artifact quoted as dialogue -> thesis with DOUBLE PROMISE -> ascending numbered countdown (15 things Costco Canada got caught on), each entry carrying one hard official number + one verbatim quote -> midpoint "leave the number X in the comments" -> pivot -> 5 things Costco genuinely gets right -> two-part comment question.
 HOUSE-RULE SUBSTITUTION: the reference video's engine is health fear (pests, mould, E. coli, antibiotic grades). That lane is BANNED here. It is replaced with Canadian receipts: Parliament testimony, Competition Bureau, CFIA/Health Canada recall notices used ONLY for the Recalling Firm field, SEC segment filings, StatCan, court records.
 
+# PART 1 — THE PUBLIC RECORD FILE
+## "Costco Canada Just Got Caught…" — Canadian Counter dossier
+**Research date: 15 September 2026.** All prices "at time of research." All CAD unless marked US$.
+
+**TIER KEY**
+- **(a) ADMITTED / CONVICTED / SETTLED** — company admission, own filing/terms, guilty plea, fine paid, court-approved settlement
+- **(b) REGULATOR FINDING / ACTION** — a government body did something on the record
+- **(c) LIVE ALLEGATION / PROCEEDING** — unproven; company's dispute line included verbatim
+- **(d) DOCUMENTED CONSUMER / MEDIA RECORD** — complaints, investigations, price documentation. **Never a finding.**
+
+**BLUNT HEADLINE FOR THE WRITER:** There is **no Competition Bureau enforcement action, no CFIA penalty, no Measurement Canada penalty, and no provincial consumer-protection prosecution** against Costco Wholesale Canada Ltd. that I could verify. The Canadian "caught" material is: **one live Federal Court class action, Costco's own written terms and policies, its own price and fee decisions, its own statements about Canadian sourcing, regulator recall notices, and documented consumer price evidence.** The script must be built on that. Anything stronger is not supported.
+
+---
+
+# FILE 1 — CANADIAN LEGAL & REGULATORY RECORD
+
+## 1.1 Competition Bureau — NO ACTION FOUND **(honest negative — must be stated in script if the topic is raised)**
+
+I searched the Competition Bureau site, Competition Tribunal, and news archives. **I found no consent agreement, no administrative monetary penalty, no Tribunal proceeding, and no announced investigation involving Costco Wholesale Canada Ltd.**
+
+The only Bureau document that names Costco substantively is the 2023 *Retail Grocery Market Study*, and it names Costco **favourably**:
+
+> "Costco and Walmart are the next largest grocers in Canada. While both companies have different business models and sell more than just food, they compete with Loblaws, Sobeys, and Metro for grocery sales. **The success of Costco and Walmart across Canada has brought more choice to the grocery industry.** But with only about 500 stores between them, they are not an option in every community."
+> — Competition Bureau, *Canada Needs More Grocery Competition: Retail Grocery Market Study Report*, 23 June 2023, p.14. https://competition-bureau.canada.ca/sites/default/files/attachments/2023/CB-Retail-Grocery-Market-Study-Report-EN-2023-06-23.pdf
+
+> "Today, we are down to five large chains that operate in Canada: Loblaws; Sobeys; Metro; Costco; and Walmart." (p.17, same report)
+
+**TIER: (b) regulator document — but NOT adverse to Costco. Use it in the "gets right" section or as the honest counterweight.**
+
+**USEFUL CONTEXT (not Costco):** For scale on what Canadian drip-pricing enforcement actually looks like, the Competition Tribunal ordered **Cineplex to pay ~$38.9 million** in September 2024 for drip pricing — the largest such penalty in Canadian history (under appeal as of Oct 2025). Bureau news release: https://www.canada.ca/en/competition-bureau/news/2024/09/competition-bureau-wins-deceptive-marketing-case-against-cineplex.html — Use only to explain the law the Costco class action invokes. **Do not imply Costco is in this category.**
+
+## 1.2 CFIA "MAPLE WASHING" PENALTIES — **COSTCO WAS NOT ONE OF THE FIVE** ⚠️
+
+This was a direct research task and the answer is a clean negative. The $47,000 across five businesses since 1 April 2025 breaks down as:
+
+| Business | Penalty |
+|---|---|
+| 1000717809 Ontario Limited (Fortinos, Etobicoke) | $10,000 |
+| Fresh in The City Inc. (Toronto) | $7,000 |
+| Meatex Farms Ltd. (Edmonton) | $10,000 |
+| Oxford Frozen Foods Inc. (Oxford, N.S.) | $10,000 |
+| Real Canadian Superstore (Toronto) | $10,000 |
+| **TOTAL** | **$47,000** |
+
+> "Canadians have been clear that they want to support Canadian businesses and buy Canadian products. Consumers deserve origin labels they can trust so they can make informed choices."
+> — CFIA statement quoted in Aaron D'Andrea, "CFIA says it's handed out $47K in fines for 'misleading' Product of Canada labels," Global News, 20 March 2026. https://globalnews.ca/news/11739168/maple-washing-canada/
+
+> "Food businesses are responsible for ensuring that all food products they sell, whether made in Canada or imported, meet Canada's legislative requirements. The CFIA takes labelling issues seriously and is directly addressing the growing concern with Canadian food businesses over inaccurate and misleading origin claims." (same source)
+
+**Costco is not on the list. Say so on camera — it is a credibility win.**
+
+I also checked both CBC Marketplace maple-washing investigations for Costco mentions: **zero mentions in either.**
+- "The Maple Makeover: Where is our food really from?" https://www.cbc.ca/news/marketplace/the-maple-makeover-9.7066646 — 0 Costco mentions
+- "Think you're buying Canadian at the grocery store? That product may actually be from the U.S." https://www.cbc.ca/news/marketplace/canadian-grocery-usa-9.7066424 — 0 Costco mentions
+- "CBC investigation finds some big grocers promoting imported food with Canadian branding" https://www.cbc.ca/news/business/label-grocer-canadian-1.7590956 — 0 Costco mentions
+
+**TIER: (b) regulator action — Costco excluded. DO NOT imply Costco was fined.**
+
+## 1.3 MEASUREMENT CANADA / WEIGHTS AND MEASURES — NO COSTCO-SPECIFIC ENFORCEMENT FOUND
+
+This was a specific research task. Findings:
+
+- Measurement Canada's enforcement regime is real: retail petroleum devices must be inspected **every 2 years**; AMPs run **$250 (minor) to $2,000 (serious) per violation**; escalation runs warning letter → notice of non-compliance → notice of violation → device removed from service → AMP → prosecution. Source: https://ised-isde.canada.ca/site/measurement-canada/en/authorized-service-providers/measurement-canada-compliance-and-enforcement-fact-sheet
+- In 2025 Measurement Canada ran "inspection sprints" specifically targeting the **retail petroleum** sector. Source: *Measurement Canada 2025 Annual Report on Activities*, https://ised-isde.canada.ca/site/measurement-canada/en/measurement-canada-2025-annual-report-activities
+- **Measurement Canada does not publish a company-by-company list of notices of violation or AMPs.** I could not locate any published enforcement action naming Costco.
+
+**VERDICT: Cannot be used as a Costco item. The enforcement stream exists; Costco's record in it is not public.** If the script wants it, the honest line is: "Measurement Canada doesn't publish who it penalises — so nobody, including us, can tell you Costco's record at the pump."
+
+## 1.4 PROVINCIAL CONSUMER PROTECTION — NOTHING FOUND
+
+- **Quebec OPC (Office de la protection du consommateur):** no enforcement action, conviction, or *constat d'infraction* against Costco located in OPC releases or Quebec press.
+- **CanLII sweep for "Costco Wholesale Canada":** most recent decisions located are *Park v. Costco Wholesale Canada Ltd.*, 2023 ONSC 1885 and *Cavic v. Costco Wholesale Canada Ltd.*, 2015 ONCA 215 — private civil matters, not consumer-protection enforcement. **Not usable.**
+
+## 1.5 THE ONE CANADIAN COURT CASE COSTCO WAS IN — AND WON (context only)
+
+Costco Wholesale Canada was one of eight retailers who sued the **Office québécois de la langue française** over French signage rules, and **won** at the Quebec Court of Appeal on 27 April 2015 (*Magasins Best Buy ltée c. Québec (Procureure générale)*). Co-plaintiffs: Best Buy, Gap, Old Navy, Guess?, Wal-Mart, Toys "R" Us, Curves. Summary: https://mcmillan.ca/insights/publications/public-display-of-english-language-trade-marks-quebec-court-of-appeal-confirms-the-decision-in-magasins-best-buy-ltee-v-quebec-procureur-general/
+
+**TIER: (a) court decision — but Costco was the WINNING PLAINTIFF. Do not frame as "caught." Context only, if at all.**
+
+## 1.6 COSTCO'S OWN 10-K DISCLOSES **ZERO** CANADIAN LEGAL PROCEEDINGS
+
+I read the full Legal Proceedings note (Note 10) of the FY2025 10-K. Every matter disclosed is American: *Reyes* (California wage/hour), *Nader* (California PAGA), the opioid MDL, five pixel-tracker privacy class actions, *Bullard* (baby wipes labelling), a DOJ False Claims Act civil investigative demand, and an EPA FIFRA matter.
+
+> "The Company does not believe that any pending claim, proceeding or litigation, either alone or in the aggregate, will have a material adverse effect on the Company's financial position, results of operations or cash flows…"
+> — Costco Wholesale Corporation, Form 10-K for fiscal year ended 31 August 2025, filed 8 October 2025, Note 10. https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm
+
+**This is itself a scriptable fact: the Canadian class action is not material enough to name in the 10-K.**
+
+---
+
+# FILE 2 — CANADIAN CLASS ACTIONS
+
+## 2.1 ⭐ THE SPINE ITEM: *El Bechara v. Costco Wholesale Canada Ltd.* — FEDERAL COURT — "DOUBLE TICKETING"
+
+**TIER: (c) LIVE ALLEGATION / PROCEEDING — NOT CERTIFIED, NOT PROVEN.**
+
+| | |
+|---|---|
+| Court | **Federal Court of Canada** |
+| Representative plaintiff | **Ibrahim El Bechara** |
+| Counsel | Perrier Avocats (Montreal) — Me Eric Perrier, Me Réjean Paul Forget, Me Jocelyn Ouellette, Me Francis Thibault-Ménard; with Me Nancy Fortin, Fortin Simard Avocats |
+| Filed | **23 December 2024** |
+| Status | **Proposed / pending authorization. NOT certified. No decision on the merits.** |
+| Class period start | 23 December 2022 |
+
+**Allegations, verbatim from plaintiff's counsel:**
+
+> "double labelling concerning several products offered by the defendant Costco Wholesale Canada"
+
+> "false or misleading indications concerning 1) the absence of other charges and 2) the absence of indication during an online purchase to the effect that the product is also available in store"
+
+**Class definition, verbatim:**
+
+> "All persons in Canada who, since December 23, 2022, have purchased a product from Costco via the latter's mobile application or the Costco.ca website and who have paid an amount greater than that displayed in Costco stores for the same product."
+
+— Perrier Attorneys case page: https://perrieravocats.com/el-bechara-vs-costco/
+
+**Price examples pleaded (as reported):**
+- Glasslock 26-piece food storage containers — **$44.99 online vs $34.99 in-store**
+- Kirkland Signature 10-cup pitcher — **$31.99 online vs $24.99 in-store**
+- Blender purchased 10 July 2024 — **$84.99 online vs $79.99 in-store**
+- Flat iron — **$59.99 online vs $49.99 in-store**
+
+— Saba Aziz, "Does Costco charge more online? What a proposed class action alleges," Global News, 14 January 2025. https://globalnews.ca/news/10957804/costco-canada-class-action-lawsuit/
+
+**Counsel's framing, verbatim:**
+> "if you advertise the same product at two different prices, then you are bound to sell it at the lower price" — Me Jocelyn Ouellette
+
+**Legal hook:** Double ticketing is a **criminal** offence under the *Competition Act* (s.54). Reported maximum on summary conviction: fine up to $10,000 and/or imprisonment up to one year.
+
+### ⚠️ COSTCO'S DEFENCE LINE — MANDATORY, AND IT'S ON COSTCO'S OWN SITE
+
+This is the strongest artefact in the whole file, because it's Costco's own published policy and it directly answers the allegation:
+
+> **"Why is there a difference between warehouse prices and Costco.ca prices?"**
+> "As you may already know, not all products sold on Costco.ca are available at local Costco warehouses. Also, **products sold online may have different pricing than the same products sold at your local Costco warehouse. That's due to the shipping and handling fees charged for delivery to your home or business.** Please note that **Costco.ca does not price match warehouse or vice versa.** When an item is available both online and in the warehouse, you'll see the message, 'This Item may currently be in stock at your local Costco warehouse for immediate purchase at a cash and carry price…'"
+> — Costco.ca Customer Service, **Document ID CCSS222, Version 2.0, Published 09/10/2025**. https://customerservice.costco.ca/app/answers/answer_view/a_id/1017385/~/why-is-there-a-difference-between-warehouse-prices-and-costco.ca-prices
+
+**SCRIPT SAFETY LANGUAGE:** "This is an allegation. It has not been tested. The court has not certified it as a class action, and no judge has found Costco did anything wrong. Costco's position — published on its own website — is that online prices build in shipping and handling, and that Costco.ca and the warehouse simply are not the same store."
+
+**CANNOT VERIFY:** the Federal Court file number (T-####-24), and any 2025–2026 procedural rulings. Counsel's own page carries no status update. **Producer action: order the docket from the Federal Court registry before shooting.**
+
+## 2.2 OTHER CANADIAN CLASS ACTIONS — NONE FOUND
+
+- **Fake maple syrup class action (Quebec Superior Court, amended 3 Aug 2026):** names **Loblaws, Metro, Sobeys and Groupe Epicia** (Val-Mont), plus producer Érablière Steve Bourdeau. **Costco is NOT named.** https://www.cbc.ca/news/canada/montreal/fake-maple-syrup-lawsuit-grocery-stores-9.7312726 — **honest negative; use it as a fairness beat.**
+- No certified Canadian class action against Costco on membership, employment, or product claims was located.
+
+## 2.3 US CLASS ACTIONS — CLEARLY LABEL AS US
+
+### 2.3.1 Rotisserie chicken "No Preservatives" — **(c) LIVE ALLEGATION (US)** — *but Canada-relevant*
+
+- Filed **22 January 2026**, U.S. District Court for the Southern District of California, by two California women. Not certified.
+- Allegation verbatim: Costco *"has systematically cheated customers out of tens — if not hundreds — of millions of dollars by falsely advertising its Kirkland Signature Seasoned Rotisserie chicken as containing 'no preservatives.'"*
+
+**Costco's statement to CBC News, verbatim:**
+> "We use carrageenan and sodium phosphate to support moisture retention, texture and product consistency during cooking. Both ingredients are approved by food safety authorities."
+> — and Costco said it had removed its "no preservatives" references **"to maintain consistency"** among its labelling and signs.
+> — Natalie Stechyson, CBC News, 3 February 2026. https://www.cbc.ca/news/world/costco-chicken-lawsuit-9.7070891
+
+**Costco's motion to dismiss (filed 4 June 2026), verbatim:**
+> "This theory is fatally flawed."
+> "Plaintiffs' own sources contradict [the allegation], the regulations of the U.S. Food and Drug Administration discredit it, and the product label dispels it."
+> "Plaintiffs concede that Costco removed the disputed signage after this lawsuit was filed, yet the rotisserie chicken's price remains unchanged at its well-known $4.99. This admission is fatal: there is no price premium, and there never was one."
+> — John Mazerolle, CBC News, 17 June 2026. https://www.cbc.ca/news/world/costco-chicken-9.7237331
+
+**Plaintiff counsel's line:** *"It's confirmation of our core legal theory — the 'no preservative' claims were false."* — Wesley M. Griffith, Almeida Law Group.
+
+**Motion to dismiss was set to be heard 13 August 2026. I could not find the outcome. VERIFY BEFORE AIRING.**
+
+**⚠️ HOUSE-RULES HANDLING:** Frame this **strictly as an advertising-accuracy dispute**, never as a health story. CBC explicitly notes Health Canada permits both ingredients. Do not use the words "toxic," "chemical," or any illness framing. The genuinely interesting, safe beat is: **the "no preservatives" claim came off the packaging after the suit was filed, and Costco says that was for labelling "consistency," not because the claim was wrong.**
+
+**Canadian price anchor (CBC, both articles):** *"In Canada, Costco's rotisserie chicken is more like $7.99 to $9 Cdn, which is still less expensive than comparable cooked chickens sold at other major grocery stories."* US price: **US$4.99** (unchanged since 2009). Costco sold **154.7 million birds worldwide in 2025**.
+
+### 2.3.2 *lululemon athletica canada inc. v. Costco Wholesale Corporation* — **(c) LIVE, PARTLY SETTLED (US court, Canadian plaintiff)**
+
+- Filed **30 June / 1 July 2025**, U.S. District Court, Central District of California, **No. 2:25-cv-05864**. Docket: https://www.courtlistener.com/docket/70650720/lululemon-athletica-canada-inc-v-costco-wholesale-corporation/
+- **Note the plaintiff's name: "lululemon athletica canada inc."** — a Vancouver-founded Canadian company suing Costco. That's the Canadian hook.
+- Allegation: Costco *"unlawfully traded"* on lululemon's reputation, goodwill and sweat equity by selling unauthorised, unlicensed apparel using knockoff, infringing versions of its patents. Products cited: Scuba hoodies, Define jackets, ABC pants.
+- **Status:** Partly settled. Feb 2026 — claims resolved re: Danskin/Jockey outerwear (with manufacturer Jacques Moret Inc.). April 2026 — further settlements re: Jockey outerwear, Kirkland-branded pants, Danskin. May 2026 — court approved severance and **dismissal with prejudice** of claims tied to Kirkland Performance Pants and Spyder Women's Yoga Jacket. **One men's zip-up jacket claim remains; jury trial scheduled March 2027.**
+- Reporting: https://news.bloomberglaw.com/ip-law/lululemon-costco-settle-dupes-lawsuit-except-for-one-jacket ; https://www.cnbc.com/2025/07/01/lululemon-costco-lawsuit.html
+
+**⚠️ Settlement terms are not public and settlement is NOT an admission. Say so.** I could **not** find a Costco statement on the record. **Do not attribute a quote to Costco here.**
+
+### 2.3.3 US membership auto-renewal class action — **(c) LIVE (US ONLY)**
+Filed **March 2026** by California resident Russel George II under California's Automatic Renewal Law; alleges the renewal notice arrived ~60 days before the charge (outside the 15–45 day window) and omitted the amount, the renewal terms and a clear cancellation route. He signed up for a **$65 Gold Star** membership in 2023; card charged **2 January 2026**. https://www.scrippsnews.com/business/company-news/costco-faces-legal-challenge-over-membership-renewal-notices
+
+**This is a California statute. It has NO Canadian application. If used at all, say "United States only" in the same breath.** No Costco response located.
+
+---
+
+# FILE 3 — THE MEMBERSHIP FILE
+
+## 3.1 ⭐ THE SEPTEMBER 2024 FEE INCREASE — **(a) COMPANY ADMISSION**
+
+**Announced 10 July 2024. Effective 1 September 2024. First increase since June 2017 — seven years.**
+
+Costco's own press release, verbatim:
+
+> "The Company announced that effective September 1, 2024, membership fees would increase by $5 for U.S. and Canada Gold Star (individual), Business, and Business add-on members to $65 annually. Executive Memberships in the U.S. and Canada would increase from $120 to $130, with the maximum 2% Reward increasing from $1,000 to $1,250. The increases affect approximately 52 million memberships, slightly over half being Executive tier."
+> — Costco Wholesale Corporation, "Reports June Sales Results and Announces Quarterly Cash Dividend and Plans for Membership Fee Increase," Costco Investor Relations, 10 July 2024. https://investor.costco.com/news/news-details/2024/Costco-Wholesale-Corporation-Reports-June-Sales-Results-and-Announces-Quarterly-Cash-Dividend-and-Plans-for-Membership-Fee-Increase/default.aspx
+
+**CANADIAN NUMBERS (CAD), confirmed by CBC:**
+
+| Tier | Old | New | Change |
+|---|---|---|---|
+| Gold Star (individual) | **$60** | **$65** | +$5 (+8.3%) |
+| Business / Business add-on | $60 | $65 | +$5 |
+| Executive | **$120** | **$130** | +$10 (+8.3%) |
+| Executive 2% reward cap | $1,000 | $1,250 | +$250 |
+
+> "Regular 'gold star' and business members will now have to pay $65 annually, rather than $60, while an executive membership will cost $130 annually, up from $120. The maximum annual two per cent reward for executive memberships will increase to $1,250 from $1,000."
+> — Jenna Benchetrit, CBC News, 13 Aug 2024. https://www.cbc.ca/news/business/costco-memberships-photo-id-1.7293020
+
+**CURRENT CANADIAN PRICES CONFIRMED FROM COSTCO'S OWN TERMS (dated 1 August 2026):**
+
+> "Gold Star Membership fee is **$65 (plus applicable taxes)** per 12-month period…"
+> "Business Membership fee is **$65 (plus applicable taxes)**… Each Primary member may name up to 6 Affiliates for $65 each…"
+> "Executive Membership is **$130 (plus applicable taxes)** per 12-month period…"
+> — *Membership Conditions & Regulations*, Costco Wholesale Canada Ltd., dated **August 1, 2026**. https://www.costco.ca/f/-/membership-conditions-regulations
+
+**What the fee increase earns Costco:** From the Q2 FY2026 call (5 March 2026), CFO Gary Millerchip:
+> "The September 2024 US and Canada membership fee increase accounted for about one-third of our membership income growth."
+Membership fee income that quarter: **US$1.355 billion, up 13.6% YoY.**
+
+## 3.2 ⭐ THE CARD-SHARING CRACKDOWN — **(a) COMPANY POLICY, CANADIAN ROLLOUT NAMED**
+
+Announced early August 2024. **Canadian rollout cities confirmed by Costco to CBC:**
+
+> "The scanners, which were announced last week, are set up at Costco warehouse entrances in **Ottawa, Edmonton, Regina and B.C.'s Lower Mainland**, a company representative confirmed to CBC News. The new system will be expanded to other stores. The representative couldn't confirm whether it would be expanded to all Costco locations in Canada."
+> "Members will have to scan their digital or physical membership passes to enter the store. **If your membership card doesn't have a photo, you need to be prepared to show photo ID**, says the company's website. Guests are still allowed, but only if they're accompanied by someone who holds a valid Costco membership. There will be attendants at the door."
+> — Jenna Benchetrit, CBC News, 13 August 2024 (updated 14 Aug). https://www.cbc.ca/news/business/costco-memberships-photo-id-1.7293020
+
+**Timing beat worth scripting:** CBC's own subhead was *"New scanning system being implemented ahead of September membership rate hike."*
+
+**Costco Canada's own binding terms today:**
+> "Your membership card must have a card number and recognizable, unobstructed full-face photo to be valid. If your photo is not on your card, you must present valid provincial or federal government-issued photo ID at the membership counter to have your photo added to your card."
+> "**You will be required to scan your membership card** (either in its original physical form or as it appears on the Costco mobile application) **when entering any Costco warehouse and when checking out at a payment register.** Bar codes, photos or other copies are not acceptable."
+> — *Membership Conditions & Regulations*, costco.ca, 1 Aug 2026. https://www.costco.ca/f/-/membership-conditions-regulations
+
+Global News (8 Aug 2024) adds Costco's instruction that staff will *"encourage you to stop by the membership counter to have a photo taken to have on your card."* https://globalnews.ca/news/10687641/costco-membership-scanners-warehouse-canada-entrance/amp
+Costco's own notice: https://customerservice.costco.com/app/answers/answer_view/a_id/1013527/~/membership-scanners-at-warehouse-entrances
+
+## 3.3 ⭐ THE FOOD COURT CRACKDOWN — VANCOUVER — **(d) DOCUMENTED RECORD**
+
+> "When Vancouver's downtown Costco recently posted signs announcing people will need an active membership card to purchase food from the food court, it sparked a fierce debate online about whether non-members should be able to access its cheap meals."
+> "Technically, the Costco food court has always been for members only, but the policy hasn't always been strictly enforced. Costco reportedly started cracking down on non-members accessing its food courts in 2020, and made another push last year, but still, some people find ways to get at those cheap dogs **without paying the $65 membership fee**."
+> "Employees at the downtown Vancouver Costco recently told CBC Vancouver that this location in particular had been lax with its food court policy because of its location outside the warehouse."
+> "**CBC News has contacted Costco Canada for a comment and not yet heard back.** When CBC Vancouver reached out to the local store in June, they were told it's their policy to require membership to buy food from the food court."
+> — Natalie Stechyson, "As a B.C. Costco cracks down on its food court, is there anywhere truly cheap left to eat?", CBC News, **30 July 2025**. https://www.cbc.ca/news/canada/costco-food-court-membership-1.7595356
+
+CBC also captured the public reaction verbatim:
+> "Everyone deserves to be able to buy a $1.50 hotdog and drink if they're broke" — Costco Canada subreddit
+> "With how expensive everything is, you could always get a cheap quality eat here. Sad for the non-members" — X
+
+And an expert who is *sympathetic* to Costco's decision (include for fairness):
+> "Inadvertently, what happens is we've got corporations making up for deficits in our social programs… It tells you how weird things have gotten. That people are like, 'Well, I'm so financially distressed I'm going to go and find the cheapest food I can. A hotdog.'"
+> "From a bigger point of view, it goes to show you that there's a real challenge of people getting affordable food."
+> — William Huggins, assistant professor of finance and business economics, McMaster University
+
+There is an accompanying CBC Vancouver TV piece: *"Love the $1.50 hotdog combo at the downtown Vancouver Costco? You'll soon need membership to buy it,"* 5 June 2025, 2:26.
+
+## 3.4 ⭐ THE FINE PRINT MOST MEMBERS HAVE NEVER READ — **(a) COSTCO'S OWN BINDING TERMS**
+
+All from *Membership Conditions & Regulations*, Costco Wholesale Canada Ltd., dated **1 August 2026**: https://www.costco.ca/f/-/membership-conditions-regulations
+
+**(i) You are not allowed to write down prices.** This is a genuinely under-reported, fully verifiable countdown item:
+> "**Use of still or digital cameras or other recording devices, or recording of prices in any manner is not permitted. Offenders will be asked to leave the premises and their membership may be revoked.**"
+
+**(ii) Receipt check at the door is a condition of membership, not a request:**
+> "You will be required to show your receipt for the items you purchased at the warehouse exit. This ensures that our cashiers processed the items you purchased correctly and that you have been properly charged for your purchases. It is also one of our most effective methods of maintaining accuracy in inventory control."
+
+**(iii) Bag searches — you consent by walking in:**
+> "Costco reserves the right to inspect any container, backpack, briefcase, bag or other package when our members and their guests enter or leave our warehouses. **Our members and their guests consent to such inspections when they enter our warehouses.**"
+
+**(iv) Membership can be terminated without cause:**
+> "Costco reserves the right to refuse membership to any applicant and **membership may be terminated at Costco's discretion without cause**, as well as for such things as failure to comply with these conditions and regulations or abuse of your membership privileges."
+
+**(v) Costco can change the rules without telling you — except in B.C.:**
+> "Except for BC residents, these conditions and regulations may be amended by Costco without prior written notice to or consent of the member… **For British Columbia residents only**: Any provision of these conditions and regulations may be amended at any time by Costco **with prior notice to you**. Any amendment to terms relating to cancellations, returns, exchanges or refunds may be made only if the amendment does not increase your obligations or reduce Costco's obligations."
+
+**(vi) Quebec-only right-to-repair exclusion, flagged under Quebec's *Consumer Protection Act*:**
+> "**QUEBEC ONLY - Exclusion of the right to repair†** Costco does not guarantee the availability of any replacement parts, repair services or information necessary to maintain or repair any goods."
+> "†Notice pursuant to section 39.2 of the Consumer Protection Act (CQLR, c. P-40.1)."
+
+**(vii) Guests can't buy:**
+> "Each cardholder may bring their children and up to two guests into the warehouse… **Guests do NOT have purchasing privileges.**"
+
+## 3.5 ⭐ THE EXECUTIVE 2% REWARD — WHAT IT DOESN'T COVER — **(a) COSTCO'S OWN TERMS**
+
+Members pay **$130/yr** (double Gold Star) for a 2% reward. Costco's own terms exclude an enormous amount of Costco spending:
+
+> "Rewards will **not** be calculated: (i) on purchases of cigarettes or other tobacco-related products; (ii) on purchases that are not recorded through Costco Wholesale's front-end registers, such as **services, purchases at Costco Wholesale's gas stations, food courts, optical centres (Quebec only), and pharmacies**; (iii) on membership fees; (iv) on miscellaneous fees, deposits and taxes, including applicable sales tax and goods and services tax; (v) on purchases of services, including auto and other services; (vi) on purchases where prohibited by legal or regulatory restrictions; (vii) **on certain other categories as determined from time to time at Costco Wholesale's sole discretion**…"
+
+> "Calculation of a Reward is **capped at, and will not exceed, $1,250** for any 12-month period."
+
+**And the reward coupon can't be spent online:**
+> "Reward coupons may not be used: … (ii) toward purchases that are not recorded through Costco Wholesale's front-end registers, such as purchases at Costco Wholesale's **gas stations, food courts, optical centres (Quebec only), pharmacies and online at Costco.ca and Costcobusinesscentre.ca**; (iii) toward purchases of services, including travel, auto and other services…"
+> "Reward coupons will not be replaced if lost or stolen."
+
+**Also note the three-month lag:**
+> "The period of calculation will run approximately from the date of the member's paid enrollment or upgrade to Executive Membership through the date approximately **three months prior** to the member's renewal date."
+
+— All: https://www.costco.ca/f/-/membership-conditions-regulations
+
+**STRONG COUNTDOWN ITEM.** Gas is one of the biggest reasons Canadians hold a Costco card, and it earns **zero** Executive reward. So does the food court. So does the pharmacy.
+
+## 3.6 EXECUTIVE MEMBERSHIP PERKS ADDED — **(a) COMPANY ANNOUNCEMENT** *(fairness beat)*
+
+Effective **30 June 2025**, in **both the US and Canada**:
+- **Extended shopping hours for Executive members:** 9:00–10:00 a.m. Mon–Fri; 9:00–9:30 a.m. Sat; 9:00–10:00 a.m. Sun.
+- **$10 monthly credit** toward same-day delivery (sameday.costco.ca) or Costco via Instacart, on orders of **$150+**.
+Sources: https://www.axios.com/2025/06/19/costco-hours-executive-members-early-shopping ; https://www.nasdaq.com/press-release/costco-executive-members-now-get-monthly-credit-same-day-delivery-instacart-2025-06 ; Canadian confirmation: https://dailyhive.com/canada/costco-canada-executive-members-delivery
+
+## 3.7 RENEWAL RATES FROM COSTCO'S OWN FILINGS — **(a)**
+
+**From the FY2025 10-K (year ended 31 Aug 2025):**
+> "Our member renewal rate was **92.3% in the U.S. and Canada** and 89.8% worldwide at the end of 2025."
+
+> "Membership at the end of 2025, 2024, and 2023… Gold Star 68,300; Business, including affiliates 12,700; **Total paid members 81,000**; Household cards 64,200; **Total cardholders 145,200**" (thousands)
+> "(1) Executive members represented **38,700**, 35,400, and 32,300 of total paid members in 2025, 2024, and 2023."
+> "The sales penetration of Executive members represented approximately **73.6% of worldwide net sales in 2025.**"
+— 10-K: https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm
+
+**Most recent (Q2 FY2026, call 5 March 2026), Millerchip verbatim:**
+> "In terms of renewal rates, at Q2 end, our **US and Canada renewal rate was 92.1%, down 10 basis points** from last quarter, and the worldwide rate came in at 89.7%, unchanged from last quarter. The slight decline in the US and Canada renewal rate… reflects **new online members growing as a percentage of our total base and renewing at a slightly lower rate than warehouse sign-ups.**"
+> "At Q2 end, we had 40,400,000 paid memberships, up 9.5%… We ended the quarter with **82,100,000 total paid members**, up 4.8%… and **147,200,000 cardholders**, up 4.7% year over year."
+— Transcript: https://www.fool.com/earnings/call-transcripts/2026/03/05/costco-cost-q2-2026-earnings-call-transcript/
+
+⚠️ **Costco does not break out a Canada-only renewal rate or a Canada-only membership count. Never present 92.3% as "Canadian."** It is a blended US+Canada figure.
+
+---
+
+# FILE 4 — THE PRICING FILE
+
+## 4.1 ⭐ THE $1.50 HOT DOG COMBO — **SURVIVED IN CANADA, IN CANADIAN DOLLARS** — **(d) verified by CBC**
+
+> "The $1.50 Costco hotdog meal. Despite inflation, the price has held firm since the 1980s, and its been a popular menu item for both card-carrying Costco members and those just there for the food."
+> — CBC News, 30 July 2025. https://www.cbc.ca/news/canada/costco-food-court-membership-1.7595356
+
+**The Canadian angle that actually lands:** Canada's combo is **$1.50 CAD**, the US combo is **$1.50 USD**. At the CAD/USD rate shown on Yahoo Finance Canada at time of research (**0.7188**), the Canadian hot dog combo is roughly **US$1.08** — cheaper in real terms than the American one. CBC's own framing contextualises it against *"$50 to get four full meals at McDonald's,"* a *"$45"* KFC family bucket, Swiss Chalet family packs from *"$39.99,"* and a *"$12.45"* Mucho Burrito burrito.
+
+**CEO commitment on the record:** *"The hot dog price will not change as long as I'm around,"* — CEO Ron Vachris (widely reported, 2026). And the founder story, recounted in CBC's June 2026 piece: former CEO Craig Jelinek said Jim Sinegal told him **"If you raise the effing hot dog, I will kill you."** https://www.cbc.ca/news/world/costco-chicken-9.7237331
+
+**2026 change:** Costco added a **bottled-water option** in place of soda in the combo — reported as the first change to the combo in 40+ years. Price unchanged. https://www.axios.com/2026/05/02/costco-hot-dog-combo-options-water
+
+## 4.2 ROTISSERIE CHICKEN — CANADA PAYS 60–80% MORE THAN THE US — **(d)**
+
+- **Canada: $7.99–$9.00 CAD** — CBC News, Feb 2026 and June 2026 (both verbatim above).
+- **US: US$4.99**, unchanged since 2009.
+- CBC's own qualifier, which must be included for fairness: *"which is still less expensive than comparable cooked chickens sold at other major grocery stories."*
+
+## 4.3 ⭐ DOCUMENTED CANADIAN PRICE INCREASES — **(d) DOCUMENTED CONSUMER/MEDIA RECORD**
+
+Narcity senior writer Lisa Belmonte photographed and compared Costco Canada shelf prices across multiple years. **This is price documentation, not a finding.** Published **13 February 2026**: https://www.narcity.com/costco-products-price-increase-2026-kirkland-signature-name-brand
+
+| Product | Then | Now (Feb 2026) | Increase |
+|---|---|---|---|
+| **KS chocolate-dipped granola bars, 1.49 kg** | $11.99 (2024) | **$17.49** | **+46%** |
+| McCafé ground coffee, 1.36 kg | $24.79 (2023) | **$34.99** | **+41%** |
+| **KS hazelnut spread, 2 × 1 kg** | $12.99 (2023) | **$16.99** | **+31%** |
+| KS chocolate chip granola bars, 1.54 kg | $11.99 (2024) | **$14.99** | +25% |
+| Kraft peanut butter, 2 kg | $8.89 (2023) | **$10.49** | +18% |
+| KS coarse ground black pepper, 360 g | $8.49 (2025) | **$9.99** | +18% |
+| Tetley orange pekoe, 945 g | $11.99 (2023) | **$13.99** | +17% |
+| Almond Breeze, 6 × 946 mL | $11.49 (2025) | **$12.99** | +13% |
+| Nutella, 2 × 1 kg | $15.99 (2023) | **$17.99** | +13% |
+| KS sea salt, 850 g | $4.49 (2024) | **$4.99** | +11% |
+| KS frozen whole strawberries, 2.5 kg | $14.49 (2025) | **$15.99** | +10% |
+| KS frozen blueberries, 2 kg | $12.99 (2025) | **$13.99** | +8% |
+| McCafé K-Cup pods, 860 g | $46.99 (2025) | **$48.99** | +4% |
+
+**Note the asymmetry worth scripting: Kirkland Signature — the house brand — is where the biggest increases are (46%, 31%, 25%), not the national brands.**
+
+**BENCHMARK IT AGAINST STATCAN (this is what makes it honest):**
+> "Food purchased from stores continued to slow in August, rising **2.8% year over year** after increasing 3.1% in July."
+> "Although prices for groceries decelerated this month, **prices have increased 29.0% since August 2021**."
+> — Statistics Canada, *The Daily: Consumer Price Index, August 2026*, released **14 September 2026**. All-items CPI +3.0% YoY. https://www150.statcan.gc.ca/n1/daily-quotidien/260914/dq260914a-eng.htm
+
+So: a 46% increase on KS granola bars over two years, against a 29% grocery basket increase over five years. **That contrast is the item.**
+
+## 4.4 ⭐ SHRINKFLATION — DOCUMENTED IN CANADA — **(d)**
+
+Burnaby, B.C. blogger and former journalist Nathaniel Christopher weighed two packages of the same product bought 13 months apart:
+
+> "In my laundry room, I have two packages of Kirkland Signature Ultra Clean Laundry Detergent Pacs: a plastic tub purchased in August 2023 and a plastic bag purchased in September 2024. **Both were bought for $26.99.** Each package contains **152 laundry detergent pods**, but the other day I noticed a difference: **the older package weighs 3.6 kg, while the newer one weighs 2.9 kg.**"
+> "Initially, I thought the weight difference might be due to the change in packaging from a plastic tub to a bag. However, I decided to weigh the pods on a kitchen scale. **The old pods weigh 22 grams, while the new ones weigh 19 grams.** Additionally, the newer pods are visibly smaller than the older ones."
+> — Nathaniel Christopher, "Documenting Costco shrinkflation: Kirkland Signature laundry detergent pods," 13 December 2024. https://www.nathaniel.ca/2024/12/13/documenting-costco-shrinkflation-kirkland-signature-laundry-detergent-pods/
+
+**Same price, same pod count, 19.4% less product.** He weighed it himself and photographed it. That's documentation, and it's Canadian.
+
+**Note:** his post ends with a strongly worded personal opinion about Costco. **Do not quote that line** — it's opinion, and quoting it converts a documented measurement into an accusation. Use the weights only.
+
+⚠️ A second frequently-cited example — Kirkland toilet paper going from **425 sheets/roll to 380 sheets/roll**, sourced to the Costco Canada subreddit via blogTO (June 2024, https://www.blogto.com/eat_drink/2024/06/canadians-spot-shrinkflation-costco/) — is **user-generated and I could not independently verify it.** Use only if you can photograph both packages yourselves.
+
+## 4.5 THE FOOD COURT PRICE FILE — **MOSTLY UNVERIFIED, HANDLE WITH CARE**
+
+**VERIFIED:** hot dog combo held at **$1.50 CAD** (CBC, above).
+
+**NOT VERIFIED:** Every Canadian Costco food-court price list I found (chicken bake $3.99, poutine $6.99, chicken strips & fries $7.99, fries $3.49, 18" pizza $12.99, and a "late January 2025 increase of $0.50–$1.00 across multiple items") traces back to **SEO/affiliate menu-price sites with no bylines and no sourcing** — costcofoodcourt.vercel.app, costcofoodcourtmenu.ca, menupricesincanada.com, foodblogcanada.com, torontoscoop.ca, costcoguides.com. **Costco does not publish food court prices on costco.ca.** No Canadian news outlet of record covered a Canadian food-court price increase.
+
+**PRODUCER ACTION:** if you want food court prices on screen, **shoot the menu board yourself** at a named warehouse on a named date. Do not cite these sites.
+
+## 4.6 "SALE PRICE" / "COMPARE AT" CONTROVERSIES — NOTHING FOUND FOR CANADA
+
+I found **no** ordinary-selling-price, "compare at," or reference-pricing controversy involving Costco Canada — no Bureau matter, no provincial matter, no outlet-of-record investigation. The one pricing controversy of record is the online-vs-in-store class action at 2.1.
+
+---
+
+# FILE 5 — THE TARIFF / BUY-CANADIAN FILE
+
+## 5.1 ⭐ "COSTCO TO REDUCE CANADIAN PRODUCTS IN U.S. STORES" — **(a) CEO ON THE RECORD**
+
+This is the most Canadian-resonant tariff item in the file.
+
+> **"Costco Wholesale Corp. says it is looking to reduce its reliance on Canadian products in its stores in the United States in response to tariffs from U.S. President Donald Trump."**
+> Chief executive Ron Vachris: **"There's not many items that we can't find something to replace or something else to bring in that category."**
+> "The tariffs are very fluid right now, so it's hard to give any predictions on what we can do, but our people are very well-equipped to lower prices and defer any cost increases that come our way. We're going to do what we can."
+> — Ben Cousins, Financial Post / Yahoo Finance Canada, **7 March 2025**. https://ca.finance.yahoo.com/news/costco-reduce-canadian-products-u-184408234.html
+
+Also from that piece: Costco sources **less than 20%** of products for its U.S. locations from Canada, China and Mexico combined; and *"Among its 109 Canadian stores, adjusted sales climbed 10.5 per cent."*
+
+⚠️ **ERROR IN THAT ARTICLE — FIX IT IF YOU CITE IT:** it calls this a *"fourth-quarter earnings call."* It was Costco's **Q2 FY2025** call (6 March 2025). Don't repeat the error on air.
+
+## 5.2 ⭐ KIRKLAND SOURCING MOVED INTO THE COUNTRIES WHERE IT'S SOLD — **(a) CEO VERBATIM**
+
+> "**We rerouted many goods sourced from countries with large tariff exposure to our non-U.S. markets.**"
+> "**We continue to move more Kirkland Signature product sourcing into the countries or regions where items are sold** and this is helping us to lower costs and mitigate some of the potential impacts of tariffs."
+> — Ron Vachris, Q3 FY2025 earnings call, reported in Sean Previl, "Costco wants to source more Kirkland products locally to avoid tariffs," Global News, **2 June 2025**. https://globalnews.ca/news/11208577/costco-canada-supply-chain-tariffs
+
+Global News confirms this **explicitly included "products sold at Canadian Costco locations."**
+
+## 5.3 TARIFF COMMENTARY FROM EARNINGS CALLS — **(a) VERBATIM**
+
+**Q2 FY2025 (6 March 2025) — Ron Vachris:**
+> "In particular, our **Canada and other international business had an outstanding quarter, delivering record results on a constant-currency basis**, although reported results outside the U.S. were negatively impacted by foreign exchange fluctuations year over year."
+> "**Given events over the last week, it is difficult to predict the impact of tariffs, but our team remains agile and our goal will be to minimize the impact of related cost increases to our members.** About a third of our sales in the U.S. are imported from other countries, and less than half of those are items coming from China, Mexico, and Canada."
+> "In uncertain times, our members have historically placed even greater importance on the value of high-quality items at great prices."
+> https://www.fool.com/earnings/call-transcripts/2025/03/06/costco-wholesale-cost-q2-2025-earnings-call-transc/
+
+**Q2 FY2026 (5 March 2026) — Ron Vachris:**
+> "**The future impact of tariffs remains extremely fluid**" — noting replacement of AIPA tariffs with new global tariffs creating uncertainty for at least 150 days.
+> "…our commitment will be to find the best way to return this value to our members through lower prices and better values. **We will be transparent in how we plan to do this if and when we receive any refunds.** At Costco, we always want to be the first to lower prices and the last to raise them."
+> "We will continue to be a pricing authority, and **as some tariffs have been reduced, we are lowering prices on affected items such as certain textiles, bedding, and cookware SKUs.**"
+> https://www.fool.com/earnings/call-transcripts/2026/03/05/costco-cost-q2-2026-earnings-call-transcript/
+
+**Canadian sales, February 2026 (same call):** *"Canada was up 12.8%, or 9.3% adjusted for gas deflation and FX."* — the strongest of Costco's three segments that month.
+
+## 5.4 ⭐ COSTCO SUED THE TRUMP ADMINISTRATION OVER TARIFFS — **(c) LIVE (US)**
+
+- Filed **early December 2025** in the **U.S. Court of International Trade**.
+- Costco asks the court to declare all tariffs collected under the **International Emergency Economic Powers Act (IEEPA)** unlawful and seeks a **"full refund"** of duties paid.
+- Trigger: U.S. Customs and Border Protection **denied Costco's request to extend the 15 December liquidation date** — after liquidation, refunds may be unrecoverable even if the Supreme Court strikes the tariffs.
+- Costco joined dozens of companies filing protectively (Revlon, Bumble Bee, Kawasaki among them).
+- https://www.cnbc.com/2025/12/01/costco-sues-trump-tariffs-trade-supreme-court.html ; https://www.npr.org/2025/12/02/nx-s1-5629011/costco-sues-trump-tariffs-refunds ; CBC video, 2 Dec 2025.
+
+**Pair it with 5.3's promise:** Costco says refunds would go back to members as lower prices. **That's a testable promise — flag it as something to hold them to.**
+
+## 5.5 ⚠️ COSTCO CANADA'S "BUY CANADIAN" LABELLING — **CANNOT VERIFY**
+
+A claim circulating in secondary sources says Costco Canada added a maple-leaf symbol to certain products meaning *"prepared in Canada"* with domestic and/or imported ingredients. **I could not find this statement on costco.ca or in any outlet of record. It traces to affiliate/blog sources. DO NOT USE.**
+
+**What I CAN verify — and it's a fair, careful observation, not an accusation:**
+
+When Global News surveyed Canadian grocers on Buy-Canadian sourcing in June 2025, it reported specific programmes from **Sobeys** (*"Shop Canada" labelling*, expanding Compliments), **Metro** (prioritising *"local Ontario and Canadian products where possible"*) and **Loblaw** (*"source more local goods"*). **Costco was the subject of the article but no Costco Canada in-store Buy-Canadian labelling programme was described.** https://globalnews.ca/news/11208577/costco-canada-supply-chain-tariffs
+
+**SAFE SCRIPT LINE:** "While Sobeys rolled out 'Shop Canada' shelf labels and Loblaw and Metro made public local-sourcing commitments, we could not find any comparable Buy-Canadian labelling programme announced by Costco Canada. That's an absence, not an accusation — and we asked."
+
+**CFIA context (clean, regulator-sourced):** The CFIA received **97 complaints** about product-origin claims between November 2024 and mid-July 2025, conducted **91 investigations** and confirmed **29 violations**. CFIA guidance: retailers *"are responsible for the accuracy of any store signage or advertisements about the origin of a food,"* and where a maple leaf is used, CFIA recommends a domestic-content statement *"in close proximity."* https://inspection.canada.ca/en/food-labels/labelling/notice-industry-2025-03-14
+
+---
+
+# FILE 6 — RECALLS (NEUTRAL FACTUAL NOTICES ONLY)
+
+## ⚠️ HOUSE-RULES CONTROL ON THIS ENTIRE SECTION
+
+**Several of these notices concern subject matter the house rules forbid you from building on — pests, mould, allergens, contamination.** They are reproduced here **verbatim and only as factual regulatory notices**, so the writer knows the record exists and does not accidentally build a health beat on it. **My recommendation: use at most ONE recall, read flat as a notice, or cut the section entirely.** Recalls are routine at every major retailer and prove nothing about a company.
+
+Search performed on the Government of Canada recalls database (https://recalls-rappels.canada.ca) for "Costco": **31 results across food, consumer products, health products and vehicles, 2018–2026.**
+
+### 6.1 Notices where **Costco Wholesale Canada Ltd. is the named recalling firm**
+
+**(1) Kirkland Signature Traditional Basmati Rice** — CFIA
+> Title: "Kirkland Signature brand Traditional Basmati Rice recalled due to presence of insects"
+> Recalling firm: **Costco Wholesale Canada Ltd.** | Published by: Canadian Food Inspection Agency
+> Original published date: 2025-08-26 | Last updated: 2025-08-08 | **Recall class: Class 3** | ID: RA-77979 / CFIA ID 16680
+> Product: Traditional Basmati Rice, 5 kg, UPC 0 96619 89731 5; Batch Nos. SS/01/25/5922 and SS/01/25/5923, Use By 31/12/2026
+> Distribution: **Alberta, British Columbia, Manitoba, Saskatchewan** | Audience: Retail
+> "What to do: Do not use, sell, serve or distribute the affected product."
+> https://recalls-rappels.canada.ca/en/alert-recall/kirkland-signature-brand-traditional-basmati-rice-recalled-due-presence-insects
+
+*(Note: the notice carries contradictory published/updated dates exactly as shown. Class 3 is the lowest CFIA risk classification.)*
+
+**(2) PhantomGoGo electric snow scooter** — Transport Canada
+> Title: "**Transport Canada Recall - 2026044 - COSTCO WHOLESALE CANADA LTD**"
+> Original published date: 2026-02-03 | Last updated: 2026-02-10 | ID: RA-81596 / Transport Canada ID 2026044
+> Affected: 2024/2025/2026 PhantomGoGo G63
+> "Issue: Certain electric snow scooters may not meet the safety requirements of Canadian regulations."
+> "Corrective actions: To reduce the safety risk, **Costco Canada advises you not to use your snow scooter. Costco Canada will notify owners in writing and advise you to return your electric snow scooter to a Costco warehouse for reimbursement.**"
+> https://recalls-rappels.canada.ca/en/alert-recall/transport-canada-recall-2026044-costco-wholesale-canada-ltd
+
+**This is the cleanest one for broadcast** — no health framing required at all, it's a regulatory-compliance recall, and Costco Canada is the named recalling company with a refund remedy.
+
+### 6.2 Other notices in the database matching "Costco" (titles, dates, URLs — verbatim)
+
+| Date (last updated) | Notice title (verbatim) | Type |
+|---|---|---|
+| 2026-06-05 | Renpure Tea Tree & Rosemary Scalp Rebalancing Shampoo & Conditioner recalled due to microbial contamination | Consumer product recall |
+| 2026-02-22 | Kendamil brand Infant Formula with whole milk recalled due to cereulide toxin | Food recall warning |
+| 2024-10-04 | Nautica Boys 2 Piece Set recalled due to the presence of mould | Consumer product recall |
+| 2024-09-20 | Kilimanjaro E-Bike Rack Hitch Mounted Platform Carrier recalled due to injury hazard | Consumer product recall |
+| 2023-12-27 | Gogo Squeez brand Organic Fruit Sauce (Multi Flavour) recalled due to container integrity defects and spoilage | Notification |
+| 2023-12-19 | A-IPOWER Inverter Generator 7100/5700 WATT model GXS7100IRDC recalled due to electrical hazard | Consumer product recall |
+| 2023-10-06 | Kirkland Signature brand Oatmeal Cranberry White Chocolate Cookie recalled due to pieces of wood | Notification |
+| 2023-08-03 | Ubio Labs 10,000mAh Portable Chargers recalled due to potential fire hazard | Consumer product recall |
+| 2021-09-13 | Teak Shower Benches recalled due to fall hazard | Consumer product recall |
+| 2021-05-14 | Brookstone Folding Step Stools recalled due to fall hazard | Consumer product recall |
+| 2021-03-17 | Lifetime 6-Foot Commercial Seminar Tables recalled due to physical hazard | Consumer product recall |
+| 2020-05-07 | Lifetime Geodome Climber recalled due to chemical hazard | Consumer product recall |
+| 2019-12-05 | Bendable Snowman 3 Pack Recalled due to injury hazard | Consumer product recall |
+
+All at https://recalls-rappels.canada.ca/en/alert-recall/[slug] — slugs match titles. **Full list of 31 not retrievable: the database paginates via JavaScript and returns page 1 to scrapers. I captured 15 of 31.**
+
+### 6.3 July 2026 recall cluster (Global News roundup)
+
+Adriana Fallico, "Costco Canada recalls croissants, toaster oven and other items," Global News, **31 July 2026**. https://globalnews.ca/news/12004604/costco-canada-recalls/
+
+Four items: **Panasonic NB-G205 toaster oven** (Health Canada recall 16 July — *"potential issue with the power cord"*; return to Panasonic Canada; **no injuries or deaths reported**); **Cadbury Dairy Milk Oreo 12×38 g** (Health Canada, 24 July — undeclared pistachio; Costco issued its recall 29 July); **Alfa croissants with cocoa cream, 24-count, lot codes 10726 and 08626**; **Aston Martin Formula One 36V Go-Kart** (manufacturer Hunter Products USA — faulty accelerator pedal; *"As of July 21, 2026, six incidents have been reported, including at least one injury"*; free repair kit or return).
+
+**The go-kart is the only one of these four usable under house rules** (mechanical defect, injury-hazard, not a health/contamination story). The croissants and candy bars are **off-limits for framing**.
+
+**Costco Canada maintains its own public recall page — cite this rather than fan sites:** https://customerservice.costco.ca/app/answers/list/p/2186/categoryRecordID/RN_PRODUCT_2186
+
+---
+
+# FILE 7 — LABOUR & OPERATIONS IN CANADA
+
+## 7.1 ⚠️ UNION STATUS — **NO UNIONIZED COSTCO WAREHOUSE IN CANADA VERIFIED**
+
+This was a specific research task and the answer is a negative that matters.
+
+- Costco's FY2025 10-K: **"Around 5% are represented by unions"** — worldwide, of 341,000 employees. It does **not** identify where.
+- The **Costco Teamsters National Master Agreement** is a **United States** contract. The 2025 ratification document lists **U.S. locals only** (e.g. Locals 572, 592, 822). https://teamster.org/wp-content/uploads/2025/02/21025Costco2025NationalFINALRedlineupdated.pdf
+- I found **no Teamsters Canada, UFCW Canada, or provincial labour-board certification** at any Costco Canada warehouse.
+- CanLII sweep found **no Canadian labour board or labour arbitration decision involving Costco Wholesale Canada** in 2024–2026.
+
+**SCRIPT LINE (safe and accurate):** "Costco's own annual report says about 5% of its 341,000 employees worldwide are unionized. That's the American Teamsters contract. We could not identify a single unionized Costco warehouse in Canada."
+
+## 7.2 THE JANUARY–FEBRUARY 2025 US TEAMSTERS STRIKE THREAT — **DID NOT REACH CANADA**
+
+- **20 January 2025:** Costco Teamsters vote to authorise a strike on contract expiry at 11:59 p.m., 31 January. https://teamster.org/2025/01/costco-teamsters-overwhelmingly-vote-to-authorize-strike/
+- **~18,000 workers** across **50+ US locations** — about **8% of Costco's 219,000 U.S. employees.**
+- **1 February 2025:** tentative three-year agreement reached hours after expiry; strike averted. https://www.forbes.com/sites/pamdanziger/2025/02/01/costco-strike-averted-after-last-minute-agreement-reached-with-teamsters-union/
+
+**No Canadian locations were involved. State this explicitly if the item is used.**
+
+## 7.3 ⭐ CANADIAN WAGES — **(a) COMPANY STATEMENT** *(strong candidate for the "gets right" section)*
+
+**From the FY2025 10-K:**
+> "In March 2025, we increased the starting wage by $0.50 an hour to **at least $20.00 for all entry-level positions in the U.S. and Canada**. We also increased the top of wage scales by $1.00 per hour…"
+> "The total number of employees by segment was: United States 223,000; **Canada 55,000**; Other International 63,000; **Total employees 341,000**."
+> "In 2025, in the U.S. and Canada that [retention] rate was approximately **94% for employees who have been with us for at least one year.**"
+> "Costco continues its efforts to develop future leaders, including through our supervisor in training (SIT) programs in the U.S. and Canada. In 2025, approximately **7,500 hourly employees completed the 6-week course.**"
+> https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm
+
+**From the Q2 FY2025 call (6 March 2025), Ron Vachris verbatim:**
+> "**Our updated employee agreement took effect this week in the U.S. and Canada.** This agreement reflects our continued commitment to provide industry-leading pay and benefits for our employees. Highlights from the new agreement include an immediate **$1/hour top-of-scale increase, followed by an additional $1 top-of-scale increase on March of 2026 and again in March of 2027.** The top-of-scale wage for U.S. service clerks is now $31.90 an hour. Additionally, on March 3rd, our bottom-of-the-scale wage increased by $0.50 an hour, taking our minimum wage to $20 an hour. **The average wage for the U.S. and Canada employees is now a little more than $31 an hour**, including hourly employee bonuses, with the majority of our employees at the top scale based on tenure. **Paid vacations for new employees is now offered during the first year of employment**…"
+
+⚠️ **These are blended US+Canada figures in USD.** Do not present "$31 an hour" or "$20 an hour" as Canadian dollars. Say: "Costco says its US-and-Canada average is a little over thirty-one dollars an hour — that's in US dollars, blended across both countries. Costco doesn't break out Canada."
+
+## 7.4 CANADIAN OPERATIONS NOTES — **(a)**
+
+From the Q2 FY2026 call (5 March 2026), Ron Vachris, answering Guggenheim's John Heinbockel (who noted Canadian average unit volumes approaching **US$300 million** per warehouse):
+
+> "As far as Canada goes, **we have 114 buildings now**, and we have had some very good success with infilling and opened up a couple of new markets in the recent two years. **Our volume per location is quite high in that market.** We have done several things. The technology that we have done in the US, we are using in Canada as well. **We recently expanded operating hours in all of our Canadian buildings to help offset some of the traffic increases.** So we feel that we have a very good path of expansion in Canada over the next five years…"
+
+Also: two additional **Canadian business centres** opened in Q2 FY2026; extended gas station hours across North America (Q2 FY2025).
+
+---
+
+# FILE 8 — THE CORPORATE FACTS (all primary)
+
+## 8.1 WAREHOUSE COUNT — THREE DIFFERENT NUMBERS, ALL SOURCED
+
+| Figure | Source | Date |
+|---|---|---|
+| **110 warehouses in Canada** (94 own land & building; 16 lease) | Costco FY2025 10-K, Item 2 — Properties | at 31 Aug 2025 |
+| **114 buildings in Canada** | Ron Vachris, Q2 FY2026 earnings call | 5 Mar 2026 |
+| **104 warehouses** across 9 provinces | costco.ca "Warehouses By Province" | 15 Sep 2026 |
+| 109 Canadian stores | Financial Post | 7 Mar 2025 |
+| 108 locations across Canada | CBC News | 13 Aug 2024 |
+
+**The costco.ca public store locator (104) excludes business centres; the 10-K segment count (110) and Vachris's "114 buildings" include them.** Explain the gap rather than picking one — it's a small credibility win.
+
+**Provincial breakdown from costco.ca at time of research:** Ontario 38, Quebec 22, Alberta 18, B.C. 14, Manitoba 3, New Brunswick 3, Saskatchewan 3, Nova Scotia 2, Newfoundland & Labrador 1. **Zero in all three territories.** https://www.costco.ca/WarehouseListByStateDisplayView
+
+**Canadian floor space:** *"approximately 134.7 million square feet of operating floor space: 93.6 million in the U.S.; **15.9 million in Canada**; and 25.2 million in Other International."* (10-K)
+
+## 8.2 ⭐ CANADIAN REVENUE — DISCLOSED IN THE 10-K (Note 11, Segment Reporting)
+
+**Canada segment (US$ millions):**
+
+| | FY2025 | FY2024 | FY2023 |
+|---|---|---|---|
+| **Total revenue** | **$36,923** | $34,874 | $33,056 |
+| Merchandise costs | 32,204 | 30,543 | 29,019 |
+| SG&A | 2,870 | 2,683 | 2,589 |
+| **Operating income** | **$1,849** | $1,648 | $1,448 |
+| Total assets | 7,304 | 6,915 | 6,420 |
+| Additions to property & equipment | 580 | 351 | 281 |
+
+Company total revenue FY2025: **US$275,235M**; net sales **US$269,912M**; net income **US$8,099M**.
+
+**Canada is ~13.4% of total company revenue and ~17.8% of operating income.** Canada out-punches its revenue share on profit — a genuinely interesting on-screen stat.
+
+**Canada's share, in Costco's own risk language:**
+> "**We are highly dependent on the financial performance of our U.S. and Canadian operations.** Our financial and operational performance is highly dependent on our U.S. and Canadian operations, **which comprised 86% and 84% of net sales and operating income in 2025.**"
+> "During 2025, our international operations, including Canada, generated **27% and 34% of our net sales and operating income.**"
+
+**Canadian growth (10-K):** net sales growth Canada +6% (FY25), +6% (FY24), +4% (FY23). Comparable sales excluding FX and gas: **Canada +8%, +8%, +8%** — three straight years.
+**FY2025 openings:** *"15 in the U.S., **two in our Canadian segment**, and seven in our Other International segment."*
+
+All: https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm
+
+## 8.3 HISTORY IN CANADA — **VERIFIED**
+
+**1985 — first Canadian warehouse, Burnaby, B.C. (also Costco's first store outside the United States):**
+> "The National reports on the opening of **Canada's first Costco store in October 1985**."
+> "'Officially, Costco is a wholesale outlet — a low service, low overhead, warehouse-type store,' reporter Karen Webb explained, when reporting on **the opening of Canada's first Costco in Burnaby, B.C.** 'You buy cases of what you want for cash. No credit cards, not a frill in sight.'"
+> "Webb said Costco was **due to open a second store in Edmonton the following month**…"
+> — CBC Archives, "The dawn of the Costco era in Canada" (original broadcast *The National*, 30 October 1985). https://www.cbc.ca/archives/the-dawn-of-the-costco-era-in-canada-1.5328668
+
+The same clip features **Jim Sinegal** speaking to CBC in Burnaby in 1985, and a warning from London Drugs' VP Mark Nussbaum that his chain would not enter a price war. **Excellent archive footage for a cold open.**
+
+**Company founding:** *"Costco Wholesale Corporation and its subsidiaries (Costco or the Company) began operations in 1983, in Seattle, Washington."* (FY2025 10-K)
+
+**1993 Price Club merger:** Costco merged with Price Club (founded by Sol Price, San Diego, 1976) to form **PriceCostco**; renamed Costco Companies Inc. in 1997 and Costco Wholesale Corporation in 1999. Price Club operated in Quebec as **"Club Price"** (Pointe-Claire, St-Laurent, Laval, Sherbrooke, Chicoutimi), having expanded into Quebec by the late 1980s. https://en.wikipedia.org/wiki/Price_Club ; https://www.fundinguniverse.com/company-histories/pricecostco-inc-history/
+
+⚠️ **The exact date Canadian "Club Price" locations were rebranded to Costco is UNVERIFIED. Do not state a year.**
+
+## 8.4 ⭐ COSTCO CANADA AND THE GROCERY CODE OF CONDUCT — **(d) DOCUMENTED, GOVERNMENT-ANNOUNCED**
+
+Costco Canada was one of the **last two holdouts** on Canada's Grocery Sector Code of Conduct.
+
+> "In a statement, the federal department said, '**After years of work and widespread industry participation, we are pleased to announce that all major retailers have agreed to join the Grocery Sector Code of Conduct. This includes Loblaw, Sobeys and Metro, and most recently, Walmart and Costco.**' The statement called it a step toward 'bringing more fairness, transparency and predictability to Canada's grocery supply chain and for consumers.'"
+> — Agriculture and Agri-Food Canada, via CBC News, **18 July 2024**. https://www.cbc.ca/news/business/grocery-code-of-conduct-major-retailers-agree-1.7268005
+
+Background from the same piece: *"The industry committee tasked with creating the code was established in response to contentious fees being charged to suppliers by large grocery retailers, an issue that came to a head in 2020 when Walmart Canada and Loblaw each introduced new supplier fees…"* And: *"the federal government warned it could make the code mandatory if all major players didn't get on board."*
+
+**Fully in force 1 January 2026:**
+> "Canada's five largest grocers — **Empire, Loblaw, Metro, Walmart Canada and Costco Canada — have now formally registered.**"
+> "Starting Jan. 1, the code — which was being rolled out in stages — will be fully operational, including the dispute resolution mechanism governing how complaints are addressed by the office and consequences for violations of the code."
+> — The Canadian Press via CBC News, **1 January 2026**. https://www.cbc.ca/news/business/canada-grocery-code-of-conduct-jan-1-9.7031468
+
+**⚠️ FAIRNESS CONTROL:** The code is **voluntary**, it governs **grocer–supplier relations, not consumer prices**, and there is **no finding that Costco did anything wrong**. The accurate framing is: *"Costco Canada didn't sign until the federal government was openly threatening to make it mandatory."* Nothing stronger. Karen Proud, adjudicator of the Office of the Grocery Sector Code of Conduct, on the record: *"It would be great if we had a [silver bullet] that could fix food inflation. It's really not the purpose of the code."*
+
+---
+
+# ⭐ THE "5 THINGS COSTCO GENUINELY GETS RIGHT" SECTION — ALL SOURCED
+
+1. **The $1.50 hot dog combo held in Canadian dollars since the 1980s.** CBC-verified. At time of research that's roughly US$1.08 — Canadians pay *less in real terms* than Americans do. CEO Ron Vachris: *"The hot dog price will not change as long as I'm around."*
+2. **Wages.** Starting wage raised to **at least $20/hour for all entry-level positions in the U.S. and Canada** in March 2025; blended US/Canada average **a little over $31/hour**; top-of-scale increases locked in for **March 2026 and March 2027**; paid vacation from the first year; **~94% retention** for employees past one year; **7,500 hourly employees** completed the 6-week supervisor-in-training course in 2025. (FY2025 10-K + Q2 FY2025 call.)
+3. **The membership guarantee is real and unusually generous — in writing.** *"On Membership: We will cancel and refund your membership fee at any time if you are dissatisfied."* (costco.ca Membership Conditions, 1 Aug 2026.) And **92.3% of US/Canada members renew** (FY2025 10-K) — members vote with their wallets.
+4. **Canada's own competition regulator credits Costco with improving the market.** *"The success of Costco and Walmart across Canada has brought more choice to the grocery industry."* — Competition Bureau, 2023 Retail Grocery Market Study.
+5. **It cuts prices publicly, including when tariffs come off.** Q2 FY2026: lowered prices on *"eggs, cheese, coffee, and some paper products"*; *"as some tariffs have been reduced, we are lowering prices on affected items such as certain textiles, bedding, and cookware SKUs"*; and Costco committed that any tariff refund would go back to members — *"We will be transparent in how we plan to do this if and when we receive any refunds."* Plus the Q2 FY2025 examples: **KS Refined Olive Oil 3L $29.99 → $27.99; KS Organic Peanut Butter $11.49 → $9.99; KS Tortilla Strips $5.69 → $4.99.**
+
+**Bonus sixth, if needed:** Costco was **not** among the five businesses CFIA penalised for misleading Product-of-Canada claims, and was **not** named in either CBC Marketplace maple-washing investigation, or in the fake-maple-syrup class action that named Loblaws, Metro and Sobeys.
+
+---
+
+# ⚠️ UNVERIFIED / DO-NOT-USE
+
+## A. FACTUAL CLAIMS I COULD NOT VERIFY — **DO NOT PUT ON SCREEN**
+
+1. **Any Competition Bureau investigation, consent agreement, AMP or Tribunal proceeding involving Costco Canada.** None found. Do not say or imply one exists.
+2. **Any CFIA monetary penalty against Costco.** None. Costco is not among the five fined businesses.
+3. **Any Measurement Canada notice of violation, AMP or prosecution at a Costco gas station.** Not public; Measurement Canada does not publish company-level enforcement.
+4. **Any Quebec OPC or other provincial consumer-protection action against Costco.** None found.
+5. **Any unionized Costco warehouse in Canada.** Cannot verify one exists.
+6. **The Federal Court file number and current procedural status of *El Bechara v. Costco*.** Order the docket.
+7. **The outcome of the 13 August 2026 hearing on Costco's motion to dismiss the rotisserie chicken suit.** Unknown at time of research.
+8. **Costco Canada's Buy-Canadian / maple-leaf labelling programme and any "prepared in Canada" statement.** Not found on costco.ca or in any outlet of record.
+9. **All Canadian food court prices except the $1.50 hot dog combo** — chicken bake $3.99, poutine $6.99, chicken strips & fries $7.99, fries $3.49, 18" pizza $12.99, and the "late January 2025" Canadian increase. SEO sites only.
+10. **The Kirkland toilet paper 425→380 sheets shrinkflation example.** Reddit-sourced via blogTO; not independently verified.
+11. **The date Canadian "Club Price" stores were rebranded to Costco.**
+12. **Any Canada-only membership count, Canada-only renewal rate, or Canada-only wage figure.** Costco does not disclose these. Every wage and renewal number in this dossier is a **blended US+Canada** figure in **USD**.
+
+## B. SOURCES THAT TURNED UP IN SEARCH — **DO NOT CITE, DO NOT LINK, DO NOT SCREENSHOT**
+
+**AI/SEO content farms producing fabricated or distorted legal claims about Costco:**
+lawmonarch.com · soscip.org · shelby.community · fori.us · canooq.ca · lawclaimcorner.com · attorneysmag.com · legalframewire.com · doolly.com · laweditorial.com · hurrdatone.com · costrefund.com · claimdepot.com
+
+**⚠️ SPECIFIC WARNING:** `lawmonarch.com/costco-canada-class-action-lawsuit/` claims Canadian Costco members "were charged for renewals they did not approve," that a lawsuit covers "billing without permission, unclear renewal policies, and denied refunds," and that it "affects thousands across Canada." **This appears to be a conflation of the *California* auto-renewal suit with the *Canadian* double-ticketing suit. It is not supported by any primary source. If this ends up in the script it will be a correction.**
+
+**Unsourced price-list sites:**
+costcofoodcourt.vercel.app · costcofoodcourtmenu.ca · costcofoodcourtmenus.ca · costco-food-court-menu.vercel.app · menupricesincanada.com · foodblogcanada.com · torontoscoop.ca · costcoguides.com · truecanadianfinds.com · hashtaginvesting.com · grokipedia.com
+
+**Advocacy sources requiring a bias label if used at all:** wsws.org (World Socialist Web Site) on the Teamsters agreement.
+
+## C. HANDLING NOTES FOR THE WRITER
+
+- **Nathaniel Christopher's shrinkflation post ends with a strong personal opinion about Costco. Quote the weights only, never the opinion line** — it converts a measurement into an accusation.
+- **The Global News tariff article's comment section contains hostile reader comments. Not evidence. Do not screenshot.**
+- **The Financial Post/Yahoo piece of 7 March 2025 misidentifies the call as "fourth-quarter." It was Q2 FY2025.**
+- **The Kirkland basmati rice notice shows a "last updated" date earlier than its "original published" date. Reproduce both exactly as the regulator does or you'll look like you got it wrong.**
+- **The Lululemon case: settlement is not an admission, terms are sealed, and Costco has not commented on the record. Do not invent a Costco line.**
+- **Every recall in File 6 is a notice, not a finding against Costco. Most are manufacturer recalls where Costco is simply the retailer.**
+
+## D. THE HONEST BOTTOM LINE FOR THE COLD OPEN
+
+Costco Canada has **not** been fined by the Competition Bureau, **not** been penalised by the CFIA, **not** been prosecuted by any provincial consumer regulator, and discloses **zero** Canadian legal proceedings in its annual report. What the public record *does* show is: **one unproven Federal Court class action over online-versus-in-store prices; an 8.3% membership fee increase rolled out alongside a door-scanning and photo-ID crackdown; an Executive reward that excludes gas, the food court and the pharmacy; terms of membership that bar you from writing down a price; documented Canadian price rises of up to 46% on Kirkland items against a 29% five-year grocery basket; documented shrinkflation at an unchanged shelf price; a CEO saying out loud that Costco will buy fewer Canadian products for its American stores; and a company that didn't sign Canada's grocery code of conduct until Ottawa threatened to make it mandatory.**
+
+That is a real, defensible countdown. It does not need to be inflated, and inflating it is the only way this video gets the channel in trouble.
+
 ---
 # PART 2: THE KIRKLAND FILE AND THE MONEY
 *Research date: 15 September 2026. Prices "at time of research" unless dated.*

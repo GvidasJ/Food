@@ -169,3 +169,176 @@ Teamsters 2025 national agreement covers ~18,000 Costco workers in US and Canada
 13. Olymel as a Kirkland supplier — reported as a Costco Canada supplier, not tied to Kirkland SKUs.
 14. **ANY HEALTH FRAMING OF THE RECALLS.** Use the Recalling Firm field. Leave the rest alone.
 **Open items for one more pass:** archived 2017 CFIA Nutrisoya notice; Teamsters 2025 Canadian bargaining-unit specifics; StatCan retail average hourly earnings; primary transcript for Vachris's Kirkland penetration figure; in-warehouse photo of a Canadian Kirkland food package's "Distributed by / Prepared for" panel (a 20-minute errand that upgrades Section 1.3 from legal argument to on-screen proof).
+
+---
+
+# PART 3: HISTORY, MEMBER GRIEVANCES, AUDIENCE, AND THE COLD OPEN
+*Research date: 15 September 2026. No health/food-safety material included (house rule).*
+
+## 1. THE COLD OPEN — RANKED CANDIDATES
+
+### CANDIDATE A (STRONGEST) — The 1985 CBC *National* clip, "Costco comes to Canada"
+CBC Archives, "The dawn of the Costco era in Canada" — clip from *The National*, **Oct 30, 1985**, 2:09. https://www.cbc.ca/archives/the-dawn-of-the-costco-era-in-canada-1.5328668
+> "A new kind of store is open in Canada and it's promising big savings for its customers." — **Knowlton Nash**, anchor
+> "The store is called a wholesale club, but it's not a very exclusive club and that's made some of its competitors nervous." — **Knowlton Nash**
+> "Officially, Costco is a wholesale outlet — a low service, low overhead, warehouse-type store." — **Karen Webb**, CBC reporter, from the Burnaby BC opening
+> "You buy cases of what you want for cash. No credit cards, not a frill in sight." — **Karen Webb**
+> "We're always asked the question: From whom do we take our business? And the answer is, we don't know because it's spread over such a wide base because we carry so many products." — **Jim Sinegal**, president, Costco Wholesale
+> "If they're going to sell below cost, more power to them. I'll discontinue the items, as will most of the retailers in the city, because then it becomes predatory pricing. **And let them have it.**" — **Mark Nussbaum**, VP, **London Drugs**, 1985
+**WHY IT WORKS:** "And let them have it" is a Canadian retail executive surrendering the market on camera in 1985. Open on it, cut to 2026, ask what Canada actually handed over.
+
+### CANDIDATE B (BEST MODERN HOOK) — The membership crackdown, CBC News, Aug 13, 2024
+"Just a handful of Canadian cities will be subject to the Costco membership crackdown — for now," Jenna Benchetrit. Subhead: "New scanning system being implemented ahead of September membership rate hike." https://www.cbc.ca/news/business/costco-memberships-photo-id-1.7293020
+> "Password-sharing types, beware: Costco is cracking down on people who borrow membership cards from friends and family by testing a new membership scanning system launching in several Canadian markets."
+> "The scanners... are set up at Costco warehouse entrances in **Ottawa, Edmonton, Regina and B.C.'s Lower Mainland**."
+> "The new system will be expanded to other stores. The representative couldn't confirm whether it would be expanded to all Costco locations in Canada."
+> "Members will have to scan their digital or physical membership passes to enter the store. If your membership card doesn't have a photo, you need to be prepared to show photo ID."
+> "Costco has 108 locations across Canada."
+CBC's own framing device (usable): it places Costco alongside **Netflix and Disney+ password crackdowns.**
+Global News version (Aug 8, 2024): "Simply flashing a membership to an attendant will no longer be enough." https://globalnews.ca/news/10687641/costco-membership-scanners-warehouse-canada-entrance/
+**THE IRONIC COUNTERPUNCH** — Ron Vachris, CEO, to Fox Business, Sept 27, 2024: "It gives our operators real-time traffic counts throughout the day." / "**This has been very well received by our members.**"
+
+### CANDIDATE C (THE "CAUGHT" HOOK) — The Canadian double-ticketing class action
+Global News, Jan 14, 2025, Saba Aziz: "Does Costco charge more online? What a proposed class action alleges" https://globalnews.ca/news/10957804/costco-canada-class-action-lawsuit/
+- Filed in **Federal Court** by Montreal firm **Perrier Attorneys**. Alleges **"double ticketing"** — described in coverage as a criminal offence in Canada.
+- Alleges Costco presented "false or misleading indications concerning the absence of other charges" and failed to indicate during online purchase that the product was available in store at a different price.
+- Court-document examples: Glasslock 26-piece food storage set **$44.99 online vs $34.99 in-store**; Kirkland Signature 10-cup pitcher with filters **$31.99 online vs $24.99 in-store**; mixing bowls, irons, socks "all of which were supposedly sold between $4 and $10 more online than in-store."
+- Proposed class: purchasers any time after **December 2022**, if certified.
+- Costco's stated position (its own website, quoted in coverage): "products sold online may have different pricing than the same products sold at your local Costco warehouse" / "Costco.com prices take into account shipping and handling fees not applicable to warehouse purchases."
+- Global News reported Costco did not respond before publication.
+**MANDATORY: "proposed," "alleges," "unproven." Costco has not been found liable of anything.**
+
+### CANDIDATE D (THE NUMBERS HOOK) — "the boycott made them stronger"
+Costco Q2 FY2026 results (03/05/2026): Canada comparable sales 12 weeks **10.1% reported / 7.6% adjusted**; 24 weeks 8.3%/8.3%; "114 in Canada." https://investor.costco.com/news/news-details/2026/
+Q2 FY2026 call: "Canada was up 12.8%, or 9.3% adjusted for gas deflation and FX." — Millerchip. "We have 114 buildings now." / "We feel that we have a very good path of expansion in Canada over the next five years." — Vachris. "At Q2 end, our US and Canada renewal rate was **92.1%**."
+**THE MONEY QUOTE ON CANADIAN ANGER** — Millerchip, CFO, to Financial Post, May 30, 2025: "Our members are very vocal in sharing feedback and we certainly hear some feedback from members that **they wish the relationship was better today between the countries**, but in terms of sales growth... we continue to have really strong sales growth in Canada and internationally."
+Later moderation (for honesty): Retail Insider, July 10, 2026 — Canada comps +3.7% for the five weeks ending July 5, 2026; +8.5% for the first 44 weeks of FY2026; "currency movements reduced Canadian comparable sales by approximately three percentage points in June"; 115 Canadian warehouses.
+
+### CANDIDATE E — Expansion as counter-narrative
+Retail Insider, July 2, 2026: "At a time when many retailers are slowing store growth or rationalizing store networks, Costco is continuing to invest aggressively in bricks-and-mortar retail across Canada." Pipeline: Wasaga Beach ON (~162,000 sq ft, **$50M**, **370+ jobs**), Bingham Crossing AB, East Windsor ON (opening **Nov 20, 2026** per CTV), Lloydminster, Regina West, Thunder Bay, Halton Hills, South Surrey, Oakville-Burloak; approved: Edmonton Manning Town Centre, Caledon, West St. Paul MB.
+
+### COLD OPEN RECOMMENDATION
+**A -> B -> C.** (1) Knowlton Nash 1985: "A new kind of store is open in Canada..." (2) London Drugs VP: "...And let them have it." (3) Beat: "They took it." (4) CBC 2024: "Password-sharing types, beware..." + the four test cities. (5) Federal Court, January 2025: double ticketing.
+
+## 2. CANADIAN HISTORY
+### 2.1 Canada was Costco's FIRST country outside the United States
+First Canadian warehouse: **Burnaby, B.C., October 1985**, Brighton Avenue, in the former **Woodward's Furniture Fair Warehouse** (Daily Hive). Metro Vancouver was "Costco's logical choice for international expansion following its 1983 Seattle opening." Second warehouse: **Edmonton**, ~November 1985 (CBC). Daily Hive also documents the early model: "keeping markup to no more than 14% over cost" and "a money-back guarantee on most products."
+Membership eligibility (Costco Canada's own account, RE-VERIFY the page): "During the first 8 years of operations in Canada, customers (called members) needed to be business owners or work for the government to be eligible for membership. However, in 1993 membership eligibility broadened to include the general public."
+### 2.2 The Price Club Canada story (the Quebec half)
+Encyclopedia.com / International Directory of Company Histories: "Price Club Canada, with the **Steinberg Corporation** of Canada to operate Price Clubs in that country." First Canadian warehouse in **Montreal** (1986). "The company's purchase in 1990 of the remaining 50% of Price Club Canada for about **$54 million**." By 1991: Quebec, Ontario, BC; by 1992 ~12 Canadian locations.
+**1993:** Price Club merged with Costco -> **PriceCostco**, 137 warehouses. **1997:** "PriceCostco became Costco Wholesale Corporation and all remaining Price Clubs were rebranded as Costco." In Quebec the banner traded in French as **"Club Price."**
+### 2.3 Head office: Costco Canada is run out of OTTAWA
+CBC News, Jan 18, 2001 — "Costco to move headquarters to Ottawa" https://www.cbc.ca/news/canada/costco-to-move-headquarters-to-ottawa-1.269642
+> "Costco Wholesale Corporation will combine offices at Laval, Que., and Burnaby, B.C., in a new building next to the Costco warehouse in Ottawa's west end."
+> Louise Wendling, GM eastern Canada: the move means **300 new jobs in Ottawa**; not all 475 Laval employees will move; the optical lab in Laval "that makes the glasses for all of Costco still needs 75 people."
+> "**Costco was left with two Canadian offices after its merger with Price Club.** The company runs **59 discount warehouses in Canada**."
+Current address: 415 West Hunt Club Road, Ottawa, ON K2E 1C5.
+**HERITAGE BEAT:** a BC/Quebec company became an OTTAWA company because of a merger with a Quebec-born warehouse chain — 59 warehouses in 2001, **114-115 in 2026.**
+### 2.4 Growth curve
+1985: 1 (Burnaby) | 2001: 59 | Aug 2024: 108 | 2025: 109 | Mar 2026: **114** | Jul 2026: **115**. Worldwide Q2 FY2026: "924 warehouses worldwide" (Vachris).
+### 2.5 Canadian firsts
+First Costco outside the US: Burnaby 1985. First Canadian **Business Centre**: Scarborough ON, 50 Thermos Road, **March 31, 2017**. 2025-26: two Canadian home-improvement warehouses converted to Business Centres; Canada's **eighth** Business Centre opened in New Westminster BC. Online grocery delivery launched in southern Ontario **late 2024** (CTV).
+### 2.6 Who Costco displaced — THE GRAVEYARD BEAT
+- **Woolco** — Canadian operations closed **1994**; most stores sold to Walmart, which is how Walmart entered Canada.
+- **Kmart Canada** — closed **1998**; Hudson's Bay bought the stores, converted most to Zellers.
+- **Eaton's** — bankruptcy protection **1997**, bought by Sears Canada **1999**.
+- **Zellers** — peaked at **350 stores in 1999**; last two closed 2019/2020.
+- **Sam's Club Canada** — entered Southern Ontario **2003**; Walmart Canada announced closure of all **six** Canadian locations **February 26, 2009**, affecting **1,200 jobs**. Coverage attributes failure to Costco and Real Canadian Superstore. https://www.cbc.ca/news/business/wal-mart-canada-to-close-sam-s-club-stores-1.823350
+**SCRIPT LINE:** Costco is the only American big-box retailer of its era that came to Canada in the 1980s and is still winning. Woolco, Kmart Canada, Sam's Club Canada, Zellers, Eaton's — all gone. Costco went from 1 to 115.
+
+## 3. MEMBER GRIEVANCE CATALOGUE (documented, non-health)
+**3.1 Membership fees.** CBC, Aug 13, 2024: "The annual membership fee was last raised in **2017**." Gold Star/Business **$60 -> $65**; Executive **$120 -> $130**; 2% reward cap **$1,000 -> $1,250**. Millerchip (Q2 FY2026): "The September 2024 US and Canada membership fee increase accounted for about **one-third** of our membership income growth." **FRAMING: the fee rose for the first time in seven years, and the enforcement hardware arrived in the same news cycle — CBC put it in the subhead.**
+**3.2 Card-sharing enforcement timeline:** June/July 2023 self-checkout ID checks (Costco: "We don't feel it's right that non-members receive the same benefits and pricing as our members"); 2023 non-members barred from the food court; Aug 2024 door scanners in four Canadian markets; Sept 2024 Vachris declares success; 2025-26 broad rollout.
+**3.3 RECEIPT CHECKING AND THE LEGAL QUESTION — the strongest legally-grounded grievance.**
+Costco's own membership terms (costco.ca): members must "show your receipt for the items you purchased at the warehouse exit."
+CBC News, Sophia Harris, "Walmart receipt and bag checks anger customers. Your rights..." https://www.cbc.ca/news/business/walmart-receipt-check-costco-1.5355527 — contains a section headed "What about Costco?"
+> "It was not a request, it was a demand... It's very angering and demeaning." — **Penny Rintoul**, Vaughan, Ont.
+> "Their right is to say, 'Thanks, but no thanks,' and walk away." — **Michael Bryant**, then executive director, **Canadian Civil Liberties Association**
+> "In a 2016 ruling... an Ontario Superior Court judge wrote that a retailer can detain a suspect if there are reasonable grounds, but — even then — it would have to get consent to do a search." — CBC
+> "if a store owner is mistaken and no theft has occurred, their detention of a customer makes them liable for **false imprisonment**." — Ontario Superior Court judge, 2016, quoted by CBC
+> "If they did not see you take something, they cannot come after you just for refusing to show your bags or receipt." — **James Reese**, Toronto security consultant
+> On Costco: members "may have provided consent — **depending on how clearly the rules are laid out**," said Bryant. "They need to tell people about it." CBC: "Costco didn't reply to requests for comment, but CBC News found its policy on its website."
+> "Just because there's a sign doesn't mean that someone's read it or understood it... Consent does need to be fully informed." — **Anthony Moustacalis**, Toronto criminal lawyer
+**COMPARATIVE BEAT:** CBC, March 2024 — Loblaw tested receipt scanners at four Ontario stores with **metal gates**; shopper: "It's very intrusive. It makes you feel like a thief." Loblaw: "Organized retail crime... has only gotten worse" — CBC noted Loblaw "did not provide data to back up the claim." A Leadnow petition drew 6,000+ signatures.
+**3.4 Online vs in-warehouse pricing** — see Candidate C. Member: "Appliances prices are exactly the opposite in the app, its always more expensive in the app" (@pt5235, 9 likes).
+**3.5 Executive 2% math.** costco.ca: "Calculation of a Reward is capped at, and will not exceed, **$1,250** for any 12-month period." **ARITHMETIC (state as arithmetic, not a Costco claim): the 2% reward only covers the $130 fee at $6,500 of qualifying annual spend; the $1,250 cap is reached at $62,500.** Counter-testimony: "I get the executive membership free every year with the 2% rebate." (@food-to-go)
+**3.6 GAS — THE BEST GRIEVANCE SEGMENT (both sides on record).** CBC Sudbury, Nov 8, 2021: **Patrick De Haan**, head of petroleum analysis, GasBuddy: "I can't think of a situation where Costco coming into an area did not have a great influence on gas prices." / "In almost every single case, opening a Costco station brings lower gas prices to the immediate area." CBC: "Costco tends to charge **five to 15 cents a litre less** than its competitors when it enters a new market."
+VERSUS the highest-liked Canadian grievance comment found: "The Costco Gas price in **Niagara Falls** Canada, if cheaper at all is only **2 or 3 cents** below any other stations in the city... When they first opened it was closer to 10 cents cheaper but that didn't last long..." — @sleevesgaragemoments2931, **80 likes, 17 replies**. **Both can be true. That's a fair countdown item.**
+**3.7 Parking/crowding.** Global News, Kelowna relocation fight (Jan 2021): resident Jean-Claude Gravel — "If you put a Costco here, you will lose that land forever." City clerk Laura Bentley: "We have 42 letters opposition or concern at this point. Ten letters in support." Member: "parking was like **the hunger games**" (@intrepide7).
+**3.8 Sample stations (under-covered, very Canadian).** "Problem now is sample stations are indeed in high traffic areas like now in the produce area. It's causing huge crowding, navigating around the family of 6 waiting for a slice of apple is Ridiculous" (@ajaytazzdemona8360, **39 likes**). "The sample kiosks are a colossal PITA provider." "I just cant believe people line up waiting for a one inch by one inch pizza sample."
+**3.9 The loss-leader layout.** "Yep that $7.99 chicken costs me on average $300 :)" (@susanfernandes7748, **72 likes**). "The entire video can be summed up in one sentence - Don't impulse buy." (@johnnypenso9574, **74 likes**).
+**3.10 Bulk packaging/waste.** Environmental Action and PIRG document paper towels wrapped in plastic then wrapped again; "a 2-inch tub of eye cream packaged in an 8-inch by 11-inch plastic shell." Canadian context: only **9% of plastic is recycled** in Canada; **47% of plastic waste is packaging**. **FAIRNESS REQUIRED: include Costco's own stated packaging goals (costco.com/sustainability-packaging.html) and its closed-loop corrugated recycling program in Canada. Frame as trade-off, not gotcha.**
+**3.11 Bulk vs Canadian households.** "As a senior and Cosco member... I would like to see small packages of food items. My wife and I have downsized..." (@JeffSproul, **35 likes, 11 replies**).
+**3.12 Shrinkflation.** "I remember when I first started going to Costco the toilet tissue had **425 sheets per roll. Now it is 380 sheets per roll. Same cost.**" (@tuppenceandbobneedlearts) — matches the Daily Hive documentation in Part 2.
+**3.13 Early-hours/Executive-only windows.** "As far as the early hours, we're finding that it's just as crowded—as it was during Covid. **Costco has been pushing the Executive card in the stores.**" (@tonistevens2253, 24 likes).
+**3.14 Return-policy tightening.** costco.ca lists 90-day windows for electronics and multiple exclusions. Member: "the former 'no questions asked' return policy of 10+ years ago has tightened up some."
+
+## 4. THINGS CANADIANS GENUINELY LOVE (the "gets it right" section)
+**4.1 The $1.50 hot dog — and in Canada it's $1.50 CAD.** The emotional centrepiece, with the exchange-rate punchline: "Costco has been my favourite for over 30 years... The 'hot dog + all you can drink pop' for $1.50 + tax is an obvious end of a visit to the **Abbotsford** store. Down in **Bellingham WA**, the same price tag - but obviously **40% more expensive!**" (@jacobderaadt6501). Corporate: Millerchip 2024 "the $1.50 hot dog price is safe"; Vachris "as long as I'm around"; held at $1.50 since **1985 — the same year Costco opened in Canada**; 2026 drink options changed, price did not. **VERIFY the Canadian price in-warehouse — no Costco Canada primary source located.**
+**4.2 The return policy.** "risk-free 100% satisfaction guarantee" (costco.ca). Canadian consumer guides rate it among the most generous in Canadian retail.
+**4.3 Kirkland value — member receipts:** "Costco puts miniwheats on sale at **$8.49 for a 1.6kg box and at superstore it's $10.99 for a 1.05kg box.** And their bacon is still in 500 gram packs that aren't half water." (@DarrelLaBossiere, **69 likes**). "10KG pancake mix for $10-15... whereas similar product would cost over $30 from other retailers." "I save more than the cost of membership in gas alone." "Surprisingly to me, I didn't learn anything new. But I do know I shop there because **I trust them.**"
+**4.4 Wages — and the moral comparison Canadians make unprompted:** "Amazon charges you even after you canceled the Prime membership... Plus they pay their employees minimum wages and they don't have the right to form a union!!! **Costco treats its employees well and pays them better. Costco creates jobs in your area**, not Amazon who closed their 3 warehouses in Quebec because the workers wanted to join a union. Exactly like Walmart and McDonald's." (@Treefarmld). March 2025: entry-level raised $0.50 to at least US$20 across US and Canada.
+**4.5 The Canadian-product push.** Vachris (Financial Post, May 30 2025): "We continue to move more Kirkland Signature product sourcing into the countries or regions where the items are sold." / "We rerouted many goods sourced from countries with large tariff exposure to our non-U.S. markets." **REQUIRED COUNTERWEIGHT:** Financial Post, March 7 2025 — "Costco to reduce Canadian products in U.S. stores in wake of tariffs"; Costco sources less than 20% of US-store products from Canada, China and Mexico. Also CBC's caveat on the whole Buy Canadian movement: "**There's no specific law on what you can put a maple leaf on.**"
+
+## 5. COMPETITOR / FORMAT VALIDATION
+### Faceless channels on Costco (verified Sept 15, 2026)
+MunchLab: Costco food changes 2026 **111,633**; prepared meals **202,725**; frozen foods 72,635; dessert brands 53,022 (3 days); **"Something Is Seriously Wrong at Costco... And Members Are Starting to Notice" 21,350 (7 days)**; "10 Costco Food Court Items RANKED (Canada Has This?)" 1,316. Protect Our Plates (UK Costco) 80,639. Frugal Flow 696,361. Financial Flash 4.0M and 1.88M. FRUGAL PRO 1.4M. In Plain Bite ground-beef test 1.7M. Micro "How A Single Costco Changes Its Local Economy" 2.58M. The Fat Files 2.44M. Food Theorists 6.5M.
+**THE MOST IMPORTANT LINE:** MunchLab published the EXACT title architecture of our video ("Something Is Seriously Wrong at Costco... And Members Are Starting to Notice") on ~Sept 8, 2026 — 21,350 views in 7 days against a Costco ceiling of ~200K. **The format works, the headline is claimed — in the US market, not Canada.**
+Channels that tried and failed (proof format alone isn't enough): Shelf Truth 268, BrandBites 53, Store Index 96/507, The Honest Aisle 13, Profit Flash 62, Britfood Rewind 112-608, Canada Food Brief 267, Canadian Products Insider 148.
+### IS THE CANADIAN LANE OPEN? Half-open, and closing.
+"Costco Canada" search front page is overwhelmingly haul/what's-new vlogs, not investigations. The only two real competitors in our lane:
+- **Canada Food Insider — "11 Costco Canada SECRETS Canadians NEED To Know About" — 547,244 views (~Feb 2026).** A tips/secrets video, NOT an investigation.
+- **Broken Canada — "Don't Renew Your Costco Canada Membership Before Watching This" — 21,369 (~June 2026).** Closest competitor — and it got publicly fact-checked in its own comments.
+Also: Broken Canada Canadian chicken test 292,670; rice 44,294; Canada Insight milk 20,242.
+**VERDICT: nobody has made a Costco Canada exposé with a news-artifact cold open and a heritage spine. The ceiling is proven (547K / 292K). First-mover window measured in months.**
+
+## 6. AUDIENCE MINING
+**Theme 1 — "The savings are real, the STORE is the problem."** Almost nobody disputes Costco's pricing; they dispute parking, sample crowds, one register open, lineups.
+**Theme 2 — Regional price comparison is the #1 engagement driver** (Niagara Falls gas, 80 likes / 17 replies).
+**Theme 3 — Defenders show up in force WITH RECEIPTS** ("$8.49 for 1.6kg vs $10.99 for 1.05kg"). **The countdown must survive that scrutiny.**
+**Theme 4 — Cross-border price comparison is an identity trigger** (Abbotsford vs Bellingham).
+**Theme 5 — COMMENTERS FACT-CHECK FACELESS CHANNELS RUTHLESSLY.** The single most-liked comment on the Broken Canada Costco video is a **correction**: "$104 for gold star membership??? where you getting this from? It's listed as $65 right now." (@situzifeng, **35 likes**). Also: "So much of your stock footage isn't of Costco at all. AI generated." / "What country is this filmed in?... I knew Costco was in Canada but this is not Canada." **ACTIONABLE: get Canadian fees exactly right; source B-roll from actual Canadian warehouses.**
+**Theme 6 — Nostalgia converts instantly.** "Costco was Price Club before it became Costco. **In Quebec it was called Club Price.** I remember buying tires there in the late 80s." / "1st costco in canada burnaby, BC. FYI." **Canadians volunteer the history — the 1985 clip will detonate the comment section.**
+**Theme 7 — Corporate-ethics ranking (Costco vs Amazon/Walmart/Loblaw).** Costco consistently ranks well. **A hit piece that ignores this will be rejected by the audience.**
+**Theme 8 — Seniors and downsizers are a distinct, vocal segment.**
+### TEN COMMENT-ENGINE PROMPTS
+1. "What's the gas price gap at YOUR Costco?" — city + cents/litre. Niagara Falls says 2 cents; Sudbury was promised 5 to 15.
+2. "Rank your Costco's parking lot 1 to 10, and name the warehouse."
+3. "East vs West: which province has the best Costco?"
+4. "Do you remember when it was Price Club — or Club Price?"
+5. "What's the one discontinued Costco Canada item you'll never forgive them for?"
+6. "Canada lost the food-court chicken wings, churros and ribs. The Montreal smoked meat sandwich came back. What comes back next?"
+7. "Who remembers the Burnaby Costco in 1985?"
+8. "Do the Executive math with us." — 2% capped at $1,250, fee $130, break-even $6,500.
+9. "Post a price: one item where Costco genuinely beats Superstore/No Frills/Walmart — and one where it doesn't."
+10. "Have you ever been stopped at a Costco door in Canada — and did you know you could say no?"
+**THE TWO-PARTER FOR THE CLOSE:** "Which Costco Canada change annoyed you most — the door scanners, the $65 fee, the online prices, or the sample-station traffic jams?" / "And be honest — are you renewing anyway? Because **92.1%** of you did last year." *(Real: Costco Q2 FY2026 call, US and Canada.)*
+
+## 7. NOSTALGIA / DISCONTINUED
+**7.1 The food court: what Canada lost.** blogTO/Daily Hive, Aug 15, 2024: "In addition to traditional favourites such as hot dogs and poutine, Costco food courts in Canada also used to have items like **chicken wings, Montreal smoked meat sandwiches, churros and ribs.**" Grocery items mourned: the candy aisle (Dino Sours, Livewires, Sour Keys), flavoured cream cheese, rectangular take-and-bake pizzas, **spinach and cheese ravioli** — "I still dream of those raviolis."
+**7.2 The smoked meat sandwich came back (April 2025).** blogTO: "Costco revealed that it would be bringing back the **Montreal smoked meat sandwich** to its food courts across Canada." Canadian reactions from Costco Canada's Instagram: "SMOKED MEAT BABYYYYYYY. IVE MISSED YOU" / "We want turkey provolone. Costco give the people what they want" / "How we don't have the chicken bake yet is beyond me."
+**7.3 What Canada has that the US doesn't (pride beat):** **poutine** and **chicken strips with fries** are Canadian food-court items not on US menus.
+**7.4 Canadian traditions:** the $1.50 hot dog as the closing ritual of a Costco run; Kirkland maple syrup from Quebec as the "Canadian" Kirkland item members name first.
+
+## QUARANTINED (audience-question use only, NEVER voiceover)
+1. "1 in 2 Canadians is a Costco member" — appears in a video title; **no primary source**; Costco does not publish Canada membership counts. Use only as a question.
+2. "Burnaby is Costco #51" — consistent with costco.ca/w/-/bc/burnaby/51 but not editorially confirmed.
+3. "Club Price signage survived in Quebec until 2001" — the 1997 global rebrand is documented; the Quebec tail is not. Use the NAME as an audience question, not the date.
+4. "The tire-swap pilgrimage" as a Canadian Costco tradition — culturally recognizable, undocumented in press.
+5. "I can only imagine the lines on a busy day" — surfaced only inside an aggregated search summary; Reddit was IP-blocked. Do not attribute to a named user.
+6. **Costco Canada auto-renewal class action — DO NOT VOICE.** Traces only to a low-authority aggregator and appears to conflate the **California** auto-renewal case with Canada. Only the January 2025 **double-ticketing** Federal Court action is properly sourced.
+7. "Costco.ca launched online shopping in [year]" — no reliable date; only the late-2024 online grocery delivery launch is documented.
+
+## PART 3 — UNVERIFIED / DO-NOT-USE
+1. **Current Canadian membership fees** — confirmed $65 / $130 / $1,250 cap effective Sept 1, 2024 (CBC), and the $1,250 cap is re-confirmed on costco.ca today. But costco.ca loads fee figures via JavaScript; one stale snippet showed "$55"/"$750." **CHECK THE LIVE COSTCO.CA JOIN PAGE BEFORE QUOTING A NUMBER ON CAMERA — Broken Canada was publicly corrected in its own comments for getting this exact figure wrong.**
+2. **The $1.50 CAD hot dog in Canada** — attested by a member and menu aggregators; no Costco Canada primary source. Verify in-warehouse.
+3. **Canadian rotisserie chicken price** — "$7.99" is a member comment, not a price check.
+4. **Canadian warehouse count** — 108 (Aug 2024) -> 109 (2025) -> **114 (Costco primary, Mar 2026)** -> 115 (Jul 2026). **Use 114-115 and cite the date. Do not say "over 120."**
+5. **Costco Canada unionization** — the 2025-27 Teamsters agreement coverage is US-focused. **Do not assert Canadian warehouses are covered without separate verification.**
+6. **Canadian Costco average wage** — C$22.17 is PayScale (self-reported). Use the corporate US$20 entry-level floor as the defensible number.
+7. **The Costco Connection "first 8 years" claim** — surfaced via search summary; re-open the page before voicing.
+8. **The double-ticketing action's current status** — **proposed** as of Jan 2025; no coverage of certification, settlement or dismissal found. Say "proposed" and "alleged"; check the Federal Court docket before publication.
+9. **CCLA's current position** — Bryant is no longer executive director. Attribute to "the CCLA's then-executive director Michael Bryant, speaking to CBC News."
+10. **Any Reddit quote** — Reddit returned HTTP 403 for every access method. Every Reddit quote here is second-hand via blogTO/Daily Hive and must be attributed that way.
+11. **CBC Archives clip licensing** — the 1985 National segment is CBC-owned; airing the footage requires a licence. **Quoting the words with on-screen attribution is a different legal matter than airing the video. Clear this before building the cold open around footage rather than transcript.**
+**DO NOT USE AT ALL:** any food-safety/recall/illness/contamination/ingredient-health angle; the Halifax Costco racist-tirade story (customer conduct, identifiable private individuals); the Mississauga parking-lot brawl beyond a one-line illustration (no charges laid); "Costco Canada got caught overcharging" as a flat statement (the allegation is unproven — correct phrasing: "A proposed class action filed in Federal Court alleges..."); lawmonarch.com, costcoguides.com, retailshout.com, historytools.org, grokipedia and similar aggregators.

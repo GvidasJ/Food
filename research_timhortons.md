@@ -16,6 +16,649 @@ Reference structure: Protect Our Plates, "Domino's Just Got Caught... Everyone K
 
 ---
 
+# PART 2 DOSSIER — TIM HORTONS: THE REGULATORY AND LEGAL RECORD
+
+**Research date: 18 September 2026.** All statuses stated as of that date.
+**Corporate entities:** *The TDL Group Corp.* ("TDL") is the Canadian operator/franchisor of Tim Hortons. *Restaurant Brands International Inc.* ("RBI") and *Restaurant Brands International Limited Partnership* are the parent entities. Franchisees are separate businesses. **Do not conflate TDL/RBI with individual franchisees on air.**
+
+**TIER KEY:** (a) CONFIRMED PRIMARY — regulator document / court record / government database · (b) STRONGLY SUPPORTED — reputable named outlet · (c) SPECULATION — do not use · (d) DOCUMENTED CONSUMER/MEDIA RECORD
+
+**HOUSE-RULE COMPLIANCE NOTE:** This dossier contains no health claims or health commentary. Recall entries below are stripped to issuing body, date, product, the fact of recall, and the reason-class exactly as the notice words it.
+
+---
+
+# A. THE PRIVACY COMMISSIONER INVESTIGATION — THE CENTREPIECE
+
+## A1. The published report — identification
+
+**TIER (a) CONFIRMED PRIMARY.**
+
+- **Document number:** PIPEDA Findings #2022-001
+- **Date:** June 1, 2022
+- **Full title, verbatim:**
+> "Joint Investigation by the Office of the Privacy Commissioner of Canada, the Commission d'accès à l'information du Québec, the Office of the Information and Privacy Commissioner of Alberta, and the Office of the Information and Privacy Commissioner for British Columbia into The TDL Group Corp.'s (the operator and franchisor of Tim Hortons in Canada) compliance with Canada's Personal Information Protection and Electronic Documents Act, Quebec's Act Respecting the Protection of Personal Information, Alberta's Personal Information Protection Act, and British Columbia's Personal Information Protection Act."
+
+- **URL:** https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-001/
+- **Companion news release:** "Tim Hortons app violated privacy laws in collection of 'vast amounts' of sensitive location data," GATINEAU, QC, June 1, 2022 — https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/
+- **Four authorities:** OPC (federal), Commission d'accès à l'information du Québec (CAI), OIPC Alberta, OIPC British Columbia. Collectively "the Offices."
+- **Investigation commenced:** June 2020 (per the report). Public announcement page of the OIPC Alberta is dated July 6, 2020 — https://oipc.ab.ca/investigation-tim-hortons/
+- **Trigger:** *Financial Post*, "Double-double tracking: How Tim Hortons knows where you sleep, work and vacation," James McLeod, June 12, 2020 (cited at Footnote 1 of the report).
+
+> ⚠️ **NOTE ON ACCESS:** `priv.gc.ca` was unreachable from this research environment (connection reset / HTTP 503). All verbatim text below was extracted from the **Internet Archive capture of the official OPC page** at the URLs above. The text is the OPC's own; the retrieval path was archival. Re-verify against live priv.gc.ca before broadcast.
+
+## A2. WHO ALLEGED / WHAT WAS CLAIMED / WHAT WAS FOUND — THE PRIVACY MATTER
+
+**WHO ALLEGED:** Four Canadian privacy regulators, acting on their own motion after a *Financial Post* investigation. Not a private plaintiff.
+
+**WHAT WAS EXAMINED (verbatim):**
+> "Specifically, the Offices sought to determine whether Tim Hortons:
+> collected and used granular GPS-based location information ("granular location data"), through the App, for a purpose that a reasonable person would consider appropriate in the circumstances, and was reasonable and to fulfill a legitimate need; and
+> obtained adequate consent from App users ("Users") to collect and use their granular location data."
+
+**WHAT THE APP DID (verbatim, Overview):**
+> "We found that in May 2019, Tim Hortons released updated versions of its App so that it could, with assistance from a US third-party service provider ("Radar"), track and collect the location of Users' devices. For the devices of Users who provided their 'permission', Radar would, on behalf of Tim Hortons, collect and process the Users' device location, as often as every few minutes, to: (i) infer the location of a User's home and place of work, and when they were travelling; and (ii) identify when the User was visiting a Tim Hortons competitor."
+
+**HOW OFTEN / HOW MUCH — the numbers (verbatim):**
+> "From its launch in 2017 through to July 2020, the App was downloaded almost 10 million times – with over 8.6 million Canadian downloads and over 1 million internationally. … As of July 2020, there were 1,602,343 active App Users (meaning Users that opened the App)."
+
+> "Tim Hortons indicated that it received, on average, approximately 10 Events per User per day from Radar."
+
+> "…the author of the 'Double-double tracking' National Post article discovered that the App recorded his exact longitude and latitude more than 2,700 times in less than 5 months – regardless of whether he was using the App. Despite the fact that Tim Hortons does not operate in the Netherlands or Northern Africa, the App still tracked his movements when he visited those destinations."
+
+**WHAT WAS FOUND — PURPOSE (verbatim):**
+> "In our view, Tim Hortons did not collect and use the granular location data in question for an appropriate purpose in the circumstances. First, Tim Hortons did not have a legitimate need to collect vast amounts of sensitive location information where it never used that information for its stated purpose. Furthermore, the consequences associated with the App's collection of that data, the vast majority of which was collected when the App was not in use, represented a loss of Users' privacy that was not proportional to the potential benefits Tim Hortons may have hoped to gain from improved targeted promotion of its coffee and associated products."
+
+**The formal contravention finding on purpose (verbatim):**
+> "…a reasonable person would not consider Tim Hortons' continual Background collection of Radar Location Data for the purpose of targeted advertising to better promote its coffee and associated products to be appropriate, reasonable, or legitimate in the circumstances, within the meaning of subsection 5(3) of the PIPEDA, section 5 of Quebec's Private Sector Act, section 11 of PIPA-AB, and section 11 of PIPA-BC. Consequently, we find that Tim Hortons contravened: subsection 5(3) of the PIPEDA, section 5 of Quebec's Private Sector Act, section 11 of PIPA-AB, and section 11 of PIPA-BC."
+
+**WHAT WAS FOUND — CONSENT (verbatim):**
+> "Although Users cannot provide consent when the purpose for the collection, use and disclosure of personal information is not appropriate, reasonable or legitimate within the meaning of the Acts, we nonetheless reviewed Tim Hortons' attempts to obtain consent. We found that Tim Hortons did not obtain valid consent… Tim Hortons failed to inform Users that it would collect their location information even when the App was closed, which would result in much more extensive collection, as compared to collection while the App was in use. Relatedly, it also made misleading statements to Users (in certain permission requests and FAQs) that it would only collect information when the App was open. Finally, Tim Hortons also failed to ensure Users understood the consequences of consenting to the continual collection of granular location data when the app was closed, which could result in their location information being collected as often as every few minutes, every day, everywhere they traveled, when their device was on."
+
+> "In fact, Tim Hortons explicitly and erroneously conveyed to Users, in Android permission language and in FAQs for both iOS and Android users…, that collection would only take place when the App was open. These were misleading statements, not consistent with the actual operation of the App. As such, Tim Hortons attempted to obtain consent by providing false or misleading information, so that section 10 of PIPA-AB and subsection 7(3) of PIPA-BC negate any consent provided in these circumstances."
+
+**Formal consent contravention (verbatim):**
+> "Given the above, we find that Tim Hortons did not obtain meaningful or valid consent. As such, Tim Hortons contravened section 6.1 as well as Principle 4.3 of Schedule 1 of PIPEDA, sections 6 and 12 – 14 of Quebec's Private Sector Act, subsection 7(1) of PIPA-AB, sections 6 – 8 of PIPA-BC."
+
+**WHAT WAS FOUND — THE CONTRACT WITH THE THIRD-PARTY LOCATION PROVIDER (Radar Labs, Inc.)**
+
+The provider is **Radar** (Radar Labs, Inc.), a US company. **The Offices expressly accepted that Radar did not misuse the data.** The concern was the *contract language*, specifically **Clause 4.3 of the Master Service Agreement**.
+
+Verbatim (Overview):
+> "Additionally, while we did not conduct an in-depth review of the contractual terms between RBI and Radar, we noted concerns with respect to contractual protections Tim Hortons implemented to protect Users' personal information while being processed by Radar. The language in those contractual clauses was vague and permissive and indicated that the service provider could have used User information for its own purposes, or disclosed such data and information in aggregated or de-identified form (which could still represent personal information) in connection with its own business. While we accept that Radar did not engage in a use or disclosure for its own purposes, the contractual language in this case would not appear to constitute adequate protection, by Tim Hortons, of Users' personal information."
+
+Verbatim (Analysis):
+> "The Agreement, at Clause 4.3, would appear to provide express written authorization for Radar to use data and information 'to improve and enhance the Services [Radar provided Tim Hortons] and for other development, diagnostic and corrective purposes in connection with the Services and other Company offerings'. [Emphasis added.] It further provides that Radar may disclose 'such data solely in aggregate or other de-identified form in connection with its business'."
+
+> "However, in our interpretation, the vague and permissive language in Clause 4.3, including the lack of definitions of terms used in the Agreement, indicates that Radar, the processor, could have used the information, including location data, for its own purposes, or disclosed such data and information in de-identified form in connection with its own business."
+
+> "Given the volume and potential sensitivity of the location information in question, as well as the level of risk associated with the current location tracking ecosystem, the level of protections provided in the Contract would in our view, appear to be inadequate."
+
+Note the **direct contradiction the Offices recorded** between the two companies (verbatim):
+> "This point is underscored by the contradictory fact that while Radar believes it could have used and disclosed data pursuant to clause 4.3, during the course of the investigation, Tim Hortons stated that Radar 'was contractually restricted from using [the] data for its own purposes.'"
+
+**WHAT WAS FOUND — ACCOUNTABILITY (verbatim):**
+> "While we did not conduct an in-depth review of Tim Hortons' overarching Privacy Management Program, the nature of certain contraventions identified through our Investigation are indicative of a broader lack of accountability."
+
+> "…Tim Hortons did not produce any documentary evidence to support its claim that these privacy related assessments and approvals were actually implemented (even though such records were requested). Similarly, we were provided with no documentary evidence to suggest that Tim Hortons took any measures to assess how the collection and use of Radar Location Data would affect User privacy or whether it would be compliant with the Acts."
+
+## A3. THE CRITICAL LEGAL CHARACTERISATION — FINDING, NOT ORDER, NOT FINE, NOT SETTLEMENT
+
+**TIER (a) CONFIRMED PRIMARY. This is the paragraph that governs how you may describe it on air.**
+
+Conclusion, verbatim:
+> "In light of the foregoing detailed in the Analysis section of this report, our Offices have come to the finding that Tim Hortons did not meet its obligations under the PIPEDA, Quebec's Private Sector Law, PIPA-AB, or PIPA-BC with respect to the collection, use or disclosure of Users' granular location data via the App.
+> We accept, however, that TDL's commitments, once implemented, will bring the company into compliance with the Acts.
+> We therefore find this matter to be **well-founded and conditionally resolved**."
+
+**Precise characterisation:**
+- It is a **published Report of Findings** under PIPEDA and the three provincial statutes.
+- The statutory disposition is **"well-founded and conditionally resolved."** That is the regulators' own term of art.
+- The Offices made **recommendations**, not orders. There was **no monetary penalty, no fine, no administrative monetary penalty, and no consent order.** The word "order" does not appear as a disposition.
+- It was **not a settlement** — it is a regulator's finding following investigation, with company commitments accepted.
+- **Legal context (TIER (a), from the document's own structure):** the report proceeds by recommendation-and-acceptance rather than by order. The OPC's recommendations were framed as recommendations that TDL "agreed to comply with."
+
+## A4. THE RECOMMENDATIONS (verbatim)
+
+> "First, recognizing that TDL collected Radar Location Data for a purpose that we found to be inappropriate under the acts, and in any event, without valid consent, we recommended that it delete any remaining Radar Location Data, and any data derived therefrom, in its possession within one (1) month of the issuance of our Final Report of Findings in this case; and that it direct its third-party service providers to delete any such data within the same time period, taking the necessary steps to confirm that such deletion has occurred."
+
+> "Second, … we recommended that TDL establish, and thereafter maintain, a privacy management program with respect to the App and any other apps that it launches in the future, to ensure compliance with the Acts. The program should provide for the conduct of a privacy impact assessment when contemplating any new app or app practices that may impact individuals' privacy or TDL's compliance with the Acts."
+
+> "Finally, we recommended that TDL provide a report to our Offices detailing the measures implemented to comply with the recommendations … within nine (9) months of the issuance of the Final Report of Findings."
+
+## A5. WHAT TIM HORTONS / TDL SAID AND AGREED TO DO — VERBATIM
+
+**TIER (a) CONFIRMED PRIMARY (from the report, "Tim Hortons' response to our recommendations"):**
+> "**Deletion:** TDL agreed to comply with the recommendation detailed in paragraph 90 within one (1) month of the lifting of any relevant litigation holds, which currently prevents TDL from deleting, or effecting deletion, of the data in question, following a final disposition of the matters underlying the litigation holds. In the interim, TDL will not use the data for any purpose other than in relation to the associated litigation. TDL will inform our Offices in writing of its compliance with this commitment within 14 days of completing the required deletions, including with a detailed description of the data deleted by TDL and that deleted by its third-party service providers."
+
+> "**Privacy Management Program:** TDL agreed to comply with the recommendations detailed in paragraph 91 and 92 within twelve (12) months of the issuance of this report of findings, noting the effort and resources that would be required to implement such a program. TDL further agreed to provide quarterly written updates to our Offices detailing work completed, and progress to completion, on development and implementation of the privacy management program to date."
+
+**Conduct change already made, verbatim:**
+> "In August 2020, subsequent to notification of our Investigation, TDL permanently ceased collecting granular location data, via the App, for purposes of targeted advertising."
+> "The release of version 2.3.0 of the App, on both Android and iOS, in September 2020, saw the removal of the SDK at issue."
+
+**TIER (b) STRONGLY SUPPORTED — Tim Hortons' public statement on the day of publication.** Attributed by CBC News to "a statement from Tim Hortons released on Wednesday" (June 1, 2022):
+> "We've strengthened our internal team that's dedicated to enhancing best practices when it comes to privacy and we're continuing to focus on ensuring that guests can make informed decisions about their data when using our app."
+Source: CBC News, "Tim Hortons app tracked too much personal information without adequate consent, investigation finds," Nojoud Al Mallees, June 1, 2022 — https://www.cbc.ca/news/business/tim-hortons-app-report-1.6473584
+
+**TIER (a) — Defendants' position as recorded by a court** (Quebec Superior Court, settlement-approval judgment, para. 34):
+> "On the one hand, while the Privacy Commissioner determined that Defendants had not obtained proper consent, **Defendants contest this finding.** They claim that they used multiple mechanisms to ensure that the App's users provided explicit consent to the collection of their location-based data. Users who refused to grant such permission did not have their location-based data collected by the Defendants. Users who had granted permission were free to revoke their consent at any time."
+
+**This is essential balance material. The company disputed the consent finding in court.**
+
+## A6. REGULATOR QUOTES — VERBATIM (news release, June 1, 2022)
+
+> "Tim Hortons clearly crossed the line by amassing a huge amount of highly sensitive information about its customers. Following people's movements every few minutes of every day was clearly an inappropriate form of surveillance. This case once again highlights the harms that can result from poorly designed technologies as well as the need for strong privacy laws to protect the rights of Canadians." — **Daniel Therrien, Privacy Commissioner of Canada**
+
+> "This report eloquently illustrates the risks inherent in the use of geolocation and the importance of transparent and accountable privacy practices. Without a suitable prior assessment, Tim Hortons collected sensitive information about its customers through its app, without their adequate knowledge or consent. It is to put an end to this kind of practice that Quebec has reviewed its legislation protecting personal information giving more powers to the Commission and making companies more accountable." — **Me Diane Poitras, president, Commission d'accès à l'information du Québec**
+
+> "This investigation sends a strong message to organizations that you can't spy on your customers just because it fits in your marketing strategy. Not only is this kind of collection of information a violation of the law, it is a complete breach of customers' trust. The good news in this case is that Tim Hortons has agreed to follow the recommendations we set out, and I hope other organizations can learn from the results of this investigation." — **Michael McEvoy, Information and Privacy Commissioner for British Columbia**
+
+> "This investigation is yet another example where an organization has not effectively notified customers about its practices. Tim Hortons' customers did not have adequate information to consent to the location tracking that was actually occurring. When people download and use these types of apps, it's important that they know in advance what will happen to their personal information and that organizations follow through with their commitments." — **Information and Privacy Commissioner of Alberta Jill Clayton**
+
+From the news release body, verbatim:
+> "It generated an 'event' every time users entered or left a Tim Hortons competitor, a major sports venue, or their home or workplace."
+> "Tim Hortons agreed to implement the recommendations."
+
+## A7. THE FOLLOW-UP — CLOSURE OF THE FILE
+
+**TIER (a) CONFIRMED PRIMARY.** OPC blog post, Michael Maguire, **June 29, 2023**, "One year later: 10 takeaways for businesses from the Tim Hortons investigation" — https://www.priv.gc.ca/en/blog/20230629_02/
+
+Verbatim:
+> "After following up with Tim Hortons, our Office is now satisfied that the company has met its commitments and implemented the recommendations flowing from our findings."
+
+**You must include this.** Omitting it would misrepresent the current regulatory status.
+
+## A8. THE RELATED CLASS ACTIONS OVER THE APP
+
+**TIER (a) CONFIRMED PRIMARY — court record.**
+
+**Four proposed class actions were filed in three provinces.** Per the Quebec Superior Court judgment (para. 6):
+
+| Action | Court & file no. | Class |
+|---|---|---|
+| **Steve Holcman v. Restaurant Brands International Inc., Restaurant Brands International Limited Partnership, The TDL Group Corp.** | Quebec Superior Court, District of Montréal, **No. 500-06-001081-203** (filed June 20, 2020) | Quebec-originating; became the national settlement vehicle |
+| **Wai Lam Jacky Law v. Restaurant Brands International Inc. and Radar Labs, Inc.** | Supreme Court of British Columbia, **VLC-S-S-207985** | putative national class |
+| **William Jung v. Restaurant Brands International Inc., Restaurant Brands International LP, The TDL Group Corp., BK Canada Service ULC and Radar Labs, Inc.** | Ontario SCJ, **CV-20-00648562-00CP** | putative national class excluding Quebec |
+| **Ashley Sitko and Ashley Cadeau v. Restaurant Brands International Inc.** | Ontario SCJ, **CV-20-00643263-00CP** | putative national class ("process to commence claims not completed") |
+
+**WHAT WAS CLAIMED:** **TIER (b)** — per class counsel Tyr LLP's public case page, the actions alleged RBI, with Radar Labs Inc.'s assistance, "surreptitiously and pervasively collected personal information" including around-the-clock geolocation and device information; that this breached RBI's own privacy policy and provincial consumer protection legislation; and that the conduct amounted to the tort of **intrusion upon seclusion**. https://class-actions.tyrllp.com/RBI-class-action.html
+> ⚠️ **These were pleaded allegations. None was tried or proven.**
+
+**PROCEDURAL HISTORY (TIER (a)):**
+- **June 15, 2022** — Quebec Superior Court authorized a national class action **for settlement purposes**: *Holcman v. Restaurants Brands International Inc.*, **2022 QCCS 2168** (rectified judgment July 4, 2022).
+- **Authorized class, verbatim:** "All Canadian Resident users of the Tim Hortons® application with registered accounts in Canada whose geolocation information was collected by any of the Defendants between April 1, 2019, and September 30, 2020."
+- **Opt-out/objection deadline:** August 31, 2022.
+- **Settlement approval hearing:** September 6, 2022.
+- **September 22, 2022** — Settlement approved. **Judgment of the Honourable Martin F. Sheehan, J.S.C.**, Superior Court, District of Montréal, No. 500-06-001081-203. Full text PDF: https://clg.org/pdf/4/9/7/1/Judgment-Approving-Settlement.pdf
+- **May 18, 2023** — judgment approving class counsel fees (TIER (b), class counsel website).
+
+**THE SETTLEMENT TERMS (verbatim from the judgment):**
+> "[44] The Settlement Agreement provides compensation in the form of a credit to be used for the purchase of one Hot Beverage and one Baked Good (as defined in the Settlement Agreement) from any participating Tim Hortons store within Canada.
+> [45] Approximately 1.9 million credits will be issued to Class Members. The total potential value of the Settlement Agreement is estimated at **$16,179,000**.
+> [46] The credit can be used only once. Class Members will have a maximum of 24 months to redeem it. It is non-transferable, non-refundable, and non-cash convertible.
+> [47] Defendants have already modified their conduct as of September 2020. They have also undertaken to permanently delete any geolocation information about Class Members that may be in their possession and shall instruct their third-party vendor to do the same."
+
+> "[78] While the release is quite verbose, counsel have confirmed that the intent of the parties is to release the Defendants (as well as their subcontractor and BK Canada Service ULC ('Burger King') who is a defendant in one of the Other Class Actions) from all liability resulting from collection of geographical data."
+
+Objections: "[90] 38 Class Members objected to the Settlement Agreement." / "[92] The total objections/opt-outs represent 0.0069% of Class Members."
+Court's approval: "[94] The Settlement Agreement is fair, reasonable and in the best interest of Class Members."
+
+**ADMISSION OF LIABILITY — CRITICAL:**
+
+**TIER (a) — as recorded by the court:** para. 34 records that "**Defendants contest this finding**" (of the Privacy Commissioner) and that they claim they used multiple mechanisms to obtain explicit consent. The court expressly noted "Plaintiff's success was not guaranteed."
+
+**TIER (b) — settlement-administration language,** per class counsel LPC Avocats' official settlement page (https://lpclex.com/timhortons/): the settlement proceeded **"without any admission of liability,"** and the defendants assert they "have complied at all times with all applicable legislation and did not commit any wrongdoing." Per Consumer Law Group's case page (https://clg.org/Class-Action/List-of-Class-Actions/Tim-Hortons-Mobile-Application-Privacy-Class-Action), the operative wording is:
+> "Without any admission of liability, for the purpose of avoiding a trial and the additional costs and expenses related thereto, the Defendants agree to the following…"
+
+> ⚠️ **This exact string was sourced from class-counsel settlement pages, not read directly out of the executed Settlement Agreement. Verify against the Settlement Agreement (Exhibit T-1) before quoting it as the contract's words. The safe, fully-verified formulation is the court's own: the defendants contested the Privacy Commissioner's consent finding.**
+
+---
+
+### ▶ HOW WE MAY DESCRIBE SECTION A ON AIR
+
+**SAFE (all CONFIRMED PRIMARY):**
+- "In June 2022, Canada's federal Privacy Commissioner, together with the privacy authorities of Quebec, Alberta and British Columbia, published the findings of a joint investigation into the Tim Hortons app."
+- "The regulators found that Tim Hortons contravened federal and three provincial privacy statutes — subsection 5(3) and section 6.1 of PIPEDA among them."
+- "They found the app collected location as often as every few minutes, mostly when the app was not in use."
+- "They found Tim Hortons made misleading statements that collection would only happen when the app was open."
+- "They found the contract with the American location provider was, in their words, 'vague and permissive' — while expressly accepting that the provider did not misuse the data."
+- "The regulators' disposition was, in their own words, 'well-founded and conditionally resolved.'"
+- "There was no fine, no penalty and no order. The regulators made recommendations; Tim Hortons agreed to implement them."
+- "A year later, in June 2023, the Privacy Commissioner said it was satisfied the company had met its commitments."
+- "Four class actions were filed. They settled nationally in September 2022, approved by the Quebec Superior Court, for a free hot beverage and a free baked good per class member — a package the court valued at about $16.2 million."
+- "In that same judgment the court recorded that the defendants **contested** the Privacy Commissioner's consent finding."
+
+**DO NOT SAY:** "Tim Hortons was fined." / "Tim Hortons was ordered to…" / "A court found Tim Hortons broke privacy law." (It was a regulator's report of findings, not a court judgment on the merits.) / "Tim Hortons admitted…" (it did not; it disputed the consent finding.) / "Radar sold your data." (The regulators expressly accepted it did not.)
+
+---
+
+# B. COMPETITION BUREAU / ADVERTISING REGULATION
+
+## B1. Competition Bureau — merger review of the 2014 Burger King/Tim Hortons transaction
+
+**TIER (b) STRONGLY SUPPORTED.** The Competition Bureau issued a **no-action letter** on **October 28, 2014**, concluding the transaction was unlikely to result in a substantial lessening or prevention of competition, citing many competitors in quick-service food and low barriers to entry.
+Sources: CBC News, "Competition Bureau gives OK to Tim Hortons, Burger King deal," Oct. 2014 — https://www.cbc.ca/news/business/tim-hortons-burger-king-deal-ok-d-by-competition-bureau-1.2815809 ; CTV News — https://www.ctvnews.ca/business/tim-hortons-burger-king-merger-approved-by-competition-bureau-1.2075058
+
+**WHO ALLEGED:** nobody — this was a routine statutory merger review.
+**WHAT WAS FOUND:** no competition concern.
+**STATUS:** closed, 2014.
+**ON AIR:** "The Competition Bureau reviewed the 2014 takeover and cleared it." That is all.
+
+## B2. Competition Bureau — NEGATIVE FINDING (this is itself reportable)
+
+**TIER (a) CONFIRMED PRIMARY — absence verified against the Bureau's own public records.**
+
+Searches of the Competition Bureau's published enforcement record — including its "Deceptive marketing practices — Cases and outcomes" database (https://competition-bureau.canada.ca/en/deceptive-marketing-practices/cases-and-outcomes), its drip-pricing and promotional-contest enforcement pages, and its news releases — **returned no Competition Bureau inquiry, consent agreement, Competition Tribunal application, undertaking, or prosecution naming Tim Hortons, The TDL Group Corp., or Restaurant Brands International.**
+
+The Bureau's February 17, 2026 news release on promotional contests ("Promotional contests: Businesses owe consumers honest information," GATINEAU, QC — https://www.canada.ca/en/competition-bureau/news/2026/02/promotional-contests-businesses-owe-consumers-honest-information.html) **names no company at all** and makes no reference to Tim Hortons or RBI. Do not link the two on air.
+
+**Regarding the "2017-era inquiry":** The federal investigation widely reported in 2018 was **not** a Competition Bureau matter. It was an **Investment Canada Act** compliance review — see B4.
+
+**ON AIR:** "We found no Competition Bureau enforcement action against Tim Hortons on the public record."
+
+## B3. Ad Standards Canada (ASC)
+
+**TIER (a) — NEGATIVE FINDING, with an important methodological caveat.**
+
+No **advertiser-identified** ASC Standards Council case summary involving Tim Hortons or The TDL Group was located in ASC's published Council Decisions / complaint case summaries (https://adstandards.ca/complaints/complaints-reporting/recent-complaint-case-summaries) or in the indexed annual Ad Complaints Reports.
+
+**The caveat matters and must be stated if this is used.** ASC's own published policy is that an advertiser is named in a case summary only where "The advertiser did not permanently withdraw or amend the advertisement before Council met to review the complaint." Complaints that are upheld but where the advertiser withdraws or amends the ad are reported **anonymously**. Therefore: *absence of a named Tim Hortons ASC case does not establish that no complaint against Tim Hortons was ever upheld.*
+
+**ON AIR:** "We could not find any Ad Standards Canada decision naming Tim Hortons. Ad Standards only names advertisers who decline to pull or fix the ad, so that isn't a clean bill of health — it just means nothing was published under their name." **Do not say "Tim Hortons has never had a complaint upheld."**
+
+## B4. Investment Canada Act — the 2018 federal compliance review
+
+**TIER (b) STRONGLY SUPPORTED.**
+
+**WHO ALLEGED:** The Great White North Franchisee Association (GWNFA), a dissident franchisee group, wrote to then-Innovation Minister Navdeep Bains in April 2018.
+**WHAT WAS CLAIMED:** that RBI had failed to honour undertakings given under the *Investment Canada Act* to secure approval of the 2014 acquisition — reported to include not increasing franchisee rents and royalties for five years, maintaining staffing levels for franchisee operations, maintaining the company's financial contribution to renovations, applying industry best practices on matters such as safety, and maintaining franchisee advisory board policies.
+**WHAT WAS FOUND:** Innovation, Science and Economic Development Canada concluded there were **"currently no compliance issues under the Investment Canada Act,"** and stated monitoring would remain ongoing.
+Sources: CBC News, "Ottawa to investigate franchisee complaints against Tim Hortons parent company," April 2018 — https://www.cbc.ca/news/business/federal-government-investigation-franchisee-complaints-tim-hortons-rbi-1.4617661 ; The Globe and Mail, "Ottawa finds no issues with Restaurant Brands' takeover of Tim Hortons" — https://www.theglobeandmail.com/business/article-ottawa-finds-no-issues-with-restaurant-brands-takeover-of-tim-hortons/
+**CURRENT STATUS:** Closed with no adverse finding.
+**ON AIR:** "In 2018 the federal government looked at whether RBI had kept the promises it made to win approval for the takeover. Ottawa concluded there were no compliance issues." **This is an exoneration and must be reported as such if raised at all.**
+
+## B5. No-poach / wage-fixing — see Section D2
+
+The no-poach matter in Canada involving Tim Hortons was **private civil litigation, not a Competition Bureau investigation.** The *Competition Act* claims in that litigation were **struck out** in 2021 and the remainder **dismissed on summary judgment** in 2024, affirmed on appeal in 2025, with **leave to appeal to the Supreme Court of Canada dismissed with costs on 18 September 2025.** Full treatment at D2. **There is no Competition Bureau no-poach enforcement action against Tim Hortons on the public record.**
+
+> **Legal context (TIER (a)):** Canada's criminal wage-fixing and no-poach provision, *Competition Act* s. 45(1.1), came into force on **23 June 2023** and is not retroactive. The Tim Hortons clause at issue was in effect to 2018 and, per the trial judge, not enforced after 2018. **Do not imply the criminal provision applied to it.**
+
+---
+
+# C. RECALLS AND FOOD SAFETY ORDERS — BARE REGULATORY FACTS ONLY
+
+**Source: Government of Canada Recalls and Safety Alerts database, recalls-rappels.canada.ca, including archived records. Searched 18 September 2026.**
+
+**TIER (a) CONFIRMED PRIMARY — three notices located whose product name carries the Tim Hortons brand:**
+
+**1.**
+- **Notice title (verbatim):** "Natrel and Tim Hortons brand 2% milk recalled due to sanitizer"
+- **Date:** January 24, 2020
+- **Issuing database:** Government of Canada Recalls and Safety Alerts (food category)
+- **Recalling firm:** Agropur Cooperative
+- **Distribution:** Ontario, Quebec
+- **Reference number:** 13667
+- **Status:** page marked archived — "This page has been archived on the Web"
+- URL: https://recalls-rappels.canada.ca/en/alert-recall/natrel-and-tim-hortons-brand-2-milk-recalled-due-sanitizer
+
+**2.**
+- **Notice title (verbatim):** "Tim Hortons brand Soup Base Chicken Noodle recalled due to presence of insects"
+- **Date:** published 2022-11-10; page "last updated" field 2022-11-07
+- **Issuing agency:** Canadian Food Inspection Agency
+- **Issue field (verbatim):** "Food - Extraneous Material"
+- **Recalling company:** La Cie McCormick Canada
+- **Distribution:** Ontario, Alberta
+- **Reference number:** RA-72183
+- URL: https://recalls-rappels.canada.ca/en/alert-recall/tim-hortons-brand-soup-base-chicken-noodle-recalled-due-presence-insects
+
+**3. (non-food consumer product)**
+- **Notice title (verbatim):** "Tim Hortons Pink and White Colour Changing Donut Mug recalled due to a burn hazard"
+- **Date:** 2026-03-16 (last updated 2026-03-16)
+- **Issuing department:** Health Canada
+- **Distributor/retailer named:** The TDL Group Corp.; **Importer:** Umbra Ltd.
+- **Units sold in Canada:** 25,040
+- **Reference number:** RA-81726
+- URL: https://recalls-rappels.canada.ca/en/alert-recall/tim-hortons-pink-and-white-colour-changing-donut-mug-recalled-due-burn-hazard
+
+**THE ABSENCE IS THE STORY — and it is reportable.**
+Across the full public Recalls and Safety Alerts database including archived records, for a chain operating roughly 3,800 restaurants in Canada, there are **three** Tim Hortons-branded recall notices in the database over the period covered. Two are food items recalled by third-party manufacturers (Agropur; La Cie McCormick Canada) rather than by TDL. The one recall in which **The TDL Group Corp. is itself named** is a **ceramic mug**, not food.
+
+**ON AIR:** "We searched the Government of Canada's recalls database, archived records included. For a chain this size, the Tim Hortons recall record is remarkably thin: three notices. Two of them were issued by outside manufacturers of products carrying the Tim Hortons name. The only one where Tim Hortons' own corporate entity is named as the distributor is a coffee mug recalled in March 2026." **Say nothing further about any substance, contaminant or effect.**
+
+> ⚠️ **DATABASE CAVEAT:** The recalls site's faceted search (`f[0]=type:alert_recall`) returned "No results found for your search 'Tim Hortons'" while the unfiltered site search returned the notices above. This is a search-facet quirk, not evidence of absence. The three notice pages above were each retrieved and verified individually. If a producer re-runs the search and gets zero, that is why.
+
+---
+
+# D. LITIGATION RECORD — CANADIAN
+
+## D1. The app privacy class actions — see A8 above
+
+**Status: SETTLED (national), approved 22 September 2022, no admission of liability.**
+
+## D2. Latifi v. The TDL Group Corp. — the "no-hire" / "no-poach" wage-suppression class action
+
+**TIER (a) CONFIRMED PRIMARY — full judgments read.**
+
+**WHO ALLEGED:** Samir Latifi, a former employee of a Tim Hortons restaurant in Surrey, B.C. (employed 2012), on behalf of a proposed class of "all persons who are or were employees at a Tim Hortons restaurant in Canada."
+**DEFENDANT:** The TDL Group Corp. (the franchisor only — not the franchisees).
+**COURT:** Supreme Court of British Columbia, **Docket S198150**, Vancouver Registry. Judge: **the Honourable Madam Justice Sharma** throughout.
+
+**THE CLAUSE — verbatim from the licence agreement, as quoted by the court (2021 BCSC 2183, para. 6):**
+> "not to employ or seek to employ any person who is at the time employed by [TDL] or by any other licensee of the [TDL] operating the same or similar business, or otherwise directly or indirectly to induce such person to leave his or her employment thereat without the prior written consent of the [TDL]."
+
+Per the evidence accepted by the court: some form of the clause had been in the Licence Agreement **since at least 2003**; and **"since 2018, TDL is not enforcing the No-hire clause"** (2024 BCSC 832, para. 98).
+
+**WHAT WAS CLAIMED:**
+> "[7] The plaintiff alleges the No-hire clause violates provisions of the Competition Act, R.S.C. 1985, c. C-34 by unlawfully suppressing Class Members' wages. The plaintiff alleges the wage suppression conferred benefits on TDL and its franchisees by way of increased profits. As such, he claims damages ought to be ordered pursuant to s. 36 of the Competition Act.
+> [8] The plaintiff also alleges TDL, in insisting and enforcing the No-hire clause, has committed civil conspiracy and/or the tort of unlawful means for which either an accounting and restitution, or disgorgement of benefits, should be ordered." (2021 BCSC 2183)
+
+**WHAT WAS FOUND — STAGE 1: most claims struck.**
+***Latifi v. The TDL Group Corp.*, 2021 BCSC 2183**, 9 November 2021. Verbatim:
+> "[128] For the reasons explained in this judgment, I conclude that it is plain and obvious that the following claims are bound to fail:
+> a) the claim for damages under s. 36 of the Competition Act;
+> b) that aspect of the claim for damages for civil conspiracy based on unlawful means civil conspiracy;
+> c) the claim for damage for the tort of unlawful means to the extent it relies on breach of the Competition Act or unlawful means civil conspiracy; and
+> d) the claims for an accounting and restitution or, in the alternative, disgorgement for unjust enrichment."
+> "[129] I do not find it plain and obvious that the aspect of the claim of civil conspiracy based on paramount purpose is bound to fail, and it will not be struck."
+
+**WHAT WAS FOUND — STAGE 2: the rest dismissed on summary judgment; certification never reached.**
+***Latifi v. The TDL Group Corp.*, 2024 BCSC 832**, 15 May 2024 (hearings May 29–June 2, 2023 and February 2, 2024). Verbatim:
+> "[125] For all the reasons explained in this judgment, I grant summary judgment and dismiss the plaintiff's claim.
+> [126] I am not persuaded that the plaintiff's evidence or submissions identify a genuine issue for trial. This is mainly because the plaintiff has not adduced any evidence that the primary goal of the No-hire clause was to injure employees. Instead, the plaintiff relies on Mr. Gomez's opinions based on academic studies which focus on the effects of clauses potentially akin to the No-hire clause. Those studies do not pertain to intent, and therefore with regard to a material fact in issue, they are speculative and indirect, at best, as are Mr. Gomez's opinions. Moreover, the studies are almost all from the US focussed largely on non-compete clauses (contained within employee-employer contracts), and the plaintiff did not establish the applicability of those to franchisee-franchisor agreements.
+> [127] Since the claim for predominant purpose civil conspiracy fails, the plaintiff's claim for the unlawful means tort must also fail as it depended on the success of the former.
+> [128] I will not address certification as there is no action left to certify."
+
+TDL's evidence, accepted by the court (2024 BCSC 832, para. 92):
+> "TDL does not assert that the clause was designed to promote investment in training, but to protect the costs of the training that was provided to a franchisee's employees."
+And para. 28: "Mr. Gregoire denied that the purpose of the clause was to injure employees by limiting employment generally or to reduce or suppress wages."
+
+**WHAT WAS FOUND — STAGE 3: appeal dismissed.**
+***Latifi v. TDL Group Corp.*, 2025 BCCA 45**, Court of Appeal for British Columbia (Vancouver), **No. CA49876**, dated **13 February 2025**. Dismissal upheld.
+
+**WHAT WAS FOUND — STAGE 4: Supreme Court of Canada refused to hear it.**
+**SCC Docket 41757**, *Samir Latifi v. TDL Group Corp.* Application for leave filed **11 April 2025**. Judgment **18 September 2025** — https://www.scc-csc.ca/cases-dossiers/search-recherche/41757/ . Verbatim:
+> "The application for leave to appeal from the judgment of the Court of Appeal for British Columbia (Vancouver), Number CA49876, 2025 BCCA 45, dated February 13, 2025, is dismissed with costs."
+
+**CURRENT STATUS: FINALLY DISMISSED. The case is over. The plaintiff lost at every level and was ordered to pay costs at the Supreme Court of Canada.**
+
+### ▶ HOW WE MAY DESCRIBE D2 ON AIR
+**SAY:** "A former Tim Hortons employee tried to bring a class action arguing that a no-hire clause in the franchise agreements suppressed wages. The Competition Act part of the claim was struck out in 2021. The rest was dismissed on summary judgment in 2024, because the judge held there was no evidence the clause's predominant purpose was to injure employees — the court accepted the company's evidence that the purpose was to protect franchisees' training costs. The B.C. Court of Appeal upheld that in February 2025, and in September 2025 the Supreme Court of Canada refused to hear a further appeal, with costs. **The allegation was never proven and the case was dismissed.**"
+
+**A CONCESSION YOU MAY FAIRLY REPORT (TIER (a)):** the appellate reasoning turned on *intent*, not *effect*. The Court of Appeal was reported to have found no error in the chambers judge's ruling that while the clause **may have had the effect** of suppressing wages, there was no evidence that was its **intended** effect. **(TIER (b) for this characterisation — Bennett Jones, "BC Court of Appeal Confirms 'No hire' Clause Not Intended to Injure Employees," https://bennettjones.com/Blogs-Section/BC-Court-of-Appeal-Confirms-No-hire-Clause-Not-Intended-to-Injure-Employees .)** If you use this, you must say plainly that the court dismissed the claim.
+
+**DO NOT SAY:** "Tim Hortons suppressed wages." / "Tim Hortons was accused of wage-fixing and it went to the Supreme Court." (The SCC **refused to hear it**; it did not rule on the merits.)
+
+## D3. Fairview Donut Inc. v. The TDL Group Corp. — the franchisee "Always Fresh / Lunch Menu" class action
+
+**TIER (b) STRONGLY SUPPORTED; case citations TIER (a) by citation.**
+
+**WHO ALLEGED:** Tim Hortons franchisees (representative plaintiffs Fairview Donut Inc. et al.).
+**COURT:** Ontario Superior Court of Justice.
+**WHAT WAS CLAIMED:** that the shift from in-store baking to the par-baked "Always Fresh" model forced franchisees to pay unreasonably high prices, and that the "Lunch Menu" requirement forced sales at break-even or a loss. Causes pleaded: breach of contract, breach of common-law and statutory good faith / fair dealing under franchise legislation, breach of the *Competition Act*, and unjust enrichment. Damages sought: reported at **$2 billion**.
+**WHAT WAS FOUND:** ***Fairview Donut Inc. v. The TDL Group Corp.*, 2012 ONSC 1252** — the court certified the class but simultaneously granted **summary judgment dismissing the entire action**, holding that there was no requirement that any individual new Tim Hortons product or model be profitable in its own right, and that Tim Hortons was entitled to consider the profitability of the system as a whole.
+**APPEAL:** affirmed, ***Fairview Donut Inc. v. TDL Group Corp.*, 2012 ONCA 867**. **Leave to appeal to the Supreme Court of Canada refused, [2013] S.C.C.A. No. 47.**
+**CURRENT STATUS: DISMISSED, finally, 2013.**
+Sources: https://www.mondaq.com/canada/class-actions/170744/fairview-donut-inc-v-the-tdl-group-corp-2012-onsc-1252 ; https://www.mondaq.com/canada/franchising/211890/wake-up-and-smell-the-coffee-summary-judgment-decision-dismissing-tim-hortons-class-action-upheld-on-appeal
+
+**ON AIR:** "Franchisees brought a $2-billion class action over the switch to par-baked goods and the lunch menu. In 2012 the court dismissed the entire action on summary judgment; the Ontario Court of Appeal upheld that dismissal, and the Supreme Court of Canada refused leave in 2013. **The claims were dismissed.**"
+
+## D4. The Great White North Franchisee Association actions (2017)
+
+**TIER (b) STRONGLY SUPPORTED.**
+
+**Two Ontario Superior Court of Justice class actions:**
+- **The "Ad Fund Action" (Walker v. TDL)** — filed June 2017. Alleged breach of contract and statutory breaches in the administration of the national advertising fund, to which franchisees contributed via licence fees and royalties (reported at 3.5% of gross sales; over $700 million cumulative). **Damages sought: $500 million.**
+- **The "Association Action" (GWNFA v. TDL and RBI)** — alleged breach of the duty of fair dealing under the *Arthur Wishart Act (Franchise Disclosure), 2000* and interference with franchisees' statutory right of association, including allegations of default notices, refusal to deal with the association, intimidation, public disparagement, denial of store opportunities and targeted buyouts of association members.
+
+**PROCEDURAL OUTCOME (TIER (b), class counsel Himelfarb Proszanski):**
+- Both: **Certification Order issued and entered 22 March 2019.**
+- Both: **Settlement Approval Decision 29 April 2019.**
+Sources: https://himprolaw.com/class-action-tim-hortons-ad-fund-action/ ; https://himprolaw.com/class-action-tim-hortons-association-action/
+
+**SETTLEMENT TERMS (TIER (b)):** Settlement agreement signed by GWNFA president Mark Walker and TDL Group Corp., filed in Ontario Superior Court **6 March 2019**. Reported terms: the franchisee advisory board would regularly review advertising fund spending for added transparency; advisory board member terms shortened by a year; electronic voting instituted for the board; Tim Hortons to pay **$10 million over two years for local advertising** and **$2 million to GWNFA's law firm**.
+Sources: CBC News — https://www.cbc.ca/news/business/tim-hortons-franchisee-lawsuit-1.5048896 ; Global News — https://globalnews.ca/news/4932478/tim-hortons-franchisee-lawsuit/
+
+**CURRENT STATUS: SETTLED, 2019.**
+
+> ⚠️ **NO-ADMISSION LANGUAGE NOT LOCATED.** The executed settlement agreements and the 29 April 2019 approval reasons were not retrieved in this research. **Do not assert or deny an admission of liability in these two actions.** The safe line is: "The cases settled in 2019." Court file numbers were also not obtained — see UNVERIFIED section.
+
+**ALLEGATIONS WERE NEVER TRIED.** Certification is a procedural gateway, not a finding on the merits. Say so.
+
+## D5. Roll Up To Win — the "boat" class action (the contest matter)
+
+**TIER (a) CONFIRMED PRIMARY on court, file number, judge, date; TIER (b) on quoted reasoning.**
+
+**WHO ALLEGED:** Quebec consumers, represented by LPC Avocats (Montreal). The lead plaintiff received an email on **17 April 2024**.
+**COURT:** Superior Court of Quebec. **File No. 500-06-001306-246.**
+**JUDGE:** the Honourable **Donald Bisson**, J.S.C.
+**AUTHORIZATION JUDGMENT: 27 June 2025.**
+**WHAT IS CLAIMED:** that in March/April 2024 Tim Hortons emailed customers stating they had won a **Tracker Targa 18 WT 2024 boat and trailer** (value reported at approximately $64,000) in the Roll Up To Win promotion, and that the boat and trailer were never delivered. The class action seeks (1) **specific performance** — delivery of the boat and trailer; (2) damages in an amount to be determined; and (3) **punitive damages of $10,000 per class member** under Quebec's *Consumer Protection Act*.
+**AUTHORIZED CLASS:** all consumers in Quebec who received such an email and to whom the boat and trailer were never delivered — excluding those who entered by submitting a written essay.
+**SCOPE:** **limited to Quebec residents only.** Justice Bisson limited the class because the case turns on Quebec consumer protection law. Residents of Newfoundland, Alberta, Ontario and elsewhere who received the email **cannot participate.**
+
+**QUOTED REASONING (TIER (b), CBC/Global News reporting of the judgment):**
+> "an error in Tim Hortons' declaration or a defect in its systems does not exempt it from liability"
+
+Reported class size context: LPC Avocats claims roughly **500,000 customers across Canada** received the email.
+Sources: CBC News, "Judge authorizes Tim Hortons Roll Up to Win class action — but only for Quebec customers," 29 June 2025 — https://www.cbc.ca/news/canada/montreal/class-action-lawsuit-roll-up-to-win-tim-hortons-1.7573884 ; Global News, 29 June 2025 (updated 30 June 2025) — https://globalnews.ca/news/11266782/tim-hortons-roll-up-to-win-class-action-lawsuit-quebec/ ; class counsel page — https://lpclex.com/timhortons-boat/
+
+**TIM HORTONS' POSITION — VERBATIM (TIER (b), corporate statement to Global News):**
+> "We apologized last year after some guests received an email in which some prizes that they did not win were included in their contest recap. We know that the millions of prizes won in the contest were distributed to winners accurately and as per our contest rules."
+
+The company also argued in court that the communications did not constitute a consumer contract and so should not fall under consumer protection law; Justice Bisson rejected that argument, noting the promotion required a purchase to enter. **(TIER (b).)**
+
+**CURRENT STATUS AS OF 18 SEPTEMBER 2026: AUTHORIZED, ONGOING. NOT TRIED. NO LIABILITY DETERMINED.** No settlement, no judgment on the merits, and no appellate development was located. Global News expressly noted that **no wrongdoing has been proven.**
+
+### ▶ HOW WE MAY DESCRIBE D5 ON AIR
+**SAY:** "In June 2025 a Quebec Superior Court judge authorized a class action over emails Tim Hortons sent in April 2024 telling customers they'd won a boat. **Authorization means the case may proceed — it is not a finding that Tim Hortons did anything wrong, and nothing has been proven.** The judge limited it to Quebec consumers. Tim Hortons says it apologized, and says the millions of real prizes were distributed accurately under its contest rules."
+**DO NOT SAY:** "Tim Hortons was sued and lost." / "A court found Tim Hortons misled customers."
+
+## D6. Roll Up The Rim — other disputed prize claims
+
+**TIER (d) DOCUMENTED CONSUMER/MEDIA RECORD — recommend caution or omission.**
+
+A widely reported 2006 Quebec dispute over ownership of a winning cup (a discarded cup found at a school by a 10-year-old, rolled by a 12-year-old friend; a school custodian subsequently claimed ownership and a DNA test was raised). Tim Hortons is reported to have taken the position that the 10-year-old's family should receive the vehicle. **This is a private ownership dispute among claimants, not a regulatory or corporate-conduct matter.** No court judgment or regulator decision was located. **Recommend: do not use, or use only as colour with explicit framing that it was a dispute between members of the public, not against the company.**
+
+**No Competition Bureau promotional-contest enforcement action against Tim Hortons was found** — see B2.
+
+## D7. Employment and labour matters with a published tribunal record
+
+**British Columbia Human Rights Tribunal — the temporary foreign worker complaints. TIER (b) STRONGLY SUPPORTED.**
+
+- **Complaint filed by the United Steelworkers** on behalf of a group of Filipino temporary foreign workers at a **Fernie, B.C.** Tim Hortons franchise. Accepted for filing; reported BCHRT reference **2014 BCHRT 152** (decision on acceptance for filing, 27 August 2014). Source: https://www.koskieglavin.com/tim-hortons-tfwp/
+- **Grounds alleged:** discrimination in employment on the basis of race, colour, ancestry and place of origin — alleging denial of overtime premiums over many years, allocation of less desirable shifts, and repeated threats of being returned to the Philippines.
+- **A separate complaint** by Mexican workers at a **Dawson Creek, B.C.** location alleged inferior working conditions, racist and derogatory comments, and substandard accommodation.
+- **November 2015:** the Tribunal **dismissed the respondents' applications to dismiss** and ruled that the Steelworkers complaint and parts of the Mexican workers' complaint would proceed to hearing. Sources: The Globe and Mail — https://www.theglobeandmail.com/news/british-columbia/bc-human-rights-complaint-continues-to-percolate-against-tim-hortons/article27182237/ ; The Tyee, "Human Rights Complaint against Tim Hortons Moves Ahead," 7 November 2015 — https://thetyee.ca/News/2015/11/07/Complaint-Tim-Hortons-Moves-Ahead/
+- **⚠️ A refusal to dismiss is NOT a finding of discrimination. It is a ruling that the complaint is arguable enough to be heard.**
+- **CURRENT STATUS: NOT ESTABLISHED.** No final BCHRT decision on the merits, withdrawal, or settlement was located. **See UNVERIFIED section. Do not state an outcome.**
+
+**Ontario, 2018 — the minimum-wage benefit cuts. TIER (d)/(b).**
+After Ontario's minimum wage rose to $14 on 1 January 2018, employees at multiple Tim Hortons franchises — including one owned by children of the chain's founders — reported losing paid breaks and having benefit costs shifted onto them. Ontario labour inspectors were reported to be dispatched where contraventions were reported. Sources: CBC News — https://www.cbc.ca/news/business/tim-horton-s-tims-timmies-doubledouble-minimum-wage-ontario-kathleen-wynne-labour-1.4470215 ; https://www.cbc.ca/news/canada/toronto/durham-tim-hortons-hike-1.4474044
+**⚠️ NO PUBLISHED ORDER, PROSECUTION OR FINDING against Tim Hortons or any named franchisee arising from this was located.** This is a **franchisee** conduct story, not a corporate one. **Recommend: report as employee accounts and press coverage only, expressly labelled as such, or omit.**
+
+---
+
+# E. TEMPORARY FOREIGN WORKER PROGRAM
+
+**This section requires the most careful handling in the entire dossier. Read the boundaries before scripting.**
+
+## E1. What is actually documented
+
+**THE ALLEGATIONS (TIER (d) DOCUMENTED CONSUMER/MEDIA RECORD — worker accounts reported by CBC News):**
+Beginning December 2013, six Filipino temporary foreign workers at a Tim Hortons franchise in **Fernie, B.C.**, operated by franchisee **Pierre Pelletier** (who also operated a franchise in **Blairmore, Alberta**), told CBC News that they had been required to hand back overtime pay in cash on payday, that Pelletier drove employees to the bank and waited while they cashed pay cheques, that they were threatened with being sent back to the Philippines, and that they had been made to pay for their own work permits and Labour Market Opinion applications when the employer is legally obliged to cover those costs. **Pelletier declined to comment ("No comment") when reached by CBC.**
+Source: CBC News, "Tim Hortons breaks with franchisee, expands foreign worker oversight after wage theft claims," Jenni Sheppard, 24 April 2014 (updated 25 April 2014) — https://www.cbc.ca/news/canada/british-columbia/tim-hortons-breaks-with-franchisee-expands-foreign-worker-oversight-after-wage-theft-claims-1.2620672
+
+**WHAT WAS INVESTIGATED (TIER (b)):** the complaints prompted investigations by the **RCMP** and by the **Employment Standards Branch of the B.C. Ministry of Labour**, and a **BCHRT** complaint (see D7). Tim Hortons' own internal audits are reported to have found that the franchisee "failed to comply with the requirements of the work permits for the Temporary Foreign Worker Program, had failed to pay overtime in accordance with the Employment Standards Act, and had failed to comply with TDL's Temporary Foreign Worker recruitment policy," with unpaid overtime between 2010 and 2013 estimated at **$65,000** *(TIER (b) — reported in connection with the 2015 BCHRT proceedings; this is a company internal audit finding as characterised in litigation materials, not a government finding).*
+
+**WHAT THE CORPORATION DID — VERBATIM (TIER (b), CBC News, 24 April 2014):**
+
+Olga Petrycki, Tim Hortons senior manager of public affairs, by email to CBC:
+> "We have terminated our relationship with the Blairmore, Alta./Fernie, B.C., franchisee for failing to comply with employment standards requirements, a matter Tim Hortons takes very seriously."
+
+Company statement on expanded auditing:
+> "We encourage the government to make independent audits mandatory for every company that uses this crucial program to reassure Canadians of the integrity of the program."
+
+Scott Bonikowsky, vice-president of corporate affairs, Tim Hortons:
+> "Tim Hortons has a strong track record in responsibly using this program. In a few isolated incidents where that has not been the case, we have acted to remove those franchisees from our system."
+> "We will not tolerate abuse of employment standards for Canadian or temporary foreign workers, and we will continue to work hard to create a positive, fair work environment for all of our team members."
+
+CBC reported that TDL Group Corp. **took over** the Fernie and Blairmore locations, and that Tim Hortons was **expanding its auditing system to include mandatory independent audits for every franchisee accessing the federal TFWP.** Company-supplied figure at the time: approximately **4,500 temporary foreign workers, about five per cent of its workforce.**
+
+## E2. THE FEDERAL ACTION — READ THIS TWICE
+
+**TIER (b) STRONGLY SUPPORTED.** On **24 April 2014** — hours after Tim Hortons' announcement — then Employment Minister **Jason Kenney** announced an **immediate moratorium on the entire food services sector's access to the Temporary Foreign Worker Program.**
+
+**⚠️ THE MORATORIUM WAS SECTOR-WIDE. IT WAS NOT A SANCTION AGAINST TIM HORTONS.** It applied to the whole fast-food/food-services industry and was imposed against a backdrop of multiple companies (Tim Hortons and McDonald's were both named in coverage). **Do not present the moratorium as a penalty imposed on Tim Hortons.** That would be a factual error and a legal exposure.
+
+## E3. NEGATIVE FINDING — no federal non-compliance listing located
+
+**TIER (a) CONFIRMED PRIMARY — absence checked against the government's own register.**
+
+The Government of Canada's public register, **"Employers who have been found non-compliant"** (Immigration, Refugees and Citizenship Canada, https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html), lists employers found non-compliant under the Temporary Foreign Worker Program or International Mobility Program, with the legal basis at **sections 209.2 and 209.3 of the *Immigration and Refugee Protection Regulations*, SOR/2002-227**. Verbatim from that page:
+> "Employers who hire temporary workers may be inspected to make sure they meet their responsibilities as an employer under the Temporary Foreign Worker Program or International Mobility Program."
+
+**No entry for "Tim Hortons," "The TDL Group Corp." or any Tim Hortons franchisee was retrieved.** ⚠️ **However, the table rendered empty in this research environment — the page's rows are loaded dynamically and did not populate. This is therefore a FAILED SEARCH, not a verified absence.** See UNVERIFIED section. **Do not say "Tim Hortons has never appeared on the government's non-compliant employer list."**
+
+## E4. The 2026 reversal
+
+**TIER (b) STRONGLY SUPPORTED.** In **late May 2026**, Tim Hortons announced it would dial back its use of the Temporary Foreign Worker Program, commit to hiring up to **10,000 local workers**, and — per reporting — that RBI would **stop lobbying the federal government to expand the program**, citing high youth unemployment. Company-supplied figures: approximately **4,000 of roughly 110,000 employees** currently in TFW positions; **80 new locations** planned in Canada in 2026.
+Sources: Global News, 25 May 2026 (updated 30 May 2026) — https://globalnews.ca/news/11863474/tim-hortons-temporary-foreign-workers/ ; The Globe and Mail — https://www.theglobeandmail.com/business/article-tim-hortons-dials-back-use-of-temporary-foreign-worker-program/
+
+**Corporate statements, verbatim (TIER (b), Global News):**
+> "part of the brand's strong, ongoing commitment to hire locally, whenever possible, in every community we serve."
+> "Tim Hortons was one of the companies encouraging the government to do so at the time to help restaurants facing staffing challenges and lobbied them to maintain greater access when they announced plans to limit applications."
+> "However, today in 2026, with high youth unemployment nationally, lobbying for expanded access is no longer necessary."
+
+**Corporate position page (TIER (b), Tim Hortons' own newsroom, https://www.news.timhortons.ca/en/articles/facts-about-tim-hortons-and-the-temporary-foreign-worker-program):** the company states "More than 95% of Tim Hortons employees are hired locally," with "less than 5%" through the TFW program; that TFW hiring occurs in smaller and rural communities where "there are simply not enough local applicants"; and that TFW hiring "is not a cheaper option," with owners receiving no government subsidies and often covering travel costs. **Attribute all of this as the company's own claim.**
+
+### ▶ HOW WE MAY DESCRIBE SECTION E ON AIR
+
+**SAY:**
+- "In 2013 and 2014, six Filipino temporary foreign workers at a Tim Hortons franchise in Fernie, B.C. told CBC News that their franchisee took back their overtime pay in cash and threatened to send them home. **Those are allegations by the workers. The franchisee declined to comment.**"
+- "The franchisee — not Tim Hortons corporate — was the employer. Tim Hortons head office terminated the franchise relationship and took over both locations. Its spokesperson said: 'We have terminated our relationship with the Blairmore, Alta./Fernie, B.C., franchisee for failing to comply with employment standards requirements.'"
+- "The complaints triggered investigations by the RCMP and by B.C.'s Employment Standards Branch, and a human rights complaint that the B.C. Human Rights Tribunal allowed to proceed to a hearing in 2015. **We were not able to establish how any of those concluded.**"
+- "On the same day Tim Hortons announced the takeover, the federal Employment Minister imposed a moratorium on the **entire food-services sector's** access to the program. **That was an industry-wide measure, not a penalty against Tim Hortons.**"
+- "In May 2026 Tim Hortons reversed course, saying it would scale back its use of the program and hire 10,000 people locally."
+
+**DO NOT SAY:** "Tim Hortons was banned from the temporary foreign worker program." / "Tim Hortons was found guilty of exploiting foreign workers." / "The federal government suspended Tim Hortons." **None of those is supported.**
+
+---
+
+# F. PROVINCIAL AND MUNICIPAL REGULATORY ACTION
+
+## F1. Franchise-disclosure regulation — Ontario
+
+**TIER (b).** The *Arthur Wishart Act (Franchise Disclosure), 2000* (Ontario) featured as the statutory basis of the **GWNFA "Association Action"** (duty of fair dealing; right of association) — see D4. That matter **settled in 2019**. No regulator brought proceedings; Ontario's franchise statute is enforced through private civil action, not by an agency. **There is no franchise regulator to have "found" anything.** State that if the topic arises.
+
+## F2. Consumer protection — Quebec
+
+**TIER (a)/(b).** Quebec's *Consumer Protection Act* is the statutory basis of the **live Roll Up To Win class action** (D5) and Quebec's *Act Respecting the Protection of Personal Information in the Private Sector* was one of the four statutes in the **privacy findings** (A). The **Commission d'accès à l'information du Québec** was a co-author of the 2022 privacy report. **No standalone Quebec consumer-protection regulator order against Tim Hortons was located.**
+
+## F3. Measurement Canada / weights and measures — NEGATIVE FINDING
+
+**TIER (a) — absence.** No Measurement Canada inspection finding, dispute investigation outcome, or enforcement action involving Tim Hortons was located.
+
+**TIER (d) CONTEXT ONLY, NOT A REGULATORY MATTER:** In 2012 Tim Hortons resized its cups — the 20-ounce cup previously sold as "extra-large" became "large," and a new 24-ounce extra-large was introduced. CBC News subsequently tested the cups and reported the gap between a large poured into an extra-large was "exactly four ounces deep." Source: https://www.cbc.ca/news/canada/british-columbia/tim-hortons-coffee-cups-xl-claims-put-to-the-test-1.2757177
+**⚠️ This was a journalistic test, not a regulatory proceeding. No Measurement Canada finding exists. Do not imply short measure.** The CBC test in fact **confirmed** the stated size difference.
+
+## F4. Labelling — NEGATIVE FINDING
+
+No CFIA, Health Canada, or provincial labelling enforcement action against Tim Hortons or TDL was located.
+
+## F5. Municipal
+
+No municipal regulatory action against Tim Hortons corporate entities was located.
+
+---
+
+# SUMMARY LEDGER — WHAT EACH ITEM ACTUALLY IS
+
+| # | Matter | Nature | Outcome | Safe on air? |
+|---|---|---|---|---|
+| A | OPC + 3 provinces, PIPEDA Findings #2022-001 | **Regulator's published Report of Findings** | "Well-founded and conditionally resolved." Recommendations accepted. No fine, no order. Closed satisfied June 2023 | **YES — strongest item** |
+| A8 | App class actions ×4 | Civil class actions | **Settled nationally**, approved 22 Sept 2022, $16.2M notional value, defendants contested the consent finding | YES, with no-admission framing |
+| B1 | Competition Bureau merger review 2014 | Statutory review | **Cleared** (no-action letter) | YES — exculpatory |
+| B2 | Competition Bureau enforcement | — | **NONE FOUND** | YES as negative finding |
+| B3 | Ad Standards Canada | — | **NONE FOUND** (with naming caveat) | YES with caveat |
+| B4 | Investment Canada Act review 2018 | Federal compliance review | **"No compliance issues"** | YES — exculpatory |
+| C | Recalls database | 3 notices total | Bare facts only | YES — the thinness is the finding |
+| D2 | Latifi no-hire class action | Civil | **DISMISSED** at every level; SCC leave refused with costs 18 Sept 2025 | YES if dismissal stated in same breath |
+| D3 | Fairview Donut | Civil | **DISMISSED**; SCC leave refused 2013 | YES if dismissal stated |
+| D4 | GWNFA ×2 | Civil | **Settled 2019** | YES; no-admission status unknown |
+| D5 | Roll Up To Win boat | Civil | **AUTHORIZED, ONGOING, unproven** | YES with "nothing proven" |
+| D7 | BCHRT TFW complaints | Tribunal | Allowed to proceed 2015; **final outcome unknown** | Only with "we could not establish the outcome" |
+| E | TFWP | Allegations + sector moratorium + corporate termination of franchisee | **No Tim-Hortons-specific federal sanction found** | YES with franchisee/corporate separation |
+| F | Provincial/municipal | — | **NONE FOUND** | YES as negative findings |
+
+---
+
+# ⛔ UNVERIFIED / DO-NOT-USE
+
+**Everything in this section is unresolved. Do not put any of it on air without further verification.**
+
+1. **Live primary access to priv.gc.ca failed.** All OPC verbatim text in Section A was extracted from Internet Archive captures of the official OPC pages because `www.priv.gc.ca` returned connection resets and HTTP 503 throughout this research. **The text is the OPC's, but a producer must re-open the live URL and confirm the quoted passages before broadcast.** This applies to the report, the news release, and the June 2023 blog post.
+
+2. **The "without any admission of liability" clause in the app settlement** was sourced from **class-counsel settlement websites** (lpclex.com, clg.org), not read out of the executed Settlement Agreement (Exhibit T-1) or the approval judgment. The approval judgment itself was read in full and **contains no express no-admission clause** — what it contains is para. 34 recording that "Defendants contest this finding." **Use para. 34. Treat the "no admission of liability" quotation as unverified until the Settlement Agreement is obtained.**
+
+3. **The BCHRT temporary foreign worker complaints have no established outcome.** *USWA on behalf of others v. Tim Hortons and others* was allowed to proceed in November 2015. Whether it was heard, settled, withdrawn or dismissed is **unknown**. The citation "2014 BCHRT 152" was supplied by class counsel's website and **was not independently verified against the Tribunal's own decision database.** **Do not state any outcome. Do not imply a finding of discrimination.**
+
+4. **The $65,000 unpaid-overtime figure** attributed to Tim Hortons' internal audits of the Fernie franchisee is **second-hand**, drawn from summaries of the 2015 BCHRT proceedings. The underlying audit and the tribunal decision were not read. **Do not use the figure.**
+
+5. **The IRCC "Employers who have been found non-compliant" register did not render its data table** in this environment — the columns appeared but no rows loaded. **This is a failed search, not a verified absence.** A producer must query the register manually (and the ESDC TFWP equivalent) before any statement is made about whether Tim Hortons or any franchisee appears on it.
+
+6. **Court file numbers for the two 2017 GWNFA Ontario actions were not obtained.** Neither the executed settlement agreements nor the 29 April 2019 approval reasons were retrieved. **Do not characterise those settlements as containing or lacking an admission of liability.**
+
+7. **The Roll Up To Win authorization judgment's neutral citation (2025 QCCS ____) was not obtained** and the judgment text was not read. Court, file number (500-06-001306-246), judge (Bisson J.S.C.) and date (27 June 2025) are confirmed; the quoted reasoning is **journalists' rendering of the judgment, TIER (b)**, not verbatim from the record. **Flag any on-screen quotation as reported by CBC/Global News.** No check was possible for an appeal or leave-to-appeal of the authorization; **status may have moved since June 2025.**
+
+8. **The date the OPC publicly announced the launch of the investigation is inconsistent across sources** — 29 June 2020 (class counsel chronology) vs. 6 July 2020 (OIPC Alberta page). The report itself says only "June 2020." **Say "June 2020" and nothing more precise.**
+
+9. **The recalls database facet search returned a false zero.** `recalls-rappels.canada.ca` search filtered to `type:alert_recall` reported "No results found for your search 'Tim Hortons'" while the unfiltered search returned results. **A producer re-running the search may get a misleading null. The three notices were verified individually at their own URLs.** There may also be additional older archived notices not surfaced by either search path — **do not claim the list of three is exhaustive.**
+
+10. **No Ad Standards Canada annual Ad Complaints Report was read cover-to-cover for "Tim Hortons."** The negative finding rests on ASC's published case-summary index and search results. Given ASC's anonymisation policy, **the absence proves very little.**
+
+11. **The "2017-era Competition Bureau inquiry" referenced in the research brief does not appear to exist.** What exists is the 2018 Investment Canada Act review (B4). **Do not describe that as a Competition Bureau matter.**
+
+12. **The 2006 Roll Up the Rim cup-ownership dispute (D6)** rests entirely on retrospective media summaries with no court or regulator record located. **Recommend dropping it.**
+
+13. **2024 BCSC 832 and the 2021 Latifi certification decision** were read from an Internet Archive capture and a law-firm-hosted PDF respectively, because `bccourts.ca` returned an SSL/503 failure. Text is verbatim but **should be re-checked against CanLII or bccourts.ca.** `canlii.org` returned HTTP 403 throughout.
+
+14. **Nothing here should be read as establishing that any Tim Hortons franchisee committed any offence.** No criminal charge, conviction, or prosecution of any franchisee was located in this research. The RCMP is reported to have opened a file in the Fernie matter; **no charge or outcome was found.** **Do not say or imply that anyone was charged.**
+
+---
+
+# EXCLUDED DOMAINS — SEO / CONTENT-FARM / SATIRE / AGGREGATOR
+
+The following appeared in search results and were **deliberately excluded** from this dossier. None is cited above.
+
+**Satire — actively dangerous:**
+- `thebeaverton.com` — **SATIRE SITE.** It surfaced with a fabricated "Tim Hortons issues recall after bagels made without burnt edges" item dated 2026. **This is a joke. It is not a recall. Do not let it near the script.**
+
+**SEO / content farms / rewrite aggregators:**
+- `narcity.com` (headline claiming class members "could be owed over $74K" — unsupported)
+- `ca.topclassactions.com` / `topclassactions.com`
+- `lawmonarch.com`
+- `visaverge.com`
+- `immigration2canada.com`
+- `moving2canada.com`
+- `nbsla.ca`
+- `news.conceptclarity.ca`
+- `asiantribune.ca`
+- `tr.im/judicial`
+- `globalfoodconsumers.org`
+- `iwaspoisoned.com` (user-submitted illness reports — excluded on both reliability and house-rule grounds)
+- `quora.com`, `ruk.ca`, `boatblurb.com` (personal blogs / hobby sites)
+- `lmiacheck.ca` (third-party scrape of ESDC data — not a government source; excluded in favour of the official register)
+- Syndicated Canadian Press republishers used only as redundant copies, never as the cited source: `timescolonist.com`, `delta-optimist.com`, `vancouverisawesome.com`, `chroniclejournal.com`, `barrie360.com`, `thecanadianpressnews.ca`
+
+**Law-firm client-alert commentary** (Cassels, Norton Rose Fulbright, Bennett Jones, Miller Thomson, Mondaq, Lexology, JD Supra) was used **only** to locate citations and confirm procedural posture. Where a proposition rests on such a source it is labelled **TIER (b)** in text. No legal conclusion in this dossier rests on commentary alone.
+
+---
+
+**END PART 2 DOSSIER — compiled 18 September 2026.**
+
+
+---
+
 # PART 3 DOSSIER — TIM HORTONS: PRODUCT, COLD OPEN, THE GOOD LIST, AUDIENCE
 
 **Research date: 18 September 2026.** All prices dated and flagged for on-camera re-verification. Tier labels on every claim: **(a)** confirmed primary · **(b)** strongly supported, reputable named outlet · **(c)** speculation — DO NOT USE · **(d)** documented consumer/media record (quarantined).

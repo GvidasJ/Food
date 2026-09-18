@@ -16,6 +16,752 @@ Reference structure: Protect Our Plates, "Domino's Just Got Caught... Everyone K
 
 ---
 
+# PART 1 DOSSIER — TIM HORTONS: OWNERSHIP, FINANCIALS, FRANCHISE, PRICING
+
+**Research date: 18 September 2026.** All live price captures timestamped 18 September 2026, 23:16 UTC (19:16 ET).
+
+**Tier key:** **(a)** CONFIRMED primary source · **(b)** STRONGLY SUPPORTED, reputable named outlet · **(c)** SPECULATION — DO NOT USE · **(d)** DOCUMENTED CONSUMER/MEDIA RECORD
+
+**Standing house-rule notes carried into every line below:** no health or nutrition commentary appears anywhere in this dossier. Every allegation is labelled as an allegation and paired with its outcome. Every corporate claim is attributed to the company. Every price carries a capture date, a source, and the instruction **re-verify on camera**.
+
+---
+
+## A. OWNERSHIP CHAIN — EXACT AND DATED
+
+### A1. The chain as it stands today
+
+| Layer | Exact legal entity | Country / jurisdiction | Tier |
+|---|---|---|---|
+| Top listed parent | **Restaurant Brands International Inc.** | Incorporated in **Canada**; principal executive offices **5707 Waterford District Drive, Miami, Florida 33126, United States** | (a) |
+| Intermediate | **Restaurant Brands International Limited Partnership** ("Partnership") | RBI Inc. is its **sole general partner**; Partnership is the **indirect parent** of the Tim Hortons operating company | (a) |
+| Canadian operating company | **The TDL Group Corp.** ("TDL") | Canada | (a) |
+| Segment head office | TH segment "is based in **Toronto, Ontario**" | Canada | (a) |
+
+> **(a) VERBATIM, RBI 2025 Form 10-K cover page:** "RESTAURANT BRANDS INTERNATIONAL INC. (Exact name of Registrant as Specified in Its Charter) **Canada** 98-1202754 (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) **5707 Waterford District Drive Miami, Florida United States, 33126**"
+
+> **(a) VERBATIM, same filing:** "(ii) 'Partnership' refer to the Restaurant Brands International Limited Partnership… We are the sole general partner of Restaurant Brands International Limited Partnership, which is the indirect parent of **The TDL Group Corp. ('TDL')**"
+
+> **(a) VERBATIM, Item 2 Properties:** "Our corporate headquarters are located in Miami, Florida and consist of approximately 150,000 square feet, which we lease… **Our TH segment is based in Toronto, Ontario**"
+
+Source: https://www.sec.gov/Archives/edgar/data/1618756/000161875626000017/qsr-20251231.htm
+
+### A2. Listings and tickers — (a)
+
+> **VERBATIM:** "Our common shares trade on the New York Stock Exchange ('NYSE'), **our primary stock exchange**, and the Toronto Stock Exchange ('TSX') under the ticker symbol '**QSR**'. The Class B exchangeable limited partnership units of Partnership (the 'Partnership exchangeable units') trade on the TSX under the ticker symbol '**QSP**'. As of February 13, 2026, there were 19,029 holders of record of our common shares."
+
+- Common shares outstanding at 13 Feb 2026: **346,504,193** — (a)
+- Class B exchangeable LP units outstanding at 13 Feb 2026: **109,356,045**, exchangeable one-for-one into RBI common shares — (a)
+- Aggregate market value of common shares held by non-affiliates (10-K cover): **$21,428,256,686** — (a)
+- Q1 2026 dividend declared 12 Feb 2026: **$0.65 per common share**; targeting **$2.60 declared per share** for the year — (a)
+
+**SCRIPT FRAMING NOTE (carry this on screen):** NYSE is RBI's stated *primary* exchange, but RBI Inc. is a **Canadian-incorporated** company. Foreign listing and US head-office location are **not wrongdoing** and are **not illegal**. State them flatly and move on.
+
+### A3. Full ownership history, dated
+
+| Date | Event | Tier |
+|---|---|---|
+| **1964** | Tim Hortons founded. RBI's own 10-K states: "Tim Hortons® - **Founded in 1964**, Tim Hortons is one of the largest coffee and baked goods restaurant chains in North America and the largest in Canada as measured by total number of restaurants." | (a) |
+| **December 1995** | Wendy's International completes acquisition of Tim Hortons; reported purchase price ~US$400 million | (b) |
+| **March 2006** | Wendy's completes **initial public offering** of Tim Hortons Inc. (Tim Hortons Inc. SEC CIK 0001345111; S-1/A on file) | (a) filings exist / (b) narrative |
+| **June 2006** | Wendy's board confirms intent to spin off the 160.0 million Tim Hortons shares it held | (b) |
+| **September/October 2006** | Spin-off completed; Tim Hortons becomes a separate public company | (b) |
+| **June 2009** | Tim Hortons announces plan to reorganize as a Canadian public company | (b) |
+| **22–23 September 2009** | Shareholders approve; reorganization completed, legal domicile moved to Canada. Government of Canada news item dated 23 September 2009, Oakville, Ontario | (a) government release exists / (b) detail |
+| **26 August 2014** | Burger King Worldwide and Tim Hortons announce merger agreement | (b) |
+| **28 October 2014** | **Competition Bureau (Canada) issues a no-action letter**; concluded the deal "unlikely to result in a substantial lessening or prevention of competition" | (b) — see UNVERIFIED for the Bureau's own document |
+| **5 December 2014** | Approval received from the Minister of Industry under the **Investment Canada Act**; clearance under Hart-Scott-Rodino (US), the Competition Act (Canada) and the Canada Transportation Act | (a) 8-K exists at https://www.sec.gov/Archives/edgar/data/0001345111/000119312514434259/d835655d8k.htm / (b) summary |
+| **12 December 2014** | **Merger completed.** Tim Hortons shareholder approval reported at approximately **99.2% of votes cast** | (a) 8-K https://www.sec.gov/Archives/edgar/data/0001345111/000119312514445447/d839026d8k.htm / (b) detail |
+| **15 December 2014** | RBI common shares begin trading on TSX and NYSE under **QSR** | (b) |
+| **22 December 2014** | 3G files its original **Schedule 13D** on RBI | (a) — referenced as the "original Schedule 13D filed December 22, 2014" in Amendment No. 25 |
+
+### A4. Berkshire Hathaway's financing — and its exit
+
+- Berkshire Hathaway financed the 2014 transaction by purchasing **Class A 9.00% Cumulative Compounding Perpetual Voting Preferred Shares** with a stated value of **US$3 billion**. Berkshire's own Form 10-Q filings for 2017 disclose the holding. — (a)/(b)
+- **26 October 2017:** RBI announces its intention to redeem **all 68,530,939 issued and outstanding** Class A Preferred Shares. — (a)
+
+> **(a) VERBATIM, RBI press release, 26 October 2017:** "68,530,939 issued and outstanding Class A 9.00% Cumulative Compounding Perpetual Voting Preferred Shares"… redemption date **December 12, 2017**… redemption price "**$48.109657 per Class A Preferred Share**, plus" accrued and unpaid dividends as specified in the Articles.
+>
+> Source: https://www.rbi.com/English/news/news-details/2017/Restaurant-Brands-International-Inc.-Announces-Intention-to-Redeem-All-Class-A-Preferred-Shares-and-to-Repurchase-5.0-million-Class-B-Exchangeable-Limited-Partnership-Units/default.aspx
+
+- **NOTE FOR SCRIPT:** RBI's own press release **does not name Berkshire Hathaway**. The identification of Berkshire as holder comes from Berkshire's SEC filings and contemporaneous reporting. Label it that way on screen.
+- **ANSWER TO THE QUESTION ASKED:** **Yes — the preferred shares were redeemed, effective 12 December 2017.** Berkshire has **no preferred position in RBI today**. — (a)
+- The same 26 Oct 2017 release also covers 3G Restaurant Brands Holdings LP submitting an exchange notice for **9,050,594 units**, settled as a cash repurchase of **5,000,000** units and delivery of **4,050,594** common shares, exchange date 8 November 2017. — (a)
+
+### A5. 3G Capital's current position
+
+| Item | Figure | Date | Tier |
+|---|---|---|---|
+| Reporting persons | **3G Restaurant Brands Holdings LP** ("3G RBH") and **3G Restaurant Brands Holdings General Partner Ltd.** | — | (a) |
+| Exchangeable Units held | **94,373,170** | Schedule 13D/A Amendment No. 25, filed **12 August 2026** | (a) |
+| Percentage of RBI | **21.3%** | 12 Aug 2026 | (a) |
+| Latest transaction | "2026 Exchange" of **2,784,549 Exchangeable Units**, satisfied by RBI LP **repurchasing them for cash**, effective **31 August 2026** | 31 Aug 2026 | (a) |
+| Prior transaction | Exchange notice for **17,626,570** Exchangeable Units delivered Nov 2025; exchange effected **3 December 2025**; forward sale contract with BofA Securities settled the same day; block reportedly priced at **US$68.95**, monetizing about **US$1.2 billion** | Dec 2025 | (a) filing / (b) pricing detail |
+
+> **(a) VERBATIM, RBI 2025 Form 10-K risk factor heading and text:** "**3G RBH owns approximately 22% of the combined voting power in RBI, and its interests may conflict with or differ from the interests of the other shareholders.** 3G Restaurant Brands Holdings LP ('3G RBH') currently owns approximately 22% of the combined voting power in RBI. So long as 3G RBH continues to directly or indirectly own a significant amount of voting power, **it will continue to be able to strongly influence or effectively control business decisions of RBI.** 3G RBH and its principals may have interests that are different from those of other shareholders…"
+
+**SCRIPT FRAMING NOTE:** 3G's stake has been **falling**, not rising — from roughly 51% at the 2014 close down to ~21–22% today, through a series of exchanges and sales. That is a documentable, neutral fact and it cuts against a "creeping foreign takeover" narrative. Say so.
+
+RBI also flags Canadian control law in its own filing:
+
+> **(a) VERBATIM:** "**Canadian laws may have the effect of delaying or preventing a change in control.** We are a Canadian entity. The **Investment Canada Act** requires that a 'non-Canadian,' as defined therein, file an application for review with the Minister responsible for the Investment Canada Act and obtain approval of the Minister prior to acquiring control of a Canadian business, where prescribed financial thresholds are exceeded."
+
+---
+
+## B. RBI'S OWN PUBLISHED NUMBERS ON TIM HORTONS
+
+All figures below are **in US dollars**, as RBI reports. This matters on camera: Tim Hortons' Canadian sales are reported to investors in USD.
+
+### B1. Most recent quarter — Q2 2026 (quarter ended 30 June 2026; released 6 August 2026)
+
+Primary source: EX-99 press release filed with the SEC — https://www.sec.gov/Archives/edgar/data/1618755/000161875526000026/qsr_2026630xpressrelease.htm — **all figures (a)**
+
+**TH Segment Results (US$ millions, unaudited) — VERBATIM from the filed table:**
+
+| Metric | Q2 2026 | Q2 2025 | H1 2026 | H1 2025 |
+|---|---|---|---|---|
+| System-wide Sales Growth | **0.4 %** | 3.9 % | 1.3 % | 2.1 % |
+| System-wide Sales | **$2,003** | $1,995 | $3,741 | $3,626 |
+| Comparable Sales | **0.1 %** | 3.4 % | 0.8 % | 1.8 % |
+| **Comparable Sales – Canada** | **0.1 %** | **3.6 %** | 0.7 % | 2.0 % |
+| Net Restaurant Growth | 1.1 % | 0.3 % | 1.1 % | 0.3 % |
+| System Restaurant Count at Period End | **4,570** | 4,521 | 4,570 | 4,521 |
+| Supply chain sales | **$788** | $732 | $1,474 | $1,343 |
+| Company restaurant sales | $11 | $12 | $20 | $22 |
+| Franchise and property revenues | **$262** | $262 | $495 | $480 |
+| Advertising revenues and other services | $76 | $78 | $145 | $142 |
+| **Total revenues** | **$1,137** | $1,083 | $2,134 | $1,987 |
+| Supply chain cost of sales | $635 | $589 | $1,199 | $1,085 |
+| Segment F&P expenses | $86 | $83 | $168 | $161 |
+| Advertising expenses and other services | $90 | $93 | $172 | $159 |
+| Segment G&A | $34 | $34 | $68 | $71 |
+| **Adjusted Operating Income** | **$287** | $278 | $516 | $499 |
+
+**RBI consolidated, Q2 2026 — (a):** Total Revenues **$2,520M**; Income from Operations **$716M**; Net Income **$665M**; Adjusted Operating Income **$715M**; System-wide Sales **$12,702M** (+6.4%); Comparable Sales **3.8%**; System Restaurant Count **33,156**.
+
+**Segment Adjusted Operating Income, Q2 2026 — (a):** TH **$287M** · BK $137M · PLK $63M · FHS $17M · INTL $194M · RH $17M.
+
+### B2. Tim Hortons' share of RBI — computed from RBI's own figures — (a)
+
+| Measure | Tim Hortons | RBI total | TH share |
+|---|---|---|---|
+| Q2 2026 total revenues | $1,137M | $2,520M | **45.1%** |
+| Q2 2026 Adjusted Operating Income | $287M | $715M | **40.1%** |
+| FY2025 total revenues | $4,247M | $9,434M | **45.0%** |
+| FY2025 Adjusted Operating Income | $1,077M | $2,584M | **41.7%** |
+| FY2025 system-wide sales (TH segment, US+Canada) | $7,573M | $46,762M (global, all brands) | 16.2% |
+
+**The single most under-reported fact in this section:** the largest line in Tim Hortons' revenue is not royalties — it is **supply chain sales**, i.e. RBI selling coffee, food and supplies **to its own franchisees**.
+
+- FY2025: supply chain sales **$2,909M** of TH total revenues **$4,247M** = **68.5%** — (a)
+- Q2 2026: supply chain sales **$788M** of **$1,137M** = **69.3%** — (a)
+- Franchise and property revenues FY2025: **$995M** = **23.4%** of TH revenue — (a)
+
+> **(a) VERBATIM, 2025 10-K, on what TH revenue consists of:** "All Tim Hortons global supply chain sales, including coffee to International franchisees, are included in the TH segment; • Company restaurant sales; • franchise revenues, consisting primarily of **royalties based on a percentage of sales reported by franchised restaurants**, franchise fees paid by franchisees, and convention revenue…; • **property revenues from properties we lease or sublease to franchisees**; and • advertising revenues and other services, consisting primarily of (1) **advertising fund contributions based on a percentage of sales reported by franchised restaurants**… and (2) tech fees…"
+
+> **(a) VERBATIM, 2025 10-K explaining the Q/Y revenue increase:** "The increase in Total revenues was primarily driven by **higher Supply chain sales due to increases in commodity prices**, CPG net sales, and equipment sales to franchisees."
+
+> **(a) VERBATIM, Q2 2026 press release:** "For the second quarter, the increase in Total revenues was primarily driven by higher Supply chain sales **due to increases in commodity prices and CPG net sales**. The increase in Adjusted Operating Income was primarily driven by revenue growth, partially offset by higher Supply chain cost of sales primarily due to higher commodity prices."
+
+### B3. Full year 2025 — (a)
+
+TH segment (US$ millions): System-wide Sales Growth **3.0%**; System-wide Sales **$7,573**; Comparable Sales **2.7%**; **Comparable Sales – Canada 2.8%**; Net Restaurant Growth **1.0%**; System Restaurant Count **4,586** (up from 4,539).
+
+Revenue split: Supply chain sales **$2,909** · Company restaurant sales **$46** · Franchise and property revenues **$995** · Advertising revenues and other services **$298** · **Total $4,247**. Adjusted Operating Income **$1,077**.
+
+Q4 2025 (from RBI's 4Q/FY release): System-wide Sales **$1,918M**, +2.7%; Comparable Sales 2.9%; Canada 2.8%; TH Total Revenues $1,135M; TH Adjusted Operating Income $274M. Source: https://www.rbi.com/English/news/news-details/2026/Restaurant-Brands-International-Inc--Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx — (a)
+
+**Brand summary table, VERBATIM from the 2025 10-K — (a):**
+
+> "Number of Restaurants — Brand / U.S. and Canada / International / Global / Number of Countries and Territories / Global System Wide Sales ($ in millions): **Tim Hortons 4,586 / 1,646 / 6,232 / 21 / $8,248**; Burger King 7,025 / 12,875 / 19,900 / 126 / $29,368; Popeyes 3,578 / 1,835 / 5,413 / 51 / $7,789; Firehouse Subs 1,449 / 47 / 1,496 / 9 / $1,357; **Consolidated 16,638 / 16,403 / 33,041 / — / $46,762**"
+
+> **(a) VERBATIM:** "As of the date of this Annual Report on Form 10-K, **over 95% of system-wide restaurants were franchised restaurants**."
+
+### B4. Management commentary — verbatim
+
+**Q2 2026 press release, headline bullets — (a) VERBATIM:**
+> "Consolidated System-wide Sales grow 6.4% year-over-year, including 10.7% in International / Comparable Sales accelerated to 3.8%, including 8.5% at BK US and 5.5% at International / RBI returns $435 million of capital to shareholders via dividends and share repurchases / RBI remains on track for 8% organic Adjusted Operating Income growth in 2026"
+
+**Q2 2026 press release, CEO quote — (a) VERBATIM IN FULL:**
+> Josh Kobza, Chief Executive Officer of RBI commented, "We built on our strong start to 2026 with another quarter of over 3% global comparable sales and double-digit earnings growth, **led by Burger King's standout performance and continued strength at International**. These results show the benefits of our diversified portfolio and that the strategy we outlined at Investor Day is working. Burger King's performance is a great example of what's possible when you invest in the fundamentals and execute well – an approach we're applying across all of our brands."
+
+**CRITICAL ON-CAMERA POINT:** In RBI's own Q2 2026 results release, **Tim Hortons is not mentioned in the CEO's quote at all.** The named drivers are Burger King and International. That is a verifiable absence — show the release on screen.
+
+**Q2 2026 earnings call, 13 August 2026 — (b), from published transcript** (https://www.fool.com/earnings/call-transcripts/2026/08/13/restaurant-brands-qsr-q2-2026-earnings-call-transcript/). Transcripts are third-party renderings; treat as (b) and re-verify against RBI's own webcast before broadcast.
+
+> **Joshua Kobza, CEO:** "Canadian same-store sales were relatively flat at plus 0.1%."
+> **Kobza:** "our calendar didn't drive the growth we've come to expect from Tims."
+> **Kobza (on the Canadian consumer):** "the Canadian foodservice market is doing okay. The growth rate for the overall foodservice market was in the 3% range."
+> **Kobza:** "the macro picture in Canada has been relatively stable…CPI, it's been around kind of 3%."
+> **Kobza (on value):** "**we are the #1 value leader in Canada**…we have been and continue to be a leader in providing the best value."
+> **Kobza (on development):** "approximately 80 gross openings this year compared to over 50 last year…paybacks of under 3 years."
+> **Patrick Doyle, Executive Chairman:** "Tim Hortons remains…one of the strongest and most loved restaurant brands in Canada."
+
+A separately reported version of the same call — (b), https://ca.finance.yahoo.com/news/tim-hortons-sales-slow-burger-130732259.html:
+> Kobza: "Our calendar didn't drive the growth we've come to expect from Tims and was unable to lap last year's major platform launches."
+
+**Management is attributing the Canadian slowdown to its own marketing/product calendar, not to the consumer.** That is RBI's own framing. Attribute it as such.
+
+### B5. Franchisee profitability — what RBI actually discloses
+
+**RBI does not publish Tim Hortons franchisee restaurant-level profitability.** A full-text search of the 2025 Form 10-K returns **zero** occurrences of "restaurant-level EBITDA" and no franchisee margin disclosure. What exists is aspirational and risk-factor language only:
+
+> **(a) VERBATIM:** "We seek to recruit experienced and motivated franchisees, provide them a quality business model and work with them to increase restaurant sales and profitability, as we believe that **franchisee profitability is critical to growing our brands around the world**."
+
+> **(a) VERBATIM, risk factor:** "our franchisees are **independent operators and we cannot control many factors that impact the profitability of their restaurants**. At times, we have and may in the future provide cash flow support to franchisees by extending loans or guarantees, advancing cash payments and/or providing rent relief where we have property control. These actions have and may in the future adversely affect our cash flow and financial results. **If sales trends or economic conditions decline for franchisees, their financial results may deteriorate**, which could result in, among other things, restaurant closures, delayed or reduced payments to us of **royalties, advertising contributions, and rents**, delayed or reduced payments for Tim Hortons products and supplies…"
+
+**Say this plainly on camera: there is no public, audited figure for what a Canadian Tim Hortons franchisee earns. Anyone who gives you one is giving you an estimate.**
+
+---
+
+## C. FRANCHISE STRUCTURE AND THE FRANCHISEE RECORD
+
+### C1. Franchised vs company-operated — exact, from the filing
+
+**(a) VERBATIM, 2025 Form 10-K, Item 2 Properties, "As of December 31, 2025, our restaurant footprint was as follows" — TH column:**
+
+| Category | TH | 
+|---|---|
+| **Franchised Restaurants** | |
+| Sites **owned by us** and leased to franchisees | **765** |
+| Sites **leased by us** and subleased to franchisees | **2,769** |
+| Sites owned/leased **directly by franchisees** | **1,021** |
+| **Total franchised restaurant sites** | **4,555** |
+| **Company Restaurants** | |
+| Sites owned by us | **12** |
+| Sites leased by us | **19** |
+| **Total Company restaurant sites** | **31** |
+| **Total system-wide restaurant sites** | **4,586** |
+
+**Derived from the above — (a):**
+- **99.32%** of Tim Hortons US+Canada restaurants are **franchised**. Only **31 restaurants (0.68%)** are company-operated.
+- **RBI is the landlord or sublandlord for 3,534 of 4,555 franchised Tim Hortons sites — 77.6%.** Only 1,021 (22.4%) of franchisees hold their own real estate directly.
+
+**This is the single most important structural fact in Part 1. Tim Hortons franchisees overwhelmingly rent their premises from the company that also franchises them, supplies them, and runs their advertising fund.** That is not an allegation — it is RBI's own property table.
+
+### C2. The money terms, verbatim from the filing — all (a)
+
+> "In the U.S. and Canada, our franchise agreements generally have a **10-year or 20-year term** with the opportunity to renew for additional terms ranging from 5 to 20 years upon payment of an additional franchise fee. **Royalties for standard restaurants typically range from 3.0% to 6.0% of gross sales, based in part on whether we own or sublease the property to a franchisee.** Royalty rates for non-standard restaurants, including self-serve kiosks and strategic alliances with third parties, vary and are negotiated on a case-by-case basis."
+
+> "**Franchise Restaurant Leases.** As of December 31, 2025, **we leased or subleased approximately 4,700 properties, primarily to TH and BK franchisees. Franchisees typically pay monthly rent based on a percentage (usually 8.5% to 10.0%) of monthly gross sales and/or fixed monthly rent.**"
+
+> "Franchisees who lease properties from us are obligated to pay **all costs and expenses, including all real property taxes and assessments, repairs, maintenance, and insurance**. In many cases, we will contribute toward the cost of remodeling leased properties in connection with extensions of the underlying lease."
+
+> "**Advertising and Promotions.** Our restaurants are **required** to utilize a percentage of their sales for advertising programs… **Advertising fund contributions range from 2.0% to 5.0% of gross sales** and are used to pay for expenses relating to marketing, advertising, promotion, market research, production, sales promotions, social media campaigns, technology initiatives, and other related support functions for the respective brands. **We manage the advertising funds for each of our brands in the U.S., Canada**, and a few international markets."
+
+### C3. The vertically integrated supply chain — all (a) VERBATIM
+
+> "Our TH segment includes **significant supply chain operations that provide production, procurement, warehousing, and distribution services for our Canadian and U.S. restaurants**. • **Proprietary Coffee Blends.** We operate **two coffee roasting facilities** where we roast the majority of the coffee for our Tim Hortons restaurants globally… • **Fondants, Fills, and Syrups.** Our fondant and fills manufacturing facility is the primary supplier of the ready-to-use glaze, fondants, fills, and syrups, which are used in baked goods, beverages, and other Tim Hortons products in Canada and the U.S. **For the majority of the other products used in our TH Canada restaurants, we purchase products from suppliers and sell directly to our TH franchisees.**"
+
+> "**nine distribution centers servicing our TH restaurants in Canada, five of which are owned and operated by us**"
+
+> "In addition to the restaurant properties below, **we own five distribution centers and two manufacturing plants in Canada** which are included in our TH segment. We also lease one manufacturing plant in the U.S. which is included in our TH segment."
+
+> **Risk factor, VERBATIM:** "**Our supply chain operations subject us to additional risks and may cause our profitability to decline.** We operate a **vertically integrated supply chain** for our TH business in which we manufacture, procure, warehouse, and distribute certain food and restaurant supplies to Tim Hortons restaurants."
+
+### C4. The Great White North Franchisee Association (GWNFA) — allegations, and what actually happened
+
+**⚠️ LEGALLY HOTTEST SECTION. Read the outcome column out loud every single time you read the allegation column. Nothing in this table was proven at trial. Both Canadian actions ended in a settlement with no admission of liability. Both US counts were dismissed.**
+
+#### Timeline
+
+| Date | Event | What was ALLEGED | What was PROVEN / OUTCOME | Tier |
+|---|---|---|---|---|
+| **January 2017** | GWNFA formed in Canada. Its president claimed "almost half" of Canadian franchisees joined. | — | Membership claim is the **association's own claim**, never independently audited. | (b) |
+| **June 2017** | First proposed class action filed, Ontario. Damages sought: **$500 million**. | That RBI/TDL "**improperly used funds from a national advertising fund**." | **RBI denied the allegations. Never proven in court.** Reporting at the time noted expressly: "they have not been proven in court." | (b)/(d) |
+| **October 2017** | Second proposed class action filed, Ontario. Damages sought: **$850 million**. | That RBI "**subverted the franchisees' right to associate**" by denying store opportunities to franchisees "not aligned" with the chain's interests, and by "setting aside a **$2-billion fund to buy out**" GWNFA members. Also alleged: false accusations against GWNFA board members, default notices, refusal to engage with the association, intimidation, labelling members "disgruntled and rogue franchisees." | **RBI denied the allegations. Never proven in court.** The "$2-billion buyout fund" was a **pleading**, not a finding. | (b)/(d) |
+| **2018 (summer)** | Two prominent individual plaintiffs, **Mark Kuziora** and **David Hughes**, settled separately with RBI for **undisclosed** amounts. | — | Settled. Terms confidential. No findings. | (b) |
+| **2018** | Tim Hortons took control of four locations owned by **David Hughes**, then GWNFA president. The franchisee side characterised this as retaliation; the company cited contract breaches. | Retaliation (franchisee side). Breach of agreement (company side). | **Neither characterisation was adjudicated in a published ruling I could obtain.** Do not assert either. | (d) |
+| **22 October 2018** | **Ruling of Justice Edward Morgan, Ontario Superior Court of Justice.** | — | **The court PARED THE CASES BACK.** Many claims struck. **All defendants except TDL Group (the franchisor) were struck out** — i.e., RBI parent entities removed. Surviving: breach of contract in both actions, and breach of the duty of fair dealing in the right-to-associate action. Franchisees given **30 days** to amend or face full dismissal. **VERBATIM from the ruling as reported:** "those pleadings shall be struck out in their entirety, without further leave to amend." | (b) — Globe and Mail, 11 Nov 2018, https://www.theglobeandmail.com/business/article-court-pares-back-tim-hortons-franchisee-lawsuit-against-parent-company/ |
+| **Early 2019** | **JB & M Walker Ltd. v. TDL Group, 2019 ONSC 999.** Justice Morgan approves a litigation funding agreement between **Galactic TH Litigation Funders LC** and the representative plaintiff. | — | **Funding approved.** Contemporaneous commentary notes the association "was no longer able to fund this litigation, and class counsel could not carry its fees on a go-forward basis." **Neither action had been certified at that point.** | (b) |
+| **6 February 2019** | Term sheet signed by counsel submitted to Justice Morgan. | — | Settlement in principle. | (b) |
+| **6 March 2019** | **Settlement agreement filed**, Ontario Superior Court. Lead plaintiff: **Mark Walker**, GWNFA president. Defendant: **TDL Group Corp.** | — | Settlement. | (b) |
+| **22 March 2019** | **Certification Order** issued — **for settlement purposes only.** | — | Certified **only to implement the settlement**, not on a contested certification motion. **This distinction matters. Do not say "the class action was certified" without "for the purposes of settlement."** | (b) — plaintiff firm page, https://himprolaw.com/class-action-tim-hortons-association-action/ |
+| **29 April 2019** | **Settlement Approval Decision granted.** | — | **Approved.** | (b) |
+
+#### Settlement terms — (b), Global News, 6 February 2019, https://globalnews.ca/news/4932478/tim-hortons-franchisee-lawsuit/
+
+- Tim Hortons to pay **$5 million a year for two years** ($10M total) "to boost local and regional marketing."
+- Tim Hortons to pay **$2 million to the GWNFA's law firm**.
+- The **franchisee advisory board remains the sole franchisee representative organization**.
+- Advisory board member terms shortened from four years to three.
+- Electronic voting instituted.
+- Four board members to review advertising fund spending quarterly.
+- **NO ADMISSION OF LIABILITY BY EITHER PARTY.**
+
+> **Read this on camera verbatim:** *"The settlement contained no admission of liability. The $500-million and $850-million figures were amounts claimed in pleadings. They were never awarded, never proven, and never tested at trial."*
+
+#### The US case — dismissed
+
+**Great White North Franchisee Association-USA, Inc. v. Tim Hortons USA, Inc., et al.**, Case No. **1:20-cv-20878-BLOOM/Louis**, **United States District Court for the Southern District of Florida**, decision **18 December 2020**.
+
+- **Alleged:** supply price-gouging, franchisee "equity-stripping," and misuse of the franchise advertising fund. — (d)
+- **OUTCOME — (b), corroborated by two independent legal summaries and the govinfo docket entry (https://www.govinfo.gov/app/details/USCOURTS-flsd-1_20-cv-20878):**
+  - **Count 1 dismissed WITHOUT prejudice** for lack of subject matter jurisdiction — the court declined to recognise that the franchisee association had **associational standing** to sue.
+  - **Count 2 dismissed WITH prejudice.**
+  - The court also **rejected the viability of the claims on substantive grounds**.
+- Tim Hortons noted the federal suit was similar to an earlier Florida **state** court action that had also been dismissed. — (b)
+
+> **On camera:** *"In the United States, the franchisee association's case against Tim Hortons was thrown out. One count without prejudice for lack of standing, one count with prejudice. Nothing was proven against Tim Hortons."*
+
+#### Where the association is now
+
+- GWNFA **rebranded as the Alliance of Canadian Franchisees (ACF)**; the rebrand was reported in **January 2020**. The organisation continues to operate and recruit, offering members anonymity. — (b), Globe and Mail, https://www.theglobeandmail.com/business/article-tim-hortons-franchisee-association-conducts-recruiting-drive-under-new/
+- **acf.ca/about returned HTTP 404 on 18 September 2026** — could not verify the organisation's current self-description from its own site. See UNVERIFIED.
+
+#### Earlier, separate franchisee litigation — flag but verify
+
+**Fairview Donut Inc. v. The TDL Group Corp., 2012 ONSC 1252** (Ontario Superior Court of Justice) — a franchisee class action relating to the "Always Fresh" par-baked conversion and the lunch menu. Summary judgment was granted **against the franchisees**; I have the citation but **could not retrieve the judgment text or the appellate history within this research session**. **Tier (b)/UNVERIFIED — do not state the outcome on camera until the CanLII text is pulled.** Listed again in the UNVERIFIED section.
+
+### C5. The 2017–2018 Ontario minimum wage dispute — exactly what happened
+
+#### The facts, in order
+
+1. **1 January 2018:** Ontario's general minimum wage rose from **$11.60 to $14.00**. A further increase to **$15.00 on 1 January 2019** was legislated at the time. — (b) *(Note for Part 2/fact-check: the $15.00 step was subsequently cancelled by the incoming provincial government in 2018. Verify before airing.)*
+2. **Late December 2017:** Employees at two Tim Hortons locations in **Cobourg, Ontario** — owned by **Ron Joyce Jr.** and **Jeri-Lynn Horton-Joyce**, the son and daughter of the chain's co-founders — were given a letter cutting paid breaks and reducing benefit coverage. — (b)
+3. **The letter, VERBATIM (as reported) — (b):**
+   > "**Breaks will no longer be paid. A 9 hour shift will be paid for 8 hours and 20 minutes.**"
+   
+   and the stated reason:
+   > "**the increase of wages to $14.00 minimum wage on January 1, 2018, then $15.00 per hour on January 1, 2019, as well as the lack of assistance and financial help from our Head Office and from the Government**"
+4. Health and dental benefits, previously covered 100%, were reduced to **50% coverage for employees with more than five years' service, and less for those with fewer**. — (b)
+5. **Scope:** CBC reported that employees at **"nearly a dozen"** Tim Hortons outlets across Ontario faced loss of paid breaks, benefits or perks, with franchise owners citing the minimum wage increase. — (b) *(CBC blocked automated fetching — see UNVERIFIED.)*
+
+#### What Tim Hortons head office said — verbatim
+
+**First statement (3 January 2018) — (b), Global News, https://globalnews.ca/news/3944421/tim-hortons-paid-breaks-ontario-wage-hike/ :**
+> "**Almost all of our restaurants in Canada are independently owned and operated by small business Owners who are responsible for handling all employment matters, including all policies for benefits and wages, for their restaurants. Restaurant owners are expected to comply with all applicable laws and regulations within their jurisdiction.**"
+
+**Second, escalated statement (on or about 5 January 2018) — (b), reported by CBC and the Globe and Mail:**
+> The company called the cuts "**reckless**" and "**completely unacceptable**," said they "**do not reflect the values of our brand, the views of our company or the views of the overwhelming majority of our dedicated and hardworking Restaurant Owners**," and said staff "**should never be used to further an agenda or be treated as just an 'expense.'**"
+>
+> CBC's headline characterised head office as lashing out at "**rogue**" franchisees. Sources: https://www.cbc.ca/news/business/tims-timhortons-minimumwage-wynne-liberals-ontario-1.4474836 and https://www.theglobeandmail.com/report-on-business/tim-hortons-calls-franchisees-cuts-to-breaks-and-benefits-reckless/article37513737/
+>
+> **⚠️ Both CBC and the Globe returned HTTP 403 to automated fetching on 18 September 2026. These quotes are reconstructed from indexed search summaries and must be re-verified against the original articles before broadcast.** Tier downgraded to **(b), verify**.
+
+#### What the Ontario government said — verbatim
+
+**Premier Kathleen Wynne, January 2018 — (b):**
+> "**I think it's the act of a bully.**"
+
+> "**What I think is really unfair, and where I think the bullying comes in, is that he's taking this out on his employees. He's behaving in a way that I think is so unfair to his employees, people who are trying to make ends meet.**"
+
+Sources: https://www.cbc.ca/news/business/wynne-minimum-wage-1.4473156 · https://www.theglobeandmail.com/report-on-business/wynne-accuses-tim-hortons-founders-heirs-of-bullying-staff-after-minimum-wage-increase/article37496159/ · https://www.bnnbloomberg.ca/wynne-accuses-local-tim-hortons-owners-of-bullying-employees-1.959127
+
+A spokesperson for the **Ontario Ministry of Labour** commented on employment standards regulations generally. — (b)
+
+#### ⚠️ WHAT WAS NEVER ESTABLISHED — SAY THIS IN THE SAME BREATH
+
+- **No regulator found that any Tim Hortons franchisee broke the Employment Standards Act in this episode.** I found **no** Ministry of Labour order, prosecution, or finding of contravention arising from these cuts. **Cutting paid breaks and reducing benefit coverage is, on the reported facts, lawful in Ontario** provided minimum standards are met. The Premier's word was "bully," not "illegal."
+- **Tim Hortons head office did not order the cuts.** The company publicly condemned them. The franchisees were independent operators.
+- The franchisee-side figure that the wage and labour-law changes would cost "**the average franchisee $243,889 a year**" was an **estimate published by the franchisee association**, not an audited or court-tested number. Label it as the association's estimate. — (d)
+
+#### The price response, January 2018
+
+Tim Hortons confirmed that locations in select markets "slightly" increased prices on some breakfast items — reported around **20 cents**; one customer reported a bagel breakfast meal going from **$6.77 to $7.00**. — (b)/(d)
+
+**Tim Hortons' statement, VERBATIM — (b):**
+> "**Regular adjustments to menu prices are a normal part of the restaurant business**" and "**Many factors are considered when determining the final price of each menu offering and prices may vary by region**."
+
+Source: https://www.cbc.ca/news/business/tim-hortons-breakfast-sandwich-price-increase-minimum-wage-1.4483543 (403 to automated fetch; summary-derived) · https://www.theglobeandmail.com/report-on-business/some-tim-hortons-stores-raise-prices-after-ontario-minimum-wage-hike/article37589085/
+
+**Note:** the company's position was that the increases were **not** connected to the minimum wage. Reporting at the time said franchisees regarded the increases as insufficient. Present both.
+
+---
+
+## D. PRICING — CANADIAN, DATED, CAPTURABLE
+
+### D0. Method — read this before using any number below
+
+The prices in D1–D4 were **captured live on 18 September 2026 at 23:16 UTC (19:16 Eastern)** directly from **Restaurant Brands International's own production menu-and-pricing API** — the backend that serves timhortons.ca and the Tim Hortons app.
+
+- Endpoint: `https://use1-prod-th-gateway.rbictg.com/graphql`, operation `storeMenu(region, channel, storeId, serviceMode)`, with `channel: "whitelabel"` (RBI's first-party ordering channel).
+- Item names resolved from RBI's own content system, Sanity project `czqk28jt`, dataset `prod_th_ca` (Canada) / `prod_th_us` (United States).
+- Prices are returned in **cents**, are **per-store**, and are **pre-tax**.
+
+**Tier: (a) — these are the company's own published prices, pulled from the company's own production system, per restaurant.**
+
+**⚠️ MANDATORY CAVEAT FOR ALL OF SECTION D: these are the prices RBI's first-party ordering channel served for those specific store numbers at that timestamp. In-restaurant menu-board prices may differ. Prices vary by franchisee. RE-VERIFY ON CAMERA at the specific restaurant you film, on the day you film it, and show the board and the receipt.**
+
+Public web attempts that **failed** and are logged as such: ubereats.com (HTTP 403), doordash.com (HTTP 403), skipthedishes.com (HTTP 403), timhortons.ca menu pages (JavaScript-only, no prices in HTML), web.archive.org (HTTP 429 / CDX blocked by egress policy).
+
+### D1. Core Canadian menu prices — captured 18 September 2026 — (a) — **re-verify on camera**
+
+**Store 102601 — 65 Queen St West, Toronto, Ontario M5H 2M5 — pickup channel**
+
+| Item | Price (CAD, pre-tax) |
+|---|---|
+| Small Coffee, Original Blend | **$1.59** |
+| **Medium Coffee, Original Blend** | **$1.83** |
+| **Large Coffee, Original Blend** | **$2.14** |
+| Extra Large Coffee, Original Blend | **$2.40** |
+| Same, "Reusable Cup" variants | **10 cents less** at every size (S $1.49 / M $1.73 / L $2.04 / XL $2.30) |
+| Medium Steeped Tea | $2.29 |
+| Large Steeped Tea | $2.59 |
+| Medium Original Iced Capp | $3.99 |
+| Large Original Iced Capp | $4.49 |
+| Large Latte | $4.19 |
+| Large Chai Latte | $4.29 |
+| **Single donut** (Boston Cream, Sour Cream Glazed, Honey Cruller, Apple Fritter, Chocolate Dip, Maple Dip, Vanilla Dip, Old Fashioned Plain, Double Chocolate, Strawberry Fill, Maple Glazed) | **$1.79 each** |
+| Licensed "Hogwarts House" donuts (Gryffindor / Hufflepuff / Ravenclaw / Slytherin) | $2.79 each |
+| 6 Assorted Donuts | $7.99 |
+| 12 Assorted Donuts | $14.49 |
+| Single Timbit (Honey Dip, Chocolate Glazed, Birthday Cake) | $0.39 |
+| **10 Assorted Timbits** | **$3.49** |
+| 20 Assorted Timbits | $5.49 |
+| 50 Assorted Timbits | $9.99 |
+| Potato Wedges | $2.99 |
+| Crispy Chicken Sandwich | $7.49 |
+| Crispy Chicken Wrap | $6.79 |
+| 400g Original Blend Coffee Bag | $14.99 |
+| 875g Original Blend Can | $27.99 |
+| 12ct K-Cups Original Blend | $12.99 |
+| Take 12 Original Blend (box of coffee) | $19.99 |
+
+**Store 107273 — 1801 Courtney Park Drive, Mississauga, Ontario L5T 1J3 — pickup channel** (a full-menu suburban store; carries the hot breakfast the downtown store did not)
+
+| Item | Price (CAD, pre-tax) |
+|---|---|
+| Medium Coffee, Original Blend | **$1.83** |
+| Large Coffee, Original Blend | **$1.97** |
+| Extra Large Coffee, Original Blend | **$2.26** |
+| Medium Steeped Tea | $1.83 |
+| Medium Original Iced Capp | $3.29 |
+| Single donut | **$1.49** |
+| 6 Assorted Donuts | $6.49 |
+| 12 Assorted Donuts | $11.99 |
+| 10 Assorted Timbits | $2.99 |
+| 20 Assorted Timbits | $4.79 |
+| Hashbrown | $1.99 |
+| **Bacon Breakfast Sandwich** | **$4.19** |
+| **Sausage Breakfast Sandwich** | **$4.19** |
+| Egg & Cheese Breakfast Sandwich | $3.69 |
+| Bacon Farmer's Breakfast Wrap | $4.99 |
+| Potato Wedges | $2.49 |
+
+**On the "double-double":** RBI's menu system carries **no separate SKU or price for a "double-double."** It is an ordinary brewed coffee with two cream and two sugar and it costs whatever the cup costs. **The double-double price is the coffee price.** — (a). On camera: say this explicitly, because viewers assume otherwise.
+
+### D2. Same item, six Canadian cities, same minute — (a) — **re-verify on camera**
+
+Original Blend brewed coffee, pickup channel, CAD pre-tax, captured 18 September 2026 23:16 UTC:
+
+| Store | Medium | Large | Extra Large |
+|---|---|---|---|
+| Toronto ON — 65 Queen St W (102601) | $1.83 | $2.14 | $2.40 |
+| Mississauga ON — 1801 Courtney Park Dr (107273) | $1.83 | **$1.97** | **$2.26** |
+| Halifax NS — 5201 Duke St (100476) | **$1.80** | $2.15 | $2.39 |
+| Calgary AB — 324 7 Ave SW (104829) | $1.83 | $2.14 | $2.40 |
+| Vancouver BC — 650 Georgia St W (103719) | **$1.92** | **$2.21** | **$2.52** |
+| Winnipeg MB — 1 Lombard Ave (103950) | $1.83 | $2.14 | $2.41 |
+
+Selected other items across the same six stores — (a):
+
+| Item | Toronto | Mississauga | Halifax | Calgary | Vancouver | Winnipeg |
+|---|---|---|---|---|---|---|
+| 10 Timbits | $3.49 | $2.99 | $3.49 | $3.49 | $3.49 | $3.49 |
+| Boston Cream Donut | $1.79 | $1.49 | $1.79 | $1.79 | $1.79 | $1.79 |
+| 12 Assorted Donuts | $14.49 | $11.99 | $14.49 | $14.49 | $14.79 | $14.49 |
+| Medium Original Iced Capp | $3.99 | $3.29 | $3.99 | $3.99 | $3.99 | $3.99 |
+| Potato Wedges | $2.99 | $2.49 | $2.99 | $2.99 | $2.99 | $2.99 |
+
+**The story here is franchisee-level price variation.** Two Ontario stores 25 km apart priced a large coffee **17 cents apart** and a dozen donuts **$2.50 apart** at the same instant. That is a filmable, reproducible segment. **Re-verify on camera.**
+
+### D3. ⭐ DELIVERY PRICE GAP — DOCUMENTED FROM RBI'S OWN SYSTEM — (a)
+
+**This is the strongest original finding in Part 1.** The same API, same store, same timestamp, only the `serviceMode` changed from `pickup` to `delivery`:
+
+**Store 102601 — 65 Queen St West, Toronto — 18 September 2026 — CAD pre-tax — re-verify on camera**
+
+| Item | Pickup | Delivery | Uplift |
+|---|---|---|---|
+| Medium Coffee, Original Blend | $1.83 | **$2.29** | **+25.1%** |
+| Large Coffee, Original Blend | $2.14 | **$2.59** | **+21.0%** |
+| Extra Large Coffee, Original Blend | $2.40 | **$2.89** | **+20.4%** |
+| Medium Steeped Tea | $2.29 | $2.69 | +17.5% |
+| Medium Original Iced Capp | $3.99 | $4.79 | +20.1% |
+| Single donut (Boston Cream / Sour Cream Glazed / Honey Cruller / Apple Fritter) | $1.79 | **$2.09** | **+16.8%** |
+| 10 Assorted Timbits | $3.49 | $3.99 | +14.3% |
+| 20 Assorted Timbits | $5.49 | $6.39 | +16.4% |
+| 50 Assorted Timbits | $9.99 | $11.99 | +20.0% |
+| 6 Assorted Donuts | $7.99 | $9.59 | +20.0% |
+| 12 Assorted Donuts | $14.49 | **$17.39** | **+20.0%** |
+
+**Store 107273 — Mississauga — same timestamp — a flat +10% across the entire menu:**
+
+| Item | Pickup | Delivery | Uplift |
+|---|---|---|---|
+| Medium Coffee | $1.83 | $2.01 | +9.8% |
+| Large Coffee | $1.97 | $2.17 | +10.2% |
+| Single donut | $1.49 | $1.64 | +10.1% |
+| Hashbrown | $1.99 | $2.19 | +10.1% |
+| Bacon Breakfast Sandwich | $4.19 | $4.61 | +10.0% |
+| Bacon Farmer's Breakfast Wrap | $4.99 | $5.49 | +10.0% |
+| Potato Wedges | $2.49 | $2.74 | +10.0% |
+| 12 Assorted Donuts | $11.99 | $13.19 | +10.0% |
+
+**Critical:** this uplift is **inside the menu price itself**, on **Tim Hortons' own first-party app and website** — **before** any delivery fee, service fee, tax or tip. It is **not** an Uber Eats or DoorDash markup. It is RBI's own delivery price book.
+
+#### What the company's own app says about it — (a), extracted verbatim from the live timhortons.ca JavaScript bundle, 18 September 2026
+
+The application's localisation strings contain:
+
+> `usDeliveryPriceDisclaimer: "Menu prices higher on delivery. Terms and fees apply."`
+
+and, for Canada specifically:
+
+> `caDeliveryCartPreviewDisclaimer: "Order cannot exceed $100.00. Order must be over $9.00 (excluding taxes, tips, and fees) to qualify for delivery. $3.99 delivery fee."`
+>
+> `caDeliveryFeeAndTermsDisclosure: "$3.99 delivery fee. $9 minimum order (excluding taxes, tips, and fees). Terms apply (EN | FR)."`
+
+**⚠️ THE NUANCE THAT MUST GO ON CAMERA:** the string that says "**Menu prices higher on delivery**" is keyed **`us`**. The two **`ca`** strings disclose a **delivery fee and a minimum order** but, in the bundle as shipped on 18 September 2026, **do not contain an equivalent "menu prices are higher on delivery" sentence**. **I am not asserting that the Canadian app fails to disclose this** — a disclosure may be rendered elsewhere in the UI, in a linked terms page, or in a component I did not exercise. **This must be checked by opening the Canadian app on camera and filming what a Canadian customer actually sees at checkout.** Until then, treat "the Canadian app does not display that disclaimer" as **UNVERIFIED — DO NOT ASSERT.**
+
+#### Third-party aggregators — could not be captured
+
+ubereats.com, doordash.com and skipthedishes.com all returned **HTTP 403 to automated fetching** on 18 September 2026. No Tim Hortons-specific in-store-vs-aggregator comparison was obtainable from a reputable named outlet. The general Canadian context — (b), Global News, https://globalnews.ca/news/6249936/food-delivery-apps-menu-price-premium/ — is that menu prices on aggregators frequently differ from in-restaurant prices and that platform commissions in Canada commonly run 25–30% of order value. **This is context, not a Tim Hortons finding. Do not present it as one.** The aggregator comparison is a **shoot-it-yourself** segment: film the board price, then film the same item on each of the three apps.
+
+### D4. US vs CANADA — same brand, same week — (a) — **re-verify on camera**
+
+**Store 911080 — 424 Main St, Buffalo, New York 14202 — pickup channel — captured 18 September 2026 — prices in US dollars, pre-tax**
+
+| Item | **US (Buffalo, USD)** | **Canada (Toronto 102601, CAD)** |
+|---|---|---|
+| Small Original Blend Coffee | **$2.29** | $1.59 |
+| Medium Original Blend Coffee | **$2.64** | $1.83 |
+| Large Original Blend Coffee | **$2.99** | $2.14 |
+| Extra Large Original Blend Coffee | **$3.24** | $2.40 |
+| Small Steeped Tea | $2.29 | $1.99 |
+| Medium Steeped Tea | $2.64 | $2.29 |
+| Large Steeped Tea | $2.99 | $2.59 |
+| Boston Cream donut | **$1.69** | $1.79 |
+| Sour Cream Glazed donut | **$1.69** | $1.79 |
+| Donuts Half Dozen | **$8.49** | $7.99 (6 Assorted) |
+| Donuts Dozen | **$14.99** | $14.49 (12 Assorted) |
+| Single Timbit | $0.49 | $0.39 |
+| Timbits 10 Pack | **$3.99** | $3.49 |
+| Timbits 20 Pack | $6.24 | $5.49 |
+| Medium Latte | $4.19 | — (not returned at 102601) |
+| Large Latte | $4.49 | $4.19 |
+| Medium ICED CAPP | $4.49 | $3.99 |
+| Large ICED CAPP | $4.99 | $4.49 |
+| Bagel (Plain / Everything / Twelve Grain / Pretzel) | $2.19 | — |
+| Muffin (Wild Blueberry / Chocolate Chip / Fruit Explosion) | $2.39 | $2.69 (Pumpkin Spice) |
+
+**⚠️ DO NOT CONVERT THESE ON SCREEN WITHOUT A SOURCED RATE.** These are **nominal** figures in two different currencies. I did not obtain a Bank of Canada noon rate for 18 September 2026 in this session. If you convert, pull the Bank of Canada daily exchange rate for the capture date, cite it on screen, and **re-verify on camera**. The honest framing is: *"A large coffee is two dollars ninety-nine in Buffalo and two-fourteen in Toronto — different currencies, and here's the rate on the day."*
+
+**Also note:** the US and Canadian menus are **not** the same product line. US stores carry bagels and a large latte range the downtown Toronto store did not return; Canadian stores carry Timbits pack sizes the US does not. Do not compare items that do not match.
+
+### D5. Historical price comparison
+
+**⚠️ HONEST LIMITATION, STATE IT ON CAMERA:** archived Tim Hortons menu boards were **not obtainable** in this session. web.archive.org returned **HTTP 429 (rate limited)** and its CDX API was **blocked by egress policy**. **There is no reliable five-, ten- or twenty-year price series for a Tim Hortons medium coffee in this dossier.** Everything below is a **documented price *event***, not a price *level*. Anyone presenting a smooth 20-year Tims price chart built from menu-aggregator websites is presenting fabricated data.
+
+| Date | Event | Detail | Tier |
+|---|---|---|---|
+| **2013** | Baked goods price increase | CBC reported an increase; **detail not retrieved** (403) — see UNVERIFIED | (b), verify |
+| **November 2014** | Coffee **+10 cents** on average, varying by region; breakfast sandwiches **+10 cents in all provinces except Ontario** | Company cited "significantly higher operating costs" including coffee beans and meat. Then-CFO **Cynthia Devine** noted Arabica futures had nearly doubled that year, citing lack of rain in Brazil. | (b) — https://www.cbc.ca/news/business/tim-hortons-to-raise-price-of-coffee-breakfast-sandwiches-by-10-cents-1.2841135 (403 to automated fetch) |
+| **January 2018** | Some breakfast items **+~20 cents** in select markets | One documented consumer report: bagel breakfast meal **$6.77 → $7.00**. Company said the changes were **not** tied to the minimum wage: "Regular adjustments to menu prices are a normal part of the restaurant business." | (b)/(d) |
+| **~2022** | Last coffee price increase prior to 2025 | Implied by the company's own October 2025 statement that the 2025 increase was its **first in three years** | (b) |
+| **Early October 2025** | **Coffee +1.5%, about 3 cents per cup** — first coffee increase in three years | See verbatim below | (b) |
+| **2026 (through Sept)** | Consumer reports of roughly **5–10 cents** per cup on medium and large | Consumer-reported, not company-confirmed | (d) |
+
+**October 2025 — the company's own words, VERBATIM — (b):**
+
+> "**Our approach to pricing in our restaurants does not reflect any single event, but rather is designed to stay roughly in line with inflation over time.**"
+>
+> Source: Global News, 6 October 2025 — https://globalnews.ca/news/11466125/tim-hortons-coffee-price-going-up
+
+Company-supplied supporting figures at that time — **these are Tim Hortons' claims, attribute them as such** — (b):
+- The increase was **1.5%**, averaging **about three cents more per cup**.
+- **Cumulative inflation over the same three years was roughly seven per cent**, per the company.
+- Per the company, coffee bean cost rose from **C$2.21 to C$5.45 per pound** over three years.
+- Global wholesale coffee reportedly rose from **US$1.58 to US$3.90 per pound** over the same period.
+- CTV headline framing: Tim Hortons called the hike "**more than reasonable**." — (b), https://www.ctvnews.ca/canada/article/tim-hortons-raises-coffee-prices-calls-hike-more-than-reasonable/ (published 5 October 2025, by Joe Van Wonderen; the body text was not retrievable and the "more than reasonable" phrase appears only in the headline in what I could access — **re-verify the attribution before quoting it as a company statement**).
+
+**CROSS-CHECK THAT STRENGTHENS THE LIVE DATA:** a 1.5% increase averaging 3 cents implies a base coffee price of roughly **$2.00**. The live capture shows medium $1.83 / large $2.14 / XL $2.40. **The company's own arithmetic and the live API agree.** That is a good on-camera moment.
+
+### D6. THE CUP SIZE CHANGE — 2012
+
+**What changed — (b), corroborated across CBC, the Globe and Mail, Chatelaine, CSP Daily News and contemporaneous Canadian reporting:**
+
+Beginning **23 January 2012**, Tim Hortons introduced a **new 24-ounce Extra Large cup** and **renamed every existing size down one notch**:
+
+| Before 23 Jan 2012 | Volume | After 23 Jan 2012 |
+|---|---|---|
+| **Small** | 8 oz | **Extra Small** |
+| **Medium** | 10 oz | **Small** |
+| **Large** | 14 oz | **Medium** |
+| **Extra Large** | 20 oz | **Large** |
+| — | **24 oz (new)** | **Extra Large** |
+
+**The company's characterisation of the change, as reported — (b):**
+
+> "The change in names of the hot cup sizes applies to all hot beverages — **guests receive the same amount of coffee for the same price, only the name of the size has changed.**"
+
+**⚠️ SOURCING WARNING:** CSP Daily News, CBC and Chatelaine all returned **HTTP 403 to automated fetching** on 18 September 2026. The quotation above is reconstructed from indexed summaries of those articles. **The exact wording and the named spokesperson must be re-verified from the original 2012 article or a Tim Hortons press release before you put it on screen as a quote.** Tier: **(b), verify.**
+
+**What is squarely true and safe to say — (b):**
+- The **volumes did not shrink**. A 14-ounce cup stayed 14 ounces. What changed was the **word on the cup**.
+- A customer who habitually ordered a "**large**" went from **14 oz before** to **20 oz after** unless they changed their order.
+- Tim Hortons **added** a size at the top (24 oz) and **added** a size name at the bottom (Extra Small).
+
+**Related, and a good on-camera test — (d):** in 2014 CBC News in British Columbia ran a segment putting Tim Hortons' XL cup claims to the test. That article was **not retrievable (403)**; see UNVERIFIED. **Do the measurement yourself on camera with a measuring jug. It is cheap, visual, and unimpeachable.**
+
+---
+
+## E. TIMS REWARDS AND ROLL UP THE RIM
+
+### E1. Tims Rewards — launch and every documented change
+
+| Date | Change | Detail | Tier |
+|---|---|---|---|
+| **20 March 2019** | **Tims Rewards launches** in Canada | **Visit-based.** After every seventh visit (a purchase of 50 cents or more, minimum 30 minutes apart), the customer received **one free item**: hot brewed coffee, hot tea (any size), or a baked good — **excluding Timbits and bagels**. | **(a)** — company press release, https://www.newswire.ca/news-releases/introducing-tims-rewards-tm-a-brand-new-loyalty-program-from-tim-hortons-r--897530600.html |
+| **February–March 2020** | **App balance incident** | Some customers reported losing money loaded onto the app after an app update. Tim Hortons said **fewer than one per cent of app users — approximately 20,000 people — complained**, and apologised. CBC headline quoted the company: "**We did fall down there.**" | (b)/(d) — https://www.cbc.ca/news/canada/nova-scotia/tim-hortons-mobile-app-problems-1.5482786 (403 to automated fetch) |
+| **June 2022** | **Shift toward spend-based earning** | Reported change to **10 points per $1 spent before tax**, replacing a flat 10 points per visit regardless of spend. | (b), verify — see UNVERIFIED |
+| **December 2022** | Reported adjustments | More reward options added; minimum spend reduced to **$0.10**; the **30-minute cooldown removed**. | (b), verify |
+| **21 February 2023, 12:00:01 a.m. ET** | **THE DEVALUATION** | Program moved fully to **spend-based**. **10 points per dollar.** The threshold for a free coffee rose from **70 points to 400 points**. | (b) — CBC, https://www.cbc.ca/news/canada/sudbury/sudbury-tim-hortons-rewards-program-changes-1.6687593 |
+
+**What the 2023 change meant in dollars — (b), CBC's own arithmetic:**
+> With a free coffee moving from 70 points to 400 points, the spend required for that roughly $2 reward went from **just over $12 to about $40**. Framed in visits: from buying **7** coffees to get one free, to roughly **20**.
+
+**HOW THE CHANGE WAS COMMUNICATED — (b), and this is the consumer-story beat:** the February 2023 change was announced by **posting a notice at the bottom of the app and website**. **No press release was issued.** Contrast that directly on camera with the **full corporate press release** that accompanied the program's *launch* in 2019. Company-generous change: press release. Company-favourable change: footer notice.
+
+**Documented consumer reaction — (d):**
+- A Canadian member described the changes as a "**massive devaluation**."
+- RedFlagDeals forum threads from February 2023 record customers calling the program "**a joke**" and "**pure greed**" and saying they would switch to competitors. Source: https://forums.redflagdeals.com/tim-hortons-rewards-program-changes-feb-2023-2588200/ — **forum posts are (d) DOCUMENTED CONSUMER RECORD, they are not evidence of anything except that people said it. Label them on screen.**
+
+**The company's current claims about the program — (b), Tim Hortons Canada newsroom, "What's brewing for 2026" (https://www.news.timhortons.ca/en/articles/what-s-brewing-for-2026--five-tim-hortons-priorities-for-serving), VERBATIM:**
+> "**over 7 million active members**" · "**Millions of Canadians use Tims Rewards every week**" · "receiving valuable personalized offers to save money, and to collect Tims Rewards points"
+
+These are **corporate claims**, unaudited. Attribute as such. *(The page did not expose a publication date to automated fetching — see UNVERIFIED.)*
+
+**Related regulator finding — (a), and it is a genuine primary document:** the Office of the Privacy Commissioner of Canada, jointly with provincial counterparts, published **PIPEDA Findings #2022-001, "Joint investigation into location tracking by the Tim Hortons App"** — https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-001/. The investigation found that despite users granting the app location permission only while the app was open, **the app tracked location even when closed**. This is a **regulator's published finding**, not an allegation. It is app-and-loyalty adjacent; coordinate with whoever holds the privacy section so it is not double-covered, and **pull the OPC's own wording rather than paraphrasing**.
+
+### E2. Roll Up The Rim → Roll Up To Win
+
+| Period | What happened | Tier |
+|---|---|---|
+| **1986** (some sources say 1985) | Contest introduced. **Confirm the year from a Tim Hortons corporate source before airing — reporting is inconsistent.** | (b), verify |
+| **1986 – 2019** | Physical paper cups. Roll the rim, read the prize. Format "went largely unaltered for 25 years." | (b) |
+| Throughout | **Advertised odds: 1 in 6.** Contemporaneous analysis explained the arithmetic: e.g. 60 million cups of which 10 million are winners gives a 1-in-6 chance on a randomly chosen cup. | (b) — The Conversation, https://theconversation.com/roll-up-the-rim-how-covid-19-has-changed-the-contest-and-maybe-your-odds-of-winning-133134 |
+| **2020** | **Goes digital.** Days before launch, Tim Hortons pulled its promotional paper cups over COVID-19 concerns. A hybrid paper/digital format was run. | (b) |
+| **2020 (US)** | Tim Hortons U.S. stated that the **digital** odds of winning a beverage or food prize "**will be better than the 1-in-9 odds at restaurants**." **Note: this is a US statement and a US odds figure. Do not apply it to Canada.** | (b) — BusinessWire, https://www.businesswire.com/news/home/20200226005145/en/Tim-Hortons-U.S.-Announces-Roll-Up-the-Rim-To-Win%C2%AE-2020 |
+| **2021** | **Fully digital; renamed "Roll Up To Win."** | (b) |
+| **2020** | **Michael Wallace**, statistician at the University of Waterloo, publicly analysed the digital contest and won **67 free coffees**. Published at The Conversation and covered by CBC and Maclean's. | (b) — https://theconversation.com/heres-how-i-cracked-roll-up-the-rim-and-won-almost-every-time-136939 |
+| **2023** | Wallace's follow-up analysis: playing **in the middle of the night dramatically increases your odds**, because the digital format lets players bank rolls and unroll them whenever they want, putting them in competition with other players in real time. | (b) — https://theconversation.com/best-time-to-play-tim-hortons-roll-up-to-win-the-middle-of-the-night-dramatically-increases-your-odds-202949 |
+| **March 2022** | Documented consumer backlash at the loss of the physical cups. | (d) — blogTO, https://www.blogto.com/eat_drink/2022/03/people-really-mad-tim-hortons-changing-their-roll-rim-win-cups/ |
+| **8 March 2023** | **Technical error.** Some entrants were notified in the app that they had won a **$10,000 American Express pre-paid card**. They had not. | (b) — https://www.canadianadvertisinglaw.com/tim-hortons-manages-public-relations-after-prize-notification-glitch-in-roll-up-to-win-contest/ |
+| **April 2024** | **Technical error, larger.** Tim Hortons emailed participants across Canada telling them they had won a **Tracker Targa 18 WT fishing boat and trailer**. Reported value figures vary across outlets: **$55,000**, "about $64,000," "about $65,000 Cdn." **Use the range, or cite one outlet's figure and attribute it.** Reported scale: "some half-million customers." | (b) — CBC, https://www.cbc.ca/news/canada/hamilton/tim-hortons-roll-up-boat-glitch-1.7176728 |
+| **Company position, 2024** | Tim Hortons attributed the boat emails to "**technical errors**." | (b) |
+| **~29–30 June 2025** | **A Quebec Superior Court judge AUTHORIZED a class action** over the erroneous Roll Up To Win emails — **limited to Quebec residents**, because the case turns on **Quebec's consumer protection legislation**. | (b) — CBC, https://www.cbc.ca/news/canada/montreal/class-action-lawsuit-roll-up-to-win-tim-hortons-1.7573884 · CTV, https://www.ctvnews.ca/montreal/article/judge-authorizes-tim-hortons-roll-up-to-win-class-action-for-quebec-customers/ |
+
+**⚠️ MANDATORY WORDING FOR THE QUEBEC CLASS ACTION:** **"Authorized" is Quebec's word for certification. It is a PROCEDURAL step. It means the case may proceed. It is NOT a finding of liability, NOT a judgment, and NOT a settlement.** As of this dossier's research date, **18 September 2026, I found no reported decision on the merits and no reported settlement.** Say: *"A Quebec judge allowed the case to go ahead. That is all that has happened so far."*
+
+**Competition Bureau involvement in the contest — the honest answer:**
+- **I found NO Competition Bureau investigation, inquiry, consent agreement, or finding concerning Roll Up The Rim / Roll Up To Win odds, rules, or the 2023/2024 prize glitches.**
+- There are reports that **some individual customers filed complaints** with the Competition Bureau after the 2024 boat incident. A complaint is not an investigation and an investigation is not a finding. — (d)
+- The Competition Bureau's **only** documented Tim Hortons involvement I confirmed is the **merger review**: a **no-action letter issued 28 October 2014** clearing the Burger King–Tim Hortons transaction, on the basis that it was "unlikely to result in a substantial lessening or prevention of competition." — (b)
+- **DO NOT imply regulatory scrutiny of the contest. There is no documented regulatory scrutiny of the contest.**
+
+---
+
+## F. DERIVED FACTS WORTH PUTTING ON SCREEN (all computed from (a) sources above)
+
+1. **99.3%** of Tim Hortons restaurants in the US and Canada are franchised. RBI operates **31** itself.
+2. **77.6%** of franchised Tim Hortons sites are **owned or head-leased by RBI and rented to the franchisee** at typically **8.5%–10.0% of gross sales**.
+3. A franchisee's mandatory percentage-of-sales payments to RBI can stack to roughly **13.5% to 21%** of gross sales before food cost: royalty **3.0–6.0%**, advertising fund **2.0–5.0%**, and rent **8.5–10.0%** where RBI is landlord. **State the arithmetic and state the ranges — do not present a single number as "the" figure, because RBI discloses ranges, not per-store terms.**
+4. **69%** of Tim Hortons' segment revenue is RBI **selling goods to its own franchisees**, not royalties.
+5. Tim Hortons is **45% of RBI's revenue** but only **40%** of its adjusted operating income.
+6. Tim Hortons Canada comparable sales: **+3.6% in Q2 2025 → +0.1% in Q2 2026.**
+7. RBI's own delivery price book adds **10% to 25%** to the menu price, on Tim Hortons' own app, before any fee.
+8. Company plan for 2026, per RBI and Tim Hortons: **80 new Canadian restaurants** (vs "over 50 last year"), **about 400 renovations**, **$130 million** from RBI and **$270 million** from franchisees. COO **Naira Saeed**: "**Our restaurant count has been fairly static since 2019, and the Canadian population has grown about 10 per cent since then.**" Chief Corporate Officer **Duncan Fulton** said communities like Cornwall and Guelph "easily support new stores." — (b), Globe and Mail, 22 May 2026, https://www.theglobeandmail.com/business/article-tim-hortons-coffee-expansion-canada-80-new-stores/
+
+---
+
+## G. ⚠️ UNVERIFIED / DO-NOT-USE
+
+Everything in this section is **NOT cleared for broadcast** as stated. Each item names what is missing.
+
+### G1. Blocked or unavailable sources — automated fetching failed
+
+| Source | Failure | Consequence |
+|---|---|---|
+| **cbc.ca** (multiple articles: minimum wage 1.4472878 and 1.4474836, cup sizes 1.2757177, 2014 price rise 1.2841135, 2023 rewards 1.6687593, boat glitch 1.7176728, app balances 1.5482786) | **HTTP 403** on both www and amp | **Every CBC quotation in this dossier is reconstructed from search-engine summaries. ALL must be re-read from the original article before broadcast.** Tier capped at (b). |
+| **theglobeandmail.com** (minimum wage "reckless", Wynne "bully", 2018 price hikes) | **HTTP 403** on the specific articles; the "court pares back" article DID fetch successfully | Globe quotations other than the 22 Oct 2018 ruling coverage are summary-derived. Verify. |
+| **cspdailynews.com** (2012 cup size) | **HTTP 403** | The 2012 company statement on cup sizes is **not** verbatim-confirmed. |
+| **chatelaine.com** (2012 cup size) | **HTTP 403** | Same. |
+| **web.archive.org** | **HTTP 429**; CDX API **blocked by egress policy** | **No archived menu boards. No historical price series. This is why section D5 has events but no levels.** |
+| **ubereats.com / doordash.com / skipthedishes.com** | **HTTP 403** | **No first-hand aggregator price capture. The aggregator comparison must be shot manually.** |
+| **acf.ca/about** | **HTTP 404** | Cannot verify the Alliance of Canadian Franchisees' current self-description, membership claim, or founding statement from its own site. |
+| **nasdaq.com** (Q2 2026 release mirror) | **HTTP 503** | Not needed — the SEC original was retrieved. |
+| **courtlistener.com** (GWNFA-USA opinion) | Returned empty content | The US dismissal is sourced to secondary legal summaries plus the govinfo docket. **Pull the actual opinion text.** |
+
+### G2. Claims I could NOT confirm — do not state
+
+1. **3G Capital's country of origin and the jurisdiction of 3G Restaurant Brands Holdings LP.** The Schedule 13D/A names 3G Restaurant Brands Holdings LP and 3G Restaurant Brands Holdings General Partner Ltd., but **I did not retrieve the jurisdiction-of-organisation fields from the filing itself.** 3G Capital is widely described as Brazilian-founded, but **I have no primary confirmation in this dossier.** **Pull the cover page of the 13D/A and read the "Citizenship or Place of Organization" box before saying anything about nationality.**
+2. **Tim Hortons' Canada-only restaurant count.** RBI discloses **4,586 for the US and Canada combined** (a). It does **not** break out Canada. Globe and Mail says "approximately 4,000" (b). Third-party location-scraper sites gave **3,570** and **697 (US)** — **those are content-farm scrapes, excluded.** **There is no confirmed Canada-only figure in this dossier.**
+3. **US Tim Hortons restaurant count.** Same problem. Excluded.
+4. **The "$15.00 minimum wage on January 1, 2019."** It was legislated in 2017 and is quoted inside the franchisee letter, but it was subsequently cancelled. **I did not verify the cancellation in this session.** Do not state what happened to it.
+5. **Fairview Donut Inc. v. The TDL Group Corp., 2012 ONSC 1252.** Citation seen in a search result title only. **Judgment text not retrieved. Appellate history not verified. DO NOT state the outcome.**
+6. **The 2013 baked goods price increase.** CBC headline seen; article not retrieved; amount, date and scope unknown.
+7. **"More than reasonable."** CTV's headline attributes this phrase to Tim Hortons regarding the October 2025 increase. **The article body was not retrievable. The exact speaker and context are unconfirmed. Do not present it as a company quote until verified.**
+8. **The 2014 CBC British Columbia test of XL cup volumes.** Article not retrievable. Findings unknown. **Do not cite it. Run your own measurement instead.**
+9. **Whether the Canadian Tim Hortons app displays a "menu prices are higher on delivery" disclosure.** The `us`-keyed string exists in the shipped Canadian bundle; the two `ca`-keyed strings I extracted disclose fee and minimum only. **This is NOT evidence of non-disclosure.** Film the Canadian checkout flow.
+10. **Whether the live API prices equal in-restaurant menu-board prices.** They are RBI's first-party ordering-channel prices. **Unconfirmed as board prices. Film the board.**
+11. **Small hot coffee availability.** `item_26546` (Small Coffee Original Blend, $1.59) appeared in the first pull of store 102601 but **not** in two subsequent pulls minutes later, and did not appear at the other five stores. This may be caching, time-of-day menu logic, or a genuine availability change. **Do not assert that Tim Hortons has dropped the small hot coffee. Check the board.**
+12. **Roll Up The Rim's start year.** 1985 vs 1986 — sources conflict. Get it from Tim Hortons.
+13. **The 2024 boat's value.** $55,000 / ~$64,000 / ~$65,000 across outlets. Pick one and attribute, or give the range.
+14. **The June 2022 and December 2022 Tims Rewards changes.** Sourced to loyalty-industry blogs and consumer-finance sites, not to Tim Hortons or a major outlet. **Tier (b) at best. Verify against the app's archived terms before airing.**
+15. **The GWNFA's "almost half of Canadian franchisees" membership claim** and the **"$243,889 per franchisee per year"** cost estimate. Both are **the association's own numbers**. Never independently audited. Label them.
+16. **Publication date of the Tim Hortons "What's brewing for 2026" newsroom post.** Not exposed. All figures from it are corporate claims of unknown vintage.
+17. **The full Competition Bureau no-action letter of 28 October 2014.** I have press reporting, not the Bureau's document. Pull it from competitionbureau.gc.ca.
+18. **SEDAR+.** **I did not query SEDAR+ in this session.** All Canadian-side continuous disclosure here is inferred from RBI's SEC filings. Note that RBI's 10-K states the Partnership relies on exemptive relief from NI 51-102 continuous disclosure by virtue of RBI's own Canadian filings — so the SEDAR+ record should largely mirror the SEC record, but **verify**.
+19. **The 2006 IPO and spin-off share counts, dates and prices.** Tim Hortons Inc.'s S-1/A and 8-Ks exist on EDGAR under CIK **0001345111** and are listed in my sources, but **I did not open them.** The 2006 narrative is (b), not (a). **Open the filings if the video leans on it.**
+20. **Any claim that foreign ownership harmed Tim Hortons.** **Not researched, not established, not supported by anything in this dossier. Do not imply it.**
+
+### G3. SEO / content-farm domains ENCOUNTERED AND EXCLUDED
+
+These appeared repeatedly in search results for Tim Hortons pricing. **None was used for any figure in this dossier. Do not let any of them into the script, the on-screen graphics, or the description.** Several present themselves as "official 2026 menu prices" and are scraped, stale, invented, or AI-generated.
+
+- timhortonsmenu.vercel.app
+- timhortonsmenucanada.vercel.app
+- timhortonsmenu.com
+- timhortonsmenucanada.com / timhortonsmenupricescanada.com
+- timhortonsmenues.com
+- timhortonsmenus.ca
+- timhortonsmenuca.com
+- timhortons-menu-prices.com
+- timhortons-menus.ca
+- t-hortonscanadamenu.onl
+- froqel.com
+- ca.pricelisto.com / pricelisto.com
+- menupedia.us
+- fastfoodmenuprices.com
+- caffeinepark.com
+- starbmag.com
+- cookwithrome.com
+- moviecultists.com
+- kitchendivas.com
+- mashed.com
+- foodbeast.com
+- tim-hortons-menu.com
+- blog.transfergratis.com
+- scrapehero.com / grepsr.com / locationscloud.com / rentechdigital.com (location-count scrapers — plausible-looking but unverifiable store counts)
+- nxdigital.ca / get.avantoeats.com / menuro.io / dineopen.com / trudystable.com / iorders.ca / ishopo.ca (delivery-commission SEO content marketing)
+- grokipedia.com
+- legalclarity.org
+- cliffsnotes.com
+- contestscoop.com
+- hashtaginvesting.com
+- wyrk.com / 1075koolfm.com (radio-station SEO reposts)
+- quora.com
+
+**Also treated as (d) DOCUMENTED CONSUMER RECORD, not fact — usable only as "here is what customers said," on screen, labelled:** redflagdeals.com forums, blogto.com, narcity.com, mtlblog.com, nowtoronto.com, reddit-derived aggregations, tiktok.com.
+
+---
+
+**END PART 1.**
+
+
+---
+
 # PART 2 DOSSIER — TIM HORTONS: THE REGULATORY AND LEGAL RECORD
 
 **Research date: 18 September 2026.** All statuses stated as of that date.

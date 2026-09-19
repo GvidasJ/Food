@@ -13,6 +13,777 @@ Reference: Canada Food Insider, "10 Costco Canada Items That Are Actually Worth 
 
 ---
 
+# PART 1 DOSSIER — COSTCO CANADA: LIVE PRICES AND COMPARISONS (19 SEPT 2026)
+
+**All Costco prices below were captured directly from costco.ca on 19 September 2026** (server timestamps on the API responses read `2026-09-19T23:xx:xxZ`). Competitor prices were captured the same day where capture was possible at all.
+
+---
+
+## 0. READ THIS BEFORE USING ANY NUMBER — THE ONE CRITICAL METHOD FINDING
+
+The method note was correct: **costco.ca is retrievable**. Its product pages carry `application/ld+json` with `priceCurrency: CAD`, and — better — a deeper embedded payload containing a `priceInfo` object. I extracted that deeper object because **the JSON-LD `price` field is the pre-discount price, not the price you pay today.**
+
+Worked example, Charmin Ultra Soft 30 × 200 sheets (item 2633624), captured 19 Sep 2026:
+
+```
+"displayPrice":{"onlinePrice":39.99,"aggregatedDiscountAmt":6.5,"deliveredPrice":33.49,"currency":"CAD"}
+```
+
+JSON-LD alone would have reported **$39.99**. The live price is **$33.49**. Every price in this dossier is the `deliveredPrice` (the live price), with the regular price and the discount shown separately.
+
+**Second, larger caveat — the label on these pages says "Online Price", not "Warehouse Price".** The costco.ca page template contains both labels and a tooltip reading *"This is the price of the item sold at your selected Costco Warehouse. Warehouse pricing may vary."* The pages I scraped render the **Online Price**, and the shipping block states *"Standard shipping via UPS is included in the quoted price."* So these are delivered-to-door prices, not shelf prices.
+
+I found hard evidence the two differ, and evidence they sometimes don't:
+
+| Item | costco.ca online (19 Sep) | Costco in-warehouse savings booklet (31 Aug – 28 Sep) | Gap |
+|---|---|---|---|
+| Hellmann's Real Mayonnaise | $13.99 | $9.49 (regular $11.99, SAVE $2.50) | Online is **$2.00 above the warehouse regular price** |
+| Tim Hortons Original Blend coffee | $39.99 | $39.99 (regular $54.99, SAVE $15) | Identical |
+
+**Consequence for the video:** the online/warehouse gap is real but inconsistent, so it cannot be modelled with a flat adjustment. **Every price in this dossier must be re-verified in warehouse on camera.** That instruction is attached to every single line below and is not boilerplate here — it is the load-bearing caveat of Part 1.
+
+---
+
+## 1. PRIMARY SOURCE MECHANICS (so Part 2 can reproduce this)
+
+| Route | Result |
+|---|---|
+| `costco.ca/sitemap_lw_index.xml` → `sitemap_lw_p_001.xml` | **WORKS.** 7,897 product URLs, `lastmod` 2026-09-17. This is the full costco.ca *online* catalogue. |
+| Product page `application/ld+json` | **WORKS.** Name, item number (`sku`), price, currency, availability. |
+| Embedded `priceInfo` / `displayPrice` block | **WORKS.** `onlinePrice`, `aggregatedDiscountAmt`, `deliveredPrice`. This is the good one. |
+| Product `productAttributes` → `"key":"Model"` | **WORKS.** Manufacturer model numbers for electronics. |
+| `gdx-api.costco.com/catalog/search/api/v1/search` | **BLOCKED.** HTTP 400 / Apigee gateway fault. |
+| `gdx-api.costco.com/catalog/product/product-api/v2/products` | **BLOCKED.** HTTP 403. |
+| `search.costco.ca` Lucidworks keyword pipeline | **BLOCKED.** HTTP 403 "not authorized". |
+| costco.ca search results page | Client-rendered; results are **not** in the HTML. Use the sitemap instead. |
+
+**What is NOT in the online catalogue** (checked by exhaustive search of all 7,897 URLs): rotisserie chicken, Costco bakery muffins/croissants/cakes, fresh eggs, fresh butter, fresh milk, fresh raw meat, Hawkins Cheezies, French's mustard, food court items, gasoline. These are warehouse-only and **have no obtainable online price. They must be filmed in store.**
+
+**Costco Business Centre (costcobusinesscentre.ca) — attempted and failed.** Its sitemap works (2,126 products, and it *does* stock French's mustard, loose eggs by the 15-dozen, butter, KS Premium Bacon 4×500 g, KS Real Mayonnaise 1.9 L). But every product page returns `"priceInfo":"$undefined"` and JSON-LD with `priceCurrency: CAD` and **no `price` field at all** — Business Centre publishes no price without a business delivery address. Its own page text states *"All prices listed are delivered prices from Costco Business Centre. Orders under $250 (before tax) will be charged a $25 delivery surcharge."* **No Business Centre price is usable, and Business Centre pricing is a different store format from the regular warehouse anyway — do not present it as a Costco warehouse price.**
+
+---
+
+## 2. THE "WORTH IT" CANDIDATES — COSTCO.CA PRICES, 19 SEPT 2026
+
+All tier **(a) CONFIRMED primary — costco.ca product page, captured 19 Sept 2026**. All: **re-verify in warehouse on camera.**
+
+### 2.1 Maple syrup
+
+| Item | Size | Item # | Price 19 Sep 2026 | Per L | URL |
+|---|---|---|---|---|---|
+| Kirkland Signature Maple Syrup | 1 L | 118263 | **$17.99** | $17.99 | costco.ca/kirkland-signature-maple-syrup,-1-l.product.100546387.html |
+| Kirkland Signature Organic Maple Syrup | 1 L | 679131 | **$18.99** | $18.99 | costco.ca/kirkland-signature-organic-maple-syrup,-1-l.product.100417609.html |
+
+Declared label facts (from the page, no commentary): *"Canada Grade A - Amber, Rich Taste, 100% pure maple syrup, 1 L."*
+**Re-verify in warehouse on camera.**
+
+### 2.2 Frozen chicken breasts — THE SPECIFIC ITEM DOES NOT EXIST ONLINE
+
+There is **no Kirkland Signature boneless-skinless individually-frozen chicken breast** in the costco.ca catalogue. What is there:
+
+| Item | Size | Item # | Price 19 Sep 2026 | Per kg | URL |
+|---|---|---|---|---|---|
+| Yorkshire Valley Farms Organic Boneless Skinless Chicken Breasts | 5 × 2 kg (10 kg) | 1842261 | **$279.99** | $28.00 | .../yorkshire-valley-farms-organic-boneless-skinless-chicken-breasts,-5-×-2-kg.product.4000284912.html |
+| Sunrise Farms Frozen Seasoned Chicken Breast | 4 kg | 258929 | **$46.99** | $11.75 | .../sunrise-farms-frozen-seasoned-chicken-breast,-4-kg.product.100549058.html |
+| Kirkland Signature Lightly Breaded Chicken Breast Chunks | 1.8 kg | 1736931 | **$26.99** | $14.99 | .../kirkland-signature-lightly-breaded-chicken-breast-chunks,-1.8-kg.product.4000309695.html |
+| Kirkland Signature Chicken Breast, Canned | 6 × 354 g | 51070 | **$24.99** | $11.77 | .../kirkland-signature-chicken-breast-canned,-6-×-354-g.product.100413547.html |
+
+**The plain KS frozen chicken breast is a warehouse-only item. Film the price and the bag weight in store.** Tier (a) for the four above; the KS IQF breast itself is **UNVERIFIED**.
+
+### 2.3 Olive oil — all Canadian formats
+
+| Item | Size | Item # | Price | Per L | URL slug |
+|---|---|---|---|---|---|
+| KS 100% Italian Extra Virgin Olive Oil | 2 L | 71003 | **$31.99** | **$15.99** | ...100799154 |
+| KS 100% Spanish Extra Virgin Olive Oil | 3 L | 4249003 | **$36.99** | **$12.33** | ...100799194 |
+| KS Organic Extra Virgin Olive Oil | 2 L | 692731 | **$21.99** | **$10.99** | ...100416825 |
+| KS Olive Oil (not EV) | 3 L | 1554830 | **$30.99** | **$10.33** | ...100416749 |
+
+**On-screen point:** within Costco's own shelf, the Italian EVOO costs **46% more per litre than the Spanish** ($15.99 vs $12.33) and **45% more than the Organic EVOO**. That arithmetic is internal to Costco and does not depend on any competitor. **Re-verify in warehouse on camera.**
+
+### 2.4 Hawkins Cheezies multi-pack — NOT OBTAINABLE FROM COSTCO
+
+Zero matches across all 7,897 costco.ca product URLs and all 2,126 Business Centre URLs. **Pack count and price must be filmed in store.** See §4 for the only current competitor prices I could get.
+
+### 2.5 Laundry detergent — pods and liquid
+
+| Item | Size | Item # | Price | Per load | URL slug |
+|---|---|---|---|---|---|
+| KS Ultra Clean Laundry Detergent Pacs | 152-count | 1054838 | **$31.99** | **$0.211** | ...4000200504 |
+| KS Oxi Power Premium Laundry Detergent Pacs | 110-count | 2675962 | **$29.99** | **$0.273** | ...4000325154 |
+| KS Ultra Clean Premium Liquid Detergent | 146 wash loads | 1845613 | **$24.99** | **$0.171** | ...100388606 |
+| KS Free and Clear Ultra Clean Liquid | 146 wash loads | 1845621 | **$24.99** | **$0.171** | ...100388598 |
+| KS Oxi Powder Laundry Booster | 5 kg | 1707952 | **$21.99** | n/a | ...4000391701 |
+| KS Ultrafresh Premium Fabric Softener | 276 loads | 1045021 | **$19.99** | **$0.072** | ...4000237810 |
+
+Declared label facts: liquid is *"2× as concentrated"*, *"Up to 146 wash loads"*; pacs are *"HE compatible"*.
+**On-screen point:** KS liquid is **$0.171/load** vs KS pacs at **$0.211/load** — the pods cost 23% more per load than the liquid, same brand, same shelf. **Re-verify in warehouse on camera.**
+
+### 2.6 Rotisserie chicken — THE $7.99 IN THE SCRIPT IS NOT CONFIRMED
+
+Not in the costco.ca catalogue. No primary price exists.
+
+| Tier | Source | Claim | Date |
+|---|---|---|---|
+| **(d) DOCUMENTED media record — STALE, DO NOT STATE AS CURRENT** | Narcity, "I compared rotisserie chickens from Costco, Loblaws and Metro" — narcity.com/toronto/taste-tested-compared-rotisserie-chicken-costco-loblaws-metro | Costco **$9**, ~1.2 kg bird; Loblaws **$13**, ~900 g; Metro **$13.99**, ~1,000 g | Published **20 May 2026** |
+
+**The reference script's $7.99 is contradicted by the most recent named-outlet record I can find, which says $9 as of May 2026 — and May 2026 is four months stale.** Do not put either number on screen. **Film the shelf tag.** The Narcity Loblaws/Metro figures are the only rotisserie comparison numbers in existence for this project and they are also stale — treat as a filming shopping list, not as a claim.
+
+### 2.7 Protein bars
+
+| Item | Pack | Item # | Price | Per bar | URL slug |
+|---|---|---|---|---|---|
+| KS Protein Bars | 20-count | 1014809 | **$38.99** | **$1.95** | ...100417020 |
+| KS Chewy Protein Bars | 42 × 40 g | 1377067 | **$22.99** | **$0.547** | ...100713037 |
+| KS Nut Bars | 960 g / 24 bars, 40 g each | 1181556 | **$20.99** | **$0.875** | ...100560191 |
+
+Bar weight for the 20-count is **not declared on the page** — do not state a gram figure for it; read it off the box on camera. Declared label facts for the 20-count: *"New formulation, Made with real chocolate, No artificial flavours."*
+**On-screen point:** the 20-count bar costs **3.6× per bar** what the 42-count Chewy bar costs, both Kirkland Signature. **Re-verify in warehouse on camera.**
+
+### 2.8 Bath tissue / toilet paper — the unit arithmetic is decisive
+
+| Item | Rolls | Sheets/roll | Total sheets | Item # | Price | Per roll | Per 100 sheets |
+|---|---|---|---|---|---|---|---|
+| **KS 2-ply Bath Tissue, 30-pack** | 30 (5 packs of 6) | **380** | 11,400 | 6262016 | **$32.99** | $1.100 | **$0.289** |
+| **KS Ultra Soft 2-ply Premium, 36-pack** | 36 (4 packs of 9) | **231** | 8,316 | 1725952 | **$37.99** | $1.055 | **$0.457** |
+| Charmin Ultra Soft Jumbo, 30-pack | 30 | 200 | 6,000 | 2633624 | **$33.49** (reg $39.99, disc $6.50) | $1.116 | **$0.558** |
+| Cashmere Premium Soft & Thick, 40-pack | 40 | not declared | — | 1424970 | **$29.49** (reg $34.99, disc $5.50) | $0.737 | n/a |
+
+Both KS products declare *"MADE IN CANADA, 2-ply, Septic safe."*
+
+**This is the best single piece of arithmetic in the dossier.** The "Ultra Soft *Premium*" Kirkland product costs **58% more per sheet** than the plain Kirkland product ($0.457 vs $0.289 per 100 sheets), because it has 231 sheets per roll against 380. Per *roll* it looks cheaper. Per *sheet* it is much more expensive. Both numbers are printed on Costco's own page. **Re-verify in warehouse on camera — and film the sheet counts on the packaging, because that is the whole point.**
+
+### 2.9 Coffee — every blend and format stocked
+
+| Item | Size | Item # | Price | Per kg | Per pod |
+|---|---|---|---|---|---|
+| KS Dark Colombian Ground Coffee (dark roast, fine grind, Supremo beans) | 1.36 kg | 15071 | **$33.99** | **$24.99** | — |
+| KS Decaffeinated Dark Roast Fine Grind | 1.36 kg | 17996 | **$36.99** | **$27.20** | — |
+| KS French Roast Whole Bean (dark) | 1.13 kg | 1528787 | **$29.99** | **$26.54** | — |
+| KS Whole Bean Espresso Blend (dark) | 1.13 kg | 1726068 | **$28.99** | **$25.65** | — |
+| KS Whole Bean House Blend (medium-dark) | 1.13 kg | 1726089 | **$27.99** | **$24.77** | — |
+| KS Organic Breakfast Blend K-Cup Pods (light) | 120-count | 4272377 | **$49.99** | — | **$0.417** |
+| KS Organic Pacific Bold K-Cup Pods (dark) | 120-count | 4272378 | **$49.99** | — | **$0.417** |
+| KS Organic Summit K-Cup Pods (medium) | 120-count | 4272379 | **$49.99** | — | **$0.417** |
+| KS Organic Decaf K-Cups (light) | 120-count | 4272380 | **$49.99** | — | **$0.417** |
+| **Tim Hortons Original Blend Fine Grind** | 1.36 kg | 1019209 | **$39.99** | **$29.40** | — |
+| **Tim Hortons Dark Roast K-Cup Pods** | 80-count | 2660661 | **$57.99** | — | **$0.725** |
+| **Tim Hortons K-Cup Pods (medium)** | 80-count | 1669669 | **$57.99** | — | **$0.725** |
+
+**The Kirkland vs Tim Hortons comparison the brief asked for, both bought at Costco on the same day:**
+- **Ground, like for like, identical 1.36 kg format:** KS Dark Colombian **$24.99/kg** vs Tim Hortons Original **$29.40/kg**. Tim Hortons is **17.6% more per kg**, i.e. **$6.00 more for the same 1.36 kg bag**.
+- **Pods:** KS Organic **$0.417/pod** vs Tim Hortons **$0.725/pod**. Tim Hortons is **74% more per pod**.
+
+Note the warehouse booklet has Tim Hortons at $39.99 from a regular $54.99 (SAVE $15, 31 Aug – 28 Sep) — so the Tim Hortons gap is currently at its *narrowest*. Say so on camera. **Re-verify in warehouse on camera.**
+
+### 2.10 Mixed nuts and the wider nut shelf
+
+| Item | Size | Item # | Price | Per 100 g |
+|---|---|---|---|---|
+| **KS Salted Mixed Nuts** (cashews, almonds, pecans, Brazil nuts, macadamia) | 1.13 kg | 1645578 | **$25.99** | **$2.300** |
+| **KS Unsalted Mixed Nuts** (cashews, almonds, pistachios, pecans) | 1.13 kg | 1652577 | **$26.99** | **$2.388** |
+| KS Whole Almonds | 1.36 kg | 284601 | $21.99 | $1.617 |
+| KS Pistachios | 1.36 kg | 203435 | $27.99 | $2.058 |
+| KS Pecan Halves | 907 g | 203444 | $25.99 | $2.865 |
+| KS Shelled Walnuts | 1.36 kg | 36285 | $15.99 | **$1.176** |
+| KS Roasted Whole Cashews with Salt | 1.13 kg | 1390413 | $23.99 | $2.123 |
+| KS Extra-large Peanuts | 1.13 kg | 234994 | $13.99 | $1.238 |
+| KS Trail Mix | 1.81 kg | 1474436 | $23.99 | $1.325 |
+| **KS Snacking Nuts Variety Pack** | 30 × 45 g (1.35 kg) | 720827 | $31.99 | **$2.370** |
+
+**On-screen point:** the 30-count snack-pack variety box is **$2.370/100 g** — *more* than the big tub of Salted Mixed Nuts at **$2.300/100 g**, for the same brand. You pay a premium for the small bags, not a bulk discount. **Re-verify in warehouse on camera.**
+
+---
+
+## 3. THE "SKIP" CANDIDATES
+
+### 3.1 Kirkland milk chocolate almonds — the $17→$30 claim is NOT SUPPORTED
+
+| Item | Size | Item # | Price 19 Sep 2026 | Per 100 g |
+|---|---|---|---|---|
+| Kirkland Signature Chocolate Covered Almonds | 1.5 kg | 919999 | **$26.99** | **$1.799** |
+
+Declared label facts: *"Chocolate covered almonds, 1.5 kg (3.3 lb)."* Note the catalogue name is **"Chocolate Covered Almonds"**, not "Milk Chocolate Almonds" — check you are filming the same SKU.
+
+**The reference script's "rose from ~$17 to ~$30" is tier (c) SPECULATION — DO NOT USE.** I found no primary or named-outlet record of the historical price. The current price is $26.99, which matches neither figure. Costco.ca publishes no price history, and I will not reconstruct one from memory or from aggregator sites. If the price-rise story is central to the segment, it needs a dated receipt, a dated photo of a shelf tag, or a named outlet — none of which I could obtain today.
+
+### 3.2 Costco bakery — muffins, croissants, cakes, cookies
+
+**Costco's own in-store bakery items (the 12-pack muffins, the bakery croissants, the sheet cakes, the bakery cookies) are NOT in the online catalogue and have no obtainable price. Film them.**
+
+Packaged bakery-adjacent items that *are* online:
+
+| Item | Size | Item # | Price | Unit price |
+|---|---|---|---|---|
+| Otis Spunkmeyer Assorted Muffins | 15 × 113 g | 1791422 | **$21.99** | **$1.466/muffin**; $1.297/100 g |
+| Pre-Proofed Butter Croissants | 30 units | 402498 | **$17.49** | **$0.583/croissant** |
+| Ace Bakery All Butter Mini Cheese Croissant | 560 g | 1891948 | **$11.99** | $2.141/100 g |
+| KS Mini Chocolate Chip Cookies | 30 × 28 g (840 g) | 5014935 | **$18.99** | **$2.261/100 g** |
+| KS Frozen Chocolate Chunk Cookies | 6 kg | 1455819 | **$36.99** | **$0.617/100 g** |
+
+**On-screen point:** the KS Mini Chocolate Chip Cookies in individual 28 g packs cost **$2.261/100 g**. The KS Frozen Chocolate Chunk Cookies cost **$0.617/100 g** — **3.7× cheaper per 100 g**, same brand, same store. That is a clean skip-list item. **Re-verify in warehouse on camera.**
+
+### 3.3 Name-brand condiments at Costco — this is the strongest skip case in the dossier
+
+| Item | Size | Item # | Costco price 19 Sep | Costco per L |
+|---|---|---|---|---|
+| **Heinz Ketchup** | 2 × 1.5 L (3 L) | 1920641 | **$13.99** | **$4.66/L** |
+| **Hellmann's Real Mayonnaise** | **1.8 L jug** | 170600 | **$13.99** | **$7.77/L** |
+| French's Mustard | — | — | **NOT IN COSTCO.CA CATALOGUE — FILM IT** | — |
+
+**Direct like-for-like competitor comparison, same brand, same day (tier (b), see §4 for the source caveat):**
+
+| Comparison | Costco | Walmart Canada | Verdict |
+|---|---|---|---|
+| Heinz Tomato Ketchup | 2 × 1.5 L = **$13.99** → **$4.663/L** | 1.5 L squeeze bottle **$6.97** → **$4.647/L** | **Walmart is marginally cheaper per litre.** Buying two Walmart bottles = $13.94 vs Costco's $13.99. Costco's bulk ketchup saves **nothing** — it costs 5¢ more. |
+| Hellmann's Real Mayonnaise | 1.8 L jug **$13.99** → **$7.772/L** | 890 mL jar **$6.47** → **$7.270/L** | **Walmart is 6.9% cheaper per litre.** The giant Costco jug is *more* expensive per millilitre than a normal supermarket jar. |
+
+**This is the single most quotable finding in Part 1: on two flagship name-brand condiments, the enormous Costco format is not cheaper per unit than the ordinary supermarket bottle.** Note honestly on camera that Costco's *in-warehouse* mayonnaise is currently on a savings-booklet offer at **$9.49** (regular $11.99, 31 Aug – 28 Sep, SAVE $2.50), which at 1.8 L is **$5.27/L — and that version does beat Walmart decisively.** Both facts are true and both belong in the video. **Re-verify in warehouse on camera.**
+
+### 3.4 Costco electronics — three representative TVs with exact model numbers
+
+| Brand / Series | Model number | Screen | Item # | Price 19 Sep 2026 | Declared specs (page text) |
+|---|---|---|---|---|---|
+| **Sony BRAVIA 2 II — 4K HDR LED** | **K65S20M2** | 65" (64.5" diag.) | 9792065 | **$898.00** | 4K HDR processor X1, Apple HomeKit, Google Assistant, Apple AirPlay, Google Home, Motionflow XR 240 (refresh rate 60 Hz) |
+| **Hisense U68SG — 4K QLED Mini LED** | **65U68SG** | 65" (64.5" diag.) | 8986865 | **$897.99** | Quantum Dot Wide Colour Gamut, Alexa, Google Assistant, Google Home, Motion Rate 480 (refresh rate 144 Hz) |
+| **LG OLED C6 — 4K UHD OLED** | **OLED55C6PUA.ACC** | 55" (54.5" diag.) | 9502155 | **$2,297.99** | NVIDIA G-Sync compatible, OLED Evo panel, refresh rate 120 Hz, Magic remote |
+
+URLs: `costco.ca/sony-65"-class---bravia-2-ii-series---4k-hdr-led-tv.product.4000379986.html` · `costco.ca/hisense-65"-class---u68sg-series---4k-qled-mini-led-tv.product.4201008451.html` · `costco.ca/lg-55"-class---oledc6-series---4k-uhd-oled-tv.product.4000449975.html`
+
+**On-screen point that needs no competitor data:** at Costco today the 65" Sony is **$898.00** and the 65" Hisense is **$897.99** — one cent apart — while the Hisense declares 144 Hz against the Sony's 60 Hz and adds Mini-LED. And the 55" LG OLED costs **2.6× either 65" set**. Model numbers are given so a price-match can be filmed. **Re-verify in warehouse on camera.**
+
+**I could not obtain competitor prices for these exact model numbers** — see §4. Any "Costco is cheaper on TVs" claim is **UNVERIFIED**.
+
+### 3.5 Other obvious poor-value items I found on costco.ca (my own additions)
+
+| Item | Size | Item # | Price | Unit price | Why it earns a skip slot |
+|---|---|---|---|---|---|
+| **KS Precooked Bacon** | 500 g | 1527958 | **$24.99** | **$49.98/kg** | The most expensive per-kg food item in this entire dataset. Compare KS Crumbled Bacon at $22.91/kg (item 190316, $12.99/567 g). |
+| **Yorkshire Valley Farms Organic BS Chicken Breasts** | 5 × 2 kg | 1842261 | **$279.99** | **$28.00/kg** | A $280 single-line commitment at 2.4× the per-kg price of the Sunrise Farms breast on the same shelf ($11.75/kg). |
+| **KS Snacking Nuts Variety Pack** | 30 × 45 g | 720827 | **$31.99** | **$2.370/100 g** | More per gram than the bulk tub of the same brand's mixed nuts. |
+| **KS Protein Bars 20-count** | 20 | 1014809 | **$38.99** | **$1.95/bar** | 3.6× the per-bar price of KS Chewy Protein Bars on the same aisle. |
+| **KS Ultra Soft 2-ply Premium Bath Tissue 36-pack** | 36 × 231 | 1725952 | **$37.99** | **$0.457/100 sheets** | 58% more per sheet than the plain KS 30-pack. |
+| **KS Coastal Cheddar** | 810 g | 1918390 | **$18.99** | **$2.344/100 g** | 80% more per 100 g than KS Marble Cheddar 1.15 kg at $1.303/100 g (item 1154953, $14.99). |
+| **KS Mini Chocolate Chip Cookies** | 30 × 28 g | 5014935 | **$18.99** | **$2.261/100 g** | 3.7× the frozen KS cookie dough per 100 g. |
+
+All tier (a), captured 19 Sept 2026. **Re-verify in warehouse on camera.**
+
+---
+
+## 4. COMPETITOR COMPARISONS — WHAT WORKED, WHAT DID NOT, AND WHAT YOU MUST FILM
+
+### 4.1 Retailer access results, tested 19 September 2026
+
+| Retailer | Route attempted | Result |
+|---|---|---|
+| **Loblaws** | loblaws.ca direct | **HTTP 403 — BLOCKED** |
+| **Real Canadian Superstore** | realcanadiansuperstore.ca direct | **HTTP 403 — BLOCKED** |
+| **No Frills** | nofrills.ca direct | **HTTP 403 — BLOCKED** |
+| **Loblaws group (all banners)** | `api.pcexpress.ca/pcx-bff/api/v1/products/...` mobile/BFF API | **HTTP 401 `invalid_client`** — requires a valid rotating client credential. **BLOCKED** |
+| **Walmart Canada** | walmart.ca direct (curl + independent fetch) | **BLOCKED** — returns a "Verify Your Identity / press and hold the button" bot wall on both search and product pages |
+| **Metro** | metro.ca online grocery search | **HTTP 403 — CAPTCHA page returned** |
+| **Sobeys** | sobeys.com direct | **HTTP 403 — BLOCKED** |
+| **Save-On-Foods** | saveonfoods.com direct | **HTTP 403 — BLOCKED** |
+| **Voilà** | voila.ca | **Infinite redirect loop (50+ hops) — BLOCKED** |
+| **Amazon.ca** | amazon.ca search + product pages (curl + independent fetch) | **HTTP 503 / empty robot-check page — BLOCKED. No Amazon.ca price in this dossier.** |
+| **GasBuddy** | gasbuddy.com station pages | **HTTP 403 — BLOCKED** |
+| **Flipp (Wishabi)** | `backflipp.wishabi.com/flipp/items/search` and `/flipp/flyers` | **WORKS — the only competitor route that functioned.** |
+
+**Every one of the six named grocers blocks automated retrieval. The brief's prediction held exactly.**
+
+### 4.2 The one route that worked — and its limits
+
+Flipp is the flyer platform operated by Wishabi. Its public endpoints returned (a) **retailers' current scanned flyer items** with explicit validity windows, and (b) an **e-commerce index carrying Walmart Canada's everyday online shelf prices.**
+
+**Why I consider this usable but tier (b), not tier (a):** Flipp is a distribution channel for the retailers' own flyers, not an SEO price-guess site. But it is still an intermediary — I am not reading walmart.ca or loblaws.ca directly. **Every competitor figure below is tier (b) STRONGLY SUPPORTED, not confirmed primary, and every one must be re-shot in store or on the retailer's own shelf.**
+
+Two further limits, stated plainly:
+1. **Flyer prices are promotional, not regular shelf prices.** Where the flyer shows a "was" price I have given it.
+2. **The Walmart "ecom" figures are everyday online prices** — closer to a fair comparison, but still online rather than in-store.
+
+### 4.3 Competitor prices captured 19 September 2026 — tier (b)
+
+**Postal code used: M5V 3L9 (downtown Toronto). Prices will differ by region — state the region on screen.**
+
+#### Condiments (the clean like-for-like wins)
+
+| Item | Retailer | Price | Unit price | Window |
+|---|---|---|---|---|
+| Heinz Tomato Ketchup, 1.5 L squeeze bottle | **Walmart Canada** (ecom) | **$6.97** | $4.647/L | everyday, captured 19 Sep 2026 |
+| Heinz Tomato Ketchup, 750 mL | Walmart Canada (ecom) | $5.77 | $7.693/L | everyday, 19 Sep 2026 |
+| Hellmann's Real Mayonnaise, 890 mL jar | **Walmart Canada** (ecom) | **$6.47** | $7.270/L | everyday, 19 Sep 2026 |
+| Hellmann's Real Mayonnaise, 750 mL squeeze | Walmart Canada (ecom) | $6.47 | $8.627/L | everyday, 19 Sep 2026 |
+| Hellmann's Real Mayonnaise, 1.42 L jar | Walmart Canada (ecom) | $9.48 | $6.676/L | everyday, 19 Sep 2026 |
+| Hellmann's Mayonnaise | **Food Basics** (flyer) | **$5.99** | size not stated on flyer — **unusable without the size. Film it.** | valid 17–24 Sep 2026 |
+
+**Note the Walmart 1.42 L jar at $6.676/L undercuts Costco's 1.8 L jug at $7.772/L by 14%.** That is the sharpest condiment line available. **Re-verify in warehouse / in store on camera.**
+
+#### Toilet paper
+
+| Item | Retailer | Price | Per roll | Window |
+|---|---|---|---|---|
+| Cashmere Toilet Paper, 30 big rolls = 62 single | **Walmart** (ecom) | **$17.50** | $0.583 | everyday, 19 Sep 2026 |
+| Purex, 30 big rolls = 62 single | Walmart (ecom) | $17.96 | $0.599 | everyday, 19 Sep 2026 |
+| Great Value Septic Safe, 30 = 100 rolls | Walmart (ecom) | $19.94 | $0.665 | everyday, 19 Sep 2026 |
+| Royale Velour 2-ply, 30 = 80 rolls | Walmart (ecom) | $19.96 | $0.665 | everyday, 19 Sep 2026 |
+| Charmin Ultra Soft, 30 triple rolls (90 reg. equiv.) | Walmart (ecom) | $30.98 | $1.033 | everyday, 19 Sep 2026 |
+| Cashmere Bathroom Tissue 30 = 50 rolls | **FreshCo** (flyer) | **$12.99** (was $19.99, SAVE 35%) | $0.433 | valid **17–24 Sep 2026** |
+| PC Bathroom Tissue, 30 = 100 rolls | **Real Canadian Superstore** (flyer) | **$20.00** + 5,000 PC Optimum pts ($5 in points) | $0.667 | valid 17–24 Sep 2026 |
+| Royale Bathroom Tissue 15 = 30 rolls | No Frills (flyer) | $5.99 | $0.400 (15 physical rolls) | valid 17–24 Sep 2026 |
+
+**Sheet counts are not published for any of these competitor packs.** Costco's KS 30-pack at **$0.289 per 100 sheets** cannot be honestly compared to them until someone films the sheet counts on the competitor packaging. **Roll-count comparisons here are misleading and I am flagging them as such — the per-sheet comparison is the only valid one and it must be filmed.**
+
+#### Paper towels
+
+| Item | Retailer | Price | Window |
+|---|---|---|---|
+| SpongeTowels UltraPro, 6 = 12 double rolls | **Walmart** (ecom + flyer) | **$14.77** | everyday / flyer 10 Sep – 22 Oct 2026 |
+| Great Value Ultra, 12 rolls × 98 sheets | Walmart (ecom) | $22.94 | everyday, 19 Sep 2026 |
+| Black & White, 12 rolls × 183 sheets | Walmart (ecom) | $17.93 | everyday, 19 Sep 2026 |
+| Royale Facial Tissue 12×100 **or** Paper Towels 6 = 12 | Real Canadian Superstore (flyer) | $13.00 (SAVE up to 35%) | valid 17–24 Sep 2026 |
+| Cashmere 24=48 / SpongeTowels Ultra 6=12 / Scotties 12 | Food Basics (flyer) | $10.98 | valid 17–24 Sep 2026 |
+| SpongeTowels Premium, 12 × 106 sheets | **Costco** (own online deal) | **$30.99** (was $36.99) | valid 14–21 Sep 2026 |
+
+Costco's own KS 2-ply Paper Towels 12-pack is **$33.99 = $2.833/roll**, but **Costco does not declare a sheet count for it** — film the sheet count, or the comparison is worthless.
+
+#### Batteries
+
+| Item | Retailer | Price | Per cell |
+|---|---|---|---|
+| **KS Alkaline AA, 48-count** | **Costco** (primary) | **$15.99** | **$0.333** |
+| **Great Value AA alkaline, 48-pack** | **Walmart** (ecom) | **$14.97** | **$0.312** |
+| Duracell CopperTop AA, 40-count | Costco (primary) | $19.99 (reg $25.99, disc $6.00) | $0.500 |
+
+**Walmart's 48-pack store brand is 6.4% cheaper per cell than Kirkland's 48-pack.** Tier (b) on the Walmart side. **Film both.**
+
+#### Hawkins Cheezies — the only current prices obtainable anywhere
+
+| Retailer | Item | Price | Window |
+|---|---|---|---|
+| **Giant Tiger** (flyer) | Hawkins Cheezies | **$4.97** (was $6.77, SAVE $1.80) | valid **16–23 Sep 2026** |
+| **Shoppers Drug Mart** (flyer) | Hawkins Cheezies **420 g** or Terra chips 141 g | **$4.99** | valid **19–25 Sep 2026** |
+
+The Giant Tiger listing gives no size. **The Costco multi-pack count and price are unknown and must be filmed. Without the Costco pack count these comparisons cannot be completed.**
+
+#### Bacon, eggs, butter, cheese (Costco side is warehouse-only — competitors given as a filming checklist)
+
+| Item | Retailer | Price | Window |
+|---|---|---|---|
+| No Name Bacon, 375 g | No Frills (flyer) | $2.50 (was $3.50) | 17–24 Sep 2026 |
+| PC Bacon, 375 g | Real Canadian Superstore (flyer) | $5.00 (was $7.00) | 17–24 Sep 2026 |
+| Great Value bacon | Walmart (flyer) | $3.97 (was $4.97, Rollback) | 17–24 Sep 2026 |
+| Selection Bacon | Metro (flyer) | $2.99 | 17–24 Sep 2026 |
+| Compliments Bacon | Sobeys (flyer) | $5.99 | 17–24 Sep 2026 |
+| Maple Leaf Original Natural Bacon | Walmart (ecom) | $5.97 | everyday 19 Sep 2026 |
+| Great Value Large 12 Eggs | Walmart (ecom) | $3.93 | everyday 19 Sep 2026 |
+| Gray Ridge Premium Large White 18 Eggs | Walmart (ecom) | $6.98 | everyday 19 Sep 2026 |
+| Goldegg Free Run Large White **30 Eggs** | Walmart (ecom) | $14.98 | everyday 19 Sep 2026 |
+| Prestige/Gray Ridge Large White 18's | Your Independent Grocer (flyer) | $4.44 "HOT PRICE" | 17–24 Sep 2026 |
+| Great Value Salted Butter 454 g | Walmart (ecom) | $5.96 | everyday 19 Sep 2026 |
+| Gay Lea Salted Butter 454 g | Walmart (ecom) | $4.97 (was $6.98) | everyday 19 Sep 2026 |
+| Lactantia Butter 454 g | No Frills (flyer) | $4.99 | 17–24 Sep 2026 |
+| Armstrong Old Cheddar | Walmart (ecom) | $4.98 | size not stated — **film it** |
+| Great Value Old Cheddar 320 g | Walmart (ecom) | $5.67 | $1.772/100 g |
+| Balderson Old Cheddar | Walmart (ecom) | $10.47 | size not stated — **film it** |
+
+**Costco's fresh bacon, eggs and butter have NO obtainable price. The Costco side of every row above is blank until you film it.** The only Costco cheese comparison available: KS Marble Cheddar 1.15 kg at **$1.303/100 g** vs Great Value Old Cheddar 320 g at **$1.772/100 g** — Costco 26% cheaper per 100 g, but these are different cheeses (marble vs old cheddar), so **this is not a fair like-for-like and should not be stated as one.**
+
+#### Olive oil, detergent, coffee, dish soap (competitor side only — no clean like-for-like)
+
+| Item | Retailer | Price | Per L / note |
+|---|---|---|---|
+| Great Value Extra Virgin Olive Oil 1 L | Walmart (ecom) | $10.97 | $10.97/L |
+| Terra Delyssa Premium EVOO 1 L | Walmart (ecom) | $11.97 (was $16.77) | $11.97/L |
+| Gallo EVOO 1 L | Walmart (ecom) | $12.94 | $12.94/L |
+| Gallo EVOO 750 mL / 1 L | No Frills (flyer) | $7.99 | ambiguous size — **unusable** |
+| Tide Pods 31-count | Walmart (ecom) | $12.97 | **$0.418/pac** |
+| Gain Flings 31-count | Walmart (ecom) | $12.97 | $0.418/pac |
+| Great Value Dark Roast Ground Coffee 907 g | Walmart (ecom) | $14.92 | **$16.45/kg** |
+| Great Value Ultra Dishwasher Pacs 90-count | Walmart (ecom) | $16.97 | **$0.189/pac** |
+| Cascade Complete ActionPacs 80-count | Walmart (ecom, on rollback) | $19.97 (was $24.97) | $0.250/pac |
+
+**Two honest findings that cut against Costco:**
+- **Costco's KS Spanish EVOO at $12.33/L is more expensive per litre than Walmart's Great Value EVOO at $10.97/L.** Different products, but both are the store's own extra virgin olive oil — a defensible comparison if you say so plainly.
+- **Costco's KS Dark Colombian ground coffee at $24.99/kg is 52% more per kg than Walmart's Great Value dark roast ground at $16.45/kg.** Again store-brand vs store-brand.
+- Costco's KS dishwasher pacs at **$0.165/pac** *do* beat Walmart's Great Value at **$0.189/pac** — a genuine Costco win, 13% cheaper per pac.
+- Costco's KS laundry pacs at **$0.211/pac** beat Tide Pods at Walmart ($0.418/pac) by half — but that is store brand vs name brand, so say so.
+
+### 4.4 Costco's own current flyers, retrieved 19 September 2026 — tier (a)/(b) hybrid
+
+Three live Costco Canada flyers were retrievable through Flipp:
+
+| Flyer ID | Type | Validity |
+|---|---|---|
+| 8119992 | **In-warehouse savings booklet** | 31 Aug – 27/28 Sep 2026 |
+| 8136459 | Costco.ca online deals | 14 – 20 Sep 2026 |
+| 8136070 | Costco Grocery online deals | 14 – 20 Sep 2026 |
+
+**In-warehouse savings prices (31 Aug – 28 Sep 2026) — these are the closest thing to a warehouse shelf price I could obtain:**
+
+| Item | Now | Regular | Saving |
+|---|---|---|---|
+| Kirkland Signature marble cheddar slices | $12.99 | $16.99 | $4.00 |
+| Kirkland Signature shredded pizza mozzarella | $14.99 | $18.99 | $4.00 |
+| Kirkland Signature daily dry facial towel | $19.99 | $24.99 | $5.00 |
+| Tim Hortons original blend coffee | $39.99 | $54.99 | $15.00 |
+| Tide original laundry detergent | $23.99 | $29.99 | $6.00 |
+| Tide PODS Spring Meadow / Free and Gentle | $29.99 | $37.99 | $8.00 |
+| Purex After The Rain / Coldwater liquid | $17.99 | $22.99 | $5.00 |
+| Hellmann's real mayonnaise | $9.49 | $11.99 | $2.50 |
+| Bounty Plus paper towel | $25.99 | $32.49 | $6.50 |
+| Balderson double smoked cheddar | $9.89 | $13.89 | $4.00 |
+| Janes whole wheat chicken strips | $12.99 | $16.49 | $3.50 |
+| Duracell AA or AAA batteries | (price not carried) | — | $6.00 |
+| Kirkland Signature Lakeridge queen mattress | $949.99 | $1,199.99 | $250.00 |
+
+Sizes are not given in the flyer data for most of these — **film the packaging.** The warehouse booklet's own item images carry no machine-readable prices, so this list is partial. **Re-verify in warehouse on camera.**
+
+---
+
+## 5. MASTER UNIT-PRICE TABLE
+
+**This is the spine of the video's arithmetic.** All Costco figures tier (a), costco.ca, 19 Sept 2026. **All: re-verify in warehouse on camera.**
+
+### Per litre
+
+| Item | Size | Price | **Per litre** |
+|---|---|---|---|
+| KS Olive Oil (not extra virgin) | 3 L | $30.99 | **$10.33** |
+| KS Organic Extra Virgin Olive Oil | 2 L | $21.99 | **$10.99** |
+| KS 100% Spanish EVOO | 3 L | $36.99 | **$12.33** |
+| KS 100% Italian EVOO | 2 L | $31.99 | **$15.99** |
+| KS Maple Syrup | 1 L | $17.99 | **$17.99** |
+| KS Organic Maple Syrup | 1 L | $18.99 | **$18.99** |
+| KS Organic Balsamic Vinegar of Modena | 1 L | $19.99 | **$19.99** |
+| KS Ultra Shine Liquid Dish Soap | 2.66 L | $13.99 | **$5.26** |
+| Heinz Ketchup | 2 × 1.5 L | $13.99 | **$4.66** |
+| Hellmann's Real Mayonnaise | 1.8 L | $13.99 | **$7.77** |
+
+### Per 100 g
+
+| Item | Size | Price | **Per 100 g** | Per kg |
+|---|---|---|---|---|
+| KS Whole Grain Rolled Oats | 4.54 kg | $11.99 | **$0.264** | $2.64 |
+| KS Organic Sugar | 4.54 kg | $16.99 | **$0.374** | $3.74 |
+| KS Traditional Basmati Rice | 5 kg | $24.99 | **$0.500** | $5.00 |
+| KS Frozen Chocolate Chunk Cookies | 6 kg | $36.99 | **$0.617** | $6.17 |
+| Kraft Smooth Peanut Butter | 2 kg | $12.99 | **$0.649** | $6.50 |
+| KS Organic Greek Yogurt | 1.36 kg | $8.99 | **$0.661** | $6.61 |
+| KS Natural Creamy Peanut Butter | 2 × 1 kg | $14.99 | **$0.750** | $7.50 |
+| KS Cream Cheese | 4 × 250 g | $8.99 | **$0.899** | $8.99 |
+| KS 100% Pure Liquid Honey | 3 kg | $28.99 | **$0.966** | $9.66 |
+| KS Corn Chip Dippers | 907 g | $8.99 | **$0.991** | $9.91 |
+| KS Hazelnut Spread with Cocoa | 2 × 1 kg | $19.99 | **$0.999** | $9.99 |
+| KS Soft & Chewy Granola Bars | 64 × 24 g | $15.99 | **$1.041** | $10.41 |
+| KS Shelled Walnuts | 1.36 kg | $15.99 | **$1.176** | $11.76 |
+| Sunrise Farms Frozen Seasoned Chicken Breast | 4 kg | $46.99 | **$1.175** | $11.75 |
+| KS Chicken Breast, Canned | 6 × 354 g | $24.99 | **$1.177** | $11.77 |
+| KS Dipped and Chewy Granola Bar | 1.49 kg | $17.99 | **$1.207** | $12.07 |
+| KS Kettle Brand Pink Salt Potato Chips | 907 g | $10.99 | **$1.212** | $12.12 |
+| KS Extra-large Peanuts | 1.13 kg | $13.99 | **$1.238** | $12.38 |
+| Otis Spunkmeyer Assorted Muffins | 15 × 113 g | $21.99 | **$1.297** | $12.97 |
+| KS Marble Cheddar Cheese | 1.15 kg | $14.99 | **$1.303** | $13.03 |
+| KS Trail Mix | 1.81 kg | $23.99 | **$1.325** | $13.25 |
+| KS Chewy Protein Bars | 42 × 40 g | $22.99 | **$1.368** | $13.68 |
+| KS Grass-Fed Beef Patties | 2.27 kg | $32.99 | **$1.453** | $14.53 |
+| KS Lightly Breaded Chicken Breast Chunks | 1.8 kg | $26.99 | **$1.499** | $14.99 |
+| KS Funhouse Treats Assorted Candies | 2 kg | $29.99 | **$1.499** | $14.99 |
+| KS Sliced Soft Fresh Mozzarella | 2 × 450 g | $13.99 | **$1.554** | $15.54 |
+| KS Whole Almonds | 1.36 kg | $21.99 | **$1.617** | $16.17 |
+| KS Treatsize Favourites | 2 kg | $34.99 | **$1.750** | $17.50 |
+| **KS Chocolate Covered Almonds** | 1.5 kg | $26.99 | **$1.799** | $17.99 |
+| KS Pistachios | 1.36 kg | $27.99 | **$2.058** | $20.58 |
+| KS Roasted Whole Cashews with Salt | 1.13 kg | $23.99 | **$2.123** | $21.23 |
+| Ace Bakery Mini Cheese Croissant | 560 g | $11.99 | **$2.141** | $21.41 |
+| KS Nut Bars | 960 g | $20.99 | **$2.186** | $21.86 |
+| KS Mini Chocolate Chip Cookies | 30 × 28 g | $18.99 | **$2.261** | $22.61 |
+| KS Crumbled Bacon | 567 g | $12.99 | **$2.291** | $22.91 |
+| **KS Salted Mixed Nuts** | 1.13 kg | $25.99 | **$2.300** | $23.00 |
+| KS Coastal Cheddar | 810 g | $18.99 | **$2.344** | $23.44 |
+| **KS Snacking Nuts Variety Pack** | 30 × 45 g | $31.99 | **$2.370** | $23.70 |
+| KS Unsalted Mixed Nuts | 1.13 kg | $26.99 | **$2.388** | $23.88 |
+| **KS Dark Colombian Ground Coffee** | 1.36 kg | $33.99 | **$2.499** | $24.99 |
+| KS Whole Bean House Blend | 1.13 kg | $27.99 | **$2.477** | $24.77 |
+| KS Whole Bean Espresso Blend | 1.13 kg | $28.99 | **$2.565** | $25.65 |
+| KS French Roast Whole Bean | 1.13 kg | $29.99 | **$2.654** | $26.54 |
+| KS Decaf Dark Roast Fine Grind | 1.36 kg | $36.99 | **$2.720** | $27.20 |
+| Yorkshire Valley Organic BS Chicken Breasts | 5 × 2 kg | $279.99 | **$2.800** | $28.00 |
+| KS Pecan Halves | 907 g | $25.99 | **$2.865** | $28.65 |
+| **Tim Hortons Original Blend Fine Grind** | 1.36 kg | $39.99 | **$2.940** | $29.40 |
+| **KS Precooked Bacon** | 500 g | $24.99 | **$4.998** | $49.98 |
+
+### Per load / per pac
+
+| Item | Count | Price | **Per load/pac** |
+|---|---|---|---|
+| KS Ultrafresh Premium Fabric Softener | 276 loads | $19.99 | **$0.072** |
+| KS Premium Performance Dishwasher Detergent | 115 pacs | $18.99 | **$0.165** |
+| KS Ultra Clean Premium Liquid Detergent | 146 loads | $24.99 | **$0.171** |
+| KS Free and Clear Ultra Clean Liquid | 146 loads | $24.99 | **$0.171** |
+| KS Ultra Clean Laundry Detergent Pacs | 152 pacs | $31.99 | **$0.211** |
+| KS Oxi Power Premium Detergent Pacs | 110 pacs | $29.99 | **$0.273** |
+
+### Per bar / pod / cell / bag / roll / unit
+
+| Item | Count | Price | **Per unit** |
+|---|---|---|---|
+| KS 1-ply Napkins | 1,040 | $19.99 | **$0.019/napkin** |
+| KS Baby Wipes, Fragrance Free | 900 (9 × 100) | $24.99 | **$0.028/wipe** |
+| KS Flushable Wipes | 640 | $26.99 | **$0.042/wipe** |
+| KS Large Freezer Bags | 192 | $27.99 | **$0.146/bag** |
+| KS Scented Drawstring Kitchen Bags | 200 | $33.99 | **$0.170/bag** |
+| KS Drawstring Kitchen Bags | 200 | $34.99 | **$0.175/bag** |
+| KS Large Garbage Bags (quad-tie) | 100 | $19.99 | **$0.200/bag** |
+| KS Soft & Chewy Granola Bars | 64 | $15.99 | **$0.250/bar** |
+| KS Alkaline AA Batteries | 48 | $15.99 | **$0.333/cell** |
+| KS Alkaline AAA Batteries | 48 | $15.99 | **$0.333/cell** |
+| KS Drawstring Garbage Bags (113 L / 30 gal) | 90 | $31.99 | **$0.355/bag** |
+| KS Organic Fair Trade K-Cup Pods (all 4 blends) | 120 | $49.99 | **$0.417/pod** |
+| Duracell CopperTop AA (on promo) | 40 | $19.99 | **$0.500/cell** |
+| KS Chewy Protein Bars | 42 | $22.99 | **$0.547/bar** |
+| Pre-Proofed Butter Croissants | 30 | $17.49 | **$0.583/croissant** |
+| Tim Hortons K-Cup Pods | 80 | $57.99 | **$0.725/pod** |
+| KS Nut Bars | 24 | $20.99 | **$0.875/bar** |
+| KS 2-ply Bath Tissue 30-pack | 30 rolls | $32.99 | **$1.100/roll**; **$0.289/100 sheets** |
+| KS Ultra Soft 2-ply Premium 36-pack | 36 rolls | $37.99 | **$1.055/roll**; **$0.457/100 sheets** |
+| Charmin Ultra Soft 30-pack (promo) | 30 rolls | $33.49 | **$1.116/roll**; **$0.558/100 sheets** |
+| Cashmere Premium 40-pack (promo) | 40 rolls | $29.49 | **$0.737/roll**; sheets not declared |
+| Otis Spunkmeyer Muffins | 15 | $21.99 | **$1.466/muffin** |
+| KS Protein Bars | 20 | $38.99 | **$1.950/bar** |
+| KS 2-ply Paper Towels 12-pack | 12 rolls | $33.99 | **$2.833/roll**; sheets not declared |
+
+---
+
+## 6. THE MEMBERSHIP ARITHMETIC
+
+### 6.1 Fees and terms — tier (a) CONFIRMED PRIMARY, costco.ca/join-costco.html, captured 19 Sept 2026
+
+| Membership | Annual fee | Cards | Notes (quoted from costco.ca) |
+|---|---|---|---|
+| **Gold Star (Personal)** | **$65** plus applicable sales tax | 2 (you + one household member) | "Everyday Value". *"Annual 2% Reward — This benefit is not included for Gold Star memberships."* |
+| **Executive (Personal)** | **$130** plus applicable sales tax | 2 | "Best Value & Exclusive Benefits" |
+| Business | $65 plus tax | 2, add affiliates at $65 each | Purchase for resale permitted |
+| Business Executive | $130 plus tax | 2, add affiliates at $65 each | — |
+| **Executive upgrade from Gold Star** | **+$65/year** | — | *"We will prorate the upgrade amount based on the months remaining in your current membership… At your next renewal, you will be billed $130."* |
+
+**Executive reward — exact terms, quoted:**
+> *"Annual 2% Reward* — Up to $1,250 on eligible Costco and Costco Travel purchases."*
+> *"Reward is capped at and will not exceed $1,250 for any 12-month period. Only purchases made by the Primary and active Primary Household Cardholder on the account will apply toward the Reward. **The Reward is not guaranteed to be equal to or greater than the Executive upgrade fee paid.** Limit one Executive Membership per household and business."*
+
+**Reward percentage: 2%. Annual cap: $1,250.**
+
+**Second Executive benefit, quoted:** *"$10 off one monthly order ($150 basket min.) in the Instacart App or Costco Same-Day… one (1) $10 CAD instant credit… each month you have a valid Costco Executive membership that is linked to your Instacart account."*
+
+### 6.2 Executive break-even vs Gold Star — full working for on-screen
+
+```
+INPUTS (all from costco.ca, 19 Sept 2026)
+  Gold Star annual fee ............................. $65.00  (+ tax)
+  Executive annual fee ............................. $130.00 (+ tax)
+  Executive reward rate ............................ 2.0%
+  Executive reward annual cap ...................... $1,250.00
+
+STEP 1 — the incremental cost of upgrading
+  $130.00 − $65.00 = $65.00 per year
+
+STEP 2 — the spend that generates $65 of reward at 2%
+  $65.00 ÷ 0.02 = $3,250.00
+
+STEP 3 — express monthly
+  $3,250.00 ÷ 12 = $270.83 per month
+
+ANSWER: A household must spend $3,250 a year ($270.83 a month) on
+        QUALIFYING Costco purchases for Executive to break even
+        against Gold Star. Below that, Gold Star is the better buy.
+
+STEP 4 — where the cap bites
+  $1,250.00 ÷ 0.02 = $62,500.00 of qualifying spend per 12 months.
+  Past $62,500 the reward stops growing.
+
+STEP 5 — the Instacart credit, treated separately and honestly
+  $10 × 12 months = $120.00 per year MAXIMUM.
+  It requires a $150+ basket on Costco Same-Day / Instacart every
+  single month, and the account must be linked. A household that
+  genuinely hits that every month covers the $65 upgrade from this
+  benefit alone, with $55 to spare — BEFORE any 2% reward.
+  A household that never orders delivery gets $0 from it.
+```
+
+**Two things that must be said on camera:** (1) the word **"qualifying"** — Costco excludes categories from the reward and links to a full exclusions list; do not present $3,250 as total till spend. (2) Costco itself states **"The Reward is not guaranteed to be equal to or greater than the Executive upgrade fee paid."** Quote it.
+
+### 6.3 How many "worth it" items cover the basic $65 membership — SHOW EVERY INPUT, AND THE PROBLEM
+
+**I must be straight with you: this calculation cannot yet be done honestly, and here is exactly why.**
+
+To compute it I need, for each item, a Costco price and a like-for-like competitor price, both current. I have **four** genuinely like-for-like same-brand-or-same-tier pairs. Three of them show Costco **losing**:
+
+```
+PAIR 1 — Heinz Tomato Ketchup (identical brand)
+  Costco   2 × 1.5 L = $13.99  →  $4.663 per L
+  Walmart  1.5 L     = $6.97   →  $4.647 per L
+  SAVING PER LITRE AT COSTCO: −$0.016  (Costco is DEARER)
+
+PAIR 2 — Hellmann's Real Mayonnaise (identical brand)
+  Costco   1.8 L  = $13.99  →  $7.772 per L
+  Walmart  1.42 L = $9.48   →  $6.676 per L
+  SAVING PER LITRE AT COSTCO: −$1.096  (Costco is DEARER)
+  [BUT: Costco in-warehouse savings booklet, 31 Aug–28 Sep, has this
+   at $9.49 → $5.272/L, which BEATS Walmart by $1.404/L.
+   So this pair flips depending on online vs warehouse. FILM IT.]
+
+PAIR 3 — Store-brand AA batteries, 48-count (identical count)
+  Costco  KS 48-count           = $15.99  →  $0.333 per cell
+  Walmart Great Value 48-pack   = $14.97  →  $0.312 per cell
+  SAVING PER PACK AT COSTCO: −$1.02  (Costco is DEARER)
+
+PAIR 4 — Store-brand dishwasher pacs (per pac)
+  Costco  KS 115 pacs            = $18.99  →  $0.1651 per pac
+  Walmart Great Value 90 pacs    = $16.97  →  $0.1886 per pac
+  SAVING PER PAC AT COSTCO: +$0.0235
+  Over a 115-pac Costco box: 115 × $0.0235 = +$2.70 saved per box.
+```
+
+```
+THE ARITHMETIC, RUN ON WHAT I ACTUALLY HAVE
+  Only Pair 4 produces a positive saving: $2.70 per purchase.
+  $65 ÷ $2.70 = 24.1
+  → a household would need to buy roughly 25 boxes of Kirkland
+    dishwasher pacs a year (2,875 pacs) to cover a $65 Gold Star fee
+    on the strength of the only like-for-like Costco win I could verify.
+  That is an absurd answer, and I am reporting it as absurd rather
+  than dressing it up.
+```
+
+**Why the answer is absurd, stated plainly:** I priced Costco at its **online** price (higher than warehouse, proven in §0 by the $2.00 mayonnaise gap) and priced competitors at Walmart's **everyday online** price, because every other Canadian grocer blocked retrieval. That stacks the comparison against Costco on both sides simultaneously. **The real answer is almost certainly much more favourable to Costco — but I cannot produce it from data I could actually obtain today, and I am not going to invent it.**
+
+**What Part 2 / the shoot must capture to make this calculation real** — the inputs are otherwise complete:
+
+1. Costco **warehouse shelf prices** (photographed) for: maple syrup 1 L, KS Spanish EVOO 3 L, KS laundry liquid 146 loads, KS 2-ply bath tissue 30-pack, KS Dark Colombian coffee 1.36 kg, KS Salted Mixed Nuts 1.13 kg, KS dishwasher pacs 115, rotisserie chicken, Hawkins Cheezies multi-pack.
+2. The matching **competitor shelf prices and pack sizes**, photographed at Loblaws/Superstore/No Frills, Walmart, Metro/Food Basics, Sobeys/FreshCo in the same week.
+3. **Sheet counts** off competitor toilet paper and paper towel packaging — without these, §5's best arithmetic has no counterpart.
+4. A stated **annual purchase frequency** per item for the household model (e.g. 4 × TP/yr, 6 × coffee/yr). I have deliberately not assumed these — they are an editorial choice, not a fact, and inventing them would poison the number.
+
+Formula to drop in once those exist:
+```
+  Items needed to cover the fee =
+      $65 ÷ (Σ [ (competitor unit price − Costco unit price) × pack size ] )
+  where every term is a filmed, dated, same-week, same-size price.
+```
+
+---
+
+## 7. COSTCO SERVICES — WHAT IS AND IS NOT PUBLISHED
+
+| Service | Page | Published pricing? |
+|---|---|---|
+| **Gasoline** | costco.ca/gasoline.html | **NO PRICE OF ANY KIND.** The page carries marketing copy only ("Kirkland Signature Gasoline. With 5X the Required CGSB Deposit Control Additive"), a locations tool, and no per-litre figure. GasBuddy returned HTTP 403. **No Costco per-litre price is obtainable and no comparison to nearby stations is possible. Film the pump price and the price signs at two nearby stations on the same day.** |
+| **Tire Centre** | costco.ca/tires.html | **No base tire prices** (requires a vehicle/tire-size lookup). Two current promotions ARE published, tier (a), 19 Sept 2026: *"Receive **$100** instantly when you buy a set of 4 eligible Bridgestone tires… August 31 – October 4, 2026"* and *"Receive **$60** instantly when you buy a set of 4 eligible Firestone tires… valid between August 31 to October 4, 2026."* Page states installation package is included and the offers are valid at Canadian warehouses and on costco.ca. |
+| **Optical** | costco.ca/optical.html | **NO PRICES. Zero dollar figures in the page's visible text.** Eye exam fees and frame/lens prices must be filmed at the counter. |
+| **Hearing Aids** | costco.ca/hearing-aids.html | **NO PRICES. Zero dollar figures in the page's visible text.** |
+| **Food Court** | no page exists on costco.ca | **NO PRICES PUBLISHED ANYWHERE BY COSTCO.** See §8. |
+
+---
+
+## 8. FOOD COURT — WHY THERE IS NO USABLE NUMBER HERE
+
+**Costco publishes no food court menu or pricing on costco.ca.** Search of all 7,897 product URLs and the site's own pages returned nothing.
+
+**Tier (b) STRONGLY SUPPORTED, named outlet, but DATED 2025 — usable for the story, NOT as a current price:**
+
+- **CBC News**, *"As a B.C. Costco cracks down on its food court, is there anywhere truly cheap left to eat?"*, **published 30 July 2025** (`datePublished: 2025-07-30T08:00:00.674Z`), cbc.ca/news/canada/costco-food-court-membership-1.7595356. Direct quote: *"The $1.50 Costco hotdog meal. Despite inflation, the price has held firm since the 1980s."* The same article states *"the $65 membership fee"* — independently corroborating §6.1.
+- **blogTO / Daily Hive** (2024): the $1.50 Canadian combo is an all-beef or Polish sausage hot dog with a 20 oz. fountain drink, refill included.
+
+**PIZZA SLICE AND WHOLE PIZZA: NO USABLE SOURCE EXISTS.** Every result for Canadian Costco pizza pricing came from the SEO/aggregator sites listed in §10. **Do not put a pizza price on screen. Film the menu board.**
+
+**Recommendation:** film the food court menu board. It is a 15-second shot and it is the only honest source for any of these numbers.
+
+---
+
+## 9. UNVERIFIED / DO-NOT-USE
+
+**Nothing in this section may appear on screen as a factual claim.**
+
+### 9.1 Tier (c) SPECULATION — DO NOT USE
+
+| Claim | Status |
+|---|---|
+| **"Kirkland milk chocolate almonds rose from ~$17 to ~$30"** | **NO SUPPORT FOUND.** Current price is $26.99 (1.5 kg), matching neither figure. No price history is published by Costco and I found no named-outlet record. **Cut, or replace with a dated shelf-tag photograph.** |
+| **"Costco rotisserie chicken is $7.99 in Canada"** (reference script) | **CONTRADICTED.** The most recent named-outlet record (Narcity, 20 May 2026) says **$9**. Even that is four months stale. **Film the tag.** |
+| Any Costco Canada pizza slice or whole-pizza price | **NO CREDIBLE SOURCE EXISTS.** Only SEO aggregators. **Film it.** |
+| Any Costco per-litre gasoline price, and any comparison to nearby stations | **NOT OBTAINABLE.** Costco publishes none; GasBuddy blocked. **Film the pump.** |
+| Any Costco Optical, hearing aid, or base tire price | **NOT PUBLISHED.** **Film the counter.** |
+| Any claim that Costco TVs undercut Best Buy / Amazon / Walmart | **NOT TESTED.** All three blocked. No competitor TV price was obtained for any of the three model numbers. |
+
+### 9.2 Items with NO obtainable Costco price — all must be filmed in warehouse
+
+Rotisserie chicken · Food court hot dog combo, pizza slice, whole pizza · Hawkins Cheezies multi-pack (pack count unknown) · Costco bakery muffins (count unknown), bakery croissants, cakes, bakery cookies · Fresh eggs · Fresh butter · Fresh milk · Fresh/raw bacon and raw meat · French's mustard · Kirkland Signature boneless-skinless IQF frozen chicken breast · Gasoline · Optical · Hearing aids · Tire base prices.
+
+### 9.3 Competitor comparisons that MUST BE FILMED IN STORE
+
+**Loblaws, Real Canadian Superstore, No Frills, Metro, Food Basics, Sobeys, FreshCo, Save-On-Foods, Voilà and Amazon.ca all blocked automated retrieval on 19 September 2026.** Where a price from these banners appears in §4 it came from a **current scanned flyer via Flipp**, is **promotional not regular shelf price**, and is **tier (b) not tier (a)**.
+
+**There is not one single tier-(a) competitor price in this dossier.** Every Costco-vs-competitor claim in the video must be shot on camera in both stores in the same week.
+
+Specifically unusable without filming:
+- All toilet paper and paper towel per-sheet comparisons (competitor sheet counts unpublished).
+- "Hellmann's Mayonnaise $5.99 at Food Basics" — **no size given on the flyer. Unusable.**
+- "Gallo EVOO $7.99 at No Frills" — flyer reads "750 mL/1 L", **ambiguous size. Unusable.**
+- "Armstrong Old Cheddar $4.98" and "Balderson Old Cheddar $10.47" at Walmart — **no size given. Unusable.**
+- All Hawkins Cheezies comparisons — **Costco pack count unknown.**
+- Any olive-oil comparison — Costco's KS grades (Italian EVOO / Spanish EVOO / Organic EVOO / pure) have no exact grade-matched competitor product in the data.
+
+### 9.4 Internal data discrepancy — disclose it, don't paper over it
+
+**Charmin Ultra Soft 30 × 200 sheets (item 2633624) has three different current prices in three Costco-sourced feeds on the same day:**
+
+| Source | Price |
+|---|---|
+| costco.ca product page, `onlinePrice` (regular) | $39.99 |
+| costco.ca product page, `deliveredPrice` (live, after $6.50 discount) | **$33.49** |
+| Costco Grocery flyer via Flipp, valid 14–20 Sep 2026 | **$26.49** (was $32.99) |
+
+Note the flyer's "was" price ($32.99) does not match the page's regular price ($39.99) either. **I do not know which is the warehouse shelf price and I am not going to guess. Film the tag.** Cashmere 40-pack shows the same pattern ($34.99 reg → $29.49 live on-page, and $29.49 in the flyer — those two agree, so the Charmin case may be a regional or timing artefact).
+
+### 9.5 Geographic scope
+
+All Flipp competitor data used postal code **M5V 3L9 (downtown Toronto)**. Costco.ca prices resolved to default **warehouse number 894**, which I could not map to a named location. **Prices vary by province — declare the shooting city on screen.**
+
+### 9.6 House-rule compliance note
+
+Weights, volumes, counts, sheet counts, pack counts and roll counts appear throughout this dossier **solely as declared label or page facts**. No nutritional figure, no protein content, and no statement about any food's effect on a body appears anywhere in this document. Product descriptions were quoted only for identification (roast level, grind, ply, scent, certification, country of manufacture). No company is stated or implied to have done anything wrong: all price differences reported are ordinary commercial differences between retailers and formats, and Costco's own promotional and regular prices are reported side by side wherever both were available.
+
+---
+
+## 10. EXCLUDED DOMAINS — SEO / AGGREGATOR SITES ENCOUNTERED AND REJECTED
+
+The following appeared in search results for Costco Canada pricing and were **excluded from this dossier without exception**. They are menu/price-guess sites with no stated capture date, no primary sourcing, and in several cases obviously wrong or US-derived figures. **Do not cite any of them, and do not let them back in via a second-pass search.**
+
+- costcofoodcourtmenu.ca
+- costcofoodcourtmenus.ca
+- costcofoodcourt.vercel.app
+- canadianmenuwithprices.com
+- menupricesincanada.com
+- clubfoodcourt.com
+- utilitycommons.com
+- optimalrecipes.com
+- costcoguides.com
+- mojosalesandbranding.com
+- torontoscoop.ca
+- thekrazycouponlady.com
+
+**Sources actually used and permitted:**
+
+*Primary (tier a):* costco.ca product pages (sitemap `sitemap_lw_p_001.xml`, JSON-LD and embedded `priceInfo`); costco.ca/join-costco.html; costco.ca/executive-rewards.html; costco.ca/gasoline.html; costco.ca/tires.html; costco.ca/optical.html; costco.ca/hearing-aids.html; costcobusinesscentre.ca (retrieved, no prices published).
+
+*Named outlet / flyer (tier b and d):* Flipp / Wishabi public flyer and item endpoints (`backflipp.wishabi.com`) for current scanned retailer flyers and Walmart Canada e-commerce listings; CBC News (cbc.ca, 30 July 2025); Narcity (narcity.com, 20 May 2026); blogTO and Daily Hive (2024, background only).
+
+---
+
+**END OF PART 1 DOSSIER. Capture date for every Costco price above: 19 September 2026. Re-verify in warehouse on camera.**
+
+
+---
+
 # PART 2 DOSSIER — COSTCO CANADA: CLAIMS, CANADIAN SPECIFICS, AUDIENCE
 
 **Compiled 19 September 2026.** Tier key: **(a)** CONFIRMED primary — company filing, company statement, regulator, court · **(b)** STRONGLY SUPPORTED — named outlet · **(c)** SPECULATION — do not use · **(d)** DOCUMENTED consumer/media record, quarantined.

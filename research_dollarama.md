@@ -1,6 +1,6 @@
 # RESEARCH DOSSIER: DOLLARAMA — "Don't Shop At Dollarama Again Until You Watch This"
 
-Compiled 21 September 2026 for Canadian Counter. Part 1: filings, policy, legal record, Canadian context. Part 2 (live prices and unit arithmetic) follows.
+Compiled 21 September 2026 for Canadian Counter. Part 1: filings, policy, legal record, Canadian context. Part 2: live prices and unit arithmetic, 28-item basket.
 
 ---
 
@@ -343,3 +343,492 @@ If any recall is used on screen: show only product name, date and issuing body. 
 findprices.com; querysprout.com; returnpolicy.ca; returnpolicies.info; canadianfreestuff.com; gethuman.com; returnbear.com; scrapehero.com; agenty.com; gisutils.com; storelocators.com; shopping-canada.com; owler.com; leadiq.com; zoominfo.com; cbinsights.com; crunchbase.com; mergr.com; growthsharematrix.com; matrixbcg.com; themergerprofessor.wordpress.com; soscip.org; ca.topclassactions.com; conciliainc.com (administrator listing only); lawyer-monthly.com; gregmonforton.com; retailboss.co; azat.tv; headtopics.com; newsbreak.com; aol.com (syndication); ad-hoc-news.de; defenseworld.net; thestockobserver.com; train2invest.com; insidentity.com; octagonai.co; quartr.com; stockopedia.com; tradingview.com; stockinvest.us; simplywall.st; marketbeat.com; fool.com; statista.com (paywalled secondary); kindersleysocial.ca; cultmtl.com; dailyhive.com; blogto.com; insauga.com; narcity.com; houston-today.com; elliotlaketoday.com; wiki-mirror.cla.umn.edu; kidzsearch.com; grokipedia.com; en.wikipedia.org (used only to identify what competitor scripts copied; never as a source); tiktok.com; yelp.ca; waze.com; openinghours.ca; yellowpages.ca; benzinga.com and seekingalpha.com transcripts (Investing.com transcript used instead, itself flagged for verification against the webcast); marketscreener.com (mirror of the AIF; the dollarama.com original is cited).
 
 END OF PART 1 DOSSIER.
+
+
+---
+
+# PART 2 DOSSIER — DOLLARAMA: LIVE PRICES AND UNIT ARITHMETIC (21 SEPT 2026)
+
+Retrieval date for every figure below: **21 September 2026** (UTC, early hours) unless a row says otherwise. Currency: **CAD** throughout. Every price line carries the flag: **re-verify on shelf on camera.** No health, nutrition, ingredient or safety commentary appears in this document; only sizes, prices and label-declared counts.
+
+**Tiers.** (a) CONFIRMED PRIMARY = retailer's own domain (shop.dollarama.com; costco.ca). (b) STRONGLY SUPPORTED = Flipp/Wishabi flyer item or Flipp's e-commerce index (Walmart Canada / Staples / London Drugs online prices). (c) SPECULATION = not used anywhere in this file. (d) forum/aggregator = rejected (Section 6).
+
+**One caveat that applies to every Dollarama figure.** Dollarama's online store (shop.dollarama.com) is a DoorDash-hosted storefront. Its own disclosure string reads: *"Prices may vary from in-store or elsewhere for this location. Prices for delivery and pickup may vary."* DoorDash's marketing copy on the same page claims *"in-store prices"*. The observed prices are Dollarama's canonical shelf price points ($1.25, $1.50 ... $5.00), which is consistent with pass-through pricing, but that is an inference. Treat every Dollarama online price as tier (a) for the ONLINE price and as "expected shelf price, re-verify on shelf on camera".
+
+---
+## SECTION 1 — DOLLARAMA'S OWN SITE: WHAT IS EXPOSED, AND HOW TO REPEAT IT
+
+### 1.1 What dollarama.com actually is now
+- `https://www.dollarama.com/en-CA/` (HTTP 200, 31 KB) is a corporate/brochure site: gift card, careers, locations, investor relations, legal. It contains **no product listings and no prices**. Its sitemap index (`/sitemap.xml`) points only to `sitemap_content.xml` (corporate pages) and a store-positions sitemap. `robots.txt` still disallows legacy paths such as `/en-ca/search/?keywords*` and `*GoogleProductFeed*`, i.e. remnants of the former case-lot e-commerce site, which no longer serves.
+- The homepage links out to two shopping surfaces: **`https://shop.dollarama.com/`** (banner link, `utm_source=mx-1P`) and **`https://dollarama.instacart.com/store/dollarama/storefront`** (Instacart). Only shop.dollarama.com was probed (Instacart is a third-party marketplace and not Dollarama's own price list).
+
+### 1.2 shop.dollarama.com — DoorDash storefront, prices visible without login
+- `https://shop.dollarama.com/` (HTTP 200) redirects to `https://shop.dollarama.com/convenience/store/43118689?g=-82.99879&l=39.96118` — a **DoorDash "Storefront"** (Next.js SSR; page footer links to help.doordash.com terms; `robots.txt` is DoorDash's generic one). The `g=/l=` parameters are longitude/latitude from the requesting IP; the server picked the nearest store: **Dollarama, 1-410 Main St E, Kingsville ON N9Y 0C1 (store_id 43118689)**. No login, no cookie consent, no bot wall.
+- **Prices are embedded in the server-rendered HTML** as escaped JSON. Each product card carries `"accessibility_labels":[{"label":"item_price","value":"$1.50"},{"label":"item_name","value":"Pepsi Soft Drink Bottle (591 ml)"}]` and an `item_data.price` object `{"currency":"CAD","unit_amount":150,"display_string":"$1.50"}`.
+- **Per-unit, not per-case.** Every captured item has `"purchase_type":"PURCHASE_TYPE_UNIT"` and `"quantity_increment":{"unit_amount":100,"decimal_places":2}` (= increments of 1). The old dollarama.com case-lot model is gone; this is single-unit retail pricing.
+- **No unit price (per 100 g / per 100 mL) is shown online.** `display_unit` is an empty string on every item; the only per-measure field present is the template key `unitPriceDisplayStyle`, unused.
+
+### 1.3 Repeatable retrieval method (worked 21 Sept 2026)
+```
+UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128.0 Safari/537.36"
+# category page (25 categories linked from the store page):
+curl -sL -A "$UA" "https://shop.dollarama.com/convenience/store/43118689/category/snacks-758" -o snacks.html
+# search page (this is the form that works; ?query= and /search?keyword= return 404):
+curl -sL -A "$UA" "https://shop.dollarama.com/convenience/store/43118689/search/pepsi" -o pepsi.html
+# extract name/price pairs:
+python3 - <<EOF
+import re; s=open("pepsi.html").read()
+rx=re.compile(r'\\"label\\":\\"item_price\\",\\"priority_level\\":\\"[A-Z_]+\\",\\"value\\":\\"\$?([0-9.]+)\\"\},\{\\"label\\":\\"item_name\\",\\"priority_level\\":\\"[A-Z_]+\\",\\"value\\":\\"([^"\\\\]+)\\"')
+for p,n in rx.findall(s): print(p,"|",n)
+EOF
+```
+Category slugs seen: accessories-28246, apparel-1796, baby & child-1791, bath-8825, beauty-1123, bedding-8845, dining-8856, drinks-751, electronics-27441, furniture-8994, grocery-753, home decor-8880, home improvement-8897, household-754, kitchen-8894, medicine-756, office supplies-2183, outdoor-8840, pantry-963, party supplies-1926, personal care-757, pet care-1026, snacks-758, storage & cleaning-8858, toys & games-5574. Each category page renders ~90-100 items; the search endpoint renders up to ~40 per term. Changing store requires DoorDash's location API (not attempted); only the Kingsville store was reachable from this proxy.
+
+### 1.4 Price points observed (1,011 unique items captured from 11 category pages + 46 searches)
+| Price | Items | Price | Items | Price | Items |
+|---|---|---|---|---|---|
+| $0.34 | 4 | $0.42 | 1 | $0.63 | 11 |
+| $0.75 | 9 | $0.99 | 4 | $1.00 | 25 |
+| $1.25 | 124 | $1.30 | 1 | $1.37 | 3 |
+| $1.45 | 3 | $1.50 | 138 | $1.53 | 1 |
+| $1.61 | 1 | $1.75 | 64 | $1.91 | 1 |
+| $1.95 | 1 | $2.00 | 64 | $2.20 | 1 |
+| $2.25 | 61 | $2.50 | 78 | $2.53 | 1 |
+| $2.58 | 1 | $2.61 | 1 | $2.70 | 1 |
+| $2.75 | 52 | $3.00 | 49 | $3.20 | 1 |
+| $3.25 | 23 | $3.50 | 44 | $3.66 | 1 |
+| $3.70 | 1 | $3.75 | 33 | $4.00 | 52 |
+| $4.03 | 1 | $4.20 | 2 | $4.25 | 26 |
+| $4.45 | 1 | $4.50 | 29 | $4.75 | 41 |
+| $5.00 | 53 | $5.20 | 1 | $5.32 | 1 |
+| $5.36 | 1 |  |  |  |  |
+
+- **Core ladder** (each with 20+ items): $1.00, $1.25, $1.50, $1.75, $2.00, $2.25, $2.50, $2.75, $3.00, $3.25, $3.50, $3.75, $4.00, $4.25, $4.50, $4.75, $5.00. Modal price point is **$1.50** (138 items), then **$1.25** (124).
+- **Below $1.00:** $0.34 (Bowlfull instant ramen 85 g, 4 items), $0.42 (1), $0.63 (355 mL soft-drink cans, 11 items), $0.75 (9), $0.99 (chocolate bars, 4).
+- **Above $5.00 — only 3 of 1,011 items:** Panasonic Rechargeable AAA Batteries (2 ct) **$5.32**; Panasonic Rechargeable Power AA Batteries (2 ct) **$5.36**; Electra Emergency 3 in 1 LED Light Bulb **$5.20**. Every other off-ladder price ($1.37, $1.45, $1.53, $1.61, $2.53, $2.58, $2.61, $3.66, $3.70) is also a battery or bulb listing. These look like a ladder price plus a small per-unit add-on (e.g. $1.61 = $1.50 + $0.11; $2.61 = $2.50 + $0.11; $5.20 = $5.00 + $0.20), consistent with an environmental handling fee folded into the online price; that explanation is an **inference — confirm on the shelf tag on camera**. Excluding those, the online ceiling is exactly **$5.00**.
+
+---
+## SECTION 2 — THE BASKET (28 like-for-like items)
+
+Method: Dollarama item and size exactly as listed online; competitor items at the nearest size from (a) costco.ca product pages (priceInfo.displayPrice.deliveredPrice, warehouse 894 default; pages report `availability: OutOfStock` in JSON-LD because no warehouse was selected — the price object still renders) and (b) Flipp flyer items / Flipp e-commerce index (Walmart Canada online, Staples online). Per-unit maths computed programmatically from the label-declared quantity; rows with no declared size/count get **no per-unit figure** rather than an assumed one. Where a competitor row is a sale/flyer price the regular price is noted when Flipp supplied it.
+
+### 1. Pepsi 591 mL bottle  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Pepsi Soft Drink Bottle (591 ml) | 591 mL | $1.50 | $0.254 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/pepsi | re-verify on shelf on camera |
+| Walmart (online index) | Pepsi Cola 591 Ml, Bottle 591 Ml | 591 mL | $2.78 | $0.470 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pepsi%20591 | sku 10210357; re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-25 Sep) | EVIAN (500mL), CELSIUS (355mL) or PEPSI BEVERAGES (591mL) | 591 mL | $3.29 | $0.557 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | 2/$6 or $3.29 each; flyer_item 1040606413; re-verify on shelf on camera |
+| Walmart (online index) | Pepsi Diet Cola 2 L, Bottle 2 L | 2 L | $2.88 | $0.144 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pepsi%20591 | sku 10185442 (2 L format, not like-for-like); re-verify on shelf on camera |
+| No Frills (flyer 17-24 Sep) | COCA-COLA or PEPSI SOFT DRINKS, 2 L | 2 L | $2.00 | $0.100 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=coca-cola | flyer_item 1040134019 (2 L format); re-verify on shelf on camera |
+| Costco.ca | Diet Pepsi 355 mL 32-pack | 32 x 355 mL | $24.99 | $0.220 | (a) | https://www.costco.ca/p/-/diet-pepsi-355-ml-32-pack/100550177 | item 312787, deliveredPrice; bulk format; re-verify on shelf on camera |
+
+### 2. Lay's / Ruffles potato chips  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Lay's Classic Potato Chips (150 g) | 150 g | $2.50 | $1.667 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/lays | also Lay's Classic 50 g $1.25 = $2.500/100 g; Ruffles Regular 145 g $2.75 = $1.897/100 g; Ruffles All Dressed 200 g $3.75 = $1.875/100 g; re-verify on shelf on camera |
+| FreshCo (flyer 17-24 Sep) | Lay's Potato Chips 177-235 g, Cheetos 170-285 g or SunChips 205 g | 235 g (largest in range) | $2.99 | $1.272 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | flyer_item 1040551605; at 177 g = $1.689/100 g; re-verify on shelf on camera |
+| Sobeys (flyer 17-24 Sep, Scene+ price) | LAY'S Potato Chips | size not stated in flyer text | $3.49 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | flyer_item 1039611783 - NO SIZE, no per-unit; re-verify on shelf on camera |
+| Walmart (online index) | Lay's Classic Potato Chips | size not stated in index | $2.48 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | sku 6000197102715 - NO SIZE, no per-unit; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | RUFFLES POTATO CHIPS, 180-200 G | 200 g | $4.50 | $2.250 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | 2/$9 or $4.99 each; flyer_item 1040060691; re-verify on shelf on camera |
+| Giant Tiger (flyer 16-23 Sep) | Ruffles | size not stated | $2.75 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=ruffles | flyer_item 1039880189, was $4.66 - NO SIZE; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Regular Potato Chips 200 G | 200 g | $1.48 | $0.740 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=great%20value | sku 6000202867445 - house brand; re-verify on shelf on camera |
+| No Frills (flyer 1 Sep-1 Oct) | PC KETTLE COOKED CHIPS, 200 g | 200 g | $2.00 | $1.000 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | flyer_item 1040134407 - house brand; re-verify on shelf on camera |
+
+### 3. Kraft Dinner  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Kraft Dinner Sharp Cheddar (175 g) | 175 g | $1.75 | $1.000 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/kraft%20dinner | no 200 g Original captured online; KD Triple Cheese snack cup 58 g $1.75 = $3.017/100 g; re-verify on shelf on camera |
+| Walmart (online index) | Kraft Dinner Three Cheese Macaroni And Cheese Dinner, 175g Box 175g | 175 g | $2.27 | $1.297 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=kraft%20dinner | sku 5QRURBLZF27C - same 175 g flavour-variant format; re-verify on shelf on camera |
+| Walmart (online index) | Kraft Dinner Original Macaroni And Cheese Dinner, 200g Box 200g | 200 g | $1.67 | $0.835 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=kraft%20dinner | sku 4CW6SAER16MG; re-verify on shelf on camera |
+| Metro (flyer 17-24 Sep) | KRAFT DINNER | size not stated | $1.79 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=kraft%20dinner | flyer_item 1041414507 - NO SIZE; re-verify on shelf on camera |
+| Fortinos (flyer 17-24 Sep) | KRAFT DINNER MACARONI & CHEESE, 5 x 200 g | 1000 g | $6.99 | $0.699 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=kraft%20dinner | flyer_item 1040118975; re-verify on shelf on camera |
+| Walmart (online index) | Kraft Dinner Original ... 200g Box, 12 Ct Case 200 G | 2400 g | $9.97 | $0.415 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=kraft%20dinner | sku 5SMT02AKI26E, was 13.97; re-verify on shelf on camera |
+
+### 4. Heinz ketchup, small bottle  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Heinz Ketchup Squeeze Bottle (375 ml) | 375 mL | $3.00 | $0.800 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/heinz | French's Tomato Ketchup 500 mL $2.75 = $0.550/100 mL; re-verify on shelf on camera |
+| Walmart (online index) | Heinz Tomato Ketchup, 750 Ml Squeeze Bottle 750 Ml | 750 mL | $5.77 | $0.769 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=heinz%20ketchup | sku 10297236; regular 375 mL Heinz NOT in index today; re-verify on shelf on camera |
+| Walmart (online index) | Heinz Tomato Ketchup, Prepared In Canada, 1.5 L Squeeze Bottle 1.5 L | 1.5 L | $6.97 | $0.465 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=heinz%20ketchup | sku 10297289; re-verify on shelf on camera |
+| No Frills Edmonton (flyer 17-24 Sep) | HEINZ KETCHUP, 750 ML/1 L OR KRAFT MIRACLE WHIP | 750 mL (smallest in range) | $5.00 | $0.667 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=heinz%20ketchup | Edmonton flyer only; re-verify on shelf on camera |
+| Costco.ca | Heinz Ketchup, 2 x 1.5 L | 3 L | $13.99 | $0.466 | (a) | https://www.costco.ca/p/-/heinz-ketchup-2-15-l/4000345762 | item 1920641, deliveredPrice; re-verify on shelf on camera |
+
+### 5. Cereal (Honey Nut Cheerios)  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Honey Nut Cheerios Whole Grain Honey Nut Cereal (292 g) | 292 g | $2.75 | $0.942 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/cheerios | Kellogg's Froot Loops 230 g $3.00 = $1.304/100 g; Frosted Flakes 275 g $3.00 = $1.091/100 g; Cinnamon Toast Crunch 354 g $3.75 = $1.059/100 g; re-verify on shelf on camera |
+| Walmart (online index, sale) | General Mills Honey Nut Cheerios Cereal 430 G | 430 g | $3.33 | $0.774 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=cheerios | sku 6000198308066, was $4.97 (=$1.156/100 g at regular); re-verify on shelf on camera |
+| Rexall (flyer 18-25 Sep) | CHEERIOS 350g, WHOLE GRAIN CHEERIOS 342g or HONEY NUT CHEERIOS 430g | 430 g | $5.99 | $1.393 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=cheerios | flyer_item 1038266206; re-verify on shelf on camera |
+| Costco.ca | Honey Nut Cheerios, 1.51 kg | 1510 g | $11.99 | $0.794 | (a) | https://www.costco.ca/p/-/honey-nut-cheerios-151-kg/100417842 | item 1134668, deliveredPrice; re-verify on shelf on camera |
+| Costco.ca | Cheerios Jumbo Pack, 1.22 kg | 1220 g | $9.99 | $0.819 | (a) | https://www.costco.ca/p/-/cheerios-jumbo-pack-122-kg/4000360884 | item 1912639; online 11.99 less $2 = delivered 9.99; re-verify on shelf on camera |
+
+### 6. Oreo cookies  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Mr. Christie's 270g Oreo Cookies (270 g) | 270 g | $3.25 | $1.204 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/oreo | Oreo Mini Cookies 225 g $2.75 = $1.222/100 g; re-verify on shelf on camera |
+| Walmart (online index) | Oreo Thins, Original Chocolate Sandwich Cookie 261 G | 261 g | $2.98 | $1.142 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=oreo | sku 35HJJH2HL5OH; "Oreo Chocolate Sandwich Cookies" $1.98 sku 58EFLLGMWCZ8 has NO SIZE in index; re-verify on shelf on camera |
+| Fortinos (flyer 17-24 Sep) | CHRISTIE & OREO COOKIES, 224-303 G | 303 g (largest) | $3.99 | $1.317 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=oreo | flyer_item 1040119033; at 224 g = $1.781/100 g; re-verify on shelf on camera |
+
+### 7. Chips Ahoy! cookies  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Chips Ahoy! Original Chocolate Chip Cookies (258 g) | 258 g | $3.25 | $1.260 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/chips%20ahoy | Chips Ahoy! Mini Snak Paks 6 x 30 g = 180 g $2.75 = $1.528/100 g; re-verify on shelf on camera |
+| Walmart (online index) | Chips Ahoy! Original Chocolate Chip Cookies, Resealable Pack 258 G | 258 g | $2.98 | $1.155 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | sku 6000202889511 - IDENTICAL SIZE; re-verify on shelf on camera |
+| Walmart (online index / flyer 17-24 Sep) | Chips Ahoy! Original Chocolate Chip Cookies, 1 Family Size Resealable Pack 460g | 460 g | $4.98 | $1.083 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=chips%20ahoy | sku 6000197073701; flyer_item 1039621108; re-verify on shelf on camera |
+
+### 8. Laundry pacs (Gain Flings / Tide Pods)  — unit basis: per pac
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Gain Flings Liquid Laundry Detergent Pacs Original HE Compatible (9 ct) | 9 pacs | $4.50 | $0.500 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/gain | Gain Vibrant/Zen Super Sized Laundry Pods 9 ct $5.00 = $0.556/pac; no Tide Pods captured online (Tide liquid 17 loads 680 mL $5.00); re-verify on shelf on camera |
+| Walmart (online index) | Gain Flings Laundry Detergent Pacs, Original Scent, ... 16 Count 16ct | 16 pacs | $7.97 | $0.498 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gain%20flings | sku 78NT6RCRV99F; re-verify on shelf on camera |
+| Walmart (online index) | Gain Super Flings Laundry Detergent Pacs, 9 Count, Zen | 9 pacs | $6.97 | $0.774 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gain%20flings | sku 0XBF1IQUM3SZ - same 9-ct format; re-verify on shelf on camera |
+| Walmart (online index) | Tide Laundry Detergent Pods, Original Scent, 31 Count 31 Ct | 31 pacs | $12.97 | $0.418 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tide%20pods | sku 6000191920879; re-verify on shelf on camera |
+| Walmart (online index) | Gain Flings Laundry Detergent Pacs, 76 Count, Original Scent | 76 pacs | $24.97 | $0.329 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gain%20flings | sku 6000207566760; re-verify on shelf on camera |
+| Guardian (flyer 18-25 Sep) | GAIN Liquid 1.24-1.36L, Flings 16's or Sheets 120's | 16 pacs | $3.99 | $0.249 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gain%20flings | flyer_item 1038838659; re-verify on shelf on camera |
+| Rexall (flyer 18-21 Sep) | TIDE ... Pods or PERSIL Ultra Pacs 9's-16's ... | 9-16 pacs (use 9) | $4.99 | $0.554 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tide%20pods | flyer_item 1038266074; at 16 = $0.312/pac; re-verify on shelf on camera |
+
+### 9. Dish soap (Palmolive / Dawn)  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Palmolive Essential Clean Original Liquid Dish Soap (739 ml) | 739 mL | $2.75 | $0.372 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/palmolive | Palmolive Liquid Dish Soap 414 mL $1.50 = $0.362/100 mL; Dawn Ultra 431 mL $3.00 = $0.696; Dawn Ultra 502 mL $3.25 = $0.647; Old Dutch 2.5 L $5.00 = $0.200; re-verify on shelf on camera |
+| Walmart (online index) | Palmolive Essential Clean Liquid Dish Soap, Original Scent - 473 Ml 473 Ml | 473 mL | $1.87 | $0.395 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | sku 6000205873609; re-verify on shelf on camera |
+| Walmart (online index) | Palmolive Ultra Strength Liquid Dish Soap, ... 591 Ml Bottle | 591 mL | $1.97 | $0.333 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | sku 6000197013439; also Walmart flyer 10 Sep-22 Oct "Palmolive dish soap" $1.97 was $3.27; re-verify on shelf on camera |
+| Walmart (online index) | Palmolive Essential Clean Liquid Dish Soap, Original Scent - 828 Ml | 828 mL | $3.27 | $0.395 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | sku 6000191346965; re-verify on shelf on camera |
+| Walmart (online index) | Palmolive Essential Clean Liquid Dish Soap, Original Scent - 4.27 L | 4270 mL | $10.47 | $0.245 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | sku 6000205874106; re-verify on shelf on camera |
+| Walmart (online index / flyer 17-24 Sep) | Dawn Ultra Dish Soap, Dishwashing Liquid, Original 502ml | 502 mL | $2.46 | $0.490 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dawn%20dish | sku 4BQQXWFCXX2E, was 3.47; re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-20 Sep only) | NO NAME (800mL), PC (638mL - 739mL) or PALMOLIVE (591mL - 828mL) DISH SOAP | 800 mL (No Name) | $1.99 | $0.249 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | flyer_item 1040599256; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | PC PLANET FIRST ALL PURPOSE CLEANER 700 ML OR DISH SOAP 1.1 L | 1100 mL | $4.50 | $0.409 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=dish%20soap | flyer_item 1040062518; re-verify on shelf on camera |
+| No Frills Edmonton (flyer 17-24 Sep) | PALMOLIVE DISHWASHING LIQUID, 591/828 ML | 591 mL (smallest) | $2.50 | $0.423 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=palmolive | Edmonton flyer; re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature Ultra Shine Liquid Dish Soap, Fresh Scent, 2.66L | 2660 mL | $13.99 | $0.526 | (a) | https://www.costco.ca/p/-/kirkland-signature-ultra-shine-liquid-dish-soap-fresh-scent-266l/4000239193 | item 1684499; re-verify on shelf on camera |
+| Costco.ca | Dawn Platinum Advanced Power, Dishwashing Liquid 2.66 L | 2660 mL | $19.99 | $0.752 | (a) | https://www.costco.ca/p/-/dawn-platinum-advanced-power-dishwashing-liquid-266-l/4000423760 | item 2652709; re-verify on shelf on camera |
+
+### 10. Kitchen garbage bags (count and litres)  — unit basis: per bag
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Glad Easy-Tie 50.8 cm x 50.8 cm Kitchen Garbage Bags (24 ct) | 24 bags (litres not stated on listing) | $4.75 | $0.198 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/glad | Hercules 50.8 x 60.96 cm White Kitchen Garbage Bags (20 ct) $1.50 = $0.075/bag; Hercules Large 55.88 x 60.96 cm White Kitchen Bags (18 ct) $2.75 = $0.153/bag; Hercules 66.04 x 82.55 cm Black Outdoor (10 ct) $1.75 = $0.175/bag; Glad Regular Easy-Tie 66.04 x 83.82 cm Trash Bags (10 ct) $3.25 = $0.325/bag; re-verify on shelf on camera |
+| Walmart (online index) | Glad Easy-Tie Clear Kitchen Catchers Garbage Bags- Small 25 Litres, 48 Bags | 48 bags, 25 L | $8.27 | $0.172 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000191325914; re-verify on shelf on camera |
+| Walmart (online index) | Glad White Garbage Bags - Tall 45 Litres - Made Using 50% Recycled Plastic, 28 Trash Bags | 28 bags, 45 L | $7.97 | $0.285 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000208248001; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Tall Kitchen Garbage Bags, 45l , 30bags | 30 bags, 45 L | $6.97 | $0.232 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000206400274; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Tall Kitchen Garbage Bags, 45l , 60bags | 60 bags, 45 L | $12.97 | $0.216 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000206407322; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Small Kitchen Garbage Bags, 25l , 48 Bags | 48 bags, 25 L | $6.97 | $0.145 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000206405330; re-verify on shelf on camera |
+| Walmart (online index) | Glad Clear Garbage Bags - Regular 74 Litres - 10 Trash Bags | 10 bags, 74 L | $4.27 | $0.427 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | sku 6000191325880 (outdoor size); re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-25 Sep) | GLAD KITCHEN GARBAGE BAGS | count not stated | $7.99 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=garbage%20bags | flyer_item 1040605694 - NO COUNT; re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature Large Garbage Bags, 100-pack | 100 bags | $19.99 | $0.200 | (a) | https://www.costco.ca/p/-/kirkland-signature-large-garbage-bags-100-pack/100415248 | item 295579 (outdoor size); re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature Drawstring Garbage Bags, 90-pack | 90 bags | $31.99 | $0.355 | (a) | https://www.costco.ca/p/-/kirkland-signature-drawstring-garbage-bags-90-pack/100810284 | item 4163716; re-verify on shelf on camera |
+
+### 11. Sandwich / freezer bags  — unit basis: per bag
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Seal Store Fold Lock Top Assoted Brands 16.5 cm x14cm Sandwich Bags (100 ct) | 100 bags | $1.50 | $0.015 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/ziploc | house brand; NO Ziploc-brand item captured at Dollarama online; Seal Store Resealable 16.5 x 14.9 cm Sandwich Bag $1.50 (count not stated); re-verify on shelf on camera |
+| Walmart (online index) | Ziploc Sandwich Bags, Grip And Seal Top, 100 Bags 16.5cm X 14.9cm | 100 bags | $4.48 | $0.045 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=ziploc | sku 6000194639090, was 5.98; re-verify on shelf on camera |
+| Walmart (online index) | Ziploc Large Freezer Bags, Seal Top, Stay Open Design, 16 Bags | 16 bags | $4.48 | $0.280 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=ziploc | sku 10051503; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | ZIPLOC STORAGE BAGS, 10-100'S | 100 (largest) | $4.00 | $0.040 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=ziploc | flyer_item 1040063789; re-verify on shelf on camera |
+| Costco.ca | Ziploc Brand Large Freezer Bags, 3 packs of 50 | 150 bags | $25.99 | $0.173 | (a) | https://www.costco.ca/p/-/ziploc-brand-large-freezer-bags-3-packs-of-50/100484184 | item 1789709; re-verify on shelf on camera |
+
+### 12. Aluminum foil  — unit basis: per metre
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Betty Crocker 30.48 cm x 22.86 m Aluminum Foil | 22.86 m (75 ft) x 30.48 cm | $5.00 | $0.219 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/foil | Betty Crocker 45.72 cm x 762 cm Extra Large Aluminum Foil $4.25 (7.62 m wide roll = $0.558/m); "Betty Crocker 30.48 cm x 63.5 cm Aluminum Foil Roll" $1.75 as listed; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Aluminum Foil 25' | 7.62 m | $1.74 | $0.228 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aluminum%20foil | sku 10270023; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Aluminum Foil 50' | 15.24 m | $3.13 | $0.205 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aluminum%20foil | sku 6000191346937; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Aluminum Foil 100' | 30.48 m | $5.43 | $0.178 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aluminum%20foil | sku 10268147; re-verify on shelf on camera |
+| Walmart (online index) | Alcan Aluminum Foil Wrap, 50 Ft 50 | 15.24 m | $5.28 | $0.346 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aluminum%20foil | sku 10183237; re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-25 Sep) | GLAD CLING WRAP (30m), NO NAME PAPER TOWELS (2 Roll) or ALUMINUM FOIL (25') | 7.62 m | $1.49 | $0.196 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aluminum%20foil | flyer_item 1040605667; re-verify on shelf on camera |
+| Costco.ca | Alcan Aluminum Foil Wrap, 11.8 in. x 656.3 ft. | 200.04 m | $39.99 | $0.200 | (a) | https://www.costco.ca/p/-/alcan-aluminum-foil-wrap-118-in-6563-ft/100422038 | item 50147; re-verify on shelf on camera |
+
+### 13. AA batteries  — unit basis: per cell
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Panasonic Alkaline Plus Power AA Batteries (4 ct) | 4 cells (alkaline) | $2.61 | $0.652 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/batteries | Panasonic Carbon Zinc AA Batteries (4 ct) $1.61 = $0.403/cell (carbon-zinc as labelled, not alkaline); NO Duracell or Energizer AA captured at Dollarama online ("Panasonic Duracell Alkaline Batteries (2 ct)" $3.70 is a listing-name oddity - treat as unverified). Note the odd $2.61 / $1.61 price points (see Section 1).; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Aa Lr6/1.5 V Alkaline Batteries 4-Pack, 10-Year Storage Life | 4 cells | $3.97 | $0.993 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | sku 10205522; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Aa Lr6/1.5 V Alkaline Batteries 48-Pack, 10-Year Storage Life | 48 cells | $14.97 | $0.312 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | sku 6000196063044 (matches 19 Sep figure); re-verify on shelf on camera |
+| Walmart (online index) | Energizer Max Aa Batteries (8 Pack), Aa Alkaline Batteries | 8 cells | $8.47 | $1.059 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | sku 36DTUQM12E8L; re-verify on shelf on camera |
+| Walmart (online index) | Energizer Max Aa Batteries (36 Pack), Double A Alkaline Batteries | 36 cells | $21.97 | $0.610 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | sku 3VUWHM8KYP3T; re-verify on shelf on camera |
+| Staples (online index) | Duracell Coppertop AA Alkaline Batteries - 4 Pack | 4 cells | $11.99 | $2.998 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=duracell | sku 35936 - NO Duracell AA 4-pack in the Walmart index today; re-verify on shelf on camera |
+| Staples (online index) | Duracell Coppertop AA Alkaline Batteries - 8 Pack | 8 cells | $16.99 | $2.124 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=duracell | sku 35942; re-verify on shelf on camera |
+| Pharmasave (flyer 11-25 Sep) | Duracell Batteries AA or AAA 8's | 8 cells | $12.99 | $1.624 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | flyer_item 1037504651; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | DURACELL COPPERTOP AA24 OR AAA16 ALKALINE BATTERIES | 24 cells | $19.00 | $0.792 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=aa%20batteries | flyer_item 1040066203, over limit $24; re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature Alkaline AA Batteries, 48-count | 48 cells | $15.99 | $0.333 | (a) | https://www.costco.ca/p/-/kirkland-signature-alkaline-aa-batteries-48-count/4000436720 | item 1938092; re-verify on shelf on camera |
+| Costco.ca | Duracell CopperTop AA Batteries with Power Boost Ingredients, 40 count | 40 cells | $19.99 | $0.500 | (a) | https://www.costco.ca/p/-/duracell-coppertop-aa-batteries-with-power-boost-ingredients-40-count/4000436754 | item 1806358; online 25.99 less $6 = delivered 19.99; re-verify on shelf on camera |
+
+### 14. Toothpaste (Colgate / Crest)  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Colgate Winter Fresh Toothpaste (120 ml) | 120 mL | $2.00 | $1.667 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/colgate | Colgate Maximum Cavity Protection 60 mL $1.25 = $2.083/100 mL; Colgate Total Whitening 120 mL $3.75 = $3.125; Colgate MaxFresh 150 g $3.75 = $2.500/100 g; Crest Plus Scope Complete 50 mL $1.50 = $3.000; Crest Plus Complete Extra Whitening 120 mL $4.00 = $3.333; Crest 3D White 70 mL $4.75 = $6.786; re-verify on shelf on camera |
+| Walmart (online index) | Colgate Cavity Protection Fluoride Toothpaste, Winterfresh 95ml 95 Ml | 95 mL | $0.98 | $1.032 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=colgate | sku 6000195573254, was 1.44 (=$1.516/100 mL regular); re-verify on shelf on camera |
+| Walmart (online index) | Colgate Cavity Protection Fluoride Toothpaste, Regular 60ml 60 Ml | 60 mL | $0.84 | $1.400 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=colgate | sku 10075628; re-verify on shelf on camera |
+| Walmart (online index) | Crest Plus Cavity Protection Toothpaste, Regular 100ml 100 Ml | 100 mL | $1.27 | $1.270 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=crest%20toothpaste | sku 41698, was 1.48; re-verify on shelf on camera |
+| Walmart (online index) | Crest Whitening Plus Scope Toothpaste, Minty Fresh, 50ml 50 Ml | 50 mL | $1.27 | $2.540 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=crest%20toothpaste | sku 6000196338485, was 1.78 - same 50 mL format as Dollarama; re-verify on shelf on camera |
+| Walmart (online index) | Crest Complete Plus Extra Whitening Toothpaste, Clean Mint 120 Ml | 120 mL | $3.47 | $2.892 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=crest%20toothpaste | sku 6000202064884, was 3.98 - same 120 mL format; re-verify on shelf on camera |
+| Walmart (flyer 17-24 Sep) | Colgate MaxFresh 150 mL or Total 120 mL toothpaste ... | 120 mL | $3.97 | $3.308 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=colgate | flyer_item 1039623105, was 4.48; re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-25 Sep) | ORAL-B ... COLGATE CAVITY PROTECTION (95mL) or CREST COMPLETE WHITENING+SCOPE (50mL) TOOTHPASTE | 95 mL | $1.29 | $1.358 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=colgate | flyer_item 1040599853; re-verify on shelf on camera |
+| Your Independent Grocer / Loblaws (flyer 17-24 Sep) | COLGATE OR CREST TOOTHPASTE, 50-100 ML OR MANUAL TOOTHBRUSH | 50-100 mL (use 100) | $1.00 | $1.000 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=colgate | flyer_item 1040137538 (Toronto YIG); Loblaws Edmonton identical $1; re-verify on shelf on camera |
+| Costco.ca | Colgate Active Prevention Plus Fresh Whitening Toothpaste, 5 X 170 mL | 850 mL | $18.99 | $2.234 | (a) | https://www.costco.ca/p/-/colgate-active-prevention-plus-fresh-whitening-toothpaste-5-x-170-ml/4000287847 | item 1853310; re-verify on shelf on camera |
+| Costco.ca | Crest 3D White Advanced, Teeth Whitening Toothpaste Arctic Fresh, 5 x 135 mL | 675 mL | $24.49 | $3.628 | (a) | https://www.costco.ca/p/-/crest-3d-white-advanced-teeth-whitening-toothpaste-arctic-fresh-5-x-135-ml/4000183933 | item 1746658; online 28.99 less 4.50; re-verify on shelf on camera |
+
+### 15. Spices (Club House and house brand)  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Club House Montreal Steak Spice (60 g) | 60 g | $2.25 | $3.750 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/club%20house | house/other brands: Encore Gourmet Paprika 62 g $1.00 = $1.613/100 g; Encore Gourmet Oregano Leaves 17 g $1.00 = $5.882; Encore Gourmet Basil Leaves 23 g $1.00 = $4.348; D Gourmet Garlic Powder 70 g $1.00 = $1.429; Heavenly Spices Black Pepper 70 g $2.25 = $3.214; Heavenly Spices Garlic Salt 130 g $1.00 = $0.769; re-verify on shelf on camera |
+| Walmart (online index) | E-Lagrille Club House Paprika 119 G | 119 g | $6.27 | $5.269 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=club%20house | sku 10059482; re-verify on shelf on camera |
+| Walmart (online index) | Club House, Italian Seasoning 45 G | 45 g | $6.27 | $13.933 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=club%20house | sku 10059170; re-verify on shelf on camera |
+| Walmart (online index) | Club House, Poultry Seasoning 25 G | 25 g | $4.37 | $17.480 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=club%20house | sku 10059325; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Whole Black Peppercorns 85 G | 85 g | $2.27 | $2.671 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=great%20value | sku 10302417; re-verify on shelf on camera |
+| Loblaws Edmonton (flyer 17-24 Sep) | CLUB HOUSE OR LA GRILLE SPICES OR SEASONINGS, 13-275 G | 13-275 g (no single size) | $5.50 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=club%20house | flat price across sizes - no per-unit; re-verify on shelf on camera |
+| Costco.ca | Club House Roasted Garlic and Peppers Seasoning, 660 g | 660 g | $13.99 | $2.120 | (a) | https://www.costco.ca/p/-/club-house-roasted-garlic-and-peppers-seasoning-660-g/100547014 | item 140015; re-verify on shelf on camera |
+
+### 16. Rice  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Five Rivers Long Grain White Rice (900 g) | 900 g | $2.00 | $0.222 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/rice | Five Rivers Basmati Rice 800 g $2.50 = $0.313/100 g; Five Rivers Super Jasmine Rice 900 g $2.50 = $0.278; Kitchen 88 Microwavable Jasmine Rice 150 g $1.00 = $0.667; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Long Grain White Rice 900 G | 900 g | $3.47 | $0.386 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=rice | sku 4UD9P76BEQB4 - same 900 g format; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Basmati Rice 900g | 900 g | $3.97 | $0.441 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=rice | sku 6000203077609; re-verify on shelf on camera |
+| Walmart (online index) | Kitchen 88 Jasmine Rice 150 Grams 150 G | 150 g | $0.98 | $0.653 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=rice | sku 6000196213996 - same item as Dollarama $1.00; re-verify on shelf on camera |
+| Shoppers Drug Mart (flyer 19-25 Sep) | BETTY CROCKER MASHED POTATOES (215g), NO NAME RICE (900g) or CAMPBELL'S BROTH | 900 g | $2.99 | $0.332 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=no%20name | flyer_item 1040604472; re-verify on shelf on camera |
+| No Frills (flyer 17-24 Sep) | JASMINE GOLD THAI RICE, 8 KG | 8000 g | $12.88 | $0.161 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=rice | flyer_item 1040133484; re-verify on shelf on camera |
+| Costco.ca | Gelda Gold Extra Long Basmati Rice, 6 kg | 6000 g | $18.99 | $0.317 | (a) | https://www.costco.ca/p/-/gelda-gold-extra-long-basmati-rice-6-kg/4000294151 | item 1835723; re-verify on shelf on camera |
+
+### 17. Dry pasta  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Buon Gusto Penne Pasta (450 g) | 450 g | $1.25 | $0.278 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/pasta | Buon Gusto Elbow 450 g $1.25; Buongusto Spaghettini 450 g $1.25 (house/import brand; no Catelli/Barilla dry pasta captured); re-verify on shelf on camera |
+| Walmart (online index) | Catelli Classic All-Natural Spaghetti Pasta 454g | 454 g | $1.77 | $0.390 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pasta | sku 3HB8YECGMV5C, was 2.47 (=$0.544/100 g regular); re-verify on shelf on camera |
+| Walmart (online index) | Barilla Spaghettini Pasta 410 G | 410 g | $2.44 | $0.595 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pasta | sku 6000203462918; re-verify on shelf on camera |
+| No Frills (flyer 17-24 Sep) | NO NAME PASTA, 900 g | 900 g | $2.00 | $0.222 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=no%20name | flyer_item 1040134229; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | PC OR BLUE MENU COUSCOUS, 340 G, WHOLE GRAIN PASTA, 375 G OR CATELLI PASTA, 375/454 G | 454 g | $2.00 | $0.441 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=pasta | Edmonton flyer; over limit 2.48; re-verify on shelf on camera |
+| Costco.ca | Griss Pasta Giardino Penne, 4 kg | 4000 g | $12.99 | $0.325 | (a) | https://www.costco.ca/p/-/griss-pasta-giardino-penne-4-kg/100417283 | item 28404; re-verify on shelf on camera |
+
+### 18. Canned beans  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Tasteful Selections Red Kidney Beans (398 ml) | 398 mL | $1.00 | $0.251 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/beans | Tasteful Chickpeas 398 mL $1.00; Clark Beans Old Fashioned 398 mL $1.50 = $0.377/100 mL; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Dark Red Kidney Beans 19 Oz | 540 mL | $1.44 | $0.267 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=beans | sku 10275226; re-verify on shelf on camera |
+| Walmart (online index) | Unico Red Kidney Beans 19 Fl Oz | 540 mL | $1.84 | $0.341 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=beans | sku 10287421; re-verify on shelf on camera |
+| Walmart (online index) | Heinz Original Beans In Tomato Sauce, 398 Ml Can | 398 mL | $1.97 | $0.495 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=beans | sku 10297184; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | UNICO BEANS SELECTED VARIETIES, (540 ML), UNICO TOMATOES (796 ML) | 540 mL | $1.50 | $0.278 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=beans | Edmonton flyer; over limit 1.99; re-verify on shelf on camera |
+| No Frills Edmonton (flyer 17-24 Sep) | NO NAME BAKED BEANS, 398 ML | 398 mL | $1.50 | $0.377 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=T5J1B9&q=beans | Edmonton flyer; re-verify on shelf on camera |
+| Food Basics (flyer 17-24 Sep) | PRIMO BEANS | size not stated | $1.25 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=beans | flyer_item 1040192024 - NO SIZE; re-verify on shelf on camera |
+
+### 19. Canned diced tomatoes  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Tasteful Diced Tomatoes (398 ml) | 398 mL | $1.00 | $0.251 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/tomatoes | Tasteful Selections Tomato Paste 156 mL $0.75 = $0.481/100 mL; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Diced Tomatoes 796 Ml | 796 mL | $1.97 | $0.247 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tomatoes | sku 10303924; re-verify on shelf on camera |
+| Walmart (online index) | Unico Diced Tomatoes 796ml 796 | 796 mL | $2.24 | $0.281 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tomatoes | sku 10287585; re-verify on shelf on camera |
+| No Frills (flyer 17-24 Sep) | UNICO TOMATOES, 796 mL | 796 mL | $1.50 | $0.188 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tomatoes | flyer_item 1040133444; re-verify on shelf on camera |
+| Walmart (online index) | Unico Tomato Paste 156ml 156 | 156 mL | $1.24 | $0.795 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tomatoes | sku 6000188762632 (paste); re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | UNICO TOMATO PASTE, 156 ML | 156 mL | $1.00 | $0.641 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=tomatoes | flyer_item 1040066336 (paste); re-verify on shelf on camera |
+
+### 20. Paper towels (sheets)  — unit basis: per 100 sheets
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Bounty 69 Sheets Paper Towels (2 ct) | 2 x 69 = 138 sheets | $4.75 | $3.442 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/paper%20towel | Sponge Towels Econo 60 Sheets Paper Towels (2 ct) $3.00 = 120 sheets = $2.500/100 sheets; Terrifik 2 Ply Paper Towels (140 ct) $1.50 = $1.071/100 sheets (house brand; "140 ct" read as sheets - confirm on pack); Cascades Tuff Econo (6 ct) $4.75 - sheets not stated; re-verify on shelf on camera |
+| Walmart (online index) | Bounty Paper Towels Select-A-Size White, 1 Triple Roll, 123 Sheets Per Roll | 123 sheets | $4.98 | $4.049 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 5JTBMQEPRP7P; re-verify on shelf on camera |
+| Walmart (online index) | Bounty Paper Towels Select-A-Size White, 4 Triple Rolls, 123 Sheets Per Roll | 492 sheets | $18.48 | $3.756 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 1VDL66QI8PCC; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Ultra Paper Towel, 2 Rolls, 74 Sheets Per Roll | 148 sheets | $4.43 | $2.993 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 6000205988739; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Ultra Paper Towel, 6 Rolls, 66 Sheets Per Roll | 396 sheets | $9.93 | $2.508 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 6000205987104; re-verify on shelf on camera |
+| Walmart (online index) | Royale Ultra Strength Paper Towel 6 Rolls, 66 Sheets Per Roll | 396 sheets | $8.47 | $2.139 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 79495BU59WSJ; re-verify on shelf on camera |
+| Walmart (online index) | Cascades Tuff Enviro Paper Towels, 6 Rolls, 160 Sheets, 2-Ply | 960 sheets | $11.96 | $1.246 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=paper%20towels | sku 6000201418332; re-verify on shelf on camera |
+| Costco.ca | Bounty Plus Paper Towel, 12 x 91 Sheets | 1092 sheets | $39.99 | $3.662 | (a) | https://www.costco.ca/p/-/bounty-plus-paper-towel-12-x-91-sheets/4000339232 | item 1717599; re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature 2-ply Paper Towels, 12-pack | sheets/roll NOT captured on page | $33.99 |  | (a) | https://www.costco.ca/p/-/kirkland-signature-2-ply-paper-towels-12-pack/100363149 | item 580517 - no per-sheet until sheet count read on pack; re-verify on shelf on camera |
+
+### 21. Bathroom tissue (sheets)  — unit basis: per 100 sheets
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Fluffs 2 Ply 135 Toilet Sheets (4 ct) | 4 x 135 = 540 sheets | $1.25 | $0.231 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/toilet%20paper | Cascades Fluff Excellence 220-Sheets Toilet Papers (6 ct) $4.75 = 1,320 sheets = $0.360/100; Cascades Fluff Enviro 363-Sheets (4 ct) $4.50 = 1,452 = $0.310/100; Cascades Fluff 2-Ply 270 Sheets (3 ct) $5.00 = 810 = $0.617/100; Cashmere 2-Ply Bath Tissues (4 ct) $2.50 - sheets not stated; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Eco Bathroom Tissue, 12 Double Rolls, 242 Sheets, 2-Ply | 2904 sheets | $7.94 | $0.273 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=bathroom%20tissue | sku 6000202479531; re-verify on shelf on camera |
+| Walmart (online index) | Cascades Fluff Enviro Toilet Paper, 2-Ply, 242 Sheets Per Roll - 12 Rolls | 2904 sheets | $10.96 | $0.377 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=bathroom%20tissue | sku 6000206601425; re-verify on shelf on camera |
+| Walmart (online index) | Cashmere Toilet Paper, Hypoallergenic And Septic Safe, 8 Double Rolls = 16 Single Rolls | sheets not stated | $6.97 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=bathroom%20tissue | sku 4TEDUNHTWD0I - NO SHEET COUNT; re-verify on shelf on camera |
+| Costco.ca | Kirkland Signature 2-ply Bath Tissue, 30-pack | 30 x 380 = 11,400 sheets (380/roll from 19 Sep page read) | $32.99 | $0.289 | (a) | https://www.costco.ca/p/-/kirkland-signature-2-ply-bath-tissue-30-pack/4000111232 | item 6262016; re-verify on shelf on camera |
+| Costco (flyer online price 14-21 Sep) | Charmin Ultra Soft Toilet Paper Jumbo Rolls, 30 x 200 Sheets | 6000 sheets | $26.49 | $0.441 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=bathroom%20tissue | flyer_item 1040482234, was 32.99; re-verify on shelf on camera |
+| Costco.ca | Cascades Fluff 2-ply Bathroom Tissue, 40-pack | sheets not stated on page | $34.99 |  | (a) | https://www.costco.ca/p/-/cascades-fluff-2-ply-bathroom-tissue-40-pack/100417292 | item 1120613; re-verify on shelf on camera |
+| Metro (flyer 17-24 Sep) | CASHMERE BATHROOM TISSUE | count not stated | $4.99 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=bathroom%20tissue | flyer_item 1040834616 - NO COUNT; re-verify on shelf on camera |
+
+### 22. Gift bags  — unit basis: per bag
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Cado 20.7 cm x 13 cm x 7.7 cm Gift Bags (3 ct) | 3 bags (small/medium) | $1.50 | $0.500 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/gift%20bag | Cado Laser 17.78 x 22.22 cm Medium Gift Bags $0.75; Cado Large Paper Gift Bag with Embossed Design $1.75; Cado 31.75 x 43.68 cm Jumbo Gift Bag $1.75; Cado Super Jumbo $2.00; Crafts Mini 14 x 14.5 x 9 cm Solid Colour Gift Bags (3 ct) $1.25; re-verify on shelf on camera |
+| Walmart (online index) | American Greetings 13" Large Gift Bags, Rainbow Solids (12-Count) | 12 bags (large) | $16.99 | $1.416 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gift%20bags | sku 6000208606913; re-verify on shelf on camera |
+| Walmart (online index, clearance) | Hallmark Assorted Christmas Gift Bag Bundle, Pack Of 6 Bags | 6 bags | $1.50 | $0.250 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gift%20bags | sku 6000207985201, was 5.98 - seasonal clearance; re-verify on shelf on camera |
+| Walmart (online index, clearance) | Holiday Time 7 Pieces Cub Gift Bag Set,7 X 9 X 4 Inch | 7 bags (cub size) | $1.50 | $0.214 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=gift%20bags | sku 6000207978024, was 3.59 - seasonal clearance; re-verify on shelf on camera |
+
+### 23. HB pencils (12-pack)  — unit basis: per pencil
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Studio HB #2 Graphite Pencils (12 ct) | 12 pencils | $2.00 | $0.167 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/pencils | Studio Motivational Lead Pencils (10 ct) $1.25 = $0.125/pencil; Studio Sharpened Colour Pencils (12 ct) $1.50; re-verify on shelf on camera |
+| Walmart (online index) | Staedtler Norica Hb #2 Graphite Pencils 12 Count (Pack Of 1) | 12 pencils | $3.00 | $0.250 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pencils | sku 10027301; re-verify on shelf on camera |
+| Walmart (online index) | Staedtler Hb #2 Yellow Graphite Pencils | count not stated | $1.00 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pencils | sku 6000200407026, was 1.63 - NO COUNT; re-verify on shelf on camera |
+| Walmart (online index) | Pen+Gear 30ct Colour Pencils In Paper Box | 30 colour pencils | $3.00 | $0.100 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pencils | sku 2QWUX4QP8XMP (colour, not HB); re-verify on shelf on camera |
+
+### 24. Energy drinks (Monster / Red Bull / Rockstar)  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Monster Green Energy Drink (355 ml) | 355 mL | $2.25 | $0.634 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/monster | Monster Energy Drink (710 ml) $3.75 = $0.528/100 mL; Red Bull Energy Drink Can (250 ml) $2.75 = $1.100; Red Bull (473 ml) $4.25 = $0.899; Rockstar Energy Drink (473 ml) $2.25 = $0.476; Celsius (355 ml) $2.75; re-verify on shelf on camera |
+| Walmart (online index / flyer 17-24 Sep) | Monster Energy Green, 473ml, Can 473 Ml | 473 mL | $2.48 | $0.524 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=monster%20energy | sku 10280945; flyer_item 1039622860 was 2.98; re-verify on shelf on camera |
+| FreshCo (flyer 17-24 Sep) | Monster Singles 444-473 mL, Celsius 355 mL or Alani Nu 355 mL | 473 mL | $2.49 | $0.526 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | flyer_item 1040551711, was 3.49; re-verify on shelf on camera |
+| Walmart (online index) | Red Bull Energy Drink, 250 Ml 250 Ml | 250 mL | $2.87 | $1.148 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | sku 6000197310937, was 3.28; re-verify on shelf on camera |
+| Walmart (online index) | Red Bull Energy Drink, 473 Ml 1 Single Can | 473 mL | $5.28 | $1.116 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | sku 6000197311848; re-verify on shelf on camera |
+| Rexall (flyer 18-25 Sep) | MONSTER Energy Drinks | size not stated | $3.25 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | 2 for $6.50 or $3.99 ea; flyer_item 1038267173 - NO SIZE; re-verify on shelf on camera |
+| Costco (flyer online price 14-21 Sep) | Red Bull Energy Drink, 250 mL 24-pack | 6000 mL | $44.99 | $0.750 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=energy%20drink | flyer_item 1040482328, was 54.99; re-verify on shelf on camera |
+
+### 25. Scrub sponges  — unit basis: per sponge
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Javex Scrubbing Sponges (10 ct) | 10 sponges | $1.25 | $0.125 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/sponge | Javex Heavy Duty Scrub Sponges (2 ct) $1.25 = $0.625; Javex Non-Scratch Scrub Sponges (2 ct) $1.25; Scrub Mommy Dual Sided $4.00; Scrub Daddy Green Essentials $4.00; re-verify on shelf on camera |
+| Walmart (online index) | Scotch-Brite Heavy Duty Scrub Sponge, 3-Count | 3 sponges | $4.78 | $1.593 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=sponge | sku 205548; re-verify on shelf on camera |
+| Walmart (online index) | Great Value Heavy Duty Scrub Sponge, 3-Count | 3 sponges | $3.77 | $1.257 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=sponge | sku 6000205228700; re-verify on shelf on camera |
+| Real Canadian Superstore (flyer 17-24 Sep) | NO NAME SPONGES, 6'S | 6 sponges | $4.00 | $0.667 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=no%20name | flyer_item 1040063771; re-verify on shelf on camera |
+| Fortinos (flyer 17-24 Sep) | NO NAME GLASS CLEANER 765 ML OR NO NAME SCOUR SPONGES 2'S | 2 sponges | $1.99 | $0.995 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=no%20name | flyer_item 1040117817; re-verify on shelf on camera |
+| Costco.ca | Scotch-Brite Heavy Duty Scrub Sponge, 24-pack | 24 sponges | $21.99 | $0.916 | (a) | https://www.costco.ca/p/-/scotch-brite-heavy-duty-scrub-sponge-24-pack/4000154401 | item 1967168; re-verify on shelf on camera |
+
+### 26. Dishwasher pacs (Cascade / Finish)  — unit basis: per pac
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Cascade Total Clean Dish Detergents (14 ct) | 14 pacs | $5.00 | $0.357 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/cascade | Cascade Platinum Dishwasher Detergent (10 ct) $5.00 = $0.500/pac; Finish All in 1 Max Automatic Dishwasher Detergent Pods (11 ct) $3.75 = $0.341/pac; re-verify on shelf on camera |
+| Costco.ca | Cascade Platinum Plus ActionPacs, 81-count | 81 pacs | $34.99 | $0.432 | (a) | https://www.costco.ca/p/-/cascade-platinum-plus-actionpacs-81-count/4000230558 | item 1727590; re-verify on shelf on camera |
+| Walmart (Flipp index, 19 Sep earlier work - NOT re-captured today) | Great Value dishwasher pacs 90 | 90 pacs | $16.97 | $0.189 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=great%20value | from 19 Sep session; absent from today's "great value" results - re-pull before use; re-verify on shelf on camera |
+
+### 27. Peanut butter (Kraft)  — unit basis: per 100 g
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Kraft Smooth Peanut Butter Jar (500 g) | 500 g | $4.00 | $0.800 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/kraft%20dinner | captured via category listing; re-verify on shelf on camera |
+| Costco.ca (19 Sep earlier work; page 100417656 not re-fetched today) | Kraft Smooth Peanut Butter, 2 kg | 2000 g | $12.99 | $0.649 | (a) | https://www.costco.ca/kraft-smooth-peanut-butter%2c-2-kg.product.100417656.html | 19 Sep figure; re-fetch; re-verify on shelf on camera |
+
+### 28. Soft drink mini cans (6 x 222 mL)  — unit basis: per 100 mL
+
+| Store | Item (exactly as listed) | Size / count | Price | Per unit | Tier | Source | Note |
+|---|---|---|---|---|---|---|---|
+| **Dollarama** | Pepsi Soft Drink (222 ml x 6 ct) | 1332 mL | $3.50 | $0.263 | (a) | https://shop.dollarama.com/convenience/store/43118689/search/pepsi | re-verify on shelf on camera |
+| Walmart (online index) | Pepsi - 6 x 222mL | 1332 mL | $5.49 | $0.412 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=pepsi | listed in ecom index under q=pepsi; re-verify on shelf on camera |
+| Fortinos (flyer 17-24 Sep) | COCA-COLA, CANADA DRY OR PEPSI SOFT DRINKS, 6x222 mL | 1332 mL | $3.99 | $0.300 | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=coca-cola | flyer_item 1040111282; re-verify on shelf on camera |
+| Foodland (flyer 17-24 Sep, Scene+) | COCA-COLA or PEPSI Mini Cans | count not stated | $3.49 |  | (b) | https://backflipp.wishabi.com/flipp/items/search?locale=en-ca&postal_code=M5V3L9&q=coca-cola | flyer_item 1039745499 - NO COUNT; re-verify on shelf on camera |
+
+---
+## SECTION 2b — MASTER TABLE AND WINS/LOSSES
+
+Two scorecards, because the answer depends on which comparison you allow:
+- **Scorecard A (nearest like-for-like):** Dollarama vs the first competitor row in each basket item, which is the closest brand/size match available.
+- **Scorecard B (cheapest per unit anywhere in the set):** Dollarama vs the lowest per-unit competitor row, including bulk (Costco) and house brands (Great Value, No Name, PC).
+
+| # Item | Dollarama per unit | A: nearest match (store) | A per unit | A result | B: cheapest (store) | B per unit | B result |
+|---|---|---|---|---|---|---|---|
+| 1. Pepsi 591 mL bottle | $0.254 | Walmart (online index) | $0.470 | Dollarama cheaper (46%) | No Frills (flyer 17-24 Sep) | $0.100 | Dollarama dearer (154%) |
+| 2. Lay's / Ruffles potato chips | $1.667 | FreshCo (flyer 17-24 Sep) | $1.272 | Dollarama dearer (31%) | Walmart (online index) | $0.740 | Dollarama dearer (125%) |
+| 3. Kraft Dinner | $1.000 | Walmart (online index) | $1.297 | Dollarama cheaper (23%) | Walmart (online index) | $0.415 | Dollarama dearer (141%) |
+| 4. Heinz ketchup, small bottle | $0.800 | Walmart (online index) | $0.769 | Dollarama dearer (4%) | Walmart (online index) | $0.465 | Dollarama dearer (72%) |
+| 5. Cereal (Honey Nut Cheerios) | $0.942 | Walmart (online index, sale) | $0.774 | Dollarama dearer (22%) | Walmart (online index, sale) | $0.774 | Dollarama dearer (22%) |
+| 6. Oreo cookies | $1.204 | Walmart (online index) | $1.142 | Dollarama dearer (5%) | Walmart (online index) | $1.142 | Dollarama dearer (5%) |
+| 7. Chips Ahoy! cookies | $1.260 | Walmart (online index) | $1.155 | Dollarama dearer (9%) | Walmart (online index / flyer 17-24 Sep) | $1.083 | Dollarama dearer (16%) |
+| 8. Laundry pacs (Gain Flings / Tide Pods) | $0.500 | Walmart (online index) | $0.498 | Dollarama dearer (0.4%) | Guardian (flyer 18-25 Sep) | $0.249 | Dollarama dearer (101%) |
+| 9. Dish soap (Palmolive / Dawn) | $0.372 | Walmart (online index) | $0.395 | Dollarama cheaper (6%) | Walmart (online index) | $0.245 | Dollarama dearer (52%) |
+| 10. Kitchen garbage bags (count and litres) | $0.198 | Walmart (online index) | $0.172 | Dollarama dearer (15%) | Walmart (online index) | $0.145 | Dollarama dearer (36%) |
+| 11. Sandwich / freezer bags | $0.015 | Walmart (online index) | $0.045 | Dollarama cheaper (67%) | Real Canadian Superstore (flyer 17-24 Sep) | $0.040 | Dollarama cheaper (62%) |
+| 12. Aluminum foil | $0.219 | Walmart (online index) | $0.228 | Dollarama cheaper (4%) | Walmart (online index) | $0.178 | Dollarama dearer (23%) |
+| 13. AA batteries | $0.652 | Walmart (online index) | $0.993 | Dollarama cheaper (34%) | Walmart (online index) | $0.312 | Dollarama dearer (109%) |
+| 14. Toothpaste (Colgate / Crest) | $1.667 | Walmart (online index) | $1.032 | Dollarama dearer (62%) | Your Independent Grocer / Loblaws (flyer 17-24 Sep) | $1.000 | Dollarama dearer (67%) |
+| 15. Spices (Club House and house brand) | $3.750 | Walmart (online index) | $5.269 | Dollarama cheaper (29%) | Costco.ca | $2.120 | Dollarama dearer (77%) |
+| 16. Rice | $0.222 | Walmart (online index) | $0.386 | Dollarama cheaper (42%) | No Frills (flyer 17-24 Sep) | $0.161 | Dollarama dearer (38%) |
+| 17. Dry pasta | $0.278 | Walmart (online index) | $0.390 | Dollarama cheaper (29%) | No Frills (flyer 17-24 Sep) | $0.222 | Dollarama dearer (25%) |
+| 18. Canned beans | $0.251 | Walmart (online index) | $0.267 | Dollarama cheaper (6%) | Walmart (online index) | $0.267 | Dollarama cheaper (6%) |
+| 19. Canned diced tomatoes | $0.251 | Walmart (online index) | $0.247 | Dollarama dearer (2%) | No Frills (flyer 17-24 Sep) | $0.188 | Dollarama dearer (33%) |
+| 20. Paper towels (sheets) | $3.442 | Walmart (online index) | $4.049 | Dollarama cheaper (15%) | Walmart (online index) | $1.246 | Dollarama dearer (176%) |
+| 21. Bathroom tissue (sheets) | $0.231 | Walmart (online index) | $0.273 | Dollarama cheaper (15%) | Walmart (online index) | $0.273 | Dollarama cheaper (15%) |
+| 22. Gift bags | $0.500 | Walmart (online index) | $1.416 | Dollarama cheaper (65%) | Walmart (online index, clearance) | $0.214 | Dollarama dearer (133%) |
+| 23. HB pencils (12-pack) | $0.167 | Walmart (online index) | $0.250 | Dollarama cheaper (33%) | Walmart (online index) | $0.100 | Dollarama dearer (67%) |
+| 24. Energy drinks (Monster / Red Bull / Rockstar) | $0.634 | Walmart (online index / flyer 17-24 Sep) | $0.524 | Dollarama dearer (21%) | Walmart (online index / flyer 17-24 Sep) | $0.524 | Dollarama dearer (21%) |
+| 25. Scrub sponges | $0.125 | Walmart (online index) | $1.593 | Dollarama cheaper (92%) | Real Canadian Superstore (flyer 17-24 Sep) | $0.667 | Dollarama cheaper (81%) |
+| 26. Dishwasher pacs (Cascade / Finish) | $0.357 | Costco.ca | $0.432 | Dollarama cheaper (17%) | Walmart (Flipp index, 19 Sep earlier work - NOT re-captured today) | $0.189 | Dollarama dearer (89%) |
+| 27. Peanut butter (Kraft) | $0.800 | Costco.ca (19 Sep earlier work; page 100417656 not re-fetched today) | $0.649 | Dollarama dearer (23%) | Costco.ca (19 Sep earlier work; page 100417656 not re-fetched today) | $0.649 | Dollarama dearer (23%) |
+| 28. Soft drink mini cans (6 x 222 mL) | $0.263 | Walmart (online index) | $0.412 | Dollarama cheaper (36%) | Fortinos (flyer 17-24 Sep) | $0.300 | Dollarama cheaper (12%) |
+
+**Scorecard A (nearest like-for-like, 28 items scored):** Dollarama cheaper per unit on **17**, dearer on **11**, tie 0.
+**Scorecard B (vs cheapest per-unit in set, 28 items scored):** Dollarama cheapest on **5**, beaten on **23**.
+
+Percentages in the table are relative to the competitor price (e.g. "Dollarama cheaper (46%)" means Dollarama's per-unit price is 46% below that competitor row). Largest swings:
+- Scorecard A — Dollarama's worst losses: 14. Toothpaste (62% dearer); 2. Lay's / Ruffles potato chips (31% dearer); 27. Peanut butter (23% dearer); 5. Cereal (22% dearer)
+- Scorecard A — Dollarama's biggest wins: 25. Scrub sponges (92% cheaper); 11. Sandwich / freezer bags (67% cheaper); 22. Gift bags (65% cheaper); 1. Pepsi 591 mL bottle (46% cheaper)
+- Scorecard B — where bulk/house brands beat Dollarama hardest: 20. Paper towels (176% dearer); 1. Pepsi 591 mL bottle (154% dearer); 3. Kraft Dinner (141% dearer); 22. Gift bags (133% dearer); 2. Lay's / Ruffles potato chips (125% dearer); 13. AA batteries (109% dearer)
+- Scorecard B — Dollarama still cheapest even against bulk/house brands: 25. Scrub sponges (81% cheaper); 11. Sandwich / freezer bags (62% cheaper); 21. Bathroom tissue (15% cheaper); 28. Soft drink mini cans (12% cheaper); 18. Canned beans (6% cheaper)
+
+**Honest read-out.** On the same brand at the nearest size, Dollarama is the cheaper per-unit option on the clear majority of this basket. Where it loses is (1) items where Walmart runs a promotional online price on an identical pack (Chips Ahoy! 258 g, Colgate 95 mL, Crest 50/120 mL, Catelli, Palmolive 591 mL), (2) items where Dollarama's branded pack is smaller than the grocery standard and the per-100 g maths goes against it (Lay's 150 g vs 235 g flyer bag; Kraft Dinner 175 g vs 200 g Original), and (3) anything a warehouse club or house brand sells in bulk (batteries, garbage bags, bath tissue, foil, pasta, rice, dish soap). The "3 oz box vs 14 oz box" framing used by other channels is not supported by anything captured: Dollarama's smallest cereal box online is 230 g (8.1 oz).
+
+---
+## SECTION 3 — THE CLAIMS THE COMPETITOR SCRIPTS MADE, TESTED AGAINST DATED SOURCES
+
+| Competitor claim | Verdict | Current, dated, sourced reality (all 21 Sep 2026; re-verify on shelf on camera) |
+|---|---|---|
+| Cereal "3 oz at Dollarama vs 14 oz at the grocery store" | **UNVERIFIABLE (3 oz) / CONTRADICTED (per-unit gap)** | No 85 g (3 oz) cereal exists in the 1,011-item online capture. Smallest cereal listed: Kellogg's Froot Loops 230 g $3.00 ($1.304/100 g); Honey Nut Cheerios 292 g $2.75 ($0.942/100 g). Walmart Honey Nut Cheerios 430 g is $3.33 on sale ($0.774/100 g) but $4.97 regular ($1.156/100 g) — at regular price the Dollarama box is cheaper per 100 g. Costco Honey Nut Cheerios 1.51 kg $11.99 = $0.794/100 g. Sources: Section 2 item 5. An in-store 3 oz box may exist; it is not in the online catalogue. |
+| "Pepsi went from $1.25 to $1.50" | **CONFIRMED (current $1.50) / UNVERIFIED (the $1.25 history)** | Pepsi Soft Drink Bottle (591 ml) is $1.50 on shop.dollarama.com today (tier a). No archived Dollarama price list was retrieved, so the "$1.25 before" half is undated hearsay until a Wayback or receipt is produced. Note the 1 L Pepsi is $1.25 today and the 355 mL can is $0.63. |
+| "Energy drinks $1.75" | **CONTRADICTED** | Cheapest energy drink captured at Dollarama: Rockstar Energy Drink (473 ml) $2.25 and Monster (355 ml) $2.25. Red Bull 250 mL $2.75; Celsius 355 mL $2.75. Nothing at $1.75. Walmart Monster 473 mL is $2.48 (flyer 17-24 Sep, was $2.98); FreshCo Monster 444-473 mL $2.49. |
+| "Dish soap 300 mL for $1.25 vs PC 1 L for $2.49" | **CONTRADICTED on both halves** | Dollarama's small Palmolive is 414 mL at $1.50 ($0.362/100 mL), not 300 mL at $1.25; the 739 mL Palmolive Essential Clean is $2.75 ($0.372/100 mL). No PC 1 L dish soap at $2.49 was found: Real Canadian Superstore flyer 17-24 Sep lists PC Planet First dish soap 1.1 L at $4.50 ($0.409/100 mL). Cheapest big-format found: Shoppers 19-20 Sep No Name 800 mL $1.99 ($0.249/100 mL) and Walmart Palmolive Ultra 591 mL $1.97 ($0.333/100 mL). |
+| "Garbage bags 20 for $2.50 vs Great Value 60 for $7.47" | **CONTRADICTED on both halves** | Dollarama: Hercules 50.8 x 60.96 cm White Kitchen Garbage Bags (20 ct) $1.50 ($0.075/bag), Glad Easy-Tie kitchen (24 ct) $4.75 ($0.198/bag). Walmart online 21 Sep: Great Value Tall Kitchen 45 L 60 bags $12.97 ($0.216/bag); 30 bags $6.97 ($0.232/bag); Small 25 L 48 bags $6.97 ($0.145/bag). The $7.47/60 figure in the brief did not appear in today's index (flagged "verify" in the brief; it does not verify). Costco KS Large 100 $19.99 = $0.200/bag. |
+| "Chips $1.75 at Dollarama vs $1.29 bigger bag at No Frills" | **CONTRADICTED (Dollarama side) / UNVERIFIABLE (No Frills side)** | Dollarama chips are $1.25 (Lay's 50 g), $2.50 (Lay's 140-150 g), $2.75 (Ruffles 145 g), $3.00-3.75 (Doritos/Ruffles 170-235 g). No $1.75 chip item captured. No Frills' current Toronto flyer (17-24 Sep) has no $1.29 branded chips; its chip line is PC Kettle Cooked 200 g $2.00. Cheapest bigger bag found anywhere: Walmart Great Value 200 g $1.48 ($0.740/100 g) vs Dollarama Lay's 150 g $2.50 ($1.667/100 g). |
+| "Spices $1.50-$3.50 at Dollarama vs $5-$7 at grocery" | **CONFIRMED in direction; Dollarama range is LOWER than claimed** | Dollarama spices online: $1.00 (Encore Gourmet paprika 62 g, oregano 17 g, basil 23 g; D Gourmet garlic powder 70 g; Heavenly Spices garlic salt 130 g) to $2.25 (Club House Montreal Steak Spice 60 g; Heavenly Spices black pepper 70 g). Walmart online Club House: paprika 119 g $6.27, Italian seasoning 45 g $6.27, poultry seasoning 25 g $4.37, nutmeg 39 g $4.37. Loblaws Edmonton flyer: Club House/La Grille 13-275 g $5.50. Per 100 g the gap narrows on large jars (Club House paprika 119 g = $5.27/100 g vs Encore 62 g = $1.61/100 g) — still a Dollarama win. |
+| "Batteries $1.25 a pack vs $8 Duracell" | **CONTRADICTED ($1.25) / UNVERIFIABLE ($8)** | No $1.25 battery pack at Dollarama online. Cheapest AA: Panasonic Carbon Zinc AA (4 ct) $1.61 ($0.403/cell, carbon-zinc as labelled); Panasonic Alkaline Plus Power AA (4 ct) $2.61 ($0.653/cell). No Duracell/Energizer AA at Dollarama. Duracell Coppertop AA 4-pack: Staples online $11.99 ($2.998/cell); 8-pack Staples $16.99, Pharmasave flyer $12.99; Superstore flyer AA24 $19 ($0.792/cell); Costco 40-count $19.99 delivered ($0.500/cell). No "$8" Duracell pack was found in any source. Cheapest alkaline cell anywhere: Great Value 48-pack $14.97 ($0.312/cell) and Kirkland 48 $15.99 ($0.333/cell) — both under Dollarama's alkaline 4-pack. |
+| "Sponge $1.25 at Dollarama vs $3.50" | **CONFIRMED** | Javex Scrubbing Sponges (10 ct) $1.25 ($0.125/sponge); Javex Heavy Duty Scrub Sponges (2 ct) $1.25 ($0.625/sponge). Walmart online: Great Value Heavy Duty Scrub Sponge 3-count $3.77 ($1.257/sponge); Scotch-Brite Heavy Duty 3-count $4.78 ($1.593/sponge). Costco Scotch-Brite HD 24-pack $21.99 = $0.916/sponge — still above Dollarama's branded-equivalent 2-ct price per sponge. |
+
+---
+## SECTION 4 — SHELF-TAG UNIT PRICING AND THE QUEBEC RULE
+
+Online, Dollarama shows no unit price at all (Section 1.2: `display_unit` is empty on every item). In-store, Dollarama does not sticker individual items; it relies on shelf tags and barcode scanning, which in Quebec puts it squarely inside the Consumer Protection Act's scanner regime. Under the *Regulation respecting the application of the Consumer Protection Act* (CQLR c. P-40.1, r. 3), Division VI.1 (ss. 91.1-91.8, per the LégisQuébec table of contents — the LégisQuébec, CanLII and Retail Council pages all returned HTTP 403 to automated retrieval on 21 Sep, so cite from the official OPC summary and verify the section numbers by hand), a merchant using an optical scanner is exempt from the s. 223 obligation to mark the price on each item only if it posts a price tag near each product showing the description and the total price **or** the price per unit of measurement, displays and honours the *Politique d'exactitude des prix*, and provides a detailed receipt (Éducaloi, "Affichage, étiquetage et exactitude des prix", retrieved 21 Sep 2026: *"le prix total et le prix par unité de mesure doivent généralement être indiqués"*; *"Les vêtements ne peuvent pas être vendus uniquement avec un code-barres"*). Bill 72 (assented 7 Nov 2024) tightened this from **7 May 2025**: the Office de la protection du consommateur's merchant page (opc.gouv.qc.ca/commercant/nouvelles-obligations, retrieved 21 Sep 2026) states that *"le prix par unité de mesure facilitant la comparaison entre les produits alimentaires de même nature doit être en caractères gras d'au moins 16 points"*, that *"la même unité de mesure métrique doit être utilisée pour tous les produits alimentaires de même nature"*, that the rules concern *"les commerçants utilisant un lecteur optique à la caisse qui s'exemptent de l'étiquetage individuel"*, and that the price-accuracy compensation threshold rose to **$15** (item free if $15 or less and the scanned price exceeds the posted price; $15 off above that). Secondary summaries (Osler; DLA Piper; CBC, 2025) agree that the unit-price and tax-indication duties attach to **food products**, not to the merchant's main line of business — so a Dollarama in Quebec selling Kraft Dinner or Pepsi under the scanner exemption must show a bold 16-point price per unit of measurement on the shelf tag for those food items, while its non-food tags need only the total price. Whether Dollarama's Quebec stores comply is **not verified here**; it is a two-shot on-camera check (a Quebec food shelf tag vs an Ontario one). Outside Quebec there is no unit-pricing statute; Ontario's and the federal *Consumer Packaging and Labelling Act* govern net-quantity declarations on the pack, not shelf tags.
+
+---
+## SECTION 5 — GEOGRAPHY
+
+- **Dollarama:** only store 43118689, 1-410 Main St E, **Kingsville, Ontario N9Y 0C1**, was reachable (auto-selected from the proxy's geolocation). No second Dollarama store could be loaded without DoorDash's address API, so **no Dollarama regional variance was measured**. Dollarama's national single-price ladder makes variance unlikely, but that is an assumption — not verified.
+- **Flipp postal codes used:** **M5V 3L9** (downtown Toronto) and **T5J 1B9** (downtown Edmonton), 41 search terms each.
+- **Walmart online index is national:** 1,551 Walmart SKUs appeared under both postal codes and **0 differed in price**. Treat every Walmart "online index" price above as a Canada-wide walmart.ca price, not a store shelf price.
+- **Flyer banners differ by region.** Toronto pull: Walmart, Shoppers, Food Basics, Metro, Real Canadian Superstore, Sobeys, Fortinos, Rexall, Wholesale Club, Costco, FreshCo, Longo's, No Frills, Canadian Tire, Foodland, YIG, Giant Tiger (only 2 items: Ruffles $2.75, Tostitos $2.75). Edmonton pull: Walmart, Shoppers, Superstore, No Frills, Rexall, Safeway, Sobeys, Wholesale Club, YIG, Loblaws, Costco, IGA, FreshCo, Red Apple, Save-On-Foods, London Drugs, Giant Tiger (4 items).
+- **Same-chain items priced identically in both cities** where both flyers carried them: No Frills Coke/Pepsi 2 L $2.00; Superstore Duracell AA24 $19; Superstore Palmolive 4.27 L $8.99; Giant Tiger Ruffles $2.75; Loblaw-banner Colgate/Crest 50-100 mL $1.00; Wholesale Club items. Edmonton-only rows used in Section 2 are labelled "Edmonton flyer".
+
+---
+## SECTION 6 — UNVERIFIED / DO-NOT-USE
+
+1. **Any Dollarama shelf price.** Every Dollarama figure here is an online price from the DoorDash-hosted storefront for one Ontario store, with the site's own "prices may vary from in-store" disclosure. Nothing is a shelf price until filmed.
+2. **The "$1.25 → $1.50 Pepsi" history, "chips $1.75", "energy drink $1.75", "batteries $1.25", "dish soap 300 mL $1.25", "garbage bags 20/$2.50"** — none of these Dollarama prices exists in the 21 Sep capture. Do not repeat them as current.
+3. **Great Value kitchen bags 60 for $7.47** (brief) — not in today's Walmart index (60-count Tall is $12.97). Do not use $7.47.
+4. **Great Value dishwasher pacs 90 for $16.97** and **Kraft peanut butter 2 kg $12.99 (Costco)** — 19 Sep figures carried forward, not re-captured 21 Sep. Re-pull before use.
+5. **Kirkland Signature Drawstring Kitchen Bags 200-count $34.99** (brief) — today's costco.ca page for the KS drawstring line is the **90-pack at $31.99** (item 4163716). The 200-count price was not seen; do not use without its own page.
+6. **Kirkland Signature 2-ply Paper Towels 12-pack $33.99** — price captured, **sheets per roll not captured**, so no per-sheet figure. Same for Cascades Fluff 40-pack $34.99, Walmart Cashmere 8=16 $6.97, Charmin 6 Mega $8.58.
+7. **Flyer rows with no declared size or count** (Sobeys Lay's $3.49; Metro Kraft Dinner $1.79; Giant Tiger Ruffles $2.75; Shoppers Glad kitchen bags $7.99; Metro Cashmere $4.99; Food Basics Primo beans $1.25; Rexall Monster 2/$6.50; Walmart Lay's Classic $2.48; Walmart "Oreo Chocolate Sandwich Cookies" $1.98; Walmart Staedtler HB pencils $1.00) — listed for completeness, **no per-unit maths**, do not compare on camera without reading the pack.
+8. **Dollarama greeting cards** — no greeting-card item appeared in any category or search capture (only index cards, place cards, trading cards, playing cards). Any Dollarama card price is unverified.
+9. **Dollarama Ziploc-brand, Duracell/Energizer-brand, Tide Pods, Catelli/Barilla dry pasta, Kraft Dinner Original 200 g, Heinz beans, Cheerios (original) small box** — not captured online; if they exist in-store they need on-camera prices. "Panasonic Duracell Alkaline Batteries (2 ct) $3.70" is a listing-name anomaly and is rejected.
+10. **Instacart Dollarama storefront** — not probed; Instacart marketplace prices are marked up and are not Dollarama prices.
+11. **Costco.ca "availability: OutOfStock"** on every product page is an artefact of no warehouse being selected; do not describe any Costco item as out of stock on that basis.
+12. **Quebec regulation section numbers (91.1-91.8)** — quoted from the regulation's known structure; the primary text was blocked (403) on LégisQuébec and CanLII on 21 Sep. Verify by hand before citing a section number on screen. The OPC and Éducaloi wording above is what was actually retrieved.
+13. **Forum / aggregator prices** (RedFlagDeals threads, Reddit, "dollarama price list" blogs, price-comparison sites) — tier (d). None were used, none should be. A forum post is never a shelf price.
+14. **The battery/bulb price-point explanation** (EHF folded into $5.20/$5.32/$5.36 etc.) is an inference from the arithmetic, not a retrieved fact.
+
+---
+### Appendix — raw capture files (scratchpad)
+- Dollarama storefront HTML: `shop/home.html`, `shop/cat_*.html` (10 categories), `shop/q_*.html` (46 searches); parsed pairs in `shop/items_all.json` (1,011 items).
+- Flipp JSON: `flipp/M5V3L9_*.json`, `flipp/T5J1B9_*.json` (41 terms x 2 cities); flattened in `flipp_dump.txt` (9,238 lines).
+- Costco pages: `costco/*.html`, `costco2/*.html` (27 product pages) with `priceInfo.displayPrice.deliveredPrice` parsed; sitemaps `costco_sitemap_lw_p_001.xml` (7,897 URLs) and `costco_sitemap_lw_p_mod_001.xml` (7,878 URLs).
+- Generator: `build_dossier.py` (all per-unit figures computed, not typed).

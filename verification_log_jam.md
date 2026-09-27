@@ -1,6 +1,6 @@
 # VERIFICATION LOG — script_jam.md ("7 Jam Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)")
 
-Compiled 27 September 2026. Research date for every price, label and listing: 26 September 2026. Sources: research_jam.md (Part 1 standards and legal record; Part 2 shelf grid and label declarations; Part 3 ownership dossier; Part 4 structure note; Part 5 viewer comments). Body length after the final trim: 22,995 characters, 4,002 words, no sentence over 40 words, no markdown in the body, no model identifiers anywhere in the package.
+Compiled 27 September 2026. Research date for every price, label and listing: 26 September 2026. Sources: research_jam.md (Part 1 standards and legal record; Part 2 shelf grid and label declarations; Part 3 ownership dossier; Part 4 structure note; Part 5 viewer comments). Body length after the final trim: 22,981 characters, 3,994 words, no sentence over 40 words, no markdown in the body, no model identifiers anywhere in the package.
 
 ## 1. How the script was checked
 
@@ -118,9 +118,24 @@ Rule-of-house rewrites (intent, compliance and additive-function language remove
 - Popularity basis stated once on screen: fewest to most shelves, counting stores and different jars across ten Loblaw stores in five cities, Walmart, Costco and Sobeys online.
 - Bridges added at the end of beats 6, 4 and 2; owner named in the no name and PC beats; subscribe line added to the sign-off; disclaimer widened to name flyers, CFIA and Health Canada guidance, company websites, press releases and comments.
 
-## 4. Second adversarial pass
+## 4. Second adversarial pass (three agents, 209 checks, completed 27 Sep 2026)
 
-Run on the rewritten body; result appended when the three agents report. If nothing is appended below this line, the pass had not completed at commit time and the producer should treat section 2 as the record.
+Every price, per-100 figure, store count, flyer-city count, SKU count and date in the rewritten body recomputed correctly from research_jam.md Part 2. Fifteen hard items were returned and all fifteen were fixed before the final commit:
+- Dora "Canadian owned, the company says" → attributed to the viewers; the company's own words ("truly from here", "family business since 1945") quoted instead.
+- St. Dalfour "true as printed" → "neither word appears in the ingredient list"; "it is not one" (a ruling on the 100% from fruit claim) → the label facts only, with "what that adds up to in fruit, the label does not say, and neither will we".
+- "undercuts it by two dollars a hundred" → "more than two dollars" ($2.89 − $0.76 = $2.13).
+- PC Blue Menu "the front does not say" → "the front panel text we could read does not say"; "we do not know why Loblaw chose the word spread" → removed (speculation on motive); replaced with what the word means under the standards.
+- PC Pure ranked above PC Blue Menu while in fewer stores → brand-level count stated ("President's Choice jars are in all ten… this strawberry jar is in nine").
+- Smucker's listings sentence → corrected to the 1 L size on Loblaws and Voilà, and Walmart's description text versus its listing name.
+- Smucker's "nothing on the ingredient list contradicts the three claims" → removed (additive-function commentary); the claims are read as the company's, as printed.
+- Smucker's 43-word sentence split.
+- Crofter's "at that price… Sobeys online and Costco" → Sobeys online is $7.99 and Costco carries only the 660 mL wild blueberry; sentence corrected.
+- Run-back "a printed twenty seven percent floor" → "Jam with Pectin printed on the front, the twenty seven percent standard" (no percentage is printed on the Dora label).
+- Simple Check "says nothing about sugars" (P4 and run-back) → "Loblaw defines by colours, flavours and sweeteners, not sugars" (Loblaw names three of the ten ingredients; the full list was not fetched).
+- Three questions at the till → the origin question now allows the retailer listing, because both worth-it picks carry origin only in Loblaw's listing.
+- Appendix item 4 → the ‡ on the Blue Menu front belongs to the "no artificial flavours or synthetic colours" claim, not to Twice the Fruit; producer reads any footnote on the physical jar.
+
+Final body after these fixes and a re-trim: 22,981 characters, 3,994 words, no sentence over 40 words, mantra exactly twice, one like ask, subscribe once in the sign-off.
 
 ## 5. DO NOT USE (claims the research could not confirm; none are in the script)
 

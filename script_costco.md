@@ -1,277 +1,99 @@
-# SCRIPT — COSTCO CANADA
+# SCRIPT — Don't Renew Your Costco CANADIAN Membership Until You Watch This (October 2026)
 
-TITLE: Costco Canada Just Got Caught... And Members Already Knew Something Was Wrong
+TITLE: Don't Renew Your Costco CANADIAN Membership Until You Watch This (October 2026)
 
-ALTERNATES:
-- We Investigated Costco Canada (15 Things They Never Told Members)
-- Costco Canada Just Got Caught... And It's All In Their Own Paperwork
-- Something Is Seriously Wrong At Costco Canada... And Members Already Knew
+POST DATE: October 4, 2026.
 
-NOTE ON LENGTH: 28,436 characters, roughly 31 minutes of voiceover. That is above the usual 21-23K house length and below the reference video's 39 minutes. The reason is the format: fifteen countdown items plus five good ones is twenty entries, against nine in a normal brands episode. Squeezing twenty entries into 22K gives each one about 700 characters, which is thinner than the reference's own entries. If you want house length, cut items 3, 4, 8, 12 and 14 and renumber — that lands at about 22K and loses the least.
+TITLE NOTE: Same-construction redo of the channel's biggest video ("Don't Renew Your Costco CANADIAN Membership Until You Watch This", May 13, 2026, 236K). Four channels used the same title in 2026 and all reached 21.8K or more (North America Crisis Radar 143K, FRUGAL PRO 40K, Broken Canada 22K), so the topic passes the two-channel test. The month tag tells returning viewers it is new; spell it correctly. The May video never numbered its reasons, never answered the renewal question, and carried claims Costco's and CIBC's own pages contradict (Executive 2% at the gas bar; an $8,000 restaurant cap on the personal card), plus barred material (price-tag codes, Kirkland supplier lists, pharmacy and optical). This version is built only on Costco Canada's Membership Conditions page (dated August 1, 2026), Costco's other costco.ca pages, CIBC's published card terms, Costco's SEC filings, Statistics Canada and dated retailer captures, and says on air what the May video got wrong. Order basis stated on air: the order the membership year happens. No "secret", "hidden", "caught" or "exposed" framing anywhere.
+
+THUMBNAIL: a photographed renewal notice or membership card with a stamped "RENEW?" and three callouts quoted from Costco's own pages: "$65 / $130 (plus applicable taxes)", "2% ... not calculated ... gas stations", and "not guaranteed to be equal to or greater than the Executive upgrade fee". Do not use the "EXCLUSIVE / IN TROUBLE / caution tape / news camera" template. No CIBC logo. No product the video doesn't discuss.
+
+ALTERNATES: "Don't Renew Your Costco CANADIAN Membership Until You Watch This" (identical to the hit) / "Don't Renew Your Costco Canada Membership Until You Read These 10 Rules (October 2026)". Do not add "secrets", "caught", "exposed" or "in trouble".
 
 ---
 
-October 30th, 1985. The National. Knowlton Nash looks into the camera and says this.
+On September 24th, 2026, Costco told its shareholders it collected 5.9 billion U.S. dollars in membership fees in the fiscal year that had just ended. That is every country combined, and Costco does not say how much of it came from Canada. The same filing counts 115 Costco warehouses in Canada, and Costco's Canadian website lists four more opening in November, in northeast Edmonton, Lloydminster, east Windsor and Wasaga Beach. Costco's last annual report put its Canadian business at 36.9 billion U.S. dollars in revenue for fiscal 2025, with 1.8 billion in operating income and 55,000 employees. If your card renews this fall, your 65 or 130 dollars is part of next year's number. So before it charges again, we read the rules you agree to when you pay. That means Costco Canada's membership terms, the version dated August 1st, 2026, line by line, plus the bank's terms for the card that doubles as your membership card. Ten things in them every member should know before renewing, in the order your membership year happens. Then the arithmetic on who should renew, and who shouldn't. Because the truth is not always on the menu.
 
-"A new kind of store is open in Canada and it's promising big savings for its customers."
+The order is simple. The renewal charge, the upgrade, what counts toward the reward, when it's counted, how you pay, what happens after you buy, and what happens if you want out. A note first. In May we made a video with this same title. Since then Costco re-dated its terms, and some of what we said then we can't stand behind. The price-tag codes and the lists of who makes Kirkland products came from sources we wouldn't use today. And we said the Executive reward counts at the gas pump. Costco's terms say it doesn't. This video replaces that one. We have no commercial relationship with Costco, CIBC or any company named in this video.
 
-Then the line that turns out to be the whole story.
+Number one, the renewal charge. Costco's terms say the Gold Star membership is 65 dollars, plus applicable taxes, per 12-month period from the date the primary cardholder enrolled. The Executive membership is 130 dollars, plus applicable taxes. Here is how the charge actually lands. If you have not signed up for auto renewal, the terms say your fee will be charged on your first shop of your renewal month. If you have, it goes on a Mastercard credit card or a Visa credit or debit card on the first day of your renewal month. Renew within two months after your membership expires, and the new year runs from the old expiry date. Renew later than that, and it runs from the day you pay. And the terms say all renewals will be at the membership fee in effect on the date the fee is paid. The last change was September 1st, 2024, when Costco's own filing says the fees went from 60 to 65 dollars and from 120 to 130. Before that, its filings show increases in 2006, 2011 and June 2017. Membership is open to anyone 16 or older, and Costco asks for Canadian government ID at the counter. The fee also comes with rules about the card. One free household card goes to someone over 16 living at the same address, and Costco asks for proof of that address. Costco's terms now say you will be required to scan your card when entering any Costco warehouse and at the payment register. Bar codes, photos or other copies are not acceptable. CBC reported in August 2024 that entrance scanners were already set up in Ottawa, Edmonton, Regina and B.C.'s Lower Mainland. Global News reported on September 25th, 2026 that the fees have not changed since 2024. So find your renewal month in your account before the bill finds you. The month matters more than the day.
 
-"The store is called a wholesale club, but it's not a very exclusive club, and that's made some of its competitors nervous."
+Number two, the Executive upgrade. Costco's join page says the upgrade costs an additional 65 dollars a year, plus sales tax where applicable, prorated on the months left in your membership. It also says purchases made before you upgrade do not count. Then comes the sentence to read slowly. The reward is not guaranteed to be equal to or greater than the Executive upgrade fee paid. That's Costco's own page. Here is the arithmetic. Sixty-five dollars divided by 2 percent is 3,250 dollars of qualifying purchases a year, before tax, just to break even. That's about 271 dollars a month. Executive members in Canada do get one more thing in writing. Since June 30th, 2025, Costco's page offers a 10 dollar monthly credit on Costco's Same-Day delivery through Instacart, but only on one order of 150 dollars or more each month. What they don't get, as far as Costco's Canadian pages show, is early shopping hours. Costco's 2025 annual report says it added exclusive Executive hours in the U.S., and the Canadian warehouse pages we checked list one schedule for everyone. If you've heard otherwise, that's the American program. Costco's page also lists Costco Services discounts, online wills and the Costco Connection magazine by mail for Executive members. And its terms allow one Executive membership per business or household. You can upgrade at a membership counter, by phone, or in your costco.ca account, where the prorated fee shows before you pay. The 2 percent may not cover the 65 dollars, and Costco says so first.
 
-The camera cuts to Burnaby, British Columbia, to a concrete box on Brighton Avenue that used to be a Woodward's furniture warehouse. CBC reporter Karen Webb describes what she's looking at. "You buy cases of what you want for cash. No credit cards, not a frill in sight."
+Number three, what the 2 percent does not count. This is the part most people skip. Costco's terms say rewards will not be calculated on tobacco, or on purchases not recorded through the front-end registers, such as services, purchases at Costco's gas stations, food courts, optical centres in Quebec, and pharmacies. They also exclude membership fees, miscellaneous fees, deposits and taxes, services including auto, and certain other categories as determined from time to time at Costco's sole discretion. Costco also publishes a separate exclusions list. It adds Costco Shop Cards, gift certificates, tire mounting and balancing fees, and in Quebec and Nova Scotia only, liquid milk and cream. In May, we told you the Executive 2 percent stacks at the gas bar. Costco's terms say rewards are not calculated on purchases at its gas stations. For a lot of members, gas is the biggest single line on the statement, and it counts for nothing toward the reward. Some things do count. Costco's terms say the reward covers purchases by Canadian residents through the front-end registers at Costco warehouses in Canada and the United States, and online at costco.ca. Costco Travel counts too, applied after the trip is completed, as long as you're an Executive member when the travel starts. Only purchases by the primary and household cardholders count. The concession is that the list is published, in plain words, on Costco's own page. So before you do any math, take your gas, pharmacy and food court spending off the top.
 
-Then CBC goes and asks the competition what they think. They find Mark Nussbaum, a vice president at London Drugs, and he gives an answer that should have been framed and hung in every boardroom in Canadian retail.
+Number four, the cap, the cut-off and the coupon. Costco's terms say the calculation of a reward is capped at, and will not exceed, 1,250 dollars for any 12-month period. You would need 62,500 dollars of qualifying purchases to hit it. That cap has moved over the years, from 500 dollars to 750 in 2011, to 1,000 in 2017, and to 1,250 in 2024, according to Costco's filings. Across all its countries, Costco's 2025 annual report counts the 2 percent rewards at about 3 billion U.S. dollars for the year. The reward period does not run the full year either. The terms say it runs from your enrollment or upgrade to about three months before your renewal date, and purchases from the last three months are added to the following year's calculation. So nothing is lost, it just lands a year later. The coupon is mailed about two months before your membership expires, along with the renewal notice. Only the primary member can redeem it, and only at Costco warehouses in Canada. It can't be used at the gas stations, food courts, pharmacies, or online at costco.ca. Costco's page says reward coupons will not be replaced if lost or stolen. And here is the line that matters at renewal. Executive members who downgrade, or cancel and receive a refund of their fees, will not receive a reward. So decide on the upgrade or the downgrade before the cut-off, not at the counter. The terms also say Costco reserves the right, at its discretion, to discontinue or change the reward program at any time. The coupon arrives with the bill.
 
-"If they're going to sell below cost, more power to them. I'll discontinue the items, as will most of the retailers in the city, because then it becomes predatory pricing. And let them have it."
+Number five, the credit card is a separate deal. Since March 4th, 2022, the Costco Mastercard in Canada has been issued by CIBC. Before that it was Capital One, and Costco's Canadian warehouses stopped taking American Express at the end of 2014. CIBC's page says the card has a zero dollar annual fee, with up to three additional cardholders at no cost, and that it is also your Costco membership card. The rates in the fine print on Costco's site are 3 percent at Costco gas in Canada and 2 percent at other gas stations and electric vehicle charging, on the first 5,000 dollars a year combined, then 1 percent. It's 2 percent on costco.ca on the first 8,000 dollars, then 1 percent. It's 3 percent at restaurants, and 1 percent on everything else, including in the warehouse. The 5,000 and 8,000 dollar limits reset every January 1st. The cash back comes as a certificate once a year, in January. CIBC's page lists a minimum annual income of 15,000 dollars for the basic card. There is also a new-member offer on Costco's site, 65 dollars back for a new Executive member approved for the card. It only applies to new members, or to memberships expired for more than 18 months, and upgrades don't qualify. In the warehouse, Costco Canada takes Mastercard, debit, cash, Costco Shop Cards, personal cheques and Apple Pay. Costco.ca also takes Visa. And the gas station is open to members only, Costco's page says, with one exception, Costco Shop Card holders. In May, we said the restaurant rate on the personal card stops at 8,000 dollars. On the personal card's terms, that cap isn't there. The 8,000 dollar cap is on costco.ca purchases. So you now have two rewards, on two calendars, with two sets of exclusions. The Executive reward follows your membership year, and the card follows January to December. The concession is real, there's no annual fee. But it's a credit card, so read its interest rate before you use it to chase points.
 
-And let them have it.
+Number six, price drops, and the price you see online. Costco's customer service page says it will honour price adjustment requests for purchases made in the warehouse within 30 days of the purchase date. The item must be in stock, and the request must fall within the valid promotional dates. You keep the item and get the difference. Online is another matter. Costco.ca product pages say standard shipping is included in the quoted price, and that warehouse pricing may vary. Costco's page says products sold online may have different pricing than the same products at your local warehouse, because of shipping and handling, and that costco.ca does not price match the warehouse, or the other way around. And its Same-Day help page says item prices are marked up higher than your local warehouse, and that Instacart uses the markup to pay for delivery. The Same-Day site adds a 35 dollar order minimum, and says Instacart Plus members get lower item pricing than everyone else. One more piece of context. In June 2026, the Competition Bureau's interim commissioner told MPs that most Canadians buy groceries from five grocery giants, and named Costco among them. The Bureau's food supply chain study says plainly that it is not examining any specific allegations of wrongdoing. There is also a proposed class action in Federal Court, file T-3644-24, filed in December 2024, over online and warehouse pricing. It is an allegation, it has not been certified, and the court has indicated a certification hearing window of December 2026 to February 2027. So keep your receipt or your account history, and check prices within 30 days. Thirty days, in stock, in the promotion window.
 
-They took it.
+Number seven, returns. Costco's terms say, we guarantee your satisfaction on every product we sell, and will refund your purchase price, with exceptions. The exceptions are in writing. Electronics, including televisions, major appliances, computers, tablets, cameras, drones and phones, have 90 days. A diamond of one carat or more needs its original certificates and about two to five business days to verify. Cigarettes and alcohol can't come back where the law prohibits it. Tires and batteries may come with their own limited warranty. Custom installations can't be returned, and neither can gold or silver bullion, e-certificates, gift cards or tickets. Costco's customer service version of the policy adds airline and live event items, and Costco Shop Cards. In Quebec, the terms carry a notice that Costco does not guarantee the availability of replacement parts or repair services. The terms also say Costco may restrict its return policy in the future, and that restrictions will be shown at the point of purchase. One more line in the same document says Costco may end a membership without cause, or for abuse of membership privileges. So the guarantee is wide, it has no general time limit, and the exceptions are written down. Read the shelf sign before you buy, not after.
 
-That Burnaby store was the first Costco outside the United States. Canada was Costco's first country. One warehouse in 1985. Fifty-nine by 2001. A hundred and fifteen today. Woolco is gone. Kmart Canada is gone. Eaton's is gone. Zellers is gone. Sam's Club Canada came to Ontario in 2003 and Walmart closed all six locations by 2009.
+Three left, and the last one is the number Costco itself reports. If you'd rather have the fine print read for you before the next bill lands, take a second to subscribe. This channel reads the documents, so you don't have to. Number eight.
 
-Forty-one years later, what did Canada actually hand over?
+Number eight, what's bundled in. Costco Canada's warranty page says it extends the manufacturer's warranty to two years from the date of purchase on televisions, projectors, major appliances and computers, not including tablets. It comes with free phone support in English and French. In May we called that service Concierge. Costco now calls it Costco Technical and Warranty Service. Tires come bundled too. Costco's tire page says installation is included at no charge, along with a five-year road hazard warranty, rotation and balancing, flat repairs and nitrogen inflation. The same page also says additional component costs, including tire pressure sensor service fees, may apply. On the day this video goes up, Costco's tire page lists 100 dollars off a set of four Michelin tires and 60 dollars off four BFGoodrich, from September 28th to November 1st, 2026. Costco Shop Cards are part of the package as well. Costco's page says they never expire, can be reloaded from 50 to 2,000 dollars, and can be put toward a membership. Only members can buy one. And one date for your calendar. Costco Canada's warehouse pages list the stores as closed on Thanksgiving, October 12th. Bundled isn't the same as free. Read the line that says what costs extra.
 
-Today we're opening the file on Costco Canada, and I want to be precise, because there's a version of this video that's dishonest and I'm not making it. Costco Wholesale Canada has not been fined by the Competition Bureau. It has not been penalised by the Canadian Food Inspection Agency. It has not been prosecuted by any provincial consumer regulator. It discloses zero Canadian legal proceedings in its annual report. If you came here for a company in handcuffs, it isn't that.
+Number nine, the membership refund itself. Costco says it three slightly different ways, and you should know which page you're reading. The terms say, we will cancel and refund your membership fee at any time if you are dissatisfied. The join page says, we will cancel and refund your membership at any time if you are dissatisfied. A customer service page says, we will refund your membership fee in full if you are dissatisfied. To cancel, the primary member goes to a membership counter. Remember number four, though. An Executive member who cancels and takes the refund gives up that year's reward. And remember number seven. Costco can end a membership for abuse of privileges, so this is not a way to get a free year. One more rule sits right next to it. Except for B.C. residents, the terms say Costco can amend its conditions without prior notice, but the changes apply upon the renewal of your membership. B.C. residents get prior notice. So the version that binds you is the one in force when you renew, which is why this video reads the one dated August 1st. It's a written guarantee, and it's the way out if your own receipts say the fee isn't worth it. The guarantee is how you test the fee, not how you game it.
 
-What it is, is a company that got caught by its own paperwork.
+Number ten, Costco's own numbers on who renews. Costco's September 24th, 2026 release gives a renewal rate of 92.3 percent for the U.S. and Canada together. Costco does not publish a Canada-only rate, so don't let anyone tell you that number is Canadian. Worldwide, it was 89.8 percent. Costco's annual report explains that the rate is a trailing calculation, counting renewals from seven to eighteen months before the reporting date. Costco counted 84.1 million paid memberships worldwide, and 42.3 million of them Executive. It said Executive members made 75.6 percent of its worldwide sales. And here's a Canadian number that is labelled Canadian. In the fourth quarter, Costco's comparable sales in Canada, excluding gas and exchange rates, were up 4.6 percent, against 7.2 percent in the U.S. Month by month, Costco's sales releases show Canadian comparable sales on that same basis slowing from 5.3 percent in May to 2.8 percent in August. And Costco's 2025 annual report says the 2024 fee increase accounted for about 40 percent of its membership income growth that year. One more number, from outside Costco. Abacus Data surveyed 1,479 Canadian adults online in September 2026, and found 75 percent see Costco as American, up from 71 percent in February 2025. Very few subscriptions keep nine members in ten. Almost everyone renews. This video is about whether you should.
 
-Everything in this countdown comes from a document Costco wrote, a filing Costco signed, a court record, a federal regulator's database, Statistics Canada, or testimony Costco's own executives gave under questioning in Ottawa. Fifteen things Costco Canada got caught on, counting up, and the biggest ones are the ones almost nobody has reported. Then, after the fifteen, five things Costco Canada genuinely gets right, with receipts, because a couple of them are things no other Canadian grocer can match.
+So here's the arithmetic, with Costco's numbers and yours. Start with the Gold Star fee, 65 dollars plus tax. Whether it pays depends on what you actually buy. We compared 15 everyday items on Costco's own websites with Real Canadian Superstore, No Frills, Walmart, Voilà and Giant Tiger on their own websites, in Mississauga, on October 1st, 2026. These were costco.ca and Same-Day prices, which Costco says can differ from the warehouse, so treat them as a floor, not a verdict. Costco was cheaper per unit on bulk national brands. Terra Delyssa olive oil in a 3 litre tin was 36 to 44 percent less per 100 millilitres than the 1 litre bottles elsewhere. Free-run eggs were 15 to 29 percent less than other free-run eggs. Tide was 6 to 13 percent less per load, and Kirkland 100 percent Colombian coffee was 12 to 31 percent less than other 100 percent Colombian coffees. It was not cheaper on 2 percent milk, regular large eggs, store-brand butter, canned light tuna, jasmine rice or chicken breast, against the discount grocers' prices that day. Several of Costco's wins were on promotions that end in October. Now the upgrade. At 400 dollars a month of qualifying purchases, that's 4,800 dollars a year, a 96 dollar reward, and 31 dollars ahead of the 65 dollar upgrade, before tax. At 200 dollars a month, it's 2,400 dollars, a 48 dollar reward, and 17 dollars behind. Add sales tax to the fee and the break-even climbs. At a 13 percent rate, it's about 3,673 dollars a year. For context, Statistics Canada puts the average household's spending on food from stores in 2023 at 8,579 dollars. So the upgrade needs about a third of an average household's grocery spending to go through Costco's registers, as qualifying purchases, just to pay for itself. If most of your Costco spending is gas, pharmacy or the food court, it counts for nothing toward the reward. The card is separate, and it doesn't change the Executive math. And Costco isn't the only membership on offer. On their own pages, PC Optimum Insiders is 119 dollars a year plus tax, Walmart Plus in Canada is 89 dollars a year, Amazon Prime is 99 dollars a year, and Instacart Plus is 99. None of them is a warehouse club, so compare what you'd actually use. If the numbers say no, the refund in number nine is in writing.
 
-One. You are not allowed to write down a price.
+How to protect yourself. First, check your actual spending. Look at your receipts or your costco.ca account for the last year. Take out gas, pharmacy, food court, tobacco, taxes and fees, because the 2 percent doesn't count them. Second, do the Executive math. Multiply your qualifying spending by 2 percent and subtract 65 dollars plus your province's tax. Below about 3,250 dollars a year, the Gold Star wins. Remember the three-month cut-off and the 1,250 dollar cap. Third, compare unit prices with your usual grocer. Use the unit price on the shelf tag for the things you actually buy, and write down the store and the date. Do it from costco.ca and your receipts, not with your phone in the aisle, because Costco's terms say recording of prices in any manner is not permitted on its premises. Fourth, know the refund rules before you pay. The fee comes back if you're dissatisfied, the merchandise guarantee has written exceptions, and an Executive who cancels with a refund gives up the reward.
 
-Not photograph it. Write it down. From the Membership Conditions and Regulations on costco.ca, dated August 1st, 2026, the document you agreed to when you signed up.
+Costco's terms are long, and they're printed. The renewal is the one purchase there where the price is the same for everyone, and the value isn't. Check your last reward coupon or your account, and tell us in the comments: Gold Star or Executive, roughly what you spent at the registers last year, and which province you're in. We'll do the arithmetic for a few of you. And remember, the truth is not always on the menu.
 
-"Use of still or digital cameras or other recording devices, or recording of prices in any manner is not permitted. Offenders will be asked to leave the premises and their membership may be revoked."
-
-Recording of prices in any manner. Jot down what Kirkland olive oil costs so you can compare it to Superstore on the way home, and you are, by the terms of the membership you paid sixty-five dollars for, an offender who may be asked to leave. Every price comparison video about Costco Canada you have ever watched was made in violation of that clause. Including the research behind this one.
-
-Two. The receipt check at the door isn't a request.
-
-Costco's terms: "You will be required to show your receipt for the items you purchased at the warehouse exit."
-
-Required. And that matters, because CBC News looked at exactly this. Michael Bryant, then executive director of the Canadian Civil Liberties Association, said that when a store asks to check your bags, "their right is to say, thanks but no thanks, and walk away." CBC cited a 2016 Ontario Superior Court ruling that a retailer needs consent to search even where it has grounds to detain, and that if no theft occurred, detaining a customer makes the store liable for false imprisonment.
-
-Costco's position is that you agreed in advance. Bryant's answer to that is the line worth keeping. Members may have provided consent, he said, "depending on how clearly the rules are laid out."
-
-CBC asked Costco about it. Costco didn't reply. CBC found the policy on the website instead.
-
-Three. You consented to a bag search by walking through the door.
-
-Same document. "Costco reserves the right to inspect any container, backpack, briefcase, bag or other package when our members and their guests enter or leave our warehouses. Our members and their guests consent to such inspections when they enter our warehouses."
-
-Read that second sentence again. It doesn't say you may be asked for consent. It says you consent by entering. Your work backpack, your purse, your diaper bag. And your guests, who never signed anything, consent too, because you brought them.
-
-Four. Costco can cancel you for nothing, and change the rules without telling you.
-
-"Costco reserves the right to refuse membership to any applicant and membership may be terminated at Costco's discretion without cause."
-
-Without cause. Then the amendment clause, containing the most interesting five words in the document.
-
-"Except for BC residents, these conditions and regulations may be amended by Costco without prior written notice to or consent of the member."
-
-Except for BC residents. British Columbians get their own paragraph guaranteeing prior notice and protection from amendments that increase their obligations. Quebec gets one too, a formal exclusion of the right to repair filed under section 39.2 of Quebec's Consumer Protection Act.
-
-British Columbia and Quebec wrote laws, so Costco wrote them paragraphs. Everyone else got the version where the rules change and nobody has to tell you.
-
-Five. The scanners arrived three weeks before the price went up.
-
-August 2024, CBC News. The opening line was "Password-sharing types, beware." Costco confirmed that membership scanners had gone in at warehouse entrances in four Canadian markets. Ottawa. Edmonton. Regina. And B.C.'s Lower Mainland. Scan a card to enter, and if your card has no photo, be ready to show government-issued ID.
-
-Now look at the subheadline CBC ran above that story. "New scanning system being implemented ahead of September membership rate hike."
-
-Hardware first. Price second. In September 2024, chief executive Ron Vachris told Fox Business the scanners give operators real-time traffic counts, and added, "This has been very well received by our members."
-
-Six. The fee went up for the first time in seven years.
-
-Effective September 1st, 2024. Gold Star and Business in Canada went from sixty dollars to sixty-five. Executive went from a hundred and twenty to a hundred and thirty. Eight point three per cent on both. The previous increase was 2017.
-
-Chief financial officer Gary Millerchip, March 2026: "The September 2024 US and Canada membership fee increase accounted for about one-third of our membership income growth."
-
-And that fee is not a side business. In fiscal 2025, membership fee revenue was five point three two three billion US dollars against total operating income of ten point three eight three billion. More than half of everything Costco earned came from the fee, not the merchandise. The store is close to a break-even machine wrapped around a subscription.
-
-Seven. The two per cent doesn't cover the gas.
-
-Executive costs a hundred and thirty a year instead of sixty-five and pays two per cent back. Here is what Costco's own terms exclude, verbatim.
-
-"Rewards will not be calculated on purchases that are not recorded through Costco Wholesale's front-end registers, such as services, purchases at Costco Wholesale's gas stations, food courts, optical centres, and pharmacies."
-
-Gas. The single biggest reason many Canadians hold the card. Zero. Food court, zero. Pharmacy, zero. Tobacco, zero. The membership fee itself, zero. Then the catch-all: no reward "on certain other categories as determined from time to time at Costco Wholesale's sole discretion."
-
-The reward is capped at twelve hundred and fifty dollars. The calculation period ends roughly three months before your renewal, so your last quarter doesn't count toward the coupon you're about to get. And that coupon cannot be spent at the gas station, the food court, the pharmacy, or on costco.ca.
-
-Now the arithmetic, and this is arithmetic, not an accusation. Two per cent has to cover the extra sixty-five dollars the upgrade costs. That's three thousand two hundred and fifty dollars of qualifying spending just to break even, and sixty-two thousand five hundred to hit the cap. On spending that excludes the gas.
-
-Eight. Vancouver put up a sign about a hot dog and started a national argument.
-
-July 2025, CBC News. "When Vancouver's downtown Costco recently posted signs announcing people will need an active membership card to purchase food from the food court, it sparked a fierce debate online about whether non-members should be able to access its cheap meals."
-
-The food court was always technically members-only and was never really enforced. Employees at that downtown location told CBC Vancouver their store had been lax because the food court sits outside the warehouse. Then the signs went up, and CBC captured what Canadians said: "Everyone deserves to be able to buy a $1.50 hotdog and drink if they're broke." CBC contacted Costco Canada for comment and had not heard back.
-
-Then CBC found an economist who reframed the whole thing. William Huggins, assistant professor of finance and business economics at McMaster: "Inadvertently, what happens is we've got corporations making up for deficits in our social programs. It tells you how weird things have gotten. That people are like, well, I'm so financially distressed I'm going to go and find the cheapest food I can. A hotdog."
-
-A company enforcing its own written rule became a story about Canada.
-
-Nine. Kirkland went up faster than the groceries did.
-
-Narcity senior writer Lisa Belmonte photographed Costco Canada shelf prices across multiple years and published the comparison in February 2026. Kirkland Signature chocolate-dipped granola bars, one point four nine kilos: eleven ninety-nine in 2024, seventeen forty-nine in 2026. Forty-six per cent in two years. McCafé ground coffee, up forty-one per cent. Kirkland hazelnut spread, up thirty-one. Kirkland chocolate chip granola bars, up twenty-five.
-
-Now the benchmark, because a number without one is just noise. Statistics Canada, released September 14th, 2026: food from stores rose two point eight per cent year over year, and "prices have increased 29.0% since August 2021."
-
-Twenty-nine per cent over five years for the whole basket. Forty-six per cent over two years on a box of Kirkland granola bars.
-
-And notice which way it runs. Kraft peanut butter went up eighteen per cent in that list. Nutella thirteen. Almond Breeze thirteen. The house brand, the one that's supposed to be the value play, is where the forty-six, the thirty-one and the twenty-five sit.
-
-If you're still watching and finding this useful, drop the number nine in the comments so I know you're here. And if you haven't subscribed, that's what lets us keep pulling documents instead of repeating what everyone else says. Now let's get back to it, because from here they get bigger.
-
-Ten. Same price. Same count. Less product. And a Canadian weighed it.
-
-Nathaniel Christopher is a Burnaby blogger and former journalist. In December 2024 he wrote up something sitting in his laundry room.
-
-"In my laundry room, I have two packages of Kirkland Signature Ultra Clean Laundry Detergent Pacs: a plastic tub purchased in August 2023 and a plastic bag purchased in September 2024. Both were bought for $26.99. Each package contains 152 laundry detergent pods, but the other day I noticed a difference: the older package weighs 3.6 kg, while the newer one weighs 2.9 kg."
-
-He assumed it was the packaging change. So he put the pods on a kitchen scale. "The old pods weigh 22 grams, while the new ones weigh 19 grams."
-
-Twenty-six ninety-nine both times. A hundred and fifty-two pods both times. Nineteen per cent less detergent.
-
-He isn't alone. Daily Hive reported in May 2024 on a Canadian shopper's photo comparison of Kirkland bath tissue: four hundred and twenty-five sheets per roll down to three hundred and eighty, same price per roll.
-
-And Daily Hive's article contains one more sentence that belongs in this video. "Daily Hive has reached out to Costco for comment." No response was ever published.
-
-Eleven. There is a case in Federal Court, and I need you to hear the word proposed.
-
-On December 23rd, 2024, a proposed class action was filed in the Federal Court of Canada against Costco Wholesale Canada Ltd. by Montreal firm Perrier Attorneys, for a representative plaintiff named Ibrahim El Bechara. It concerns something called double ticketing.
-
-The allegation, in counsel's own words, is "double labelling concerning several products offered by the defendant Costco Wholesale Canada," and "false or misleading indications concerning the absence of other charges." The examples, as reported by Global News: a Glasslock twenty-six piece storage set at forty-four ninety-nine online and thirty-four ninety-nine in store. A Kirkland Signature ten-cup pitcher at thirty-one ninety-nine online and twenty-four ninety-nine in store. Counsel's framing: "if you advertise the same product at two different prices, then you are bound to sell it at the lower price."
-
-Now the part a lot of channels will skip.
-
-This is an allegation. It has not been tested. The court has not certified it as a class action, no evidence has been heard, and no judge has found that Costco did anything wrong. Costco has a published answer, on its own website, document ID CCSS222: "products sold online may have different pricing than the same products sold at your local Costco warehouse. That's due to the shipping and handling fees charged for delivery to your home or business." And: "Costco.ca does not price match warehouse or vice versa."
-
-Costco's position is that the website and the warehouse are not the same store. A court will decide whether that holds. It hasn't yet.
-
-One more fact, because it's odd. Costco's fiscal 2025 annual report lists its legal proceedings. Every matter disclosed is American. The Canadian case doesn't appear at all.
-
-Twelve. Six in ten Kirkland products are made in Canada. Costco will not tell you by whom.
-
-February 13th, 2024. Pierre Riel, executive vice president and chief operating officer for Costco Wholesale International and Canada, testifying to the House of Commons Standing Committee on Agriculture and Agri-Food.
-
-"We've invested in Canadian suppliers. Over 61% of our Kirkland Signature items are now manufactured in Canada."
-
-That's a boast. It's also a confession that there are hundreds of Canadian factories making Kirkland product, and in that entire session Riel named not one of them. He named two categories: the detergent is made in Canada, the maple syrup comes from Quebec. Countries and provinces. Never a company.
-
-Go to the Kirkland Signature product inquiries page, the form Costco gives you to ask questions about Kirkland products, and read the notice printed on it before you type a word.
-
-"Please note that while we will do our best to answer any questions, certain information may be proprietary or confidential and will not be disclosed."
-
-A refusal, pre-printed on the form you use to ask. The annual report explains why plainly: Costco relies on "confidentiality, license and other agreements with our suppliers" to protect its intellectual property, and Kirkland items "generally earn higher margins."
-
-Roughly a third of two hundred and seventy billion US dollars in sales runs through a brand whose factories are a trade secret.
-
-Thirteen. Your Kirkland vitamin has to tell you who made it. Your Kirkland lasagna doesn't.
-
-Search the Government of Canada recalls database for Kirkland and something jumps out. When the product is a drug or natural health product, the notice names a real manufacturer. Kirkland Signature Women 50+ Multivitamin, May 2026: recalling firm, Vita Health Products Inc., 150 Beghin Avenue, Winnipeg. Kirkland Signature B100 Complex: recalling firm, Factors Group of Nutritional Companies, Coquitlam, British Columbia.
-
-But when the product is food, the notice names Costco. Kirkland Traditional Basmati Rice, August 2025: recalling firm, Costco Wholesale Canada Ltd. Manicotti, Costco. Cookies, Costco. Pizza, Costco.
-
-The reason is not a scandal. It's the law. Canada's Natural Health Products Regulations require a natural health product label to carry the licence holder's name and address alongside the NPN. Canadian law physically forces a real company name onto a Kirkland vitamin bottle. For food there is no equivalent rule. The Canadian Food Inspection Agency's own guidance says a prepackaged food must declare the name and place of business of the person who manufactured it, "or of the person for whom the food has been manufactured."
-
-Or. That word is doing a tremendous amount of work. Print "Distributed by Costco Wholesale Canada" and you have fully complied with Canadian food labelling law without telling anybody anything. That's not Costco being sneaky, that's Canadian law leaving a door open. But Costco walks through it every single time.
-
-And when the law does force a name out, look what's behind it. Vita Health Products has been making product in Winnipeg since 1936 and markets itself as "a Canadian pharmaceutical manufacturer." Its own about page says nothing about who owns it. The deal sheet from Osler, Hoskin and Harcourt, the law firm on the transaction, says it plainly: "On September 30, 2021, IVC Nutrition Corporation completed its acquisition of Vita Health Products Inc.," describing IVC as a multinational "with headquarters in Jiangsu, China."
-
-Costco didn't tell you that. A law firm's deal sheet and a federal recall notice did.
-
-And the Coquitlam plant that fills the Kirkland B100? The same notice lists the other brands it fills. Webber Naturals. Life. Option+. Equate, which is Walmart's house brand. And Wellness by London Drugs. One British Columbia plant, six names on the shelf, and one Canadian government document that accidentally told you.
-
-Fourteen. There's a document about Costco's Canadian prices that Parliament has and you don't.
-
-Riel said two things to that committee that are extraordinary once you notice them.
-
-February 2024: "In our confidential presentation submitted to the committee on November 2, 2023, we provided significant details about some specific methods that help Costco stabilize and lower food prices." And then: "Publicly, we can share the following information."
-
-There is a filed document, submitted to a committee of the House of Commons, describing how Costco sets Canadian food prices, and Canadians cannot read it. Asked separately for Costco's Canadian numbers, Riel's answer was: "As you know, we're a private company. We report our numbers globally with the U.S. company, so I cannot disclose that."
-
-And when Bloc MP Yves Perron pressed him on what Costco had given the Competition Bureau, the exchange went like this. Riel: "We provided the figures that we were able to supply when asked for them." Perron: "I understand that you provided some figures, but perhaps not all the figures requested." Riel: "I wouldn't say that. We have nothing to hide. However, there are five major retailers."
-
-We have nothing to hide, in a sentence that began by declining to say what was handed over.
-
-Then there's the Grocery Sector Code of Conduct, the voluntary code meant to bring fairness and transparency to how grocers treat their suppliers. Loblaw, Sobeys and Metro signed. Costco and Walmart were the last two. Agriculture and Agri-Food Canada's statement in July 2024 was carefully worded: "all major retailers have agreed to join the Grocery Sector Code of Conduct. This includes Loblaw, Sobeys and Metro, and most recently, Walmart and Costco."
-
-Most recently. Ottawa had been openly warning it would make the code mandatory if everyone didn't get on board. Nobody found Costco did anything wrong. Costco just didn't sign until the federal government said the word mandatory out loud.
-
-Fifteen. Canada is more profitable per dollar than America is, and the CEO said Costco will buy fewer Canadian products for American stores.
-
-This is Costco's own audited segment note in its fiscal 2025 annual report.
-
-The Canada segment: revenue of thirty-six billion nine hundred and twenty-three million US dollars, operating income of one billion eight hundred and forty-nine million. The United States segment: two hundred billion and forty-six million in revenue, six billion eight hundred and seventy-eight million in operating income.
-
-Run it out. Canada's operating margin is five point zero one per cent. The United States is three point four four. Canada is thirteen point four per cent of Costco's revenue and seventeen point eight per cent of its operating income.
-
-Per dollar of sales, Costco Canada is about forty-five per cent more profitable than Costco USA. That's our calculation, from Costco's own filed and audited numbers, and it is not in a single news story I could find.
-
-Now put it beside March 7th, 2025, when Costco told investors what it planned to do about tariffs. The Financial Post headline: Costco to reduce Canadian products in U.S. stores. Ron Vachris, on the record: "There's not many items that we can't find something to replace or something else to bring in that category."
-
-The most profitable segment in the company, per dollar, is the one whose products are being replaced on American shelves.
-
-And when Global News surveyed Canadian grocers about buy-Canadian programs in June 2025, Sobeys described Shop Canada shelf labelling, Metro described prioritising local Ontario and Canadian products, and Loblaw described sourcing more local goods. We could not find any comparable in-store buy-Canadian labelling program announced by Costco Canada. That's an absence, not an accusation. But we looked.
-
-That's fifteen.
-
-But the Costco Canada story isn't all fine print, crackdowns and shrinking pods. For every clause in that membership agreement there's something this company does that its Canadian competitors genuinely cannot match. Five things Costco Canada gets right. The first one costs a dollar fifty.
-
-One. The hot dog is a dollar fifty, and in Canada that means Canadian dollars.
-
-That's the part nobody says out loud. It's a dollar fifty in the United States and a dollar fifty here, and those are not the same dollar. At the exchange rate at time of research, the Canadian combo works out to roughly one US dollar and eight cents. Canadians pay less in real terms than Americans do, against a going rate CBC pegged at around fifty dollars for four meals at McDonald's and forty-five for a KFC bucket.
-
-It's been a dollar fifty since the 1980s, the same decade Costco arrived in Burnaby. In 2024, Millerchip went out of his way on an earnings call to say, "To clear up some recent media speculation, I also want to confirm the $1.50 hot dog price is safe." And when Costco finally changed the combo in 2026, the first change in forty years, what changed was adding a bottled water option. Not the price.
-
-Two. The wages are real, and they're in the filings.
-
-From the fiscal 2025 annual report: in March 2025 Costco raised its starting wage to at least twenty dollars an hour for all entry-level positions in the United States and Canada, and locked in further top-of-scale increases for March 2026 and March 2027. Retention for employees past one year, approximately ninety-four per cent.
-
-Those are blended US and Canada figures in US dollars, and Costco doesn't break out Canada, so I won't pretend it did. But Riel gave Parliament the Canadian numbers directly. Fifty-three thousand employees in Canada in early 2024, up from forty-eight thousand in 2021. Average Canadian hourly wage up from twenty-seven sixty-three in 2019 to thirty dollars and twenty cents. Part-timers guaranteed a minimum of twenty-five hours a week. And this: "All our full-time and part-time Canadian employees and their dependents have access to health care benefits paid in full by Costco."
-
-The annual report states the philosophy in writing: "our philosophy is not to seek to minimize their wages and benefits." You won't find that sentence in a competitor's filing.
-
-Three. The guarantee is in writing, and Canadians use it.
-
-From costco.ca: "We will refund your membership fee in full if you are dissatisfied." And on merchandise: "We guarantee your satisfaction with every product we sell and will refund your purchase price." There are real exceptions, ninety days on televisions, computers, appliances and phones, and you should know them. But Riel put the core promise the way a member would: if on day three hundred and sixty-five they aren't satisfied, Costco refunds the membership fee.
-
-Members respond accordingly. Fiscal 2025: a renewal rate of ninety-two point three per cent across the United States and Canada. At the second quarter of fiscal 2026, ninety-two point one. People who are being fleeced do not renew at ninety-two per cent.
-
-Four. Canada's own competition regulator says Costco made the market better.
-
-This is the Competition Bureau, in the 2023 Retail Grocery Market Study, the same study that took a hard look at concentration in Canadian groceries. "Costco and Walmart are the next largest grocers in Canada. The success of Costco and Walmart across Canada has brought more choice to the grocery industry. But with only about 500 stores between them, they are not an option in every community."
-
-Costco is Canada's number two grocery retailer at about fifteen per cent of the market. Ahead of Sobeys. Ahead of Walmart. More than double Metro. And the reason it can undercut is structural, not magic. Riel explained the model in three sentences: "A regular grocery store in Canada sells between 25,000 and 60,000 products. Costco sells just 3,500, so we can be really targeted in the products we carry. Our pack of toilet paper has 40 rolls."
-
-Five. When there's a Canadian labelling scandal, Costco keeps not being in it.
-
-Since April 2025 the Canadian Food Inspection Agency has issued forty-seven thousand dollars in penalties for misleading Product of Canada claims, across five businesses, including a Fortinos in Etobicoke, an Edmonton meat company, a Nova Scotia frozen foods company and a Real Canadian Superstore in Toronto.
-
-Costco is not on that list. Costco was not mentioned in either CBC Marketplace investigation into maple-washing. And when a Quebec class action over fake maple syrup was amended in August 2026, it named Loblaws, Metro, Sobeys and Groupe Epicia. Not Costco.
-
-It also cuts prices out loud. In the second quarter of fiscal 2026 Costco lowered prices on eggs, cheese, coffee and paper products, and said that as tariffs came off it was cutting prices on textiles, bedding and cookware. On tariff refunds, Vachris committed to something testable: "We will be transparent in how we plan to do this if and when we receive any refunds." Hold them to that. I intend to.
-
-So where does that leave us.
-
-In 1985 a London Drugs executive stood in front of a CBC camera, looked at a warehouse in Burnaby, and said, and let them have it. Canada let them have it. Forty-one years later Costco has a hundred and fifteen warehouses here, it's this country's second-biggest grocer, it pays better than almost anyone in Canadian retail, it still sells a dollar fifty hot dog in Canadian money, and our own regulator says it made the market better.
-
-And it also runs the most profitable large segment in the company on Canadian money, tells Parliament that six in ten Kirkland products are made here without naming a single factory, files a confidential document about Canadian pricing that Canadians can't read, and hands you an agreement saying you may not write down a price.
-
-Both of those are true. That's what makes it worth watching carefully. The problem was never that Costco is the villain. The problem is that it's the last one most Canadians still trust, and trust is exactly the thing nobody audits.
-
-If this was worth your time, a like genuinely helps. Subscribe and hit the bell so the next file finds you.
-
-Two questions, and I read these.
-
-Which Costco Canada change annoyed you most. The door scanners, the sixty-five dollar fee, the online prices, or the sample-station traffic jams?
-
-And be honest. Are you renewing anyway?
-
-Because ninety-two point one per cent of you did last year.
+Everything in this video comes from Costco Canada's membership terms and customer service pages, CIBC's published card terms, Costco's filings with the U.S. Securities and Exchange Commission, Statistics Canada, retailers' own websites and named news reports, checked on October 1st, 2026. Fees, rewards and offers change and vary by province. Read your own renewal notice.
 
 ---
-CHARACTER COUNT: see verification log
+
+APPENDIX A — PRODUCER FILM LIST (not spoken)
+
+Lower-third on every item: "#N of 10 · [document] · costco.ca / cibc.com / SEC · checked Oct 1, 2026".
+
+Screen captures to take before recording, each with the date visible:
+1. Costco 8-K, Sept 24, 2026, Ex. 99.1 and 99.2 (sec.gov): membership fees US$5,907M (FY2026, company-wide); "115 in Canada"; renewal "92.3% US/CN" and "89.8% Worldwide"; 84.1MM paid, 42.3MM Executive, 75.6% Executive sales penetration; Canada Q4 comparable sales 5.0% / adjusted 4.6% vs U.S. adjusted 7.2%. These were partly read through a summarising fetch: confirm every figure against the document text.
+2. Costco monthly sales releases (May–Aug 2026): Canada comparable sales ex-gas and FX 5.3%, 4.9%, 4.9%, 2.8%.
+3. Costco FY2025 10-K: Canada total revenue US$36,923M, operating income US$1,849M, 55,000 Canadian employees; Executive hours "In the U.S."; 2% reward reduction US$3,007M; fee increase "approximately 40% of membership income growth during 2025"; renewal-rate method (seven to eighteen months).
+4. Costco fee-history filings: FY2006, FY2012, FY2017 10-Ks and the 8-K of July 10, 2024.
+5. costco.ca Membership Conditions & Regulations (dated August 1, 2026): fees; renewal timing; 2-month extension rule; "fee in effect"; household card; scan-at-entry sentence; 2% calculation and redemption exclusions; three-month cut-off; cap; forfeiture on downgrade/refund; right to change the program; return guarantee and exceptions; Quebec right-to-repair notice; termination clause; amendments clause (B.C. carve-out); "recording of prices in any manner is not permitted"; 16+ and government ID.
+6. costco.ca join page: upgrade fee, prorating, "not guaranteed" sentence, Executive extras, $10 Instacart credit terms (from June 30, 2025; one order of $150+), refund wording.
+7. costco.ca executive-rewards page and its "Annual 2% Reward Exclusions List"; Costco Travel 2% sentence; online upgrade steps.
+8. costco.ca cibc-executive-offer page (rates fine print; $65 new-member offer and its conditions); CIBC Costco Mastercard page ($0 fee, up to 3 additional cardholders, $15,000 income, "also your Costco membership card"); costco.ca credit-card-change page (March 4, 2022).
+9. Customer service pages (read through a summarising fetch; capture verbatim before quoting): price adjustment 30 days (warehouse), costco.ca vs warehouse pricing, payment methods, return policy (customer-service version), Shop Card FAQ, warranty (two years; Costco Technical and Warranty Service), cancellation at the counter.
+10. costco.ca Same-Day help page and the Same-Day pricing-policy page ($35 minimum; Instacart+ lower item pricing; markup sentence).
+11. costco.ca tires page with the Michelin $100 and BFGoodrich $60 promotions (Sept 28 – Nov 1, 2026) and the installation/package and "additional component costs" lines. Re-check on Oct 4; if the promotions changed, update the line.
+12. costco.ca gasoline Q&A (members only; Shop Card exception). costco.ca new-locations page (four November 2026 openings). Canadian warehouse pages (one schedule; Thanksgiving closed Oct 12).
+13. Statistics Canada table 11-10-0125-01 (food purchased from stores, Canada, 2023: $8,579).
+14. Value-math captures (Oct 1, 2026, Mississauga; costco.ca and Same-Day vs RCSS #1080, No Frills #3907, Walmart store 1061, Voilà default region, Giant Tiger ON): see research_costco.md, costco_value_math sections 2–3. Show each compared item with banner, store, date, pack and unit price on screen.
+15. Alternatives' own pages: PC Optimum Insiders $119/yr plus tax; Walmart+ Canada $89/yr; Amazon Prime $99/yr; Instacart+ $99/yr.
+16. News and survey: Global News Sept 25, 2026 (fees unchanged since 2024); CBC Aug 13, 2024 (Jenna Benchetrit; scanners in Ottawa, Edmonton, Regina, Lower Mainland); Global News Jan 14, 2025 (Saba Aziz; proposed class action); Federal Court docket T-3644-24; Competition Bureau June 2, 2026 statement and June 16, 2026 notice; Abacus Data, published Oct 1, 2026 (fielded Sept 4–9, n=1,479, online panels weighted to census).
+
+APPENDIX B — DO NOT SAY (on air, lower-thirds, description, pinned comment or thumbnail)
+
+- Price-tag codes (asterisks, .97, .88, .00, death star, date codes). Any Kirkland supplier claim. Anything sourced to employees, insiders, Reddit, forums or deal blogs.
+- Pharmacy, optical, hearing-aid or prescription items of any kind, beyond reading the word "pharmacies" or "optical centres" inside Costco's own exclusion text. Any food-safety or recall item.
+- Gas-price gap claims ("5 to 15 cents cheaper", GasBuddy). Fuel-quality or engine claims.
+- "The Executive 2% counts at the gas bar." "3% restaurants capped at $8,000" on the personal card. "Costco refunds the difference if the 2% doesn't cover the upgrade" (U.S. lore).
+- Executive early hours in Canada (Costco's 10-K says U.S.).
+- Coaching a refund play ("shop 11 months, cancel in month 12"). Promo-code membership resets.
+- The renewal rate as a Canadian figure. Any combined U.S.+Canada or worldwide figure without its label.
+- Any statement that the proposed class action has merit; it is an allegation, not certified.
+- Any warehouse shelf price. All Costco prices in this video are costco.ca or Same-Day prices.
+- "Secret", "hidden", "quietly", "caught", "exposed", "trouble", "scam", "trick", "hack".
+- The Sept 17 "Costco Canada Just Got Caught" video as a source (it misdates a quote and misreads the exclusions).
+
+APPENDIX C — OPEN ITEMS BEFORE RECORDING
+
+1. Confirm the 8-K figures against the PDF text (item 1 above), and the Q4 Canada comparable-sales adjustment wording.
+2. Capture every customer-service page verbatim (they returned 401 to direct download and were read through a summarising fetch).
+3. Re-check the Federal Court docket T-3644-24 status on Oct 3 or 4. If anything changed, update the sentence; keep "allegation, not certified" unless a court certifies.
+4. Re-check the tire promotions and the CIBC new-member offer on Oct 4.
+5. Provincial sales-tax example: the script uses "a 13 percent rate" as an illustration. Show one province's actual rate on screen with its CRA/Revenu Québec source, and say "check your province".
+6. Value-math prices were captured Oct 1. Several Costco wins are promotions ending in October; say so on screen (the script does).
+7. If Costco publishes a fee change or Canadian Executive hours before Oct 4, rewrite #1 or #2.
+
+APPENDIX D — UNVERIFIED / DO-NOT-USE (see research_costco.md for pointers)
+
+Canada-only renewal rate (not published). Canadian membership counts (not published). The Q4 FY2026 earnings-call transcript (not opened on Costco's site). What changed in the Aug 1, 2026 terms (no archived copy opened). Shop Card non-member day pass (footnote read via fetch only; not used). CIBC interest rates (did not render; not stated). Tire road-hazard pro-rating terms. Visa on costco.ca beyond the payment-methods page. The El Bechara class action's merits. Warehouse shelf prices. Gas price comparisons. The 2019 Ontario pharmacy-rebate penalty (barred topic).

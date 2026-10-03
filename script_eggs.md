@@ -2,7 +2,7 @@
 
 TITLE: 7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)
 
-POST DATE: October 5, 2026.
+POST DATE: October 6, 2026. It moved from Oct 5 because the No Frills video takes Oct 5.
 
 TITLE NOTE: This is a redo of the channel's April 17, 2026 egg video, which used this exact title and reached about 121K views. It is the same construction that is working on the channel right now: olive oil reached 16.7K in 6 days and jam 8.4K in 5 days. The August 17 egg video ("Canadians Must AVOID These 7 Egg Brands (Only 3 Are ACTUALLY Real Eggs)") reached 4.4K. It used a different title, opened with about 575 words of U.S. material, and its thumbnail put "NOT REAL EGGS?" on a carton the script recommended. This version keeps the April title and drops everything August did differently.
 - covered_topics.md marks eggs "HIT — DO NOT REDO". This script overrides that note on purpose, because the channel's own numbers show the April construction still works and the August flop changed the construction. The decision is the channel owner's.
@@ -117,7 +117,7 @@ APPENDIX B — DO NOT SAY (on air, lower-thirds, description, pinned comment or 
 - "Largest family-owned egg business", the legal-paper comparison to 750 cm², "what Omega 3 does for you" and "what's inside either shell": all cut after verification. Do not re-add them.
 - The April and August videos' unsourced lines listed in note_eggs_structure.md §3.
 
-APPENDIX C — RE-CHECK ON OCTOBER 4–5 BEFORE PUBLISHING
+APPENDIX C — RE-CHECK ON OCTOBER 5–6 BEFORE PUBLISHING
 
 1. Re-capture every Loblaws #1032 price in the table above. The Nest Laid and Omega 3 specials end Oct 7, and the Solar specials end Oct 14. If any regular price moved, re-run the cents-per-egg order. If the order changes, re-order the script and run-back.
 2. Re-capture the No Name Large 12 at Maxi #9528 and Atlantic Superstore #0354 (cold open).

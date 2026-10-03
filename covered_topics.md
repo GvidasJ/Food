@@ -166,10 +166,18 @@
 
 ### Scheduled
 - Oct 4 2026: "Don't Renew Your Costco CANADIAN Membership Until You Watch This (October 2026)". This is a same-construction redo of the May 236K hit.
-- Oct 5 2026: eggs redo under the exact April title: "7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)".
+- Oct 5 2026: No Frills store video in the "Why Canadians Are Refusing to Shop At … Anymore" construction, modelled on Protect Our Plates' Tesco video (102K in 1 day, Oct 2 2026).
+- Oct 6 2026 (moved from Oct 5): eggs redo under the exact April title: "7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)".
   - This deliberately overrides the "Eggs brands — DO NOT REDO" line above. The evidence: the April construction keeps winning (olive oil, jam), and the August flop changed the construction, not the topic.
   - The April video with the identical title is still live. Unlisting or retitling it is the owner's decision.
 
 ### Format note (2026-10-03)
 - The exact construction "N X Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)" is the one currently working.
 - Prefer it over "Canadians Must AVOID These N …" and "We Investigated N …" for brand lists.
+
+### Single-store results (as of 2026-10-03, excluding Costco)
+- No Frills: 106K ("Don't Shop At No Frills Again Until You Watch This", Dec 2025) and 13.6K ("11 No Frills SECRETS", Feb 2026). Best store apart from Costco.
+- Metro: 20.9K (Dec 2025), tried once.
+- Tim Hortons, a restaurant rather than a store: 21.2K, 12.9K, 16.4K.
+- Loblaws: 7.2K (Jan 2026), 3.9K ("Just Got Caught", Sep 2026), 2.5K (bakery). It has under-performed every time on this channel, although Canada Alert's Loblaws video reached 207K.
+- Walmart 4.0K, Canadian Tire 5.4K, Dollarama 5.0K, Winners 5.0K, Shoppers 3.9K, PC Optimum 1.5K.

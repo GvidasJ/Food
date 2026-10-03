@@ -1,51 +1,134 @@
-# Verification Log — "7 Egg Brands" script
-Verified 2026-08-16 by two research agents (48 + 57 tool calls). Safe phrasings binding on script_eggs.md. Source mirrored: Protect Our Plates "DON'T Buy These 7 Egg Brands (Only 3 Are ACTUALLY Real Eggs)" (J6wWwWEp0-Q, 60K @36h, accelerating — full transcript read). UK shell-stamp decoder (0/1/2/3) does NOT exist in Canada — replaced with carton-word decoder. Title's "real eggs" explicitly defined in intro as "promise matches the hen's life" (no fake-egg claim anywhere).
+# Verification log — script_eggs.md (Oct 5, 2026)
 
-## Intro / US-crisis claims
-| Claim | Verdict | Notes |
-|---|---|---|
-| US $6.23 record Mar 2025 | VERIFIED | BLS via CRS IF12949; Feb $5.90; fell to $5.12 Apr. Script "nearly nine dollars Canadian" ≈ conversion, fair |
-| California $9+ | VERIFIED | USDA AMS benchmark $9.22 (Feb 21 2025) |
-| Waffle House 50¢/egg | VERIFIED | Feb 3 2025, 2,000+ locations (NBC); dropped Jul 1 (CNN) — surcharge stated, dates omitted |
-| Rationing | VERIFIED | Trader Joe's/Costco/Kroger limits Feb 2025 (CNBC/NBC) |
-| Egg seizures vs fentanyl | VERIFIED-PRIMARY | CBC (full text): 3,254 egg seizures Jan-Feb 2025 (+116%) vs 134 fentanyl events (-32%) → "twenty-four times more often" (3254/134=24.3 ✓). Detroit crossing +36% "where most eggs are coming in from Canada." NPR's +48% NOT used (snippet-only). Framed as seizure EVENTS (mandatory) |
-| Windsor $3.93 vs Michigan ~$8.50 Cdn | VERIFIED | CBC verbatim comparison |
-| USDA letter to Europe / Turkey 420M | VERIFIED | Reuters via Fortune (attributed "Reuters reported"); Turkey ~420M = 6x 2024's 71M (CNN) |
-| Niagara No Frills accents + $300 fine | VERIFIED (attributed) | The Logic (paywalled) — script attributes both to The Logic |
-| StatCan band $4.26–$4.95 over 30 months | VERIFIED-PRIMARY | Table 18-10-0245-01 CSV pulled: 2024 min $4.26 (Mar) – 2026 Jun $4.88; max $4.95 (Jul 2025). 69-cent swing ✓ |
-| 1,300 farms / 22,000 avg / Cal-Maine 44M | VERIFIED | EFC 2025 Annual Report (primary): 1,295 farms, avg 22,069 layers ("roughly 1,300… about 22,000"); Cal-Maine 44M > Canada's ~28.6M total (The Walrus + EFC math) |
+Verification ran on Oct 3, 2026 against the committed draft. Eight parallel checkers were used:
+- five section verifiers (open/method/yardstick; avoids 1–3; avoids 4–6 and the cheat sheet; the ask, #7 and the picks; the run-back, protect section and close);
+- three lenses (house rules and libel; arithmetic and structure; hostile viewer).
 
-## Avoid entries
-| # | Entry | Verdict | Key facts / cautions |
-|---|---|---|---|
-| 1 | Classic white dozen | VERIFIED | Grade A requirements verbatim-based (Compendium Vol. 5: uncracked, air cell ≤5mm, candling conveyor per CFIA fact sheet); all retail = Grade A (EFC/SFCR 306(1)); B/C → processing. Washing/cuticle + Europe no-wash contrast (CFIA + NPR 2014); best-before "typically 28 to 35 days" (eggs.ca — NOT stated as law). 39.45% conventional cages mid-2025, from ~90% at 2016 pledge, "roughly on pace" (EFC 2025 report verbatim incl. projection). CBC Marketplace Apr 2021: 14 brands/29 dozen lab test, cheap ≈ expensive nutritionally. no name $3.93 (loblaws.ca Aug 2026 snapshot) |
-| 2 | Naturegg Nestlaid | VERIFIED | Burnbrae's OWN copy: "perch, scratch and lay their eggs in a curtained nesting area in a furnished cage environment." NFACC code: 750 cm² min per hen incl. nest ("smaller than a sheet of legal paper" — legal paper = 216×356mm = 768 cm² ✓ barely; phrasing safe). EFC's own "business class" phrase. 11% survey (Animal Justice, attributed "an advocacy survey"). 80%/75% poll (Research Co. via newswire — "polling has found"). 79% total caged (39.45+39.33 EFC ✓). 2024 Animal Justice investigation: attributed, no footage description (no-fear rule), brands "including this one" (AJ named Nestlaid/Naturegg/Golden Valley). Burnbrae history: 6th gen, Lyn ON, "more than 130 years" (avoids 1891-vs-1893 discrepancy) |
-| 3 | Prestige | VERIFIED | Burnbrae's own copy: "young hens in the peak of their laying cycle," "packed to order" — freshness claim, no housing claim (housing-disclosure absence = the point; carton check flagged) |
-| 4 | GoldEgg/Conestoga/Golden Valley/Sparks → P&H | VERIFIED | P&H's own brands page lists all four + "previously operated by L. H. Gray & Son"; sale completed May 2025 (Agri 007 + P&H site). Conestoga = Gray brand (OAHF citation) — NOT Burnbrae. Island Gold = Burnbrae since 2007 (islandeggs.com own copy; Jensen family 1951). Grading-station decoder softened to "fine print… grader's identity" (registration-on-carton legal requirement not fully verified) |
-| 5 | Omega-3 | VERIFIED | PC Blue Menu $7.49 vs no name $3.93 (loblaws.ca) = ~30¢/egg premium ✓. ~340mg ALA + 75-100mg DHA (Flax Council); Guelph diet credit (Burnbrae's own copy); McGill OSS + Globe dietitian skepticism; "Enhanced" = CFIA's defined term (shell-egg labelling page); lutein/marigold yolk-colour beat (GoldEgg Omega Choice lutein + Burnbrae marigold extract — own materials); Omega Plus Solar Free Range positive nod (Burnbrae copy). Vitamin D eggs = enhanced (EFC) |
-| 6 | Free run vs free range | VERIFIED | EFC verbatim definitions (free run = "roam the entire barn floor"; free range = "when weather permits, go outside to pasture"). No federal legal definition (CFIA method-of-production guidance defines neither; honor-system quotes = same as grass-fed video); BC provincial 120 days/6h (BC Egg). EFC 2025 report verbatim: new "national Free Range Standards Certification Program… mandatory" — framed as industry acknowledging the gap |
-| 7 | Retailer cage-free pledge | VERIFIED | RCC Mar 18 2016 release verbatim: "voluntarily commit to the objective of purchasing cage-free eggs by the end of 2025" (Loblaw/Metro/Sobeys/Walmart ≈90% of grocery). Oct 2025 MFA scorecard via Retail Insider: "No major retailer has met its 2025 cage-free goal"; Costco ~21.3%, Sobeys 17-18%, Loblaw 16%; Whole Foods 100%. Fair-frame BOTH sides: supply-contingent pledge + 2017 NFACC enriched pivot (mandatory) |
+They returned 76 flags: 7 hard errors, 11 rule breaches, 37 risks and 21 polish items. Every flag was adopted, except one that was adopted in part (flag 65). Where several checkers flagged the same line, one fix was applied.
 
-## Decoder + winners
-| Item | Verdict | Notes |
-|---|---|---|
-| Meaningless words list | VERIFIED | BC SPCA label guide treats farm fresh/natural as marketing; grain-fed/vegetarian-fed = standard practice + hens are omnivores (WaPo); "all feed grain-based" = reasonable-inference framing |
-| Brown = white | VERIFIED | eggs.ca verbatim ("depends on the breed"); nutritionally identical. Brown-costs-more-because-bigger-breeds folklore NOT claimed |
-| Yolk colour from feed | VERIFIED | Marigold/lutein feed additives (own product materials + POP source parallel) |
-| W1: Free range (Naturegg/Conestoga) | VERIFIED | Both state outdoor access weather permitting (own copy); winter caveat framed honest |
-| W2: Organic | VERIFIED | CGSB 32.310 clauses via Organic Federation of Canada Q&A ("reared in open-range conditions… free access to pasture"; popholes) — re-verify vs PDF before on-screen quote graphic (flagged). PC Organics $9.50 (loblaws.ca); Kirkland 24-pack ~$9-ish ("roughly $9-something" — UNVERIFIED exact, hedged); Marketplace small-farm organic: vit E 3.25 vs 2.16 mg, vit D 31.65 vs 20.50 IU, ~1g protein (CBC). Yorkshire Valley = Canada's largest organic poultry, 35+ family farms (own site) |
-| W3: Certifications + small flock | VERIFIED | BC SPCA Certified (annual audits) + Certified Humane (third-party); farmers-market framing generic. "Best egg has no brand" = editorial |
-| Outro | VERIFIED | 2036 deadline + on-pace (EFC report projection verbatim-based); 259 eggs/capita (EFC CEO verbatim); seizure recap consistent |
+Final body: 22,821 characters, 3,995 words. The ask is at 62.6%. The tagline appears twice, the disclosure once, and there are no asterisks or sentences over 40 words.
 
-## Deliberately EXCLUDED
-- UK shell-stamp code (doesn't exist in Canada); British Lion; RSPCA-assured critique (UK); Sainsbury's/M&S/Happy Egg entries (UK); Oxford carbon study (UK-contested framing); brown-eggs-disappearing hook (UK-specific)
-- Gray Ridge "guilty plea" (unverified); CBC Marketplace cage exposé (doesn't exist); investigation footage descriptions (no-fear rule); "egg tourism" as a coined term; NPR +48% (snippet-only); Humane Canada critique (not found); double-yolk 1-in-1,000 (hobbyist sourcing); Burnbrae market-share % (unpublished); exact founding year (1891 vs 1893 discrepancy — "more than 130 years"); 35-day rule as law; Rowe Farms/Vital Green (unverified SKUs)
+## Material changes
 
-## Pre-publish checklist
-1. Spot-check shelf prices in-store (no name $3.93 / PC omega $7.49 / PC Organics $9.50 are Aug 2026 loblaws.ca snapshots; Walmart/Sobeys/Costco prices unverified).
-2. Screenshot money visuals: Burnbrae Nestlaid product page ("furnished cage environment"), EFC 2025 report housing table (39.45%), RCC 2016 pledge release, MFA/Retail Insider scorecard, StatCan price band, CBC egg-seizure article.
-3. Re-verify CGSB organic clause wording against the standard's PDF before any on-screen quote graphic.
-4. Check a Prestige carton in-store for housing disclosure (unverified either way — script phrased safely).
+1. **Store basis (hard error).** The draft said "every price comes from … one store", but it also quoted Maxi, Atlantic Superstore, Walmart, Metro, No Frills, Superstores and Costco Same-Day. It now says every ranked price comes from Loblaws #1032 in Markham, and that other stores are named and priced from their own websites the same night. Each off-store price now carries a store and a cents-per-egg figure.
+2. **"Cheapest" (hard error).** A No Name Medium 30-pack on the same page was 30.6¢ an egg. The list is now "seven Large cartons, cheapest per egg first". #1 says it is the cheapest Large egg, and it names the Medium 30 at $9.18 for viewers who only care about price. The run-back now says "the cheapest Large dozen".
+3. **Loblaw June 2025 document (hard error).** The draft called it "a June 2025 version" of the live page. It is a separate Animal Welfare Statement PDF that the page links to. The script now gives the live page's examples (free-run, free-range) first, then the PDF's "enriched housing". It adds that the plan is about 2030 and does not say how the hens behind today's carton are housed.
+4. **Burnbrae Prestige photo (hard error).** "From Our Family to Yours!" is listing text, not lid text, and is now attributed to the listing. The 1891 wording is now attributed to the Aug 2025 release, not the website. The "largest family-owned" superlative was cut under the market-share rule.
+5. **Grading colour (hard error).** "To be graded at all, an egg only has to be of a usual colour" was false, because SFCR 332(1) lists six conditions. It now reads: "On colour, the grading rules only ask that an egg be of a usual colour."
+6. **Brown premium (hard error).** The gap is 19.7¢, not 19.6¢. "For the colour of the shell" stated why the price is higher. It now says shell colour is the only difference the lid shows, and the run-back says the lid doesn't say why.
+7. **April corrections.** The draft said "Two things … we can't stand behind" and "replaces that one". It now admits that the April video's cage claims for No Name, Great Value and Gray Ridge had no source. It calls this video "our corrected version", because the April video is still live. Loblaw and NFACC are now quoted verbatim.
+8. **Welfare and housing inference.**
+   - The legal-paper comparison to 750 cm² was cut.
+   - The coop-name habit no longer says "comfort" or "cozy" means an enriched cage. It now tells viewers to find the company's own definition and compare it with the code's term. Only Farmer's Finest's definition is read.
+   - The partly legible Compliments small print was cut.
+   - "That's the whole country's flock, not any one carton" was added after the EFC housing shares.
+   - "It isn't a different barn" now says the housing word is the same.
+9. **Health adjacency.** Cut "what Omega 3 does or doesn't do for you", "what's inside either shell", and the Blue Menu "extra claims on the label" line. The Blue Menu brown lid was not read, so that segment now refers to listings.
+10. **Fairness.**
+    - Added a one-line definition of "avoid" (a shopping call, not a claim about any company, farm or egg).
+    - Added a disclosure that both picks are Loblaw brands priced at one Loblaws.
+    - Added a disclosure that the seven are cartons, not seven separate companies.
+    - Added the Kirkland Same-Day free-run price (42.5¢, about 17¢ under pick 2), with Costco's verbatim markup line.
+    - The PC Free Run price claim "held across the country" was replaced by the real range: $6.99 in Vancouver to $7.74 in Regina.
+    - #7 now notes that Conestoga is also an Omega-3 carton.
+    - The thumbnail text changed to "SAME GRADE A. 42¢ APART. READ THE LID." It is to be used only once a lid photo confirms Conestoga's Canada A mark.
+11. **Smaller fixes.**
+    - EFC free-range wording is quoted verbatim, and the certification program is dated "August 2025".
+    - The 10,000-bird flock cap was cut, because it was never read in the cheat sheet and the 2026 clause is unverified.
+    - The Omega 3 special is dated "until October 7th".
+    - The import figure now separates the breaking line from table eggs (about 8.3M dozen).
+    - The Gray Ridge and P&H ownership sentence was rewritten in the companies' own terms.
+    - "hides" became "doesn't show", and "head-office address" became "company name with a city and postal code".
+    - The appendix table now has all product codes.
 
-## Strategy note
-User-directed mirror of POP's egg redo (60K @36h, accelerating; their all-time egg video 475K). CC's May egg video (119K) was a brand listicle — this is the label-decoder + US-crisis angle, differentiated per the POP redo playbook. Coffee fully researched and banked as next slot. Chicken store-test remains backup per user.
+## Flags not adopted
+
+- **Flag 65 (in part).** We did not add "we couldn't read this lid" to #7. The arithmetic checker viewed the Conestoga Free Range 12 front image (21624591001_EA). Appendix D U4 still requires a physical photo, including the Canada A mark, before the thumbnail is used.
+
+## Still open before air (see script Appendix C and D)
+
+- Re-capture all Loblaws #1032 prices on Oct 4–5. Specials end Oct 7 and Oct 14.
+- Capture the live Burnbrae pages.
+- Photograph the Conestoga FR 12 and Blue Menu Brown 12 lids.
+- Check whether StatCan has released August 2026 data.
+
+## Full flag table
+
+| # | Checker | Severity | Quote | Outcome |
+|---|---|---|---|---|
+| 1 | open-method-yardstick | hard-error | Every price comes from the retailer's own website, at one store, the Loblaws on Bullock Drive in Markham, O… | Adopted, with wording close to flag 58. |
+| 2 | open-method-yardstick | rule-breach | On October 3rd, the exact same carton, No Name Large, twelve eggs, same product code, was two ninety-nine o… | Adopted. |
+| 3 | open-method-yardstick | risk | Two things in it we can't stand behind today. | Adopted through the fix for flag 59. |
+| 4 | open-method-yardstick | risk | This video replaces that one. | Adopted ("our corrected version"). |
+| 5 | open-method-yardstick | risk | And that lid tells you a grade, a size, a count and a head-office address. | Adopted. |
+| 6 | open-method-yardstick | risk | That works out to about forty-one cents an egg. | Adopted. |
+| 7 | open-method-yardstick | risk | So we did what the carton doesn't. Seven cartons, cheapest egg first, every word on the lid checked against… | Adopted (grade, size and housing words). |
+| 8 | open-method-yardstick | polish | Loblaw's own page now says one hundred percent of PC shell eggs are now entirely free-run and/or free-range. | Adopted. |
+| 9 | open-method-yardstick | polish | The national code of practice says all hens must be housed in enriched cage or non-cage systems by July 1st… | Adopted. |
+| 10 | avoids-1-3 | hard-error | In a June 2025 version of that document, the list of alternatives included enriched housing. | Adopted. |
+| 11 | avoids-1-3 | hard-error | The product photo on that listing shows Burnbrae's Prestige club pack, with the lines "First choice for che… | Adopted. |
+| 12 | avoids-1-3 | rule-breach | Its own site says the family has owned and operated it since it was founded in 1891. A 2025 company release… | Adopted. |
+| 13 | avoids-1-3 | rule-breach | It was the same three ninety-three as Great Value Large at a Walmart in Mississauga that night, and Selecti… | Adopted. |
+| 14 | avoids-1-3 | risk | The habit from number three: if the lid says colony, enriched, furnished, comfort or cozy, look it up in th… | Adopted through the fix for flag 37. |
+| 15 | avoids-1-3 | risk | It tells you who the eggs were packed or labelled for. | Adopted. |
+| 16 | avoids-1-3 | polish | This is the cheapest Canada A Large egg on that shelf. | Adopted. |
+| 17 | avoids-1-3 | polish | So today the carton doesn't say, and the plan's deadline is four years out. | Adopted through the fix for flag 42. |
+| 18 | avoids-1-3 | polish | Burnbrae's own consumer choice page says it is committed to moving hens out of conventional cage housing be… | Adopted. |
+| 19 | avoids-1-3 | polish | Across thirteen Loblaw-owned stores' websites that night, this same No Name dozen ran from two ninety-nine … | Adopted, with wording close to flag 76. |
+| 20 | avoids-4-6-interlude | hard-error | To be graded at all, an egg only has to be of a usual colour. | Adopted. |
+| 21 | avoids-4-6-interlude | risk | So both cartons make the same housing claim, from the same company. | Adopted. |
+| 22 | avoids-4-6-interlude | risk | Whatever the extra seven cents buys, it isn't a different barn. | Adopted. |
+| 23 | avoids-4-6-interlude | risk | Blue Menu is Loblaw's line with extra claims on the label, and as with number five, those are claims this c… | Adopted through the fix for flag 45. |
+| 24 | avoids-4-6-interlude | risk | Its 2025 annual report says its board approved a national Free Range Standards Certification Program in Aug… | Adopted. |
+| 25 | avoids-4-6-interlude | polish | That's nineteen point six cents more per egg than the white carton next to it, about sixty percent more, fo… | Adopted (19.7). |
+| 26 | avoids-4-6-interlude | polish | It's on special this week at five seventy-five, but we rank everything on the regular price, so it lands here. | Adopted. |
+| 27 | ask-7-picks | risk | Conestoga is one of the brands Gray Ridge sells, and Gray Ridge's businesses are now P&H Foods, a Parrish a… | Adopted. |
+| 28 | ask-7-picks | risk | And the price held across the country. It was seven eighteen at the No Frills on Richmond, seven oh five at… | Adopted, with wording close to flag 52 plus unit prices from flag 68. |
+| 29 | ask-7-picks | rule-breach | One more data point for members: Costco's Same-Day site listed Kirkland Signature Free Run Large, twenty-fo… | Adopted, with wording close to flag 69. |
+| 30 | ask-7-picks | rule-breach | Free range, in Egg Farmers of Canada's own words, means barn floor plus the outdoors when weather permits, … | Adopted. |
+| 31 | ask-7-picks | risk | And the organic carton comes with the standard we just read: no enriched or colony cages, outdoor access fo… | Adopted. |
+| 32 | ask-7-picks | polish | Costco's own help page says Same-Day prices are marked up over the warehouse. | Adopted. |
+| 33 | ask-7-picks | polish | It was seventeen fifty at the No Frills on Richmond Street West, fifty-eight point three. It was sixteen ni… | Adopted. |
+| 34 | runback-protect-close | risk | Statistics Canada's trade data shows Canada imported about forty-three point six million dozen hen shell eg… | Adopted. |
+| 35 | runback-protect-close | rule-breach | Prices in this video were taken from the retailers' own websites on October 3rd, 2026, at the named stores,… | Adopted through the fix for flag 69. |
+| 36 | runback-protect-close | polish | No Name Large, thirty-two point eight: the cheapest, and the lid doesn't say how the hens were housed. | Adopted. |
+| 37 | house-rules-libel | rule-breach | Other labels use their own names for this. Longo's lists Enriched Coop. Compliments has Cozy Coop, and the … | Adopted. |
+| 38 | house-rules-libel | rule-breach | For scale, and this is our arithmetic, not the code's, a sheet of legal paper is about seven hundred and si… | Adopted. |
+| 39 | house-rules-libel | risk | TITLE: 7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It) | Adopted. |
+| 40 | house-rules-libel | risk | Text over them: "SAME GRADE A. WHAT'S THE 42¢?" | Adopted. |
+| 41 | house-rules-libel | risk | It doesn't tell you where the hen lived. Egg Farmers of Canada's own annual report says that as of mid-2025… | Adopted. |
+| 42 | house-rules-libel | risk | In a June 2025 version of that document, the list of alternatives included enriched housing. So today the c… | Adopted. |
+| 43 | house-rules-libel | risk | That's nineteen point six cents more per egg than the white carton next to it, about sixty percent more, fo… | Adopted through the fix for flag 61. |
+| 44 | house-rules-libel | risk | We're not going to tell you what Omega 3 does or doesn't do for you. This channel doesn't make those claims… | Adopted. |
+| 45 | house-rules-libel | risk | Blue Menu is Loblaw's line with extra claims on the label, and as with number five, those are claims this c… | Adopted. |
+| 46 | house-rules-libel | risk | Whatever the extra seven cents buys, it isn't a different barn. | Adopted through the fix for flag 22. |
+| 47 | house-rules-libel | risk | A 2025 company release calls it the largest family-owned and operated egg business in Canada. | Adopted. |
+| 48 | house-rules-libel | polish | Conestoga is one of the brands Gray Ridge sells, and Gray Ridge's businesses are now P&H Foods, a Parrish a… | Adopted through the fix for flag 27. |
+| 49 | house-rules-libel | polish | Now here's what an average hides. | Adopted. |
+| 50 | house-rules-libel | polish | We're not saying anything about what's inside either shell. | Adopted. |
+| 51 | arithmetic-structure | hard-error | That's nineteen point six cents more per egg than the white carton next to it, about sixty percent more, fo… | Adopted (19.7). |
+| 52 | arithmetic-structure | risk | And the price held across the country. It was seven eighteen at the No Frills on Richmond, seven oh five at… | Adopted. |
+| 53 | arithmetic-structure | risk | That ties July of last year as the highest month in a table that starts in January 2017, when the same doze… | Adopted, with wording close to flag 6. |
+| 54 | arithmetic-structure | polish | / 6 / PC Blue Menu Large Size Free-Run Brown Eggs / (see research file) / 12 / $7.99 / 66.6 / — / | Adopted. |
+| 55 | hostile-viewer | hard-error | No Name Large, thirty-two point eight: the cheapest, and the lid doesn't say how the hens were housed. | Adopted. |
+| 56 | hostile-viewer | hard-error | If price is your only test, it wins. | Adopted. |
+| 57 | hostile-viewer | risk | Seven cartons, cheapest egg first, every word on the lid checked against the rulebook it comes from. | Adopted (Large cartons; words we could read). |
+| 58 | hostile-viewer | rule-breach | Every price comes from the retailer's own website, at one store, the Loblaws on Bullock Drive in Markham, O… | Adopted. |
+| 59 | hostile-viewer | risk | Two things in it we can't stand behind today. | Adopted. The method paragraph now admits the unsourced No Name, Great Value and Gray Ridge cage claims. |
+| 60 | hostile-viewer | risk | This video replaces that one. | Adopted, with wording close to flag 4. |
+| 61 | hostile-viewer | risk | That's nineteen point six cents more per egg than the white carton next to it, about sixty percent more, fo… | Adopted. |
+| 62 | hostile-viewer | risk | No Name Brown, fifty-two point four: sixty percent more for the shell. | Adopted. |
+| 63 | hostile-viewer | rule-breach | Every carton in this video says Canada A. | Adopted. |
+| 64 | hostile-viewer | risk | Text over them: "SAME GRADE A. WHAT'S THE 42¢?" Both cartons are Canada A, so the claim can be checked. | Adopted. The thumbnail is also conditional on a Conestoga lid photo. |
+| 65 | hostile-viewer | risk | Conestoga Brown Free Range Omega-3, Large, twelve. Eight ninety-nine. Seventy-four point nine cents an egg. | Partly adopted. Added the Omega-3 note to #7. Did not add "we couldn't read this lid", because a verifier viewed the Conestoga lid image (21624591001_EA). |
+| 66 | hostile-viewer | risk | Whatever the extra seven cents buys, it isn't a different barn. | Adopted through the fix for flag 22. |
+| 67 | hostile-viewer | risk | In a June 2025 version of that document, the list of alternatives included enriched housing. | Adopted through the fix for flag 42. |
+| 68 | hostile-viewer | risk | And the price held across the country. It was seven eighteen at the No Frills on Richmond, seven oh five at… | Adopted through the fix for flag 52; the top of the range is Regina at $7.74. |
+| 69 | hostile-viewer | rule-breach | One more data point for members: Costco's Same-Day site listed Kirkland Signature Free Run Large, twenty-fo… | Adopted. |
+| 70 | hostile-viewer | risk | That's seven. Here are the two we'd actually put in the cart. | Adopted. |
+| 71 | hostile-viewer | polish | Here's how this works. | Adopted. |
+| 72 | hostile-viewer | polish | And the organic carton comes with the standard we just read: no enriched or colony cages, outdoor access fo… | Adopted through the fix for flag 31 (flock cap cut). |
+| 73 | hostile-viewer | polish | Conestoga is one of the brands Gray Ridge sells, and Gray Ridge's businesses are now P&H Foods, a Parrish a… | Adopted through the fix for flag 27. |
+| 74 | hostile-viewer | polish | That's the most complete housing sentence on any carton in this video. | Adopted. |
+| 75 | hostile-viewer | polish | The habit from number three: if the lid says colony, enriched, furnished, comfort or cozy, look it up in th… | Adopted through the fix for flag 37. |
+| 76 | hostile-viewer | polish | Across thirteen Loblaw-owned stores' websites that night, this same No Name dozen ran from two ninety-nine … | Adopted. |

@@ -148,3 +148,28 @@
   - Boycott / Buy-Canadian anger narratives: 103K May, 52.6K Feb
   - Store-level warnings for high-stakes proteins: beef 229K, fish 110K (Feb)
   - Buy+avoid compilation roundups: canned foods 79K, healthy foods 55.5K
+
+## Session 2026-10-03 — update (append only)
+<!-- Views as of 2026-10-03, read from the channel's public video list. -->
+
+### New results since the 2026-08-07 baseline
+- Eggs redo, Aug 17 2026, "Canadians Must AVOID These 7 Egg Brands (Only 3 Are ACTUALLY Real Eggs)": FLOP (4.4K). It used a different title and opened with about 575 words of U.S. material. Its thumbnail said "NOT REAL EGGS?" over a carton the script recommended.
+- The original egg video is dated Apr 17 2026 on the channel (about 121K), with the title "7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)". The baseline above lists it as "119K May 2026".
+- Olive oil, "N … Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)": 16.7K in 6 days. This is the best recent result for that title construction.
+- Jam, same construction: 8.4K in 5 days.
+- Costco "Just Got Caught": 25K. Tim Hortons "Just Got Caught": 16K. Stockpile video: 27K.
+- Variant titles are lagging:
+  - Apples: 2.7K.
+  - Cottage cheese ("Canadians Must AVOID These 9 …", Oct 1): 1.6K.
+  - Oatmeal ("We Investigated 11 'Canadian' …", Oct 2): 1.2K.
+  - Chicken chains: 4.6K.
+
+### Scheduled
+- Oct 4 2026: "Don't Renew Your Costco CANADIAN Membership Until You Watch This (October 2026)". This is a same-construction redo of the May 236K hit.
+- Oct 5 2026: eggs redo under the exact April title: "7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)".
+  - This deliberately overrides the "Eggs brands — DO NOT REDO" line above. The evidence: the April construction keeps winning (olive oil, jam), and the August flop changed the construction, not the topic.
+  - The April video with the identical title is still live. Unlisting or retitling it is the owner's decision.
+
+### Format note (2026-10-03)
+- The exact construction "N X Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)" is the one currently working.
+- Prefer it over "Canadians Must AVOID These N …" and "We Investigated N …" for brand lists.

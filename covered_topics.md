@@ -181,3 +181,12 @@
 - Tim Hortons, a restaurant rather than a store: 21.2K, 12.9K, 16.4K.
 - Loblaws: 7.2K (Jan 2026), 3.9K ("Just Got Caught", Sep 2026), 2.5K (bakery). It has under-performed every time on this channel, although Canada Alert's Loblaws video reached 207K.
 - Walmart 4.0K, Canadian Tire 5.4K, Dollarama 5.0K, Winners 5.0K, Shoppers 3.9K, PC Optimum 1.5K.
+
+### Snapshot 2026-10-04 (Algrow)
+- Channel: 38.5K subs, flat since about Sep 18 (+100). Daily views were about 20–30K from late Aug to mid Sep, and about 8–14K a day from Sep 23 to Oct 3.
+- Costco membership redo (posted Oct 3): 2.9K in about 15 h, the fastest start in weeks.
+- Oatmeal is now 2.7K (+1.1K in a day). Olive oil 18.1K. Jam 9.0K.
+- April eggs video: 121.0K and roughly flat. It is no longer getting meaningful views, so a redo competes with it less.
+- Recent single-store videos are weak: Giant Tiger 1.6K (Sep 25), Dollarama 5.0K, Loblaws "Caught" 3.9K. Costco "Caught" (25.5K) and Tim Hortons (16.4K) are the exceptions.
+- All-time ceiling topics are big staples: yogurt 286.5K, Costco 236K, beef stores 230K, burger chains 187K, bacon 159.5K, eggs 121K, butter 114K, cheese 101K (Aug 2026).
+- Redo lesson: the same topic in a winning title construction can hit (ketchup 44.6K → 90K). In a different construction it flops (eggs Aug 4.4K; ham & bacon Sep 2.9K).

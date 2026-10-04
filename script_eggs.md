@@ -2,7 +2,7 @@
 
 TITLE: 7 Egg Brands Sold in Canada You MUST AVOID (And 2 That Are Actually Worth It)
 
-POST DATE: October 6, 2026. It moved from Oct 5 because the No Frills video takes Oct 5.
+POST DATE: Not scheduled. On hold since Oct 4, 2026. The Oct 6 slot went to a Canadian Tire video because of egg-topic fatigue: Jan 4.1K, Apr 121K, Aug 4.4K. The script is verified and kept as a standby. Re-check all prices and the StatCan figure before any use.
 
 TITLE NOTE: This is a redo of the channel's April 17, 2026 egg video, which used this exact title and reached about 121K views. It is the same construction that is working on the channel right now: olive oil reached 16.7K in 6 days and jam 8.4K in 5 days. The August 17 egg video ("Canadians Must AVOID These 7 Egg Brands (Only 3 Are ACTUALLY Real Eggs)") reached 4.4K. It used a different title, opened with about 575 words of U.S. material, and its thumbnail put "NOT REAL EGGS?" on a carton the script recommended. This version keeps the April title and drops everything August did differently.
 - covered_topics.md marks eggs "HIT — DO NOT REDO". This script overrides that note on purpose, because the channel's own numbers show the April construction still works and the August flop changed the construction. The decision is the channel owner's.

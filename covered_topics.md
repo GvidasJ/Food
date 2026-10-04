@@ -190,3 +190,13 @@
 - Recent single-store videos are weak: Giant Tiger 1.6K (Sep 25), Dollarama 5.0K, Loblaws "Caught" 3.9K. Costco "Caught" (25.5K) and Tim Hortons (16.4K) are the exceptions.
 - All-time ceiling topics are big staples: yogurt 286.5K, Costco 236K, beef stores 230K, burger chains 187K, bacon 159.5K, eggs 121K, butter 114K, cheese 101K (Aug 2026).
 - Redo lesson: the same topic in a winning title construction can hit (ketchup 44.6K → 90K). In a different construction it flops (eggs Aug 4.4K; ham & bacon Sep 2.9K).
+
+### Schedule change (2026-10-04)
+- Oct 6 2026 is now "Why Some Canadians Are Refusing to Shop At Canadian Tire Anymore", a non-food store in the same title construction as the Oct 5 No Frills video.
+- Eggs are on hold. This would be the 4th egg video in 2026 (Jan 4.1K, Apr 121K, Aug 4.4K). The bacon redo also flopped (2.9K, Sep 10).
+- Competitor lesson:
+  - Broken Canada's biggest recent hits are mostly non-food stores (Princess Auto 529K, Winners 218K, Giant Tiger 188K, Value Village 178K, RONA 84K, Canadian Tire auto 75K). Tim Hortons gave it three news-framed hits in two weeks.
+  - It changes title format every 2–4 weeks.
+  - North America Crisis Radar flops on non-food too (shoes 139 views, clothing 443, telecom 6.6K). The likely reason is that it copies formats weeks late.
+  - Our late copies after Broken Canada also flopped: Giant Tiger 1.6K, Dollarama 5.0K.
+- Our own non-food: multivitamins 81K (Apr 2026). The user reports a shoes video at about 38K; it was not found on this channel's Videos tab.

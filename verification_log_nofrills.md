@@ -155,3 +155,6 @@ See script Appendix C:
 | 91 | hostile-viewer | polish | Every claim gets a label: | Adopted. |
 | 92 | hostile-viewer | risk | "ARE THEY LEAVING?" | Adopted (thumbnail). |
 | 93 | hostile-viewer | risk | - **Template-exact alternate**, used only with that same bridge: "Why Canadians Are Refusing to Shop At No … | Adopted (alternate title withdrawn). |
+
+## Addendum — Oct 4, 2026 retention edit
+The cold open, promise and bridge were rewritten to retention guidance in `research_canadiantire.md` (ct_retention §4). The first item now starts at about 1:14, down from 3:20. The edits were re-verified, and the 5 flags and their fixes are listed in `verification_log_canadiantire.md` (flags 81–85).

@@ -200,3 +200,10 @@
   - North America Crisis Radar flops on non-food too (shoes 139 views, clothing 443, telecom 6.6K). The likely reason is that it copies formats weeks late.
   - Our late copies after Broken Canada also flopped: Giant Tiger 1.6K, Dollarama 5.0K.
 - Our own non-food: multivitamins 81K (Apr 2026). The user reports a shoes video at about 38K; it was not found on this channel's Videos tab.
+
+## Update 2026-10-06 (append only)
+- Correction to the Oct 4 note: the shoes video IS on this channel. "10 Shoe Brands in Canada ROBBING You Blind (5 That Actually Worth Buying)", May 23 2026, 38,529 views. Its payoff was a health and fall-risk script that the current house rules ban.
+- The Canadian Tire "Refusing" video went live Oct 5 (not Oct 6): 542 views at a few hours. No Frills "Refusing": 2,958 at about 1 day. Costco Renew: 4,576 at about 2 days.
+- Store and "Refusing" videos: pause for at least 2 weeks. Broken Canada owns this format (its No Frills got 32.9K in 3.2 days).
+- Next pick: tools, "We Investigated 10 Tool Brands Sold in Canada (Only 1 Covers Your Cordless Drill for Life)", Oct 7. Fallback: coffee ownership trace. Full reasoning: channel_analysis_2026-10-06.md.
+- Rejected Oct 5-6, with numbers: flour, sugar, toilet paper, tariff list, fake-foods sequel, stock-up sequel, milk, cross-category ownership, fun-size chocolate, winter boots, winter tires, mattresses.

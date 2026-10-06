@@ -208,3 +208,9 @@
 - Next pick: tools, "We Investigated 10 Tool Brands Sold in Canada (Only 1 Covers Your Cordless Drill for Life)", Oct 7. Fallback: coffee ownership trace. Full reasoning: channel_analysis_2026-10-06.md.
 - Rejected Oct 5-6, with numbers: flour, sugar, toilet paper, tariff list, fake-foods sequel, stock-up sequel, milk, cross-category ownership, fun-size chocolate, winter boots, winter tires, mattresses.
 - Oct 7 2026 scheduled: "We Investigated 10 Tool Brands Sold in Canada (Only 1 Offers Lifetime Coverage on Cordless Drills)". Thumbnail: "1 OF 10 FOR LIFE". First non-food product list in the new lane. Verified (93 flags resolved). Metabo HPT, outside the ten, also lists lifetime coverage on cordless drills; the video says so at #1. Judge it at 24h and 72h against olive oil (about 2.5K views a day).
+
+## Update 2026-10-06 (second pass, append only)
+- Store and "Refusing" pause confirmed: Canadian Tire 2,602 at 20 h; No Frills 3,265 at 44 h.
+- The April "Sold in Canada You MUST AVOID" construction is worn out (20.8K, then 9.4K, then 3.4K).
+- Oct 8 candidates checked, all weak: fridges (conditional slot-holder), water heaters (backup), space heaters, cellphone brands, cordless vacuums, car warranties, store brand vs name brand, compliant shoes redo, coffee chains. Details: channel_analysis_2026-10-06_oct8.md.
+- Next food slot should be a compilation (2/2 for 20K+ in 120 days), after its own verification.

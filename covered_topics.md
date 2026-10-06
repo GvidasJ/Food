@@ -207,3 +207,4 @@
 - Store and "Refusing" videos: pause for at least 2 weeks. Broken Canada owns this format (its No Frills got 32.9K in 3.2 days).
 - Next pick: tools, "We Investigated 10 Tool Brands Sold in Canada (Only 1 Covers Your Cordless Drill for Life)", Oct 7. Fallback: coffee ownership trace. Full reasoning: channel_analysis_2026-10-06.md.
 - Rejected Oct 5-6, with numbers: flour, sugar, toilet paper, tariff list, fake-foods sequel, stock-up sequel, milk, cross-category ownership, fun-size chocolate, winter boots, winter tires, mattresses.
+- Oct 7 2026 scheduled: "We Investigated 10 Tool Brands Sold in Canada (Only 1 Offers Lifetime Coverage on Cordless Drills)". Thumbnail: "1 OF 10 FOR LIFE". First non-food product list in the new lane. Verified (93 flags resolved). Metabo HPT, outside the ten, also lists lifetime coverage on cordless drills; the video says so at #1. Judge it at 24h and 72h against olive oil (about 2.5K views a day).

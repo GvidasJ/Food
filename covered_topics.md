@@ -214,3 +214,8 @@
 - The April "Sold in Canada You MUST AVOID" construction is worn out (20.8K, then 9.4K, then 3.4K).
 - Oct 8 candidates checked, all weak: fridges (conditional slot-holder), water heaters (backup), space heaters, cellphone brands, cordless vacuums, car warranties, store brand vs name brand, compliant shoes redo, coffee chains. Details: channel_analysis_2026-10-06_oct8.md.
 - Next food slot should be a compilation (2/2 for 20K+ in 120 days), after its own verification.
+
+## Update 2026-10-07 (append only)
+- Tools video (Oct 6/7), Studio at 4.7 h: 213 views against a typical ~940. "Subscribers… 77% fewer views than usual". CTR 3.7%. AVD 5:18, normal. Non-food lane PAUSED: the subscriber base is food-built.
+- Oct 8 scheduled: "15 Foods That Still Cost Under $1 a Serving in Canada (October 2026 Prices)", a food compilation. Thumbnail: "STILL UNDER $1" with an "11¢" tag. Verified (98 flags resolved; owner confirmation of the disclosure is open). Expect 3-8K.
+- Backup: "10 Foods That Get More Expensive Every Winter in Canada (9 Years of StatCan Data)". Post by mid-November or drop.
